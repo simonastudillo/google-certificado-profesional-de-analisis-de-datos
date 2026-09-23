@@ -195,3 +195,77 @@
 - Recursos adicionales
    - Para saber más sobre algunas aplicaciones recientes de la analítica de datos en el mundo empresarial, consulte el artículo ["4 ejemplos de Análisis de datos en acción"](https://online.hbs.edu/blog/post/business-analytics-examples) de la Harvard Business School.
    - El artículo revela cómo las empresas utilizan las estadísticas para optimizar su proceso de toma de decisiones. 
+
+---
+
+## Cómo abordan las tareas los analistas de datos
+- El proceso de análisis de datos consta de seis fases: preguntar, preparar, procesar, analizar, compartir y actuar.
+- Su objetivo es obtener información que permita tomar decisiones con conocimiento de causa.
+- Anteriormente en este curso, usted exploró un estudio de caso sobre un grupo de analistas de datos que utilizaron las seis fases del análisis de datos para mejorar la retención de empleados en su empresa.
+- En esta lectura, se centrará en las fases en sí y explorará cómo un analista de datos podría utilizar este proceso para ayudar a una empresa ficticia a tomar decisiones basadas en datos sobre la inversión en formación.
+
+- Las seis fases del análisis de datos
+   - El proceso de análisis de datos ayuda a los analistas a dividir los problemas empresariales en una serie de tareas manejables:
+      - Fase de planteamiento
+         - trabajarás para comprender el reto que hay que resolver o la pregunta a la que hay que dar respuesta.
+         - Es probable que se la asignen las partes interesadas.
+         - Como se trata de la fase de preguntar, harás muchas preguntas que te ayudarán en el camino.
+      - Fase de preparación
+         - buscará y recopilará los datos necesarios para responder a sus preguntas.
+         - Identificará las fuentes de datos, los recopilará y verificará que sean precisos y útiles para responder a sus preguntas.
+      - Fase de proceso
+         - se limpian y organizan los datos.
+         - Aquí se eliminan las incoherencias, se completan los valores que faltan y, en muchos casos, se cambian los datos a un formato con el que sea más fácil trabajar.
+         - Básicamente, se asegura de que los datos estén listos antes de empezar el análisis.
+      - Fase de análisis
+         - se realizan los análisis de datos necesarios para descubrir respuestas y soluciones.
+         - Dependiendo de la situación y de los datos, esto puede implicar tareas como calcular promedios o contar elementos en categorías para poder examinar tendencias y patrones.
+      - Fase de compartir
+         - en la que presentas tus conclusiones a los responsables de la toma de decisiones mediante un informe, una presentación o visualizaciones de datos.
+         - En esta fase se decide el medio que se utilizará para compartir los resultados y se seleccionan los datos que se incluirán.
+         - Las herramientas para presentar los datos visualmente incluyen gráficos realizados en Google Sheets y Tableau.
+      - Fase de actuación
+         - en la que tú y otros miembros de la empresa ponéis en práctica las conclusiones de los datos.
+         - Esto podría significar implementar una nueva estrategia de negocio, realizar cambios en un sitio web o cualquier otra acción que resuelva el problema inicial.
+
+- Poner en práctica el proceso
+   - Piensa ahora en cómo aplicar las fases de este proceso a una situación empresarial.
+   
+- El dilema de la cotización para la jubilación
+   
+   - El equipo directivo de una empresa tecnológica ficticia de tamaño medio, Geo-Flow, Inc. se dio cuenta de que la participación de los empleados en el programa de aportaciones para la jubilación de la empresa era más baja de lo esperado.
+   - La empresa había invertido muchos recursos en establecer su programa de prestaciones de primera clase, con el objetivo de reducir la rotación de empleados.
+   - Dado que tan pocos empleados utilizaban el programa, los directivos se preguntaron si debían desarrollar una formación educativa para explicar las ventajas a los empleados.
+   - Querían tomar una decisión bien informada antes de comprometerse con la inversión, así que pidieron a su departamento de análisis de datos que les hiciera una recomendación.
+   
+   - Los analistas utilizaron el marco de las seis fases y empezaron por definir el problema.
+   - Se preguntaron: "¿Invierten los empleados en el programa de aportaciones para la jubilación de la empresa?"
+   - Y, en caso negativo: "¿Deberíamos crear un programa educativo para fomentar la participación?"
+   - Satisfechos con sus preguntas de investigación, prepararon su proyecto de análisis recopilando datos de RR.HH., como los datos demográficos de los empleados, los niveles salariales y las aportaciones actuales para la jubilación.
+   
+   - A continuación, procesaron los datos limpiándolos y organizándolos.
+   - Eliminaron los duplicados y los datos de las personas que se habían jubilado o abandonado la empresa, y a continuación clasificaron los datos por edad, departamento y antigüedad de los empleados.
+   - Su análisis mostró que algunos grupos de empleados tenían menos probabilidades de contribuir al plan o de saber que la empresa ofrecía una aportación equivalente.
+   - Interpretaron estos resultados en el sentido de que estos grupos de empleados no estaban recibiendo suficiente educación sobre el programa de la empresa de equiparación de aportaciones para la jubilación.
+   - También estudiaron los datos para encontrar tendencias y perspectivas y utilizaron la visualización de datos para revisar su análisis explorándolo en diferentes contextos.
+   
+   -  Los analistas compartieron sus conclusiones con el equipo directivo mediante visualizaciones que incluían gráficos de barras y circulares que ilustraban los hechos con claridad para que los responsables de la toma de decisiones pudieran interpretar fácilmente los datos.
+   - El informe mostraba que, aunque la participación global era decente, algunos grupos de empleados no aprovechaban plenamente el programa de jubilación, pero podrían hacerlo si conocieran mejor el programa y la aportación paralela que ofrece la empresa.
+
+   - Basándose en estas conclusiones, la empresa tomó medidas y creó un programa educativo centrado en las ventajas de las aportaciones para la jubilación, dirigido específicamente a los grupos de empleados identificados como poco contribuyentes.
+   - Los resultados mostraron que, pocos meses después de aplicar esta formación, se produjo un aumento significativo de las aportaciones a la jubilación entre los grupos objetivo.
+
+- Iteración durante el proceso de análisis de datos
+   - El proceso de análisis de datos está diseñado para basarse en sí mismo, de modo que los resultados de cada paso constituyen las aportaciones para el paso siguiente.
+   - Tenga en cuenta, no obstante, que no siempre podrá avanzar por las etapas de forma lineal.
+   - Por ejemplo, puede que se encuentre en la fase de análisis y descubra que los datos proceden de una base de datos incorrecta.
+   - O puede que al limpiar los datos se dé cuenta de que su pregunta original no definía adecuadamente el problema.
+   - En estos casos, es posible que tenga que volver a una fase anterior y continuar el proceso con nueva y mejor información.
+   - Lo importante es no saltarse pasos y pasar por alto algo importante.
+   - De hecho, el mayor error que cometen los analistas al utilizar este marco es buscar respuestas rápidas y fáciles.
+   - Por último, asegúrate de revisar tu trabajo en cada fase del análisis.
+   - Esto le ayudará a aprender más sobre la situación y sobre su propio conjunto de habilidades, lo que le conducirá al tipo de crecimiento continuo que ayuda a los profesionales de datos a tener éxito.
+
+- Puntos clave
+   - Las seis fases del proceso de análisis de datos ayudan a responder a los retos empresariales, como comprender cómo mejorar un programa de jubilación.
+   - Además, repetir y revisar el trabajo a lo largo del proceso de análisis de datos es fundamental para obtener resultados de calidad.
