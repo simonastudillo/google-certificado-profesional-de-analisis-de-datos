@@ -1,0 +1,42 @@
+# Transforme los datos en estadísticas
+
+## Analítica de datos en la vida cotidiana
+- ​Bienvenido de nuevo.
+- ​En este punto, ha conocido el mundo del análisis de datos y ​lo que hacen los analistas de datos.
+- También ha aprendido cómo este curso lo preparará para ​una carrera exitosa como analista.
+- ​Próximamente, aprenderá todas las formas en que se pueden usar los datos y ​descubrirá por qué los analistas de datos tienen tanta demanda.
+- ​No exagero cuando digo que todos los objetivos y éxitos que mi equipo y ​yo hemos logrado no se podrían haber logrado sin datos.
+- En Google, todos nuestros productos se basan en datos y en la toma de ​decisiones basada en datos.
+- ​Desde el concepto hasta el desarrollo y el lanzamiento ​, utilizamos los datos para determinar la mejor manera de avanzar.
+- Y no estamos solos.
+- Muchas otras organizaciones también ven el increíble valor de los datos ​y, por supuesto, de los analistas de datos que les ayudan a utilizarlos.
+- ​Por eso sabemos que los datos abren muchas oportunidades.
+- ​Pero para ayudarte a entender todas las formas en las que realmente puedes usar los datos, ​repasemos algunos ejemplos de la vida cotidiana.
+- Puede que no te des cuenta, pero la gente analiza los datos todo el tiempo.
+- ​Por ejemplo, soy una persona madrugadora.
+- ​Hace mucho tiempo, me di cuenta de que soy más feliz y ​productivo si me acuesto temprano y me levanto temprano.
+- Llegué a esta conclusión después de observar un patrón en mis experiencias cotidianas.
+- ​Cuando dormí siete horas y me desperté a las 6:30, tuve más éxito.
+- Así que pensé en la relación entre este patrón y mi vida diaria, ​y predije que acostarme temprano para levantarme sería la mejor opción para mí.
+- ​Y definitivamente soy lo mejor que puedo cuando me levanto temprano.
+- Apuesto a que también has identificado patrones y relaciones en tu vida.
+- ​Tal vez sobre tu propio ciclo de sueño o cómo te sientes después de comer ciertos alimentos, ​o a qué hora del día te gusta hacer ejercicio.
+- Todos estos son excelentes ejemplos de patrones y relaciones de la vida real ​que puedes usar para hacer predicciones sobre las acciones correctas que debes tomar, y ​eso es una parte importante del análisis de datos.
+- ​Ahora, llevemos este proceso a un entorno empresarial.
+- ​Tal vez recuerdes de un vídeo anterior que hay un montón de datos disponibles.
+- Y cada minuto de cada hora de cada día, se crean más datos.
+- ​Las empresas necesitan una forma de controlar todos esos datos para ​poder usarlos para mejorar los procesos, identificar oportunidades y tendencias, ​lanzar nuevos productos, atender a los clientes y tomar decisiones bien pensadas.
+- ​Para que las empresas superen a la competencia, ​deben estar al tanto de sus datos.
+- Es por eso que estas empresas contratan analistas de datos para controlar las oleadas de datos que ​recopilan todos los días, darles sentido y, luego, sacar conclusiones o hacer predicciones.
+- ​Este es el proceso de convertir los datos en información, y ​es la forma en que los analistas ayudan a las empresas a hacer un buen uso de todos sus datos.
+- De hecho, esta es una buena forma de pensar en el análisis: convertir los datos en información.
+- ​Como recordatorio, la definición más detallada que aprendió anteriormente es ​que el análisis de datos es la recopilación, transformación ​y organización de datos para sacar conclusiones, ​hacer predicciones e impulsar la toma de decisiones informadas.
+- Entonces, una vez que los analistas han creado información a partir de los datos, ¿qué sucede? ​Bueno, mucho.
+- ​Esas ideas se comparten con otros, se toman decisiones y ​las empresas toman medidas.
+- Y aquí es donde puede ser realmente emocionante.
+- ​Analítica de datos puede ayudar a las organizaciones a replantearse por completo algo que hacen o ​orientarlas en una dirección totalmente nueva.
+- Por ejemplo, tal vez los datos los lleven a un nuevo producto o servicio único, o ​tal vez les ayuden a encontrar una nueva forma de ofrecer una experiencia de cliente increíble.
+- ​Son este tipo de momentos ajá los que pueden ayudar a las empresas a alcanzar otro nivel ​y hacen que los analistas de datos sean vitales para cualquier empresa.
+- Ahora que sabe más sobre las increíbles formas en que se utilizan los datos todos los días, ​puede ver por qué los analistas de datos tienen tanta demanda.
+- ​Continuaremos explorando cómo los analistas pueden transformar los datos en información que conduzca a la ​acción.
+- ​Y antes de que se dé cuenta, estará preparado para ayudar a cualquier organización ​a encontrar formas nuevas e interesantes de transformar sus datos.
