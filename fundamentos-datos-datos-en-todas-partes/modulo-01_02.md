@@ -312,6 +312,7 @@
 - ​¿Le entusiasma la idea ​de trabajar en muchas cosas diferentes, ​analizar muchas fuentes de datos diferentes ​y analizar enormes cantidades de información, al ​tiempo que promete no perder de ​vista las posibles ideas importantes?
 - ​¿Está de acuerdo con que le digan ​: «Aquí hay una gran cantidad de datos.
 - ​Nadie lo ha mirado antes.
+
 - ​Ve a buscar algo interesante»? ​¿Te gustan los proyectos creativos y abiertos? 
 - Si ese es tu caso, la ​analítica es probablemente la mejor opción para ti.
 - ​Un consejo que tengo ​para los analistas que están empezando ​este viaje es que ​puede dar bastante miedo explorar lo desconocido.
