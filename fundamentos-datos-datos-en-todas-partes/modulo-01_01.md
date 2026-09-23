@@ -1,0 +1,103 @@
+# Comenzar
+
+## Bienvenido al certificado de Google Analytics de datos
+- ​¿Qué tienen en ​común las empresas del comercio electrónico, el entretenimiento, la salud, la fabricación, el marketing, las finanzas, la tecnología y cientos de otras industrias?
+- ​Lo has adivinado, todos usan datos. ​Las organizaciones de todo tipo necesitan analistas de datos que les ayuden a mejorar sus procesos, identificar ​oportunidades y tendencias, lanzar nuevos productos, brindar un excelente servicio al cliente y ​tomar decisiones bien pensadas.
+- ​Hola, soy Tony, director de programas de Google y analista de datos.
+- ​Me gustaría darte la bienvenida al Certificado de Google Data Analytics.
+- ​Ahora, hay muchas buenas razones para obtener este certificado.
+- ​Quizás esté pensando en iniciar una carrera en el apasionante mundo del análisis de datos.
+- ​O tal vez simplemente te fascina el poder de los datos como a mí.
+- ​No importa qué lo haya traído hasta aquí, está en el lugar correcto para iniciar una carrera y ​aprender habilidades relevantes para la industria en análisis de datos.
+- ​Pero primero, ¿qué son exactamente los datos?
+- ​Bueno, me gusta decir que los datos son una colección de hechos.
+- ​Esta colección puede incluir números, imágenes, vídeos, palabras, medidas, observaciones ​y más.
+- ​Una vez que tiene los datos, la analítica los pone en práctica mediante el análisis.
+- El ​Análisis de datos es la recopilación, transformación y organización de los datos con el fin de sacar ​conclusiones, hacer predicciones e impulsar la toma de decisiones informadas.
+- ​Y no termina ahí.
+- ​Los datos evolucionan con el tiempo, lo que significa que este análisis, o análisis, como lo llamamos, puede proporcionarnos nueva ​información a lo largo de todo el ciclo de vida de los datos.
+- ​Los datos están en todas partes.
+- ​Usas y creas datos todos los días.
+- ​¿Alguna vez has leído las reseñas de un producto antes de decidir si lo vas a comprar o no?
+- ​Eso es análisis de datos.
+- ​O tal vez lleves un monitor de actividad física para contar tus pasos y mantenerte activo durante todo ​el día.
+- ​Eso es análisis de datos.
+- ​Pero no solo usas datos, sino que también creas enormes cantidades de datos todos los días.
+- ​Cada vez que usas el teléfono, buscas algo en Internet, escuchas música en streaming, compras con una tarjeta de crédito, ​publicas en las redes sociales o utilizas el GPS para trazar una ruta, estás creando datos.
+- ​Nuestro mundo digital y los millones de dispositivos inteligentes que contiene han hecho que la cantidad ​de datos disponibles sea realmente asombrosa.
+- ​En Google, procesamos más de 40 000 búsquedas por segundo.
+- ​Es decir, 3,5 mil millones de búsquedas al día y 1,2 billones de búsquedas cada año.
+- ​He aquí otra forma de pensar en ello.
+- ​YouTube tiene casi 2 mil millones de usuarios.
+- ​Si los usuarios de YouTube formaran un país, sería el más grande del mundo.
+- ​Todos esos datos están transformando el mundo que nos rodea.
+- ​La publicación, The Economist, calificó recientemente los datos como el recurso más valioso del mundo.
+- ​Por lo tanto, es fácil ver por qué sus organizaciones valoran tanto a los analistas de datos.
+- ​¿Y qué hace exactamente un analista de datos?
+- ​En pocas palabras, un analista de datos es alguien que recopila, transforma y organiza los datos ​para ayudar a tomar decisiones informadas.
+- ​Además del puesto en sí, una de las partes más interesantes de ser un analista de datos es la cantidad ​de oportunidades disponibles.
+- ​La demanda de analistas de datos es mayor que la cantidad de personas calificadas para cubrir estas ​ofertas de trabajo.
+- ​Y este programa de certificación es un excelente primer paso en su camino para encontrar un trabajo que le ​encante.
+- ​Los analistas de datos provienen de diferentes orígenes y tienen todo tipo de experiencias de vida.
+- ​No necesita décadas de experiencia laboral ni una educación costosa para empezar.
+- ​Muchos analistas de datos aprendieron por sí mismos las habilidades que necesitaban para conseguir su primer trabajo, tal ​como lo está haciendo usted ahora mismo.
+- ​Bien, ahora hablemos más sobre lo que vas a aprender.
+- ​El certificado de Google Data Analytics se divide en cursos basados en diferentes procesos ​de análisis de datos.
+- ​Estos son preguntar, preparar, procesar, analizar, compartir y actuar.
+- ​Planea ver estos vídeos en orden.
+- ​Cada uno cubre un tema nuevo y cada tema se basa en lo que has aprendido anteriormente, ​lo que facilita el seguimiento de tu progreso.
+- ​Y estás en el asiento del conductor.
+- ​Aunque es posible que veas las cosas organizadas por semanas, todo se puede completar a tu ​propio ritmo.
+- ​Así que tú decides cuánto quieres hacer cada día.
+- ​Al final del programa, tomarás todo lo que has aprendido y lo convertirás en un proyecto ​que podrás usar para demostrar tus habilidades y sorprender a los gerentes de contratación en tus entrevistas de trabajo.
+- ​Ahora, a lo largo del camino, también escucharás a los Googlers.
+- ​Así es como llamamos a las personas que trabajan aquí en Google.
+- ​Le darán una visión interna de lo que es trabajar en nuestra industria y compartirán ​historias personales sobre cómo se introdujeron en el campo.
+- ​También le darán algunos consejos excelentes sobre cómo conseguir el trabajo de sus sueños.
+- ​Estén atentos.
+- ​Algunos de ellos se van a presentar en tan solo un segundo.
+- ​Así que soy Angie.
+   - ​Soy director de programas de ingeniería en Google.
+   - ​Realmente creo que la limpieza de datos es el corazón y el alma de los datos.
+   - ​Es la forma de conocer sus datos.
+   - ​Son peculiaridades, defectos, misterios.
+   - ​Me encanta un buen misterio.
+   - ​Y parecía casi una superpotencia.
+   - ​Como si fuera detective y hubiera entrado allí y hubiera resuelto algo de verdad.
+- ​Hola, soy Alex.
+   - ​Soy científico investigador en Google.
+   - ​Investigo los diferentes impactos de la inteligencia artificial en la sociedad y nuestros usuarios.
+- ​Así que me llamo Lila Jones y formo parte de nuestro equipo de nube.
+   - ​Tengo la oportunidad de dirigir un equipo de personas increíbles que se centran en ayudar a los clientes a llegar ​a la nube.
+- ​Hola, soy Evan.
+   - ​Soy gestor de carteras de aprendizaje en Google y tengo uno de los mejores trabajos del ​mundo, en el que puedo analizar todas las diferentes tecnologías que afectan a los macrodatos y luego ​incluirlas en cursos de formación como este para que los estudiantes los asistan.
+- ​Seré tu instructor en el primer curso.
+- ​Lo guiaré a través de cada módulo que cubrirá un tema específico de diferentes ​maneras.
+- ​Dispondrás de vídeos, materiales de lectura, cuestionarios, actividades prácticas e instrucciones ​para conversar con otros estudiantes en un foro en línea.
+- ​Estoy muy emocionada de guiarte en este curso, pero estoy especialmente emocionada de que ​hayas elegido esta aventura.
+- ​El aprendizaje permanente es algo que me apasiona mucho.
+- Al ​crecer, cuando miraba a mi alrededor, a menudo no veía muchas opciones disponibles para mí.
+- ​No fue hasta que empecé a tomarme en serio mi educación que me di cuenta de que tenía el ​control para crear mis propias oportunidades, siendo la educación la clave que abriría esas ​puertas.
+- ​Cuanto más aprendía y más me esforzaba, más posibilidades se abrían.
+- Si ​no hubiera buscado ese conocimiento y hubiera seguido retándome a mí misma, tal vez no estaría donde estoy ​hoy.
+- ​El aprendizaje me permitió crecer personalmente, tener éxito, visitar lugares que nunca hubiera ​visto y conocer gente que nunca hubiera conocido.
+- ​Y ahora, voy a presentarles a algunas de esas grandes personas.
+- ​Hola, soy Ximena, analista financiera.
+   - ​Te ayudaré a aprender a hacer las preguntas correctas sobre los datos, el proyecto ​en el que trabajas y los problemas que intentas resolver.
+- ​Hola, me llamo Hallie, jefa de análisis.
+   - ​Me entusiasma mostrarle cómo preparar sus datos para que estén listos para el análisis.
+- ​Hola, soy Sally, jefa de medición y análisis.
+   - ​Juntos, veremos cómo procesar y limpiar sus datos.
+   - ​Los datos de limpieza no requieren agua y jabón.
+   - ​Me refiero a asegurarte de que tus datos estén completos, sean correctos y sean relevantes para el problema ​que intentas resolver.
+- ​Hola, soy Ayana, gerente de Perspectivas Globales.
+   - ​Profundizaremos en el análisis.
+   - ​Aprenderás a recopilar, transformar y organizar datos para que puedas usarlos para descubrir ​información útil, sacar conclusiones y tomar decisiones importantes.
+- ​Mi nombre es Kevin y, con mi experiencia como director de análisis en Google, lo guiaré ​a través de lo que creo que es la parte más emocionante del proceso de análisis de datos.
+   - ​Planifique, cree y presente visualizaciones de datos eficaces y atractivas.
+- ​Hola, soy Rishi, gerente curricular de habilidades analíticas globales.
+   - Te ​ayudaré a reunir todo lo que aprendiste durante este programa creando ​un caso de éxito que deslumbrará a cualquier gerente de contratación.
+   - ​Del mismo modo que la piedra angular de un gran edificio demuestra a todo el mundo que está completo, tu caso ​práctico demostrará tu gran logro al obtener un certificado de Google en análisis de datos.
+- ​Vale, ¿te entusiasma el potencial de convertirte en analista de datos?
+- ​Es mucho lo que se puede hacer con los datos.
+- ​Estás a punto de entrar en un mundo completamente nuevo.
