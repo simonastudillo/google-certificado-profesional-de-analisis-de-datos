@@ -105,3 +105,93 @@
    - [x] En la entrada en blanco faltan datos que podrían afectar a los cálculos, como la valoración media. 
    - [ ] La entrada en blanco significa que al cliente no le ha gustado el producto.
 > Buen trabajo
+
+---
+
+## Nuevas perspectivas de datos
+- Como ha ido aprendiendo, puede encontrar Datos prácticamente en todas partes.
+- Cada vez que observa y evalúa algo en el mundo, está recopilando y analizando datos.
+- Su análisis le ayuda a encontrar formas más sencillas de hacer las cosas, a identificar patrones que le ahorran tiempo y a descubrir nuevas perspectivas sorprendentes que pueden cambiar por completo su forma de experimentar las cosas.
+- He aquí un ejemplo real de cómo un grupo de analistas de datos utilizó los seis pasos del proceso de análisis de datos para mejorar su lugar de trabajo y sus procesos empresariales.
+- Su Historia tiene que ver con algo llamado análisis de personas, también conocido como análisis de recursos humanos o análisis de mano de obra.
+- El análisis de personas es la práctica de recopilar y analizar datos sobre las personas que componen la plantilla de una empresa con el fin de obtener estadísticas para mejorar el funcionamiento de la empresa.
+- Ser analista de personal implica utilizar el análisis de datos para obtener información sobre los empleados y cómo viven su vida laboral.
+- Las estadísticas se utilizan para definir y crear un lugar de trabajo más productivo y motivador.
+- Esto puede liberar el potencial de los empleados, motivar a las personas para que rindan al máximo y garantizar una cultura empresarial justa e integradora.
+- Los seis pasos del proceso de Análisis de datos que ha estado aprendiendo en este Programa son: preguntar, preparar, procesar, analizar, compartir y actuar.
+- Estos seis pasos se aplican a cualquier análisis de datos.
+- Siga leyendo para saber cómo un Equipo de analistas de personas utilizó estos seis pasos para responder a una pregunta empresarial. 
+- Una organización estaba experimentando una elevada Tasa de rotación entre los nuevos empleados.
+- Muchos empleados abandonaban la empresa antes de finalizar su primer año de trabajo.
+- Los analistas utilizaron el proceso de análisis de datos para responder a la siguiente pregunta: ¿Cómo puede la organización mejorar la tasa de retención de los nuevos empleados?
+- He aquí un desglose de lo que hizo este Equipo, paso a paso. 
+
+- Preguntar
+   - En primer lugar, los analistas tenían que definir cómo sería el proyecto y qué se consideraría un resultado satisfactorio.
+   - Así que, para determinar estas cosas, formularon preguntas eficaces y colaboraron con líderes y directivos que estaban interesados en el resultado de su análisis de personas.
+   - Estos fueron los tipos de preguntas que formularon:
+      - ¿Qué cree que necesitan aprender los nuevos empleados para tener éxito en su primer año de trabajo? 
+      - ¿Había recopilado antes datos de los nuevos empleados? En caso afirmativo, ¿podríamos tener acceso a los datos históricos?
+      - ¿Cree que los directivos con mayores tasas de retención ofrecen a los nuevos empleados algo extra o único?
+      - ¿Cuál sospecha que es la principal causa de insatisfacción entre los nuevos empleados?
+      - ¿En qué porcentaje le gustaría que aumentara la retención de empleados en el próximo ejercicio?
+
+- Preparar
+   - Todo empezó con una sólida preparación.
+   - El grupo construyó un calendario de tres meses y decidió cómo quería transmitir sus progresos a las partes interesadas.
+   - También durante este paso, los analistas identificaron qué datos necesitaban para lograr el resultado exitoso que habían identificado en el paso anterior - en este caso, los analistas eligieron recopilar los datos de una Encuesta en línea a los nuevos empleados.
+   - Estas fueron las cosas que hicieron para prepararse:
+      - Desarrollaron preguntas específicas para conocer la satisfacción de los empleados con diferentes procesos empresariales, como la contratación y la incorporación, y su remuneración general. 
+      - Establecieron normas sobre quién tendría acceso a los datos recopilados: en este caso, cualquier persona ajena al grupo no tendría acceso a los datos en bruto, pero podría ver los datos resumidos o agregados.
+      - Por ejemplo, la remuneración de un individuo no estaría disponible, pero se podrían ver los rangos salariales de grupos de individuos. 
+      - Finalizaron qué información específica se recopilaría y cuál sería la mejor manera de presentar los datos visualmente.
+      - Los analistas hicieron una lluvia de ideas sobre posibles problemas relacionados con el proyecto y los datos y sobre cómo evitarlos. 
+
+- Proceso
+   - El grupo envió la Encuesta.
+   - Los grandes analistas saben respetar tanto sus datos como a las personas que los proporcionan.
+   - Dado que los empleados proporcionaban los datos, era importante asegurarse de que todos ellos daban su consentimiento para participar.
+   - Los analistas de datos también se aseguraron de que los empleados comprendieran cómo se recopilarían, almacenarían, gestionarían y protegerían sus datos.
+   - Recoger y utilizar los datos de forma ética es una de las responsabilidades de los analistas de datos.
+   - Estas fueron las medidas que tomaron para mantener la confidencialidad y proteger y almacenar los Datos de forma eficaz:
+      - Restringieron el acceso a los datos a un número limitado de analistas. 
+      - Depuraron los Datos para asegurarse de que estaban completos, eran correctos y pertinentes. Agregaron y resumieron ciertos datos sin revelar las respuestas individuales. 
+      - Cargaron los datos sin procesar en un almacén de datos interno para contar con una capa adicional de seguridad. 
+
+- Analizar
+   - A continuación, los analistas hicieron lo que mejor saben hacer: ¡analizar!
+   - A partir de las Encuestas cumplimentadas, los Analistas de datos descubrieron que la experiencia de un empleado con determinados procesos era un indicador clave de la satisfacción general en el trabajo.
+   - Estas fueron sus conclusiones:
+      - Los empleados que experimentaron un proceso de contratación largo y complicado eran los más propensos a abandonar la empresa. 
+      - Los empleados que experimentaron un proceso de evaluación y comentarios eficaz y transparente tenían más probabilidades de permanecer en la empresa. 
+      - El grupo sabía que era importante documentar exactamente lo que habían encontrado en el análisis, fueran cuales fueran los resultados.
+      - Hacer lo contrario mermaría la confianza en el proceso de encuesta y reduciría su capacidad de recopilar datos veraces de los empleados en el futuro. 
+
+- Compartir
+   - Al igual que se aseguraron de que los datos estuvieran cuidadosamente protegidos, los analistas también fueron cuidadosos a la hora de compartir el informe.
+   - Así compartieron sus conclusiones
+      - Compartieron el Informe con los directivos que cumplían o superaban el número mínimo de subordinados directos con respuestas enviadas a la encuesta. 
+      - Presentaron los resultados a los directivos para asegurarse de que tenían una visión completa. 
+      - Pidieron a los directivos que entregaran personalmente los resultados a sus equipos. 
+   - Este proceso dio a los directivos la oportunidad de comunicar los resultados con el contexto adecuado.
+   - Como resultado, pudieron mantener conversaciones productivas en equipo sobre los próximos pasos para mejorar el compromiso de los empleados. 
+
+- Acto
+   - La última etapa del proceso para el Equipo de analistas fue trabajar con los líderes dentro de su empresa y decidir cuál era la mejor manera de Implementar cambios y tomar medidas basadas en los resultados.
+   - Estas fueron sus recomendaciones 
+      - Normalizar el proceso de contratación y evaluación de los empleados basándose en las prácticas más eficaces y transparentes. 
+      - Realizar la misma Encuesta anualmente y comparar los resultados con los del año anterior. 
+   - Un año después, se distribuyó la misma Encuesta entre los empleados.
+   - Los analistas previeron que la comparación entre los dos grupos de resultados indicaría que el plan de acción funcionaba.
+   - Resultó que los cambios mejoraron la tasa de retención de los nuevos empleados y que las medidas tomadas por los líderes tuvieron éxito 
+
+- ¿Es el Análisis de datos de personas adecuado para usted?
+   - Una de las muchas cosas que hacen que la analítica de datos sea tan apasionante es que los problemas son siempre diferentes, las soluciones necesitan creatividad y el impacto en los demás puede ser grande, incluso puede cambiar o salvar vidas.
+   - Como Analista de datos, usted puede formar parte de estos esfuerzos.
+   - Tal vez incluso se sienta inspirado para aprender más sobre el campo del análisis de personas.
+   - Si es así, considere la posibilidad de aprender más sobre este Campo y añadir esa investigación a su diario de Analítica de datos.
+   - Nunca se sabe: Un día no muy lejano, ¡podría estar ayudando a una empresa a crear un entorno de trabajo increíble para usted y sus compañeros!
+
+- Recursos adicionales
+   - Para saber más sobre algunas aplicaciones recientes de la analítica de datos en el mundo empresarial, consulte el artículo ["4 ejemplos de Análisis de datos en acción"](https://online.hbs.edu/blog/post/business-analytics-examples) de la Harvard Business School.
+   - El artículo revela cómo las empresas utilizan las estadísticas para optimizar su proceso de toma de decisiones. 
