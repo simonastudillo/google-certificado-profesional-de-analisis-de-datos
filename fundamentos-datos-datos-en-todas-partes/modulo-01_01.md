@@ -189,3 +189,17 @@
 - ​Estas instrucciones lo ayudarán a crear ​un sistema de apoyo comunitario para usar durante todo el programa.
 - ​Basta de hablar, empecemos por esta apasionante ruta de acceso.
 - ​Tu próximo paso te espera. 
+
+---
+
+## Recursos y consejos útiles
+- Hábitos saludables para completar con éxito el certificado
+   - Planifique su tiempo
+   - Trabaje a su propio ritmo
+   - Sé curioso
+   - Sigue a los instructores
+   - Toma notas
+   - Revisar ejemplos
+   - Construye tu identidad profesional
+   - Conéctate con otros estudiantes
+   - Actualiza tu perfil
