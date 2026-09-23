@@ -135,3 +135,57 @@
    - Módulo 4: Conviértete en un profesional de datos justo e impactante
       - En esta parte del curso, examinarás diferentes tipos de empresas y los trabajos y tareas que los analistas realizan para ellas.
       - También aprenderás cómo un certificado de Google Data Analytics te ayudará a cumplir muchos de los requisitos para un puesto de analista en estas organizaciones.
+
+---
+
+## Introducción al curso
+- «¡Datos! ¡Datos! ¡Datos!
+- No puedo hacer ladrillos sin arcilla».
+- ​¿Alguna idea de quién dijo esto? Te daré una pista.
+- ​No era un famoso director ejecutivo de tecnología ​ni un analista de datos.
+- ​La persona que dijo esto vivió ​mucho antes de que existieran las empresas de tecnología.
+- ​Pero apuesto a que aún has oído hablar de él.
+- ​Esta línea la dijo Sherlock Holmes, ​el famoso detective creado por Sir Arthur Conan Doyle.
+- ​Lo que Doyle quiso decir es que ​Holmes no podía sacar ninguna conclusión, ​que serían los ladrillos que mencionó ​sin datos, o la arcilla.
+- ​Probablemente no estés aquí para convertirte en ​un detective de fama mundial, ​pero los datos siguen siendo la piedra angular que utilizarás en ​todo lo que hagas en tu nueva carrera como analista de datos, ​estaría de acuerdo Sherlock Holmes.
+- ​Al iniciar este programa, ​ha demostrado que usted y ​Sherlock Holmes tienen algo en común y ​que ambos tienen interés en aprender más.
+- ​Esa es una de las cualidades más importantes ​que pueden tener los analistas de datos.
+- ​Ahora, hay ​muchas maneras diferentes de explorar los datos, pero una de las mejores cosas del análisis de datos es que, ​a menudo, puedes aprender cómo y cuándo quieres.
+- ​Eso puede significar hacer su propia investigación, ​hablar con personas de la industria ​o tomar cursos en línea.
+- ​Dicho esto, bienvenido a tu primer curso.
+- ​Esta es su introducción ​al maravilloso mundo del análisis de datos.
+- ​Dado que el análisis de datos es la ciencia de los datos, ​utilizarás este curso para empezar a aprender todo sobre los datos.
+- ​Los datos son básicamente una colección de hechos ​o información y, a través del análisis, ​aprenderá a usar los datos para sacar conclusiones ​y hacer predicciones y decisiones
+- ​Personalmente, no me metí ​directamente en el campo del análisis de datos.
+- ​Creía que el análisis de datos era para ingenieros de computadoras.
+- ​En cambio, empecé con el sueño de trabajar en finanzas.
+- ​Sin embargo, una vez que terminé una pasantía, ​me di cuenta de que no era la ruta de acceso profesional que quería tomar.
+- ​Empecé a aprender sobre la planificación y el análisis financieros ​y todo el trabajo que ​los analistas financieros hacían con los datos.
+- ​Me di cuenta de que los analistas financieros son en realidad ​solo analistas de datos que trabajan en un departamento de finanzas.
+- ​Estos analistas ayudaban a guiar ​las decisiones empresariales al saber cómo usar los datos.
+- ​Fue entonces cuando me di cuenta de lo poderosos que son los datos ​y empecé a adoptarlos.
+- ​Muy pronto, me di cuenta de que podía ​hacer este análisis de datos yo mismo.
+- ​Analítica de datos es un gran mundo abierto de oportunidades.
+- ​Hay tantas áreas en las que sus habilidades de análisis se pueden ​aplicar y de diferentes maneras.
+- ​Si eres nuevo en este mundo, ​aprenderás a identificar qué ruta de acceso e ​industria se adaptan ​mejor a tus habilidades e intereses.
+- ​Para aquellos de ustedes que ya tienen algo de experiencia, los ​ayudaremos a abrir puertas ​a nuevas y emocionantes oportunidades.
+- ​Una de las habilidades que obtendrá del ​programa es cómo seguir ​las mejores prácticas que ​utilizan los analistas para ayudar a tomar decisiones basadas en datos.
+- ​Las computadoras son una parte del proceso, ​pero los analistas dependen de mucho más para tomar decisiones.
+- ​Es por eso que aprender a pensar analíticamente ​y usar tus otras habilidades y rasgos ​en el trabajo te facilitará el trabajo.
+- ​Sé que ya sabes cómo tomar buenas decisiones, ​después de todo, elegiste estar aquí.
+- ​En este primer curso, ​aprenderá más sobre cada fase ​del proceso de análisis de datos.
+- ​Pregunte, prepare, procese, analice, comparta y actúe.
+- ​Como analista de datos, ​seguirás estos pasos a medida que ​utilices los datos para fundamentar tus decisiones.
+- ​Con el tiempo, verás cómo ​este programa en sí mismo es, en cierto modo, ​su propia versión de este proceso.
+- ​Si bien sé que disfrutará viendo estos vídeos, ​su viaje al primer curso ​incluirá mucho más.
+- ​Otros vídeos adoptarán la forma de viñetas, en los ​que aprenderá de los profesionales del análisis de datos, ​que ya están establecidos en sus carreras.
+- ​Ofrecerán palabras de sabiduría, así como historias de ​sus propias experiencias al comenzar su ruta de acceso profesional.
+- ​Comenzarás tu propio diario de datos que ​te ayudará a llevar un registro de lo que has ​aprendido a lo largo del curso.
+- ​También añadirás tus propias ideas sobre lo que estás ​aprendiendo a lo largo del programa.
+- ​Leerás cómo navegar por ​este programa en el mundo del análisis de datos.
+- ​Completarás actividades, incluidas algunas ​que te ayudarán a adoptar la mentalidad de un analista de datos.
+- ​En el camino, también tendrás ​la oportunidad de conectarte con tus compañeros de estudios.
+- ​Las instrucciones para el debate te darán la ​oportunidad de compartir tus ideas ​y, al mismo tiempo, ver ​qué piensan tus compañeros sobre todo lo que estás aprendiendo.
+- ​Estas instrucciones lo ayudarán a crear ​un sistema de apoyo comunitario para usar durante todo el programa.
+- ​Basta de hablar, empecemos por esta apasionante ruta de acceso.
+- ​Tu próximo paso te espera. 
