@@ -269,3 +269,56 @@
 - Puntos clave
    - Las seis fases del proceso de análisis de datos ayudan a responder a los retos empresariales, como comprender cómo mejorar un programa de jubilación.
    - Además, repetir y revisar el trabajo a lo largo del proceso de análisis de datos es fundamental para obtener resultados de calidad.
+
+---
+
+## Cassie Dimensiones de la Analítica de datos
+- Hola soy Cassie y dirijo la ​Inteligencia de Decisiones para Google Cloud.
+- ​La inteligencia de decisiones es una combinación de ​ciencia de datos aplicada y ​ciencias sociales y de gestión.
+- ​Se trata de aprovechar el poder y la belleza de los datos.
+- ​Ayudo a Google Cloud y a sus clientes a convertir ​sus datos en un ​impacto y a mejorar sus negocios y el mundo.
+- ​Un analista de datos es un explorador, ​un detective y un artista, todo en uno.
+- El ​Análisis de datos es la búsqueda de inspiración.
+ 
+- ​No sabes lo que ​te va a inspirar antes de explorar, ​antes de echar un vistazo.
+- ​Cuando empiezas, no tienes ni idea de lo ​que vas a encontrar ​ni de si vas a encontrar algo.
+- ​Debe sumergirse valientemente en lo ​desconocido y descubrir qué hay en sus datos.
+- ​Existe el mito generalizado de que ​alguien que trabaja con datos ​debe conocerlo todo.
+- ​Creo que eso no ayuda porque ​el universo de datos se ha expandido.
+- ​Se ha expandido tanto ​que la especialización se vuelve importante.
+- ​Es muy, muy difícil para ​una persona conocer y ser el todo de los datos.
+
+- ​Por eso necesitamos estas funciones diferentes.
+- ​El consejo que doy a las personas que ingresan al espacio ​es que elijan su especialización en función del sabor y el ​tipo de impacto que mejor se adapte a su personalidad.
+- ​Ahora, la ciencia de datos, la disciplina que hace que los datos sean útiles, ​es un término general que abarca tres disciplinas: ​aprendizaje automático, estadísticas y análisis.
+- ​Estos están separados por la ​cantidad de decisiones que ​sabe que quiere tomar antes de comenzar con ellas.
+- ​Si quieres tomar algunas decisiones importantes en un entorno de ​incertidumbre, esas son las estadísticas.
+- ​Si quieres automatizar, en otras palabras, tomar muchas, muchísimas ​decisiones en condiciones de incertidumbre, ​es decir, el aprendizaje automático y la IA.
+- ​Pero, ¿qué pasa si no sabes ​cuántas decisiones quieres tomar antes de empezar? 
+- ¿Y si lo que buscas es inspiración? ​Quieres encontrarte con tus incógnitas desconocidas.
+- ​Quieres entender tu mundo.
+- ​Eso es análisis.
+- ​Cuando esté pensando en la ciencia de datos y ​elija en qué área especializarse, ​le recomiendo que se deje llevar por su personalidad.
+- ​¿Cuál de las tres excelencias ​de la ciencia de datos le parece más adecuada? ​La excelencia de las estadísticas es el rigor.
+
+- ​Los estadísticos son esencialmente filósofos, epistemólogos.
+- ​Son muy, muy cuidadosos a la hora de ​proteger a los responsables de la toma de decisiones para que no lleguen ​a conclusiones equivocadas.
+- ​Si ese cuidado y rigor es lo que te apasiona, te ​recomendaría las estadísticas.
+- El ​rendimiento es la excelencia ​del ingeniero de IA y aprendizaje automático.
+- ​Sabes que es el indicado para ti si alguien te dice: ​«Apuesto a que no podrías crear ​un sistema de automatización que realice esta tarea con una ​precisión del 99,99999 por ciento», y ​tu respuesta es: «Mírame».
+- ​¿Qué hay de los análisis? ​La excelencia de un analista es la velocidad.
+- ​¿Con qué rapidez puede navegar entre enormes cantidades de ​datos para explorarlos y descubrir las joyas, ​los hermosos conocimientos potenciales que vale la ​pena conocer y ofrecer a los responsables de la toma de decisiones?
+- ​¿Te entusiasma la ambigüedad de la exploración?
+- ​¿Le entusiasma la idea ​de trabajar en muchas cosas diferentes, ​analizar muchas fuentes de datos diferentes ​y analizar enormes cantidades de información, al ​tiempo que promete no perder de ​vista las posibles ideas importantes?
+- ​¿Está de acuerdo con que le digan ​: «Aquí hay una gran cantidad de datos.
+- ​Nadie lo ha mirado antes.
+- ​Ve a buscar algo interesante»? ​¿Te gustan los proyectos creativos y abiertos? 
+- Si ese es tu caso, la ​analítica es probablemente la mejor opción para ti.
+- ​Un consejo que tengo ​para los analistas que están empezando ​este viaje es que ​puede dar bastante miedo explorar lo desconocido.
+- ​Pero sugiero dejar de lado un poco ​cualquier tentación hacia el perfeccionismo y, en cambio, ​disfrutar de la diversión y la emoción de la exploración.
+- ​No te preocupes por las respuestas correctas.
+- ​Comprueba qué tan rápido puedes abrir este regalo ​y descubre si hay algo divertido allí.
+- ​Es como en tu cumpleaños, abrir un montón de cosas.
+- ​Algunas de ellas te gustan.
+- Algunos de ellos no los conocerás.
+- ​Pero, ¿no es divertido saber qué hay realmente ahí? 
