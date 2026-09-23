@@ -203,3 +203,46 @@
    - Construye tu identidad profesional
    - Conéctate con otros estudiantes
    - Actualiza tu perfil
+
+---
+
+## Evalúe sus capacidades actuales de Análisis de datos
+- El programa de certificación de Google Data Analytics está diseñado para cualquier persona que quiera adquirir las habilidades necesarias para convertirse en un analista de datos de nivel de entrada.
+- Si es tu caso, pasa al siguiente punto de este curso: [Comprométete a completar el programa](https://www.coursera.org/learn/foundations-data/home/module/1)
+- . Sin embargo, si ya tienes cierta experiencia con el análisis de datos, puedes considerar la posibilidad de obtener el Certificado avanzado de análisis de datos de Google o el Certificado de Business Intelligence de Google.
+- En esta lectura, aprenderás más sobre los conocimientos y habilidades que necesitas para uno de los programas de certificados avanzados.
+- También descubrirás más información sobre estos programas y por qué pueden ser el siguiente paso ideal para ti.
+
+- Conocimientos y habilidades de análisis de datos
+   - Los analistas de datos deben tener una comprensión exhaustiva del proceso de análisis de datos, así como las habilidades técnicas que les permitan completar el proceso de análisis de datos.
+   - En esta sección, tendrás en cuenta preguntas sobre el proceso de análisis de datos y habilidades técnicas específicas para determinar si estás preparado para los programas de certificación avanzados.
+   - En primer lugar, evalúe sus conocimientos sobre el proceso de análisis de datos considerando si las siguientes afirmaciones se aplican a usted:
+      - Tengo un conocimiento profundo de la toma de decisiones basada en datos y de cómo ayuda a las organizaciones a orientar su estrategia empresarial basándose en hechos.
+      - Soy capaz de formular preguntas e hipótesis sobre problemas empresariales y utilizarlas para guiarme en el proceso de análisis de datos.
+      - Conozco los pasos para verificar la credibilidad de los datos y realizar su validación.
+      - Comprendo el modelado de datos y sé cómo lo utilizan las organizaciones como herramienta para entender sus datos.
+      - Puedo seleccionar y diseñar visualizaciones que me ayuden a comunicar eficazmente a las partes interesadas las conclusiones del análisis.
+   - Si las afirmaciones anteriores se aplican a su caso, probablemente conozca los aspectos básicos del proceso de análisis de datos.
+   - Continúe leyendo para evaluar sus habilidades técnicas.
+
+   - Los analistas de datos utilizan diversas herramientas, como software y lenguajes de programación, para analizar los datos.
+   - Tendrá más éxito en un programa de certificación avanzado si es capaz de utilizar hojas de cálculo, SQL, Tableau y Python, que se tratan en este programa.
+   - Considere si las siguientes afirmaciones se aplican a usted:
+      - Soy capaz de unir datos de múltiples fuentes para utilizarlos en el análisis de datos.
+      - Puedo ordenar datos tanto en una hoja de cálculo como en una base de datos.
+      - Sé limpiar datos asegurándome de que no contienen entradas duplicadas o incorrectas y de que están en el formato correcto.
+      - Sé cómo crear visualizaciones de datos utilizando una hoja de cálculo, Tableau y Python.
+      - Puedo escribir un comando SQL que seleccione varias columnas de una tabla.
+      - Entiendo los paquetes en Python y puedo seleccionar e instalar los paquetes que necesito para completar tareas específicas.
+
+- Elige tu próximo programa certificado
+   - Si has respondido afirmativamente a todas las preguntas de la sección anterior, puedes optar por obtener el Certificado en análisis avanzado de datos de Google o el Certificado en Business Intelligence de Google para ampliar tus conocimientos sobre el análisis de datos.
+   - En el programa del Certificado avanzado en análisis de datos de Google, ampliarás tus conocimientos sobre análisis de datos y explorarás lo que significa ser un científico de datos a lo largo de siete cursos.
+   - Mejorarás tus conocimientos de Tableau.
+   - Y continuarás desarrollando tus habilidades de codificación mediante el uso de Python para preparar, procesar, limpiar, analizar y visualizar datos.
+   - Por último, profundizarás en la estadística y utilizarás técnicas estadísticas como la regresión y el aprendizaje automático para responder a preguntas empresariales.
+   - Este programa es ideal para las personas que se preparan para la ciencia de datos o funciones más avanzadas de análisis de datos.
+   - El programa Google Business Intelligence Certificate se compone de tres cursos, que ampliarán tus conocimientos a través de proyectos prácticos con herramientas y plataformas como BigQuery, Dataflow y Tableau.
+   - Aprenderás sobre la gestión de datos y los sistemas necesarios para gestionarlos con éxito en un entorno empresarial.
+   - A lo largo del programa, usted descubrirá cómo diseñar e interpretar cuadros de mando que proporcionan información dinámica de datos en vivo a las partes interesadas.
+   - El programa de certificación en inteligencia empresarial de Google es ideal para personas que buscan puestos de inteligencia empresarial de nivel inicial.
