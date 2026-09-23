@@ -101,3 +101,37 @@
 - ​Vale, ¿te entusiasma el potencial de convertirte en analista de datos?
 - ​Es mucho lo que se puede hacer con los datos.
 - ​Estás a punto de entrar en un mundo completamente nuevo.
+
+---
+
+## Resumen del curso 1
+- Cada día, la cantidad de datos que hay ahí fuera crece y crece.
+- Por eso, la capacidad de interpretarlos eficazmente es más importante que nunca.
+- El análisis de datos se está convirtiendo en una de las opciones profesionales de mayor crecimiento y más gratificantes del mundo.
+- Actualmente, hay casi 500.000 puestos de trabajo vacantes en analítica de datos, con un salario medio de entrada de 92.000 dólares y una tasa de crecimiento anual del 20% [Fuente: Lightcast™ US Job Postings (2022: 1 de enero de 2022 - 31 de diciembre de 2022)].
+- Las empresas de todo tipo de sectores necesitan analistas de datos cualificados para resolver problemas y ayudar a tomar las mejores decisiones empresariales posibles.
+- Y una vez que complete este programa, estará preparado para hacer recomendaciones inteligentes, estratégicas y basadas en datos para organizaciones de todo tipo.
+- A lo largo de los cursos de este programa, completarás muchas tareas y proyectos basados tanto en las actividades prácticas como en el día a día de un analista de datos.
+- Por el camino, aprenderá a formular las preguntas adecuadas y a comprender los objetivos.
+- También descubrirá cómo limpiar y organizar eficazmente grandes cantidades de datos para prepararlos para un análisis de alta calidad.
+- Además, adquirirá experiencia en el uso de todo tipo de herramientas y técnicas que le ayudarán a reconocer patrones y descubrir relaciones entre puntos de datos.
+- Además, para ayudarte a comunicar los resultados de tus análisis, aprenderás a diseñar gráficos y cuadros de mando.
+- Incluso tendrás la oportunidad de crear un caso práctico, que podrás destacar en tu currículum para demostrar lo que has aprendido a posibles empleadores.
+
+- Contenido del curso 1
+   - Cada curso está dividido en módulos. He aquí una rápida visión general de las habilidades que adquirirás en cada uno de los cuatro módulos del Curso 1.
+   - Módulo 1: Introducción al análisis de datos y al pensamiento analítico
+      - Los datos nos ayudan a tomar decisiones tanto en la vida cotidiana como en los negocios.
+      - En esta parte del curso, aprenderás cómo los analistas de datos utilizan una serie de herramientas y habilidades para fundamentar esas decisiones.
+      - También conocerás más sobre este curso y las expectativas generales del programa.
+   - Módulo 2: El maravilloso mundo de los datos
+      - En esta parte del curso, aprenderá sobre el ciclo de vida de los datos y el proceso de análisis de datos.
+      - Ambos son relevantes para su trabajo en este programa y en el trabajo.
+      - También se le presentarán aplicaciones que le ayudarán a guiar los datos a través del proceso de análisis de datos.
+   - Módulo 3: Prepare su caja de herramientas
+      - Las hojas de cálculo, los lenguajes de consulta y las herramientas de visualización de datos son una parte importante del trabajo de un analista de datos.
+      - En esta parte del curso, aprenderá los conceptos básicos para utilizarlas en el análisis de datos.
+      - También entenderás cómo funcionan a través de interesantes ejemplos.
+   - Módulo 4: Conviértete en un profesional de datos justo e impactante
+      - En esta parte del curso, examinarás diferentes tipos de empresas y los trabajos y tareas que los analistas realizan para ellas.
+      - También aprenderás cómo un certificado de Google Data Analytics te ayudará a cumplir muchos de los requisitos para un puesto de analista en estas organizaciones.
