@@ -309,3 +309,35 @@
 - ​Pronto tendrás la oportunidad de ​probar todo lo que has aprendido.
 - ​Esta es una oportunidad realmente útil para comprobar ​tu comprensión de todos los conceptos que hemos discutido ​y, si alguna vez no estás seguro de alguna pregunta, ​puedes revisar los vídeos y ​las lecturas para encontrar la respuesta.
 - ​Esta es otra forma increíble de practicar la recopilación de datos.
+
+---
+
+## Ponga a prueba sus conocimientos sobre pensamiento analítico y resultados
+
+1. Rellene el espacio en blanco: Pensamiento analítico implica _____ un problema, y luego resolverlo utilizando datos de forma organizada y paso a paso.
+   - [ ] evaluar y resumir
+   - [x] identificar y definir
+   - [ ] monitorear y Evaluar
+   - [ ] observación e inspección
+> El Pensamiento analítico implica identificar y definir un problema, para después resolverlo utilizando los Datos de forma organizada y paso a paso. 
+
+2. ¿Qué tipo de Visualización de datos podría crear un analista para comunicar a los demás su visión de los datos? Seleccione todas las que correspondan.
+   - [x] Gráfico
+   - [x] Gráfico
+   - [ ] Informe
+   - [x] Mapa
+> Un analista puede crear un gráfico, un mapa o una tabla para comunicar a los demás su visión de los datos.
+
+3. Al planificar un viaje por carretera, usted calcula todas las paradas específicas que debe hacer a lo largo del camino. También tiene en cuenta la frecuencia con la que parará para repostar, comer y dormir. HAVING esta Información le permite ejecutar su plan. ¿Qué describe este escenario?
+   - [ ] Pensamiento global
+   - [ ] Orientación al problema
+   - [ ] Encontrar una correlación
+   - [x] Pensamiento orientado al detalle
+> Este escenario describe el pensamiento orientado al detalle, que consiste en averiguar todos los detalles que le ayudarán a ejecutar un plan. 
+
+4. ¿Cuál es el método para examinar y evaluar el funcionamiento actual de un proceso con el fin de llegar a un estado futuro mejorado?
+   - [ ] Toma de decisiones basada en datos
+   - [ ] Análisis de la causa raíz
+   - [x] Análisis de déficits 
+   - [ ] Cinco porqués
+> El análisis de déficits es un método para examinar y evaluar el funcionamiento actual de un proceso con el fin de llegar a un estado futuro mejorado. La toma de decisiones basada en datos consiste en utilizar los hechos para orientar la estrategia empresarial.
