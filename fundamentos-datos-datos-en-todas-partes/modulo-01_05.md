@@ -115,3 +115,74 @@
 - ​La forma en que los analistas de datos piensan y formulan preguntas ​desempeña un papel importante en la forma en que las empresas toman decisiones.
 - ​Es por eso que el pensamiento analítico ​y ​la comprensión de cómo hacer las preguntas correctas pueden tener ​un impacto tan grande en el éxito general de una empresa.
 - ​Más adelante, hablaremos más sobre cómo ​las decisiones basadas en datos pueden conducir a resultados exitosos.
+
+---
+
+## Utilice los cinco porqués para el análisis de la causa raíz
+- Recientemente, ha estado aprendiendo por qué las soluciones empresariales casi siempre requieren cierto trabajo de Detección de Datos.
+- Esta es una de las formas en que el pensamiento crítico ayuda a los profesionales de los Datos a determinar las preguntas correctas que deben hacerse para llegar a esas soluciones.
+- Una pregunta muy común es: "¿Cuál es la causa raíz del problema?"
+- Una Causa raíz es la razón por la que se produce un problema.
+- Así pues, al identificar y eliminar la causa raíz, los profesionales de los Datos pueden ayudar a evitar que ese problema vuelva a producirse.
+
+- Los cinco porqués es una técnica sencilla pero eficaz para identificar una causa raíz.
+- Consiste en preguntar "¿Por qué?" repetidamente hasta que se revela la respuesta.
+- Esto suele ocurrir al quinto "por qué", pero a veces tendrá que seguir preguntando más veces, otras menos.
+- Hace poco analizó un caso relacionado con la falta de los ingredientes necesarios para hornear tartas; ahora, profundizará en algunas aplicaciones empresariales de la técnica de los cinco porqués para hacer un análisis de la causa raíz.
+
+- Potenciar el servicio al cliente
+   - Una tienda de comestibles en línea estaba recibiendo numerosas quejas de servicio al cliente por entregas deficientes.
+   - Para abordar este problema, un Analista de datos de la empresa se preguntó su primer "¿por qué?"
+
+- Por qué nº 1. "Los clientes se quejan de las malas entregas de comestibles. ¿Por qué?"
+   - El Analista de datos comenzó por revisar los comentarios de los clientes más de cerca.
+   - Observaron que la gran mayoría de las quejas se referían a productos que llegaban dañados. Así que volvieron a preguntarse "¿por qué?
+
+- Por qué nº 2. "Los productos llegan dañados. ¿Por qué?"
+   - Para responder a esta pregunta, el Analista de datos siguió explorando los comentarios de los clientes.
+   - Resultó que muchos clientes decían que los productos no estaban bien embalados.
+
+- Por qué #3. "Los productos no están bien embalados. ¿Por qué?"
+   - Después de preguntarse su tercer "por qué", el Analista de datos realizó un trabajo detectivesco adicional.
+   - Al final se enteraron de que los envasadores de comestibles de su empresa no habían recibido una formación adecuada sobre los procedimientos de envasado.
+
+- Por qué nº 4. "Los envasadores de ultramarinos no están adecuadamente formados. ¿Por qué?"
+   - Este "por qué" permitió al Analista de datos descubrir que casi el 35% de todos los empaquetadores eran nuevos en la empresa.
+   - Aún no habían tenido la oportunidad de completar todo el Entrenamiento requerido, y sin embargo ya se les estaba pidiendo que envasaran comestibles para los pedidos de los clientes.
+
+- Por qué #5. "Los empaquetadores no han completado el Entrenamiento requerido. ¿Por qué?"
+   - Este último "¿por qué?" llevó al analista de datos a descubrir que el departamento de Recursos Humanos no había impartido la formación necesaria a ninguno de los empaquetadores recién contratados.
+   - Esto se debía a que el departamento de recursos humanos estaba en pleno proceso de reelaboración del programa de Entrenamiento.
+   - En lugar de formar a los recién contratados con el antiguo sistema, les habían proporcionado una guía rápida de una página, que era insuficiente.
+
+- Así que, en este ejemplo, la causa raíz del problema era que RRHH no había completado las actualizaciones del programa de Entrenamiento y estaba utilizando una guía menos completa para formar a los nuevos empaquetadores.
+- Afortunadamente, se trataba de un problema que el almacenista podía controlar.
+- Y gracias al trabajo del Analista de datos, ¡se proporcionó más apoyo al departamento de RRHH para completar el Entrenamiento y volver a formar a todos los empaquetadores de ultramarinos recién contratados!
+
+- Control de calidad por adelantado
+   - Una empresa de riego estaba experimentando un aumento del número de defectos en sus bombas de agua.
+   - El Equipo de Datos de la empresa utilizó los cinco porqués para analizar la situación:
+      - Por qué nº 1. "Ha aumentado el número de defectos en las bombas de agua. ¿Por qué?"
+         - Para responder a esta pregunta, el Equipo de datos organizó una reunión con los ingenieros del taller.
+         - Les pidieron algunas estadísticas sobre el rendimiento de las máquinas y los procesos de fabricación.
+         - Tras algunas exploraciones, se descubrió que las máquinas utilizadas para fabricar las bombas no estaban correctamente calibradas.
+      - Por qué #2. "Las máquinas no están correctamente calibradas. ¿Por qué?"
+         - Después de más lluvia de ideas con el Equipo de ingeniería, se determinó que las máquinas habían sido mal calibradas durante el último ciclo de mantenimiento.
+      - Por qué #3. "Las máquinas se calibraron mal durante el mantenimiento. ¿Por qué?"
+         - A continuación, el Equipo de Datos investigó los Procedimientos implicados en la calibración de las máquinas.
+         - Descubrieron que el Método actual era inadecuado para las máquinas.
+      - ¿Por qué? "El Método de calibrado es inapropiado para las máquinas. ¿Por qué?"
+         - Este "por qué" les llevó a descubrir que la empresa había instalado recientemente un nuevo software en sus máquinas.
+         - Como se trataba de una actualización menor del software, los ingenieros no se dieron cuenta de que afectaría al calibrado.
+         - No tenían la información que necesitaban para calibrar correctamente las máquinas actualizadas.
+      - Por qué #5. "Los ingenieros no tienen la información que necesitan para calibrar las máquinas actualizadas. ¿Por qué?"
+         - El quinto y último "por qué" reveló aún más pruebas: El Equipo de instalación había actualizado el software de las máquinas, pero no había compartido con los ingenieros los procedimientos de calibración correspondientes.
+   - Así que, en este ejemplo, la causa raíz del problema era que los ingenieros carecían de información importante sobre cómo calibrar las máquinas utilizando el nuevo sistema de software.
+   - Se encontró la solución y la empresa de riego pudo implementarla de inmediato.
+   - Pronto, los ingenieros dispusieron de las instrucciones de calibración necesarias, ¡y se eliminaron los defectos de las bombas!
+
+- Claves
+   - Los cinco porqués es una poderosa herramienta para el Análisis de Causa raíz.
+   - Es sencilla, eficaz y una forma estupenda de colaborar con los compañeros y aprender sobre otras áreas de la empresa.
+   - Además, los cinco porqués pueden utilizarse para analizar problemas en cualquier sector, ayudando a organizaciones de todo tipo a identificar y solucionar problemas empresariales.
+   - Como profesional de los Datos, puede recurrir a los cinco porqués siempre que se sienta perplejo ante un problema y necesite enfocarlo desde una perspectiva diferente.
