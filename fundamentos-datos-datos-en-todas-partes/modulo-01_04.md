@@ -198,3 +198,35 @@
 | Data design | The analytical skill that involves how you organize information |
 | Understanding context | The analytical skill that has to do with how you group things into categories |
 | Data strategy | The analytical skill that involves managing the processes and tools used in data analysis |
+
+---
+
+## Ponga a prueba sus Conocimientos sobre Analista de datos
+
+1. Rellene el espacio en blanco: Las Destrezas analíticas son las cualidades y características asociadas al uso de _____ para resolver problemas.
+   - [ ] instinto visceral
+   - [ ] comentarios
+   - [ ] predicciones
+   - [x] hechos
+> Las Destrezas analíticas son las cualidades y características asociadas con el uso de hechos para resolver problemas.
+
+2. Un conocido le dice que pasa muchas horas al día "jugando" Para saber más, usted le pregunta si practica algún deporte, un instrumento musical u otra cosa. Su respuesta le ayuda a aclarar el significado de su afirmación. ¿Qué describe este escenario?
+   - [ ] Comprobación de una hipótesis
+   - [x] Comprender el contexto
+   - [ ] Análisis de datos
+   - [ ] Hacer suposiciones
+> Este escenario describe la comprensión del contexto. Contexto es la condición en la que algo existe o sucede.
+
+3. ¿Qué destreza analítica implica la capacidad de descomponer las cosas en pasos más pequeños y trabajar con ellos de forma ordenada y lógica?
+   - [x] Mentalidad técnica
+   - [ ] Simplificación
+   - [ ] Resolución de problemas
+   - [ ] Curiosidad
+> Una mentalidad técnica implica dividir las cosas en pasos más pequeños y trabajar con ellos de forma ordenada y lógica.
+
+4. Rellene el espacio en blanco: La capacidad analítica _____ engloba la forma en que alguien organiza la información. 
+   - [ ] estrategia de datos
+   - [ ] análisis de datos
+   - [x] diseño de datos
+   - [ ] mentalidad de datos
+> La destreza analítica Diseño de datos abarca la forma en que alguien organiza la información. 
