@@ -106,6 +106,7 @@
 - ​Los ecosistemas de datos se componen de varios elementos que interactúan entre sí ​para producir, administrar, almacenar, organizar, analizar y compartir datos.
 - ​Estos elementos incluyen las herramientas de hardware y software y ​las personas que las utilizan.
 - ​Le gustas a la gente.
+
 - ​Datos también se pueden encontrar en algo llamado nube.
 - ​La nube es un lugar para guardar los datos en línea, en lugar de guardarlos en el disco duro de una computadora.
 - ​Por lo tanto, en lugar de almacenar datos en algún lugar de la red de la organización, ​se accede a esos datos a través de Internet.
@@ -113,6 +114,7 @@
 - ​La nube desempeña un papel importante en el ecosistema de datos y, como analista de datos, es ​su trabajo aprovechar el poder de ese ecosistema de datos, encontrar la información correcta ​y proporcionar al equipo un análisis que lo ayude a tomar decisiones inteligentes.
 - ​Por ejemplo, puedes acceder a la base de datos de tu tienda minorista, ​que es un ecosistema repleto de nombres de clientes, direcciones ​, compras anteriores y reseñas de clientes.
 - ​Como analista de datos, puedes usar esta información para predecir lo que ​comprarán estos clientes en el futuro ​y asegurarte de que la tienda tenga los productos y las existencias cuando los necesiten.
+
 - ​Como otro ejemplo, ​pensemos en un ecosistema de datos utilizado por un departamento de recursos humanos.
 - ​Este ecosistema incluiría información como publicaciones de sitios web de empleo, ​estadísticas sobre el mercado laboral actual ​, tasas de empleo y datos de redes sociales sobre posibles empleados.
 - ​Un analista de datos podría usar esta información para ayudar a su equipo a reclutar nuevos trabajadores ​y mejorar las tasas de compromiso y retención de los empleados.
@@ -123,6 +125,7 @@
 - ​Algunos analistas de datos incluso utilizan ecosistemas de datos para salvar ​ecosistemas ambientales reales.
 - ​En el Instituto Scripps de Oceanografía, los arrecifes de coral de todo ​el mundo son monitoreados digitalmente para que puedan ver cómo cambian los organismos con el tiempo, ​rastrear su crecimiento y medir cualquier aumento o ​disminución en las colonias individuales.
 - ​Las posibilidades son infinitas.
+
 - ​Bien, ahora hablemos de algunos conceptos erróneos comunes con los que te puedes encontrar.
 - La ​primera es la diferencia entre los científicos de datos y los analistas de datos.
 - ​Es fácil confundir las dos cosas, pero lo que hacen es en realidad muy diferente.
@@ -139,3 +142,41 @@
 - ​Por eso, cuando piensas en los datos, el análisis de ​datos y el ecosistema de datos, es importante entender que todas estas ​cosas caben en el ámbito del análisis de datos.
 - ​Muy bien, ahora que sabe un poco más sobre el ecosistema de datos y ​las diferencias entre el análisis de datos y el análisis de datos, ​está listo para explorar cómo se utilizan los datos para tomar decisiones eficaces.
 - ​Podrá ver la toma de decisiones basada en datos, en acción.
+
+---
+
+## Cómo informan los Datos para tomar mejores decisiones
+- Hasta ahora, ha descubierto que hay muchas maneras diferentes de ​utilizar los datos.
+- En nuestra vida diaria, ​utilizamos datos cuando usamos un rastreador de actividad física o ​leemos reseñas de productos para tomar una decisión de compra.
+- ​Y en los negocios, utilizamos los datos para obtener más información sobre nuestros clientes, ​mejorar los procesos y ayudar a los empleados a hacer su trabajo de manera más eficaz.
+- ​Pero esto es solo la punta del iceberg.
+- ​Una de las maneras más eficaces de hacer que los datos funcionen es mediante la toma de decisiones basada en los datos.
+- La toma de ​decisiones basada en datos se define como el uso de hechos para guiar la estrategia empresarial.
+- ​Las organizaciones de muchos sectores diferentes están facultadas para ​tomar decisiones mejores y basadas en los datos por parte de los analistas de datos en todo momento.
+
+- ​El primer paso en la toma de decisiones basada en datos es determinar la necesidad empresarial.
+- ​Por lo general, este es un problema que debe resolverse.
+- ​Por ejemplo, un problema podría ser que una nueva empresa necesite establecer un mejor ​reconocimiento de marca para poder competir con competidores más grandes y conocidos.
+- ​O tal vez una organización quiera mejorar un producto y necesite averiguar cómo obtener ​piezas de un proveedor más sostenible o éticamente responsable.
+- ​O bien, podría ser una empresa que intenta resolver el problema de los empleados insatisfechos y ​los bajos niveles de compromiso, satisfacción y retención.
+- ​Sea cual sea el problema, una vez definido, un analista de datos encuentra datos, los ​analiza y los usa para descubrir tendencias, patrones y relaciones.
+- ​A veces, la estrategia basada en datos se basa en lo que funcionó en el pasado.
+
+- ​Otras veces, puede guiar a una empresa a expandirse en una dirección completamente nueva.
+- ​Veamos un ejemplo del mundo real.
+- ​Piensa en un servicio de streaming de música o películas.
+- ​¿Cómo saben estas empresas lo que la gente quiere ver o escuchar ​y cómo lo proporcionan? ​Al utilizar la toma de decisiones basada en datos, ​recopilan información sobre lo que sus clientes están escuchando actualmente, ​lo analizan y, a continuación, utilizan los conocimientos que han adquirido para hacer sugerencias sobre ​cosas que la gente probablemente disfrutará en el futuro.
+- ​Esto hace que los clientes estén contentos y ​regresen por más, lo que a su vez significa más ingresos para la empresa.
+- ​Otro ejemplo de toma de decisiones basada en datos se puede ver en el auge del ​comercio electrónico.
+
+- No hace mucho que la mayoría de las compras se hacían en una tienda física, ​pero los datos mostraban que las preferencias de las personas estaban cambiando.
+- ​Por eso, muchas empresas crearon modelos de negocio completamente nuevos que eliminaron ​la tienda física y permitieron a las personas comprar directamente desde sus ordenadores o ​teléfonos móviles con los productos entregados directamente en la puerta de su casa.
+- ​De hecho, la toma de decisiones basada en datos puede ser tan poderosa que ​puede hacer que todos los métodos empresariales queden obsoletos.
+- ​Por ejemplo, los datos ayudaron a las empresas a alejarse por completo de ​los teléfonos con cable y sustituirlos por teléfonos móviles.
+- ​Al garantizar que los datos estén integrados en cada estrategia empresarial, los ​analistas de datos desempeñan un papel fundamental en el éxito de sus empresas, pero ​es importante tener en cuenta que, independientemente de lo valiosa que sea la toma de decisiones basada en los datos, ​los datos por sí solos nunca serán tan poderosos como los datos combinados con la experiencia humana, la ​observación y, a veces, incluso la intuición.
+- ​Para aprovechar al máximo la toma de decisiones basada en datos, es importante incluir ​información de personas que estén familiarizadas con el problema empresarial.
+- ​Estas personas se denominan expertos ​en el tema y tienen la capacidad de analizar los resultados del análisis de datos e identificar cualquier inconsistencia, dar ​sentido a las áreas grises y, finalmente, validar las decisiones que se están tomando.
+
+- ​Las organizaciones que trabajan de esta manera sitúan los datos en el centro de cada estrategia empresarial, ​pero también se benefician de los conocimientos de sus empleados.
+- ​Es una situación en la que todos ganan.
+- ​Como analista de datos, usted desempeña un papel clave a la hora de empoderar a estas organizaciones para que ​tomen decisiones basadas en los datos, por lo que es tan importante que ​comprenda cómo los datos desempeñan un papel en el proceso de toma de decisiones.
