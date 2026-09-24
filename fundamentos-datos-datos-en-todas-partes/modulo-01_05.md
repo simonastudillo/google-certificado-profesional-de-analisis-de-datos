@@ -186,3 +186,61 @@
    - Es sencilla, eficaz y una forma estupenda de colaborar con los compañeros y aprender sobre otras áreas de la empresa.
    - Además, los cinco porqués pueden utilizarse para analizar problemas en cualquier sector, ayudando a organizaciones de todo tipo a identificar y solucionar problemas empresariales.
    - Como profesional de los Datos, puede recurrir a los cinco porqués siempre que se sienta perplejo ante un problema y necesite enfocarlo desde una perspectiva diferente.
+
+---
+
+## Los datos impulsan el éxito
+- En un vídeo anterior, aprendió sobre cinco habilidades analíticas esenciales.
+- ​Como recordatorio, son la curiosidad, la comprensión del contexto, la ​mentalidad técnica, el diseño de datos y la estrategia de datos.
+- ​En los próximos dos vídeos, analizaremos cómo ​todas estas habilidades pasan a formar parte de la toma de decisiones basada en datos.
+- ​Pero primero, analicemos el concepto de toma de decisiones basada en datos y ​por qué es más probable que conduzca a resultados exitosos.
+- ​Tal vez recuerde que la toma de decisiones basada en datos implicaba el uso de hechos para ​guiar la estrategia empresarial.
+- ​Los analistas de datos pueden aprovechar el poder de los datos para hacer todo tipo de cosas increíbles.
+- ​Con los datos, pueden obtener información valiosa, verificar sus teorías o ​suposiciones, comprender mejor las oportunidades y ​los desafíos, respaldar un objetivo, ayudar a elaborar un plan y mucho más.
+
+- ​En los negocios, la toma de ​decisiones basada en datos puede mejorar los resultados de muchas maneras diferentes.
+- ​Por ejemplo, supongamos que un productor lechero quiere empezar a fabricar y vender helados.
+- ​Podrían adivinar qué sabores les gustaría a los clientes, pero ​hay una forma mejor de obtener la información.
+- ​El granjero podría encuestar a las personas y preguntarles qué sabores prefieren.
+- ​Esto le brinda al agricultor los datos que necesita para elegir los sabores de helado que la gente ​disfrutará.
+- ​He aquí otro ejemplo.
+- ​Supongamos que el presidente de una organización siente curiosidad por saber qué ventajas ​valoran más los empleados.
+
+- ​Le preguntó al director de recursos humanos quién dice que la gente valora el código de vestimenta casual.
+- ​Es un presentimiento, pero el director de recursos humanos lo respalda con el hecho de que ve a ​mucha gente usando jeans y camisetas.
+- ​Pero, ¿y si esta empresa utilizara un proceso de comentarios de los empleados más estructurado, ​como una encuesta? ​Podría revelar que los empleados son los que ​más disfrutan de las tarjetas de transporte público gratuitas.
+- ​El director de recursos humanos simplemente no se dio cuenta porque conduce al trabajo.
+- ​Estos son solo algunos de los beneficios de la toma de decisiones basada en datos.
+- ​Le brinda una mayor confianza sobre su elección y ​sus capacidades para abordar los desafíos empresariales.
+
+- ​Le ayuda a ser más proactivo cuando se presenta una oportunidad y ​le ahorra tiempo y esfuerzo a la hora de trabajar para alcanzar un objetivo.
+- ​Ahora aprendamos más sobre cómo estas cinco habilidades le ayudan a aprovechar todo el potencial ​de la toma de decisiones basada en datos.
+- ​Primero, piense en la curiosidad y el contexto.
+- ​Cuanto más aprenda sobre el poder de los datos, ​es probable que sienta más curiosidad.
+- ​Empezarás a ver patrones y relaciones en la vida cotidiana, ​ya sea que estés leyendo las noticias, viendo una película o ​yendo a una cita al otro lado de la ciudad.
+- ​Los analistas llevan sus ideas un paso más allá al utilizar el contexto para hacer ​predicciones, investigar respuestas y, ​finalmente, sacar conclusiones sobre lo que han descubierto.
+- ​Este proceso natural es un excelente primer paso para centrarse más en los datos.
+- Lo ​siguiente es tener una mentalidad técnica.
+
+- ​Todo el mundo tiene instintos o, ​como en el caso de nuestro director de recursos humanos, instintos.
+- ​Los analistas de datos no son diferentes.
+- ​También tienen instintos.
+- ​Pero se han entrenado para aprovechar esos sentimientos y ​utilizar un enfoque más técnico para explorarlos.
+- ​Lo hacen buscando siempre los hechos ​, analizándolos y utilizando los conocimientos que obtienen para tomar decisiones informadas.
+- ​A continuación, llegamos al diseño de datos, ​que tiene una fuerte conexión con la toma de decisiones basada en datos.
+- ​En pocas palabras, diseñar los datos para ​que estén organizados de forma lógica facilita a los analistas de datos el acceso, la ​comprensión y el aprovechamiento de la información disponible.
+
+- ​Y es importante tener en cuenta que el diseño de datos no solo se aplica a las ​bases de datos.
+- ​Este tipo de pensamiento también puede funcionar con todo tipo de situaciones de la vida real.
+- ​La idea básica es la siguiente.
+- ​Si toma decisiones basadas en datos, ​es más probable que tome decisiones más informadas y eficaces.
+- ​La última habilidad es la estrategia de datos, que incorpora las personas, los procesos y ​las herramientas que se utilizan para resolver un problema.
+- ​Es importante recordar esto porque la estrategia de datos le brinda una visión de alto nivel de ​la ruta de acceso que debe tomar para alcanzar sus objetivos.
+- ​Además, la toma de decisiones basada en datos no es un trabajo de una sola persona.
+
+- ​Es mucho más probable que tenga éxito si todos están de acuerdo y en sintonía, ​por lo que es importante asegurarse de que existen procedimientos específicos y de que la ​tecnología que se utiliza está alineada con su estrategia basada en datos.
+- ​Ahora sabe cómo funcionan estas cinco habilidades analíticas esenciales para tomar ​mejores decisiones basadas en datos.
+- ​Hasta ahora, muchos de los ejemplos que ha escuchado son hipotéticos.
+- ​Eso significa que podrían ser ciertas en teoría, pero no son casos específicos del mundo real.
+- ​A continuación, veremos algunos ejemplos reales.
+- ​Me muero por compartir cómo los analistas de datos utilizan los datos para obtener resultados asombrosos.
