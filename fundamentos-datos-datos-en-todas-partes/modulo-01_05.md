@@ -244,3 +244,68 @@
 - ​Eso significa que podrían ser ciertas en teoría, pero no son casos específicos del mundo real.
 - ​A continuación, veremos algunos ejemplos reales.
 - ​Me muero por compartir cómo los analistas de datos utilizan los datos para obtener resultados asombrosos.
+
+---
+
+## La magia de los datos testigo
+- Voy a compartir ​algunos estudios de casos que ​destacan el increíble trabajo que realizan los analistas de datos.
+- ​Cada uno de estos escenarios muestra el poder de la toma de ​decisiones basada en datos de maneras inesperadas.
+- ​La primera historia es sobre Google.
+- ​Como mencioné hace poco, aquí en Google, ​nuestra misión es organizar ​la información del mundo y hacer que sea ​útil y accesible para todos.
+- ​Todos nuestros productos, ​desde la idea hasta el desarrollo y el lanzamiento, ​se basan en datos y en la toma de decisiones basada en datos.
+- En ​Google hay muchísimos ejemplos de ​personas que utilizan datos para crear una estrategia empresarial.
+- ​Pero una de las más famosas ​tiene que ver con los recursos humanos de Google.
+
+- ​Así es como ha ido.
+- El departamento de recursos humanos ​quería saber si era valioso tener gerentes.
+- ¿ ​Merecieron la pena sus contribuciones? ​¿O todos deberían ser simplemente colaboradores individuales? ​Para responder a esa pregunta, el ​equipo de análisis de personal de Google ​analizó las revisiones de desempeño y las encuestas de empleados anteriores.
+- ​Los datos que encontraron se trazaron en ​un gráfico porque, como has aprendido, las ​imágenes son extremadamente útiles ​cuando se trata de entender un problema o un concepto.
+- ​El gráfico reveló que los usuarios de Google ​tenían opiniones positivas sobre sus gerentes, ​pero los datos eran bastante generales ​y el equipo quería obtener más información.
+
+- ​Así que profundizaron y dividieron los datos en cuartiles.
+- ​Un cuartil divide los puntos de datos en ​cuatro partes o cuartos iguales.
+- ​Aquí es donde empezaron a suceder las cosas realmente interesantes.
+- ​Los analistas de datos descubrieron ​que había una gran diferencia ​entre los cuartiles superiores e inferiores.
+- ​Resultó que los equipos con ​los mejores gerentes estaban significativamente más contentos, eran ​más productivos y ​tenían más probabilidades de querer seguir trabajando en Google.
+- ​Esto confirmó que los gerentes eran ​valorados y que marcaban una gran diferencia.
+- ​Por lo tanto, ​no se implementó la idea de tener solo contribuyentes individuales.
+
+- ​Pero aún quedaba trabajo por hacer.
+- El ​solo hecho de saber que los ​grandes gerentes generan excelentes resultados no conduce a información procesable.
+- ​Tienes que identificar qué es exactamente lo que hace que un gerente sea excelente, ​por lo que el equipo tomó ​dos medidas adicionales para recopilar más datos.
+- ​En primer lugar, lanzaron un programa de premios en el ​que los empleados podían nominar a sus gerentes favoritos.
+- ​Para cada presentación, tenías que proporcionar ejemplos ​o datos sobre lo que hacía que ese gerente fuera excelente.
+- ​El segundo paso consistió en ​entrevistar a los gerentes que estaban graficados ​en los cuartiles superior e inferior.
+- ​Esto ayudó al equipo de análisis a ver las diferencias ​entre los ​comportamientos de gestión exitosos y los menos exitosos.
+
+- ​Se identificaron los mejores comportamientos, así como ​las razones más comunes ​por las que un gerente necesita mejorar.
+- ​El último paso fue compartir ​estas ideas y establecer un procedimiento ​para evaluar a ​los gerentes teniendo en cuenta estas cualidades.
+- ​Esta decisión basada en los datos sigue creando ​una cultura empresarial excepcional para ​mis colegas y para mí.
+- Gracias, Data.
+- ​Otro ejemplo interesante ​proviene del sector sin fines de lucro.
+- Las organizaciones sin fines de ​lucro son organizaciones dedicadas a promover ​una causa social o a abogar por un esfuerzo en particular, ​como la Seguridad alimentaria, la ​educación o las artes.
+- ​En este caso, los analistas de datos ​investigaron cómo los periodistas pueden tener ​un impacto más significativo en las organizaciones sin ​fines de lucro sobre las que escribirían.
+
+- ​Como los periodistas escriben para periódicos, ​revistas y otros medios de comunicación, ​pueden ayudar a las organizaciones sin fines de lucro a llegar a lectores como usted y yo, ​quienes luego toman medidas para ​ayudar a las organizaciones sin fines de lucro a alcanzar sus objetivos.
+- ​Por ejemplo, supongamos que lees sobre el problema ​del cambio climático en una revista en línea.
+- ​Si el artículo es efectivo, ​aprenderás más sobre la causa e incluso podrías verte ​obligado a tomar decisiones más ecológicas ​en tu vida diaria, a ser ​voluntario en una organización sin fines de lucro ​o a hacer una donación.
+- ​Este es un ejemplo ​del trabajo del periodista que genera conciencia ​, comprensión y compromiso.
+- Así que, volvamos a la historia.
+- ​Los analistas de datos usaron un rastreador para monitorear los temas de las historias, los ​clics, el tráfico web, los comentarios, las participaciones y más.
+- ​Luego evaluaron la información para hacer ​recomendaciones sobre cómo los periodistas ​podrían hacer su trabajo aún mejor.
+
+- ​Al final, se les ocurrieron ​algunas ideas geniales sobre cómo las organizaciones sin fines de lucro y ​los periodistas pueden motivar a las personas de ​todo el mundo a trabajar juntas ​y hacer del mundo un lugar mejor.
+- ​En realidad, lo que ​puede hacer como analista de datos no tiene fin.
+- ​A medida que avances en este programa, ​descubrirás aún más posibilidades.
+- ​Buen trabajo siguiendo ​los temas de estos últimos vídeos.
+- ​Aprendió todo sobre las habilidades analíticas y ​las cinco características clave de los analistas de datos.
+- ​Probablemente incluso hayas aprendido que ​ya eres un profesional en la mayoría de estos.
+- ​A continuación, descubrió lo que significa pensar de forma analítica ​y las habilidades específicas que los analistas de datos ​desarrollan para ayudarlos a hacerlo.
+
+- ​Exploró herramientas y ​procesos que permiten a los analistas de datos ​identificar un problema y hacer ​las preguntas correctas para resolverlo.
+- ​Por último, algunas historias del mundo real ayudaron a ilustrar ​por qué la toma de decisiones basada en datos ​suele tener más éxito que otros métodos.
+- ​Estás creando una base maravillosa ​para tu carrera como analista de datos.
+- ​Con cada vídeo, tus habilidades seguirán ampliándose y ​tu comprensión de los ​conceptos clave de análisis de datos no hará más que fortalecerse.
+- ​Pronto tendrás la oportunidad de ​probar todo lo que has aprendido.
+- ​Esta es una oportunidad realmente útil para comprobar ​tu comprensión de todos los conceptos que hemos discutido ​y, si alguna vez no estás seguro de alguna pregunta, ​puedes revisar los vídeos y ​las lecturas para encontrar la respuesta.
+- ​Esta es otra forma increíble de practicar la recopilación de datos.
