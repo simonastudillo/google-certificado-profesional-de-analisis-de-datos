@@ -242,3 +242,35 @@
    - Los Analistas de datos y los Detectives comparten un enfoque similar a la hora de resolver problemas, ambos se basan en pruebas y hechos para tomar decisiones.
    - La toma de decisiones basada en datos es esencial para los analistas, pero el instinto visceral también puede desempeñar una función a la hora de identificar patrones y conexiones.
    - Equilibrar los datos y el instinto visceral es crucial para tomar decisiones informadas, y la mezcla adecuada depende de los objetivos del proyecto y de las limitaciones de tiempo.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre el Ecosistema de datos
+
+1. En su Función como profesional de los datos, usted examina un Conjunto de datos de viajes en taxi para determinar qué hora del día suele tener la mayor demanda. ¿En qué disciplina encaja mejor este ejemplo?
+   - [x] Análisis de datos
+   - [ ] Analítica de datos
+   - [ ] Ciencia de datos
+   - [ ] Organización de datos
+> Buen trabajo
+
+2. Rellene el espacio en blanco: A _____ engloba los distintos elementos que interactúan entre sí para producir, gestionar, almacenar, organizar, analizar y compartir datos.
+   - [ ] fuente de datos
+   - [ ] transformación del negocio (Business-to-Business)
+   - [x] ecosistema de datos
+   - [ ] sistema en la nube
+> Buen trabajo
+
+3. Cuando se incorporan datos a la estrategia empresarial, ¿por qué es importante incluir la estadística de los expertos en la materia? Seleccione todo lo que corresponda.
+   - [x] Pueden revisar los resultados de los Análisis y ayudar a identificar las incoherencias.
+   - [x] Su experiencia y su intuición humana son valiosas para la toma de decisiones basada en datos.
+   - [ ] Son responsables de buscar y analizar datos para descubrir tendencias, patrones y relaciones. 
+   - [x] Están familiarizados con el problema de Negocio a negocio (Business-to-Business).
+> Buen trabajo
+
+4. Un sitio web de comercio electrónico recopila, observa y analiza los comportamientos en línea de sus clientes. Después, utiliza las estadísticas obtenidas para elegir cuándo poner a la venta determinados productos. ¿Qué práctica empresarial describe esto?
+   - [ ] Medición del rendimiento
+   - [x] Toma de decisiones basada en datos 
+   - [ ] Organización de datos
+   - [ ] Pensamiento analítico
+> Buen trabajo
