@@ -185,3 +185,16 @@
 - Conclusiones clave
    - Sus Destrezas analíticas inherentes son esenciales para llevar a cabo análisis de datos y serán aún más críticas cuando las combine con las herramientas y técnicas de este Programa.
    - Comprender cómo utilizar estas habilidades en escenarios empresariales es el primer paso para desarrollarlas aún más y utilizarlas eficazmente en su carrera. 
+
+---
+
+## Practicar las habilidades de analista de datos
+- Use these randomly sorted flashcards to test your knowledge. When you finish, you can shuffle the deck and go through the cards again.
+
+| Skill | Description |
+| ----- | ----- |
+| Analytical skills | The qualities and characteristics associated with solving problems using facts |
+| A technical mindset | The analytical skill that involves breaking processes down into smaller steps and working with them in an orderly, logical way |
+| Data design | The analytical skill that involves how you organize information |
+| Understanding context | The analytical skill that has to do with how you group things into categories |
+| Data strategy | The analytical skill that involves managing the processes and tools used in data analysis |
