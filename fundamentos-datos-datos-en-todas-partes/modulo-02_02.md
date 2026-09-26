@@ -134,3 +134,57 @@
    - Obtén más información sobre la fase de actuación del proceso en el curso [Google Data Analytics Capstone: Completar un caso práctico](https://www.coursera.org/learn/google-data-analytics-capstone/home/welcome).
 
 >[!NOTE] Los enlaces de los cursos son para que los previsualices. No complete los cursos en este momento. Puede marcar esta actividad como completa una vez que comprenda cómo se alinean los cursos con el proceso de análisis de datos.
+
+---
+
+## Molly: Ejemplo del proceso de análisis de datos
+- ​Independientemente del tipo de ​análisis de datos que esté realizando, ​el proceso suele ser el mismo.
+- ​El ejemplo que voy a analizar es el ​de nuestra encuesta sobre el compromiso de los empleados, pero puede ​imaginarse que este proceso se aplica a casi ​cualquier análisis de datos que ​vaya a realizar como analista.
+- ​Lo primero que debes hacer es preguntar.
+- ​Desea hacer todas ​las preguntas correctas al ​principio del compromiso para ​comprender mejor lo que ​sus líderes y parte interesada necesitan de este análisis.
+- ​Los tipos de preguntas que hago generalmente giran en torno a: ​¿cuál es el problema que estamos intentando resolver? ​¿Cuál es el propósito de este análisis? ​¿Qué esperamos aprender de ello? 
+​
+- Una vez que haya formulado todas las ​preguntas correctas y ​haya comprendido el alcance ​del análisis que debe realizar, ​el siguiente paso es prepararse.
+- ​Tenemos que pensar qué tipo de ​datos necesitamos para responder a esas preguntas clave.
+- ​Esto puede ser cualquier cosa, desde ​datos cuantitativos o datos cualitativos.
+- ​Puede ser transversal o puntual en el ​tiempo frente a longitudinal durante un largo período de tiempo.
+- ​Tenemos que pensar ​en el tipo de datos que necesitamos para responder a las preguntas ​que nos hemos propuesto responder en función de ​lo que aprendimos cuando hicimos las preguntas correctas.
+- ​También debemos pensar en ​cómo vamos a recopilar esos datos ​o si necesitamos recopilarlos.
+- ​Puede darse el caso de que ​necesitemos recopilar estos datos completamente nuevos.
+
+- ​Por lo tanto, debemos pensar qué tipo de ​datos vamos a recopilar y cómo.
+- ​Para nuestra encuesta sobre el compromiso de los empleados, ​lo hacemos mediante una encuesta de ​preguntas cuantitativas y cualitativas.
+- ​Pero, en realidad, puede darse el caso de que, para muchos análisis, ​los datos que busca ya existan.
+- ​Luego, se trata de trabajar ​con esos propietarios de datos para asegurarse de ​que pueden aprovechar esos ​datos y usarlos de manera responsable.
+- ​Después de haber realizado todo el arduo trabajo para recopilar sus datos, ​ahora necesita procesarlos.
+- ​Empieza con la limpieza.
+- ​Para mí, esta es la parte más divertida ​del proceso de análisis de datos.
+
+- ​Podemos considerarlo como la introducción inicial ​o el protocolo de enlace, ​hola, a sus datos.
+- ​Aquí es donde tienes la oportunidad de ​entender su estructura, ​sus peculiaridades, sus matices, ​y realmente tienes la oportunidad de entender en ​profundidad ​con qué tipo de datos vas a trabajar y ​qué potencial tienen esos datos ​para responder a todas tus preguntas.
+- ​Esta también es una parte muy importante, ​en la que estamos realizando todos ​nuestros controles de calidad.
+- ​Por ejemplo, ¿tenemos todos ​los datos que esperábamos tener? ​¿Nos faltan datos al azar o faltan de ​manera sistemática, de modo que ​tal vez algo salió mal con ​nuestro esfuerzo de recopilación de datos? ​De ser necesario, ¿codificamos todos nuestros datos de la manera correcta? ​¿Hay valores atípicos que debamos tratar de manera diferente? 
+​Esta es la parte en la que dedicamos ​mucho tiempo a profundizar en ​la estructura y los matices de los datos para asegurarnos de que ​puedes analizarlos de ​manera adecuada y responsable.
+- ​Después de limpiar nuestros datos y realizar ​todos nuestros controles de calidad, ​ahora es el punto ​en el que analizamos nuestros datos, asegurándonos de hacerlo de la ​manera más objetiva e imparcial posible.
+- ​Para ello, lo primero que hacemos es realizar ​una serie de análisis que ​ya hemos planificado con antelación ​en función de las preguntas que sabemos que ​queremos responder desde el ​principio del proceso.
+- ​Una cosa que probablemente sea ​lo más difícil de este proceso en particular, ​lo más difícil del análisis de datos, ​es que, como analistas, estamos capacitados para buscar patrones.
+- ​Con el tiempo, a medida que mejoramos cada vez más en nuestro trabajo, ​lo que descubrimos con frecuencia es que podemos empezar a ​intuir lo que podemos ver en los datos.
+- ​Es posible que tengamos una sospecha furtiva sobre ​lo que nos van a decir los datos.
+- ​Este es el punto en el que tenemos que dar un paso ​atrás y dejar que los datos hablen por sí solos.
+
+- ​Como analistas de datos, somos narradores de historias, ​pero también debemos tener en cuenta que ​no es nuestra historia la que contar.
+- ​Esa historia pertenece a los datos, ​y nuestro trabajo como analistas es amplificarla y ​contarla de la ​manera más imparcial y objetiva posible.
+- ​El siguiente paso es compartir todos los datos y ​conocimientos que ha generado a partir de sus análisis.
+- ​Por lo general, para las encuestas sobre el compromiso de los empleados, ​comenzamos por compartir los hallazgos de alto nivel ​con nuestro equipo ejecutivo.
+- ​Queremos que tengan una visión panorámica de ​cómo se siente la organización ​y queremos asegurarnos de que no haya ​sorpresas a medida que ​profundizan cada vez más en los datos para ​comprender cómo se sienten los equipos ​y cómo se sienten los empleados individuales.
+- ​Todo este trabajo, ​desde hacer las preguntas correctas hasta recopilar sus datos, ​analizarlos y compartirlos, ​no significa mucho ​si no tomamos medidas sobre la base de lo que acabamos de aprender.
+- ​Para mí, esta es la parte más importante, ​especialmente de nuestra encuesta sobre el compromiso de los empleados.
+
+- ​Me gusta decir que la encuesta es, en realidad, la parte más fácil, ​y que el ​verdadero trabajo comienza con actuar en función de los resultados.
+- ​Aquí es donde utilizamos todos esos conocimientos basados en datos para ​decidir qué tipos de intervenciones queremos introducir, ​no solo a nivel organizacional, ​sino también a nivel de equipo.
+- ​Podríamos descubrir, por ejemplo, ​que la organización está trabajando en una serie de ​intervenciones para ayudar a mejorar ​parte de la experiencia de los empleados, ​mientras que los equipos individuales tienen ​funciones y responsabilidades adicionales que desempeñar, ​ya sea para reforzar algunos de esos esfuerzos o para introducir ​otros nuevos para conocer mejor a su equipo en lo que ​respecta a sus puntos fuertes y áreas de oportunidad.
+- ​El proceso de análisis de datos es riguroso, ​pero largo.
+- ​Comprendo perfectamente que, como analistas de datos, nos ​entusiasme tanto ​sumergirnos en los datos y hacer lo que mejor sabemos hacer.
+- ​El desafío es que si no ​analizamos el proceso en su totalidad, ​si tratamos de saltarnos algunos pasos, ​no podremos obtener ​la información que estamos buscando.
+- ​Me encanta mi trabajo.
+- ​Aprecio profundamente ​los datos y lo que pueden hacer y el ​tipo de estadística que podemos obtener de ellos.
