@@ -116,3 +116,39 @@
 - Lo más importante
    - Como analista de datos dispones de muchas herramientas.
    - Este es un primer vistazo a las posibilidades, y usted explorará muchas de estas herramientas en profundidad a lo largo de este programa. 
+
+---
+
+## Elija la herramienta adecuada para el trabajo
+- Como analista de datos, normalmente tendrá que decidir qué programa o solución es el adecuado para el proyecto concreto en el que esté trabajando.
+- En esta lectura, aprenderás más sobre cómo elegir qué herramienta necesitas y cuándo.
+
+- Dependiendo de la fase del proceso de análisis de datos en la que se encuentre, necesitará utilizar diferentes herramientas.
+- Por ejemplo, si te estás centrando en crear visualizaciones complejas y llamativas, entonces las herramientas de visualización de las que hemos hablado antes son la mejor opción.
+- Pero si te centras en organizar, limpiar y analizar datos, entonces probablemente tendrás que elegir entre hojas de cálculo y bases de datos mediante consultas.
+- Tanto las hojas de cálculo como las bases de datos ofrecen formas de almacenar, gestionar y utilizar datos.
+- El contenido básico de ambas herramientas son conjuntos de valores.
+- Sin embargo, también existen algunas diferencias clave:
+
+| Hojas de cálculo | Bases de datos  |
+| --------- | -------------- |
+| Se accede a través de una aplicación informática | Base de datos a la que se accede mediante un lenguaje de consulta |
+| Datos estructurados en formato de filas y columnas | Datos estructurados mediante reglas y relaciones |
+| Organiza la información en celdas | Organiza la información en colecciones complejas |
+| Proporciona acceso a una cantidad limitada de datos | Acceso a grandes cantidades de datos |
+| Introducción manual de datos | Introducción de datos estricta y coherente |
+| Generalmente un usuario a la vez | Múltiples usuarios |
+| Controlado por el usuario | Controlada por un sistema de gestión de bases de datos |
+
+- No hay por qué elegir una u otra, ya que cada una sirve para su propósito.
+- Por lo general, los analistas de datos trabajan con una combinación de las dos, ya que ambas herramientas son muy útiles en el análisis de datos.
+- Por ejemplo, puedes almacenar datos en una base de datos y luego exportarlos a una hoja de cálculo para analizarlos.
+- O, si estás recopilando información en una hoja de cálculo, y resulta demasiado para esa plataforma en particular, puedes importarla a una base de datos.
+- Y, más adelante en este curso, aprenderás sobre lenguajes de programación como Python, que te ofrecen un control aún mayor de tus datos.
+
+- Puntos clave
+   - La elección de las herramientas de análisis de datos depende de la tarea específica que se vaya a realizar.
+   - Las hojas de cálculo son adecuadas para organizar, limpiar y analizar conjuntos de datos pequeños o medianos.
+   - Las bases de datos son ideales para almacenar, gestionar y analizar conjuntos de datos grandes y complejos.
+   - Los analistas de datos suelen utilizar una combinación de hojas de cálculo, bases de datos y lenguajes de programación para gestionar con eficacia una amplia gama de tareas de análisis de datos.
+
