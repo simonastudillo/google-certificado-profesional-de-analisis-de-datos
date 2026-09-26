@@ -188,3 +188,35 @@
 - ​El desafío es que si no ​analizamos el proceso en su totalidad, ​si tratamos de saltarnos algunos pasos, ​no podremos obtener ​la información que estamos buscando.
 - ​Me encanta mi trabajo.
 - ​Aprecio profundamente ​los datos y lo que pueden hacer y el ​tipo de estadística que podemos obtener de ellos.
+
+---
+
+## Ponga a prueba sus conocimientos sobre el Proceso de análisis de datos
+
+1. A un analista de datos junior se le asigna un nuevo proyecto. Definen el problema que deben ayudar a resolver y confirman que comprenden las expectativas. ¿En qué etapa del Proceso de análisis de datos están trabajando?
+   - [ ] Compartir
+   - [x] Pregunte a 
+   - [ ] Analice
+   - [ ] Preparar
+> Están trabajando en el paso de preguntar. Esto implica definir el problema a resolver y confirmar la comprensión de las expectativas.
+
+2. ¿Cómo se denomina a las personas que invierten tiempo y recursos en un proyecto y están interesadas en el resultado?
+   - [ ] Expertos en la materia
+   - [x] Partes Interesadas
+   - [ ] Analistas de datos
+   - [ ] Diseñadores de datos
+> Las partes Interesadas son personas que invierten tiempo y recursos en un proyecto y están interesadas en el resultado.
+
+3. Rellene el espacio en blanco: En el paso del proceso, los analistas de datos pueden eliminar _____, que son puntos de datos que se sitúan significativamente fuera del patrón general de los datos y que potencialmente podrían sesgar la Información.
+   - [ ] estadísticas
+   - [ ] vALORES
+   - [ ] observaciones
+   - [x] valores atípicos
+> En el paso del proceso, los analistas de datos pueden eliminar los valores atípicos, que son puntos de datos que se sitúan significativamente fuera del patrón general de los datos y que podrían sesgar la información.
+
+4. ¿Qué paso del proceso de Análisis de datos es más probable que implique la creación de visuales que ayuden a la gente a entender hechos y cifras complejos?
+   - [ ] Pregunte a
+   - [ ] Actuar
+   - [x] Compartir
+   - [ ] Preparar
+> Lo más probable es que la etapa de participación en el proceso de Análisis de datos implique la creación de elementos visuales que ayuden a comprender hechos y cifras complejos.
