@@ -77,3 +77,42 @@
 - ​Y obtendrás información realmente fascinante sobre cómo funcionan exactamente.
 - En ​poco tiempo, tendrá el conocimiento y la confianza para empezar a usarlos usted mismo.
 - ​Estén atentos.
+
+---
+
+## Herramientas clave del analista de datos
+- Como estás aprendiendo, los programas y soluciones más comunes utilizados por los analistas de datos incluyen hojas de cálculo, lenguajes de consulta y herramientas de visualización.
+- En esta lectura, aprenderá más sobre cada uno de ellos. Sabrás cuándo utilizarlos y por qué son tan importantes en el análisis de datos.
+
+- Hojas de cálculo
+   - Los analistas de datos utilizan hojas de cálculo para recopilar y organizar los datos.
+   - Dos aplicaciones populares de hojas de cálculo que probablemente utilizarás mucho en tu futuro papel como analista de datos son Microsoft Excel y Google Sheets.
+   - Las hojas de cálculo estructuran los datos de forma significativa, ya que permiten
+      - Recopilar, almacenar, organizar y clasificar la información
+      - Identificar patrones y unir los datos de forma que funcionen para cada proyecto de datos específico
+      - Crear excelentes visualizaciones de datos, como gráficos y diagramas.
+
+- Bases de datos y lenguajes de consulta
+   - Una base de datos es una colección de datos estructurados almacenados en un sistema informático.
+   - Algunos programas populares de lenguaje de consulta estructurado (SQL) son MySQL, Microsoft SQL Server y BigQuery.
+   - Lenguajes de consulta
+      - Permiten a los analistas aislar información específica de una o varias bases de datos
+      - Facilitan el aprendizaje y la comprensión de las peticiones realizadas a las bases de datos
+      - Permiten a los analistas seleccionar, crear, añadir o descargar datos de una base de datos para su análisis
+
+- Herramientas de visualización
+   - Los analistas de datos utilizan una serie de herramientas de visualización, como gráficos, mapas, tablas, diagramas, etc.
+   - Dos herramientas de visualización populares son Tableau y Looker.
+   - Estas herramientas
+      - Convierten números complejos en una historia que la gente puede entender
+      - Ayudan a las partes interesadas a llegar a conclusiones que conducen a decisiones informadas y estrategias empresariales eficaces
+      - Tienen múltiples funciones
+   - La sencilla función de arrastrar y soltar de Tableau permite a los usuarios crear gráficos interactivos en cuadros de mando y hojas de trabajo
+   - Looker se comunica directamente con una base de datos, lo que le permite conectar sus datos directamente a la herramienta visual que elija
+
+- Lenguajes de programación
+   - Una carrera como analista de datos también implica el uso de lenguajes de programación, como Python y R, para preparar, procesar, analizar y compartir datos. 
+
+- Lo más importante
+   - Como analista de datos dispones de muchas herramientas.
+   - Este es un primer vistazo a las posibilidades, y usted explorará muchas de estas herramientas en profundidad a lo largo de este programa. 
