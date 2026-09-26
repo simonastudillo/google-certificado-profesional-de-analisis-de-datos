@@ -68,3 +68,69 @@
 - ​Ahora ya conoce los diferentes pasos ​del proceso de análisis de datos y cómo lo refleja nuestro curso.
 - ​Tienes todo lo que necesitas para entender ​cómo funciona este curso.
 - ​Y mis colegas Googlers y yo estaremos aquí ​para guiarlos en cada paso del camino.
+
+---
+
+## Más sobre las fases del Análisis de datos y este Programa
+- Cada paso del proceso de análisis de datos -preguntar, preparar, procesar, analizar, compartir y actuar- desempeña un papel crucial a la hora de extraer información significativa de los datos.
+- A medida que se navega por cada fase, desde la formulación de las preguntas adecuadas hasta la adopción de medidas informadas, se aprovecha el verdadero poder de los datos.
+- En esta lectura, explorará cómo el proceso de análisis de datos guía este programa.
+
+- La fase de preguntas
+   - Al comienzo de cualquier análisis de datos exitoso, el analista de datos
+      - Se toma el tiempo necesario para comprender plenamente las expectativas de las partes interesadas
+      - Define el problema que debe resolverse
+      - Decide qué preguntas responder para resolver el problema
+   - Calificar las expectativas de los interesados significa determinar quiénes son, qué quieren, cuándo lo quieren, por qué lo quieren y cuál es la mejor forma de comunicarse con ellos.
+   - Definir el problema significa analizar la situación actual y determinar en qué se diferencia de la situación ideal.
+   - Una vez calificadas las expectativas y definido el problema, se pueden derivar preguntas que ayuden a alcanzar estos objetivos.
+   - En un próximo curso, aprenderá a formular preguntas eficaces y a definir el problema trabajando con las partes interesadas.
+   - También se tratarán estrategias que pueden ayudarle a compartir lo que descubra de forma que mantenga el interés de la gente.
+
+- La fase de preparación
+   - En la fase de preparación, el énfasis se pone en identificar y localizar los datos que puede utilizar para responder a sus preguntas.
+   - En un próximo curso, aprenderás más sobre los distintos tipos de datos y cómo identificar cuáles son los más útiles para resolver un problema concreto.
+   - También descubrirá por qué es tan importante que los datos y los resultados sean objetivos e imparciales.
+   - En otras palabras, cualquier decisión que se tome a partir de un análisis debe basarse siempre en hechos y ser justa e imparcial.
+
+- La fase del proceso
+   - En esta fase, el objetivo es refinar los datos.
+   - Los analistas de datos buscan y eliminan los errores e imprecisiones que puedan obstaculizar los resultados.
+   - Esto suele significar
+      - Limpiar los datos
+      - Transformar los datos en un formato más útil
+      - Combinar dos o más conjuntos de datos para que la información sea más completa
+      - Eliminar los valores atípicos (puntos de datos que podrían sesgar la información)
+   - Después de procesar los datos, los analistas los comprueban para asegurarse de que están completos y son correctos.
+   - En esta fase se trata de obtener los detalles correctos.
+   - En consecuencia, el analista de datos perfeccionará las estrategias para verificar y compartir su limpieza de datos con las partes interesadas.
+   - En un próximo curso, utilizará hojas de cálculo y lenguaje de consulta estructurado, o SQL, para limpiar datos.
+
+- La fase de análisis
+   - Con una base sólida de preguntas bien definidas y datos limpios, se adentrará en la fase de análisis.
+   - En esta fase es cuando convierte los datos que ha recopilado, preparado y procesado en información procesable.
+   - Los analistas de datos utilizan muchas herramientas potentes en su trabajo.
+   - En uno de los próximos cursos seguirá utilizando dos de ellas: hojas de cálculo y SQL.
+   - En otro curso, explorará el uso del lenguaje de programación Python para trabajar con datos y analizarlos.
+
+- La fase de compartir
+   - Esta fase es exactamente lo que parece: Es el momento de compartir lo que ha aprendido con las partes interesadas.
+   - En esta parte del programa, aprenderá cómo los analistas de datos interpretan los resultados y los comparten con los demás para ayudar a las partes interesadas a tomar decisiones eficaces basadas en datos.
+   - En la fase de compartir, la visualización es la mejor amiga del analista de datos.
+   - Por eso, un próximo curso destacará por qué la visualización es esencial para conseguir que otros entiendan lo que le dicen sus datos.
+
+- La fase de actuación
+   - El viaje del análisis de datos culmina en la fase de acción, cuando los datos se ponen en práctica.
+   - Para ti, esta acción implica prepararte para tu búsqueda de empleo y tener la oportunidad de completar un proyecto de estudio de caso.
+   - Es una gran oportunidad para reunir todo lo que has trabajado a lo largo de este curso.
+   - Además, ¡añadir un caso práctico a tu portafolio te ayudará a destacar entre los demás candidatos!
+
+- Infórmate sobre el proceso a través del programa:
+   - Obtenga más información sobre la fase de formulación del proceso en el curso [Formular preguntas para tomar decisiones basadas en datos](https://www.coursera.org/learn/ask-questions-make-decisions/home/welcome).
+   - Obtenga más información sobre la fase de preparación del proceso en el curso [Prepare los datos para la exploración](https://www.coursera.org/learn/data-preparation/home/welcome).
+   - Obtenga más información sobre la fase de procesamiento del proceso en el curso [Procesar datos de sucios a limpios](https://www.coursera.org/learn/process-data/home/welcome).
+   - Obtenga más información sobre la fase de análisis del proceso en los cursos [Analizar datos para responder preguntas](https://www.coursera.org/learn/analyze-data/home/welcome) e [Introducción al análisis de datos](https://www.coursera.org/learn/data-analysis-r/home/welcome) [con Python](https://www.coursera.org/learn/introduction-to-data-analysis-using-python/home/module/1).
+   - Obtenga más información sobre la fase de compartir del proceso en el curso [Compartir datos a través del arte de la visualización](https://www.coursera.org/learn/visualize-data/home/welcome).
+   - Obtén más información sobre la fase de actuación del proceso en el curso [Google Data Analytics Capstone: Completar un caso práctico](https://www.coursera.org/learn/google-data-analytics-capstone/home/welcome).
+
+>[!NOTE] Los enlaces de los cursos son para que los previsualices. No complete los cursos en este momento. Puede marcar esta actividad como completa una vez que comprenda cómo se alinean los cursos con el proceso de análisis de datos.
