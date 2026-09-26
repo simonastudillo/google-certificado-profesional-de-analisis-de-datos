@@ -115,3 +115,35 @@
    - [x] Un hospital utiliza las Estadísticas de los Registros Sanitarios para identificar a los pacientes que pueden estar en riesgo de contraer determinadas enfermedades.
    - [ ] Una institución financiera pregunta a los cajeros por sus impresiones personales sobre los clientes.
 > Buen trabajo
+
+---
+
+## Consigue tu certificado de análisis de datos de Google
+- Hola soy Amanda, FROM Grow With Google.
+- ​Somos el equipo responsable de los Certificados Profesionales de Google, ​y nos encanta que hayas decidido ​obtener el tuyo en Analítica de datos.
+- ​Los expertos de Google han creado este programa ​para ayudarte a desarrollar las habilidades que te prepararán para el mundo laboral.
+- ​Una vez que obtengas tu certificado, ​te unirás a una comunidad de más de un millón de titulados ​que están iniciando sus nuevas carreras, ​y tendrás acceso inmediato a recursos ​que te ayudarán en el lanzamiento de la tuya.
+- ​Esto incluye una credencial de Google reconocida en el sector ​que podrás añadir a tu currículum ​y a tus perfiles profesionales, como LinkedIn.
+- ​También estamos aquí para apoyarte en todo momento ​mientras te orientas en tu búsqueda de empleo.
+
+- ​Sabemos que encontrar un nuevo trabajo conlleva mucho trabajo.
+- ​Por eso, al final del programa de certificación, ​encontrarás un curso que te muestra formas concretas ​de utilizar la IA para optimizar tu búsqueda.
+- ​Identificarás tus habilidades transferibles, ​actualizarás tu currículum para distintas funciones ​y practicarás entrevistas, ​todo ello con la ayuda de la IA.
+- ​Además, para los alumnos de Estados Unidos, ​podéis inscribiros en un servicio de asesoramiento profesional individualizado ​y acceder a miles de ofertas de empleo ​a través de CareerCircle sin coste alguno para ti.
+- ​Estos valiosos recursos están disponibles en exclusiva ​para los titulados del Certificado Profesional de Google.
+- ​Empezar con buen pie es la mejor manera ​de asegurarte de que completas el programa ​y puedas acceder a estos recursos.
+- ​Aquí tienes algunos de nuestros mejores consejos ​para que llegues hasta el final.
+
+- ​En primer lugar, mantente al día con los plazos, ​especialmente en estas primeras semanas.
+- ​Los alumnos que lo hacen tienen casi el doble de probabilidades ​de completar su certificado.
+- ​En segundo lugar, únete a la comunidad de alumnos desde el primer momento.
+- ​Es un lugar estupendo para recibir consejos ​y conectar con otros alumnos como tú.
+- ​Contar con esta comunidad como recurso al que acudir ​si te quedas atascado aumenta considerablemente ​tus posibilidades de éxito.
+- ​Y, por último, no te desanimes si te enfrentas a dificultades.
+- ​Son cosas que pasan.
+
+- ​Recuerda qué te ha traído hasta aquí.
+- ​Aprovecha el apoyo que tienes a tu disposición.
+- ​Y ten claro que, con perseverancia, ​lo tienes todo bajo control.
+- ​Para conocer las últimas novedades de Google sobre orientación profesional, FROM Google, ​ideas sobre cómo utilizar la IA y notificaciones sobre nuevos cursos, ​suscríbete a nuestro Boletín informativo en grow.google/updates.
+- ​Te deseamos lo mejor ​ahora que te embarcas en este emocionante viaje, ​y esperamos poder ayudarte ​AS you earn your Google Career Certificate.
