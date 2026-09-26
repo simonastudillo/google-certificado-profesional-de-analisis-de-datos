@@ -181,3 +181,7 @@
    - Prepararte para la práctica
    - Mantenerte organizado
    - Refuerza conceptos
+
+---
+
+## Canjea tu prueba de Google AI Pro
