@@ -207,3 +207,35 @@ En futuros proyectos, comenzaría por definir el problema y las expectativas, y 
 Aunque el proceso de análisis de datos impulsará sus proyectos y le ayudará a alcanzar sus objetivos empresariales, debe comprender el ciclo de vida de sus datos para poder utilizar ese proceso. Para analizar bien sus Datos, necesita conocerlos a fondo. Del mismo modo, puede recopilar todos los Datos que desee, pero éstos sólo le serán útiles si dispone de un plan para analizarlos.
 
 Las fases Planificar y Preguntar implican ambas la planificación y la formulación de preguntas, pero abordan sujetos diferentes. La fase Preguntar del proceso de análisis de datos se centra en el pensamiento estratégico a gran escala sobre los objetivos empresariales. Sin embargo, la fase Plan se centra en los aspectos fundamentales del proyecto, como a qué datos tiene acceso, qué datos necesita y de dónde los va a obtener.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre la caja de herramientas de Análisis de datos
+
+1. ¿Cómo se denomina una hoja de cálculo digital que los analistas de datos utilizan para almacenar, organizar y clasificar datos?
+   - [x] Hoja de cálculo
+   - [ ] Aplicación
+   - [ ] Documentación
+   - [ ] Informe 
+> Una hoja de cálculo es una hoja de trabajo digital que los analistas de datos utilizan para almacenar, organizar y clasificar datos.
+
+2. ¿Cuál es la diferencia clave entre una fórmula y una función?
+   - [ ] Una Fórmula es una orden preestablecida, mientras que una Función es un conjunto de instrucciones.
+   - [ ] Una fórmula realiza automáticamente un proceso o tarea, mientras que una función requiere que el usuario escriba instrucciones para que se ejecute.
+   - [x] Una Fórmula es un conjunto de instrucciones, mientras que una Función es una orden preestablecida.
+   - [ ] Una fórmula es una forma más eficaz de ejecutar una tarea que una función.
+> Una Fórmula es un conjunto de instrucciones, mientras que una Función es una orden preestablecida.
+
+3. ¿Qué significa SQL?
+   - [x] Lenguaje de Consulta Estructurada
+   - [ ] Lista de cocientes de software
+   - [ ] Nivel de calidad sistemático
+   - [ ] Buscador de preguntas
+> SQL son las siglas de Lenguaje de Consulta Estructurado. SQL permite a los analistas de datos comunicarse con una base de datos.
+
+4. ¿Qué herramienta de la caja de herramientas del analista de datos implica con mayor probabilidad la creación de gráficos, mapas o diagramas?
+   - [x] Visualización de datos
+   - [ ] Hoja de cálculo
+   - [ ] Base de datos
+   - [ ] SQL
+> Lo más probable es que la Visualización de datos implique la creación de Gráficos, Mapas o Cuadros.
