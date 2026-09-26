@@ -171,3 +171,13 @@
    - El ciclo de vida de los datos de HBS tampoco contempla una fase de purga o destrucción de datos.
    - En cambio, el Ciclo de vida de los datos de finanzas identifica claramente las etapas de archivo y purga.
    - En resumen, aunque los ciclos de vida de los datos varían, hay un principio universal para su gestión: Controlar el tratamiento de los Datos para que sean precisos, seguros y estén disponibles para satisfacer las necesidades de la organización.
+
+---
+
+## Obtén ayuda con tus estudios gracias a Google AI Pro de forma gratuita
+- Con Google AI Pro, puedes:
+   - Sintetizar información
+   - Incorporar la IA a tu flujo de trabajo
+   - Prepararte para la práctica
+   - Mantenerte organizado
+   - Refuerza conceptos
