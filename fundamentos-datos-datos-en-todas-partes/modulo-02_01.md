@@ -40,3 +40,61 @@
 4. Analyze: Use data analysis tools to draw conclusions
 5. Share: Interpret and communicate results to others to make data-driven decisions
 6. Act: Put your insights to work in order to solve the original problem
+
+---
+
+## Etapas del Ciclo de vida de los datos
+- ​He aquí una pregunta para usted.
+- ​Cuando piensa en un ciclo vital, ¿qué es lo primero que le viene a la mente? ​Aunque no leo la mente, sé que cualquier cosa que esté pensando es correcta.
+- ​En realidad no hay una respuesta incorrecta porque todo tiene un ciclo vital.
+- ​Uno de los ejemplos más conocidos de un ciclo vital es una mariposa.
+- ​Las mariposas comienzan como huevos, eclosionan en orugas y luego se convierten en crisálidas.
+- ​Ahí es donde ocurre la verdadera magia.
+
+- ​Los datos también tienen su propio ciclo de vida.
+- ​En este vídeo, vamos a hablar de cada una de las etapas de ese ciclo de vida ​para ayudarle a comprender las fases individuales por las que pasan los datos.
+- ​El ciclo de vida de los datos es planificar, capturar, gestionar, ​analizar, archivar y destruir.
+
+- ​Empecemos por la primera fase, la planificación.
+- ​En realidad, esto sucede mucho antes de iniciar un proyecto de análisis.
+- ​Durante la planificación, una empresa decide qué tipo de datos necesita, ​cómo se gestionarán a lo largo de su ciclo de vida, ​quién será responsable de ellos y los resultados óptimos.
+- ​Por ejemplo, supongamos que un proveedor de electricidad quisiera obtener información ​sobre cómo ahorrar energía a la gente.
+- ​En la Fase de planificación, podría decidir capturar información sobre cuánta ​electricidad consumen sus clientes cada año, ​qué tipos de edificios están siendo alimentados y ​qué tipos de dispositivos están siendo alimentados en su interior.
+- La compañía eléctrica ​decidirá también qué Miembros del equipo serán responsables de recopilar, almacenar, ​y compartir esos datos.
+- Todo esto sucede durante la planificación, y ​ayuda a establecer el resto del proyecto.
+
+- La siguiente fase es la de captura de datos.
+- ​Aquí es donde se recopilan los datos de una variedad de fuentes diferentes y se ​introducen en la organización.
+- ​Con tantos datos que se crean cada día, ​las formas de recopilarlos son realmente infinitas.
+- ​Un método común es obtener datos de recursos externos.
+- Por ejemplo, ​si estuviera haciendo un análisis de datos sobre patrones meteorológicos, probablemente obtendría datos de ​un conjunto de datos disponible públicamente como el Centro Nacional de Datos Climáticos.
+- ​Otra forma de obtener datos es a partir de los propios documentos y archivos de una empresa, ​que suelen estar almacenados dentro de una base de datos.
+- Aunque ya hemos mencionado antes las bases de datos, ​no hemos entrado en demasiados detalles sobre lo que son.
+- ​Una base de datos es una colección de datos almacenados en un sistema informático.
+- ​En el caso de nuestro proveedor de electricidad, la empresa probablemente mediría el uso de datos ​entre sus clientes dentro de una base de datos de su propiedad.
+- Como nota rápida, ​cuando se mantiene una base de datos de información de clientes, garantizar la integridad de los datos, ​la credibilidad y la privacidad son preocupaciones importantes.
+- ​Aprenderá mucho más sobre esto más adelante.
+
+- ​Ahora que hemos capturado nuestros datos, ​pasaremos a la siguiente fase del ciclo de vida de los datos, gestionar.
+- ​Aquí hablamos de cómo cuidamos nuestros datos, ​cómo y dónde se almacenan, ​las herramientas utilizadas para mantenerlos a salvo y seguros, y ​las medidas adoptadas para asegurarnos de que se mantienen adecuadamente.
+- ​Esta fase es muy importante para la limpieza de datos, que trataremos más adelante.
+
+- ​A continuación, es hora de analizar sus datos.
+- Aquí es donde los analistas de datos brillan de verdad.
+- ​En esta fase, los datos se utilizan para resolver problemas, tomar grandes decisiones y ​apoyar los objetivos empresariales.
+- ​Por ejemplo, uno de los objetivos de nuestra compañía eléctrica podría ser encontrar formas ​de ayudar a los clientes a ahorrar energía.
+- ​Ahora, al avanzar por el ciclo de vida de los datos, se pasa a la fase de archivo.
+
+- Archivar significa almacenar los datos en un lugar donde aún estén disponibles, pero ​puedan no volver a utilizarse.
+- ​Durante el análisis, los analistas manejan enormes cantidades de datos.
+- ​¿Se imagina que tuviéramos que clasificar todos los datos disponibles que hay ​por ahí, aunque ya no fueran útiles ni relevantes para nuestro trabajo? ​Tiene mucho más sentido archivarlos que conservarlos.
+- ​Y por último, el último paso del ciclo de vida de los datos, la fase de destrucción.
+- ​Sí, suena triste, pero cuando se destruyen los datos, no duele nada.
+- ​Volvamos a nuestro ejemplo del proveedor de electricidad.
+- ​Tendrían datos almacenados en varios discos duros.
+
+- ​Para destruirlos, la empresa utilizaría un software de borrado seguro de datos.
+- ​Si hubiera archivos en papel, también se triturarían.
+- ​Esto es importante para proteger la información privada de una empresa, ​así como los datos privados de sus Clientes.
+- ​Y ahí lo tiene, el ciclo de vida de los datos.
+- ​Y ahora que comprende las diferentes fases por las que pasan los datos durante su ciclo de vida ​, puede entender mejor cómo enfocar el proceso de análisis de datos, ​del que hablaremos próximamente.
