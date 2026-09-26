@@ -98,3 +98,76 @@
 - ​Esto es importante para proteger la información privada de una empresa, ​así como los datos privados de sus Clientes.
 - ​Y ahí lo tiene, el ciclo de vida de los datos.
 - ​Y ahora que comprende las diferentes fases por las que pasan los datos durante su ciclo de vida ​, puede entender mejor cómo enfocar el proceso de análisis de datos, ​del que hablaremos próximamente.
+
+---
+
+## Variaciones del Ciclo de vida de los datos
+- Has aprendido que el Ciclo de vida de los datos consta de seis etapas. Aquí tienes un resumen:
+   - Planificar: Decidir qué tipo de datos se necesitan, cómo se gestionarán y quién será responsable de ellos.
+   - Captar: Recopilar o traer datos de distintas fuentes.
+   - Gestionar: Cuidar y mantener los Datos. Esto incluye determinar cómo y dónde se almacenan y las herramientas utilizadas para ello.
+   - Analizar: Utilizar los Datos para resolver problemas, tomar decisiones y respaldar los objetivos empresariales.
+   - Archivar: Mantener los Datos relevantes almacenados para su consulta a largo plazo y en el futuro.
+   - Destruir: Sacar los datos del almacén y eliminar cualquier copia compartida de los mismos.
+
+>[!NOTE] Tenga cuidado de no confundir las seis etapas del ciclo de vida de los datos (planificar, capturar, gestionar, analizar, archivar y destruir) con las seis fases del proceso de análisis de datos (preguntar, preparar, procesar, analizar, compartir y actuar). No son intercambiables.
+
+- El ciclo de vida de los datos proporciona un framework genérico o común para la gestión de los datos.
+- Tal vez recuerde que en [Orígenes del proceso de análisis de datos](https://www.coursera.org/learn/foundations-data/supplement/WWlrt/origins-of-the-data-analysis-process) se describieron variaciones del ciclo de vida de los datos.
+- Lo mismo puede hacerse con el Ciclo de vida de los datos.
+- El resto de esta lectura proporciona una visión de cómo las instituciones gubernamentales, financieras y educativas pueden ver los ciclos de vida de los datos de una manera un poco diferente.
+
+- Servicio de Pesca y Vida Silvestre de EE.UU
+   - El Servicio de Pesca y Vida Silvestre de EE.UU. utiliza el siguiente ciclo de vida de los datos:
+      - Planificación
+      - Adquirir
+      - Mantener
+      - Accesibilidad 
+      - Evaluación
+      - Archivar
+   - Para más información, consulte la página del [ciclo de vida de la Administración de datos de U.S. Fish and Wildlife](https://www.fws.gov/program/data-management/data-management-life-cycle)
+
+- Encuesta Geológica de Estados Unidos (USGS)
+   - El USGS utiliza el siguiente ciclo de vida de los datos:
+      - Planificación
+      - Adquirir
+      - Proceso
+      - Analizar
+      - Conservar
+      - Publicar/compartir
+   - También se realizan varias actividades transversales o generales durante cada etapa de su ciclo de vida:
+      - Describir (metadatos y Documentación)
+      - Gestionar la calidad
+      - Realizar copias de seguridad
+   - Para más información, consulte la página [Ciclo de vida de los datos del USGS.](https://www.usgs.gov/products/data-and-tools/data-management/data-lifecycle)
+
+- Instituciones financieras
+   - Las instituciones financieras pueden adoptar un enfoque ligeramente diferente del ciclo de vida de los datos, tal y como se describe en [The Datos Life Cycle](https://sfmagazine.com/post-entry/july-2018-the-data-life-cycle/), un artículo de la revista Strategic Finance:
+      - Capturar
+      - Cualificar
+      - Transformar
+      - Utilizar
+      - Informe
+      - Archivar
+      - Depurar
+   
+- Escuela de Negocios de Harvard (HBS)
+   - Un último ciclo de vida de los datos basado en la investigación de la Universidad de Harvard consta de ocho etapas:
+      - Generación
+      - Recopilación
+      - Procesamiento
+      - Almacenamiento 
+      - Gestionar
+      - Análisis
+      - Visualización de datos
+      - Interpretación
+   - Para más información, consulte [8 Pasos en el ciclo de vida de los datos.](https://online.hbs.edu/blog/post/data-life-cycle)
+
+- Puntos clave
+   - Comprender la importancia del ciclo de vida de los datos te preparará para el éxito como Analista de datos.
+   - Las etapas individuales del ciclo de vida de los datos variarán de una empresa a otra o según la industria o el sector.
+   - Los datos históricos son importantes tanto para el Servicio de Pesca y Vida Silvestre de EE.UU. como para el USGS, por lo que su ciclo de vida de los datos se centra en el archivo y las copias de seguridad de los datos.
+   - Los intereses de Harvard se centran en la investigación y la enseñanza, por lo que su ciclo de vida de los datos incluye la visualización y la interpretación, aunque éstas se asocien más a menudo con un ciclo de vida de análisis de datos.
+   - El ciclo de vida de los datos de HBS tampoco contempla una fase de purga o destrucción de datos.
+   - En cambio, el Ciclo de vida de los datos de finanzas identifica claramente las etapas de archivo y purga.
+   - En resumen, aunque los ciclos de vida de los datos varían, hay un principio universal para su gestión: Controlar el tratamiento de los Datos para que sean precisos, seguros y estén disponibles para satisfacer las necesidades de la organización.
