@@ -28,3 +28,15 @@
 - ​Eso me inspiró para ir aún más lejos ​y aprender a utilizar las hojas de cálculo ​de muchas formas increíbles.
 - ​A medida que avance en este curso, ​apuesto a que quedará tan impresionado como yo.
 - ​Y antes de que se dé cuenta, también dará vida a los datos ​.
+
+---
+
+## Fases del análisis de datos
+- In this categorization exercise, you’ll confirm the correct order of the six phases of data analysis.
+
+1. Ask: Define the problem and confirm stakeholder expectations
+2. Prepare: Collect and store data for analysis
+3. Process: Clean and transform data to ensure integrity
+4. Analyze: Use data analysis tools to draw conclusions
+5. Share: Interpret and communicate results to others to make data-driven decisions
+6. Act: Put your insights to work in order to solve the original problem
