@@ -152,3 +152,58 @@
    - Las bases de datos son ideales para almacenar, gestionar y analizar conjuntos de datos grandes y complejos.
    - Los analistas de datos suelen utilizar una combinación de hojas de cálculo, bases de datos y lenguajes de programación para gestionar con eficacia una amplia gama de tareas de análisis de datos.
 
+---
+
+## Autorreflexión: Repasar conceptos anteriores
+
+- Visión general
+   - Ahora que se ha introducido en el trabajo con datos, deténgase un momento y reflexione sobre lo que está aprendiendo.
+   - En esta autorreflexión, considerará sus ideas sobre el proceso de análisis de datos y el ciclo de vida de los datos y, a continuación, responderá a unas breves preguntas.
+   - Esta autorreflexión le ayudará a desarrollar ideas sobre su propio aprendizaje y le preparará para aplicar sus conocimientos sobre las fases del análisis de datos a su caja de herramientas de análisis de datos.
+   - A medida que responda a las preguntas -y formule las suyas propias- tendrá en cuenta conceptos, prácticas y principios que le ayudarán a refinar su comprensión y a reforzar su aprendizaje
+   - Usted ha hecho el trabajo duro, así que asegúrese de sacarle el máximo partido: ¡Esta reflexión le ayudará a que sus conocimientos se queden grabados!
+
+- Revisar las fases de los datos
+   - Repase las fases de los datos
+      - Hasta ahora ha aprendido sobre el proceso de Análisis de datos y el ciclo de vida de los datos.
+      - Incluyen las siguientes fases:
+         - Proceso de análisis de datos:
+            1. Pregunte a
+            2. Prepare
+            3. Procesar
+            4. Analizar
+            5. Compartir
+            6. Actuar
+         - Ciclo de vida de los datos:
+            1. Planificar
+            2. Captar
+            3. Gestionar
+            4. Analizar
+            5. Archivar
+            6. Destruir
+
+1. Reflexión
+- Considere lo que ha revisado sobre las fases del Análisis de datos y las etapas del Ciclo de vida de los datos:
+- ¿Qué relación existe entre el Ciclo de vida de los datos y el proceso de Análisis de datos? ¿En qué se parecen ambos procesos? ¿En qué se diferencian?
+- ¿Qué relación hay entre la fase de Pregunta del proceso de Análisis de datos y la Fase de planificación del Ciclo de vida de los datos? ¿En qué se parecen? ¿En qué se diferencian?
+- Reflexione sobre lo aprendido y piense cómo puede aplicar las fases de los Datos a futuros proyectos.
+- Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+1. Relación entre ambos procesos
+
+El ciclo de vida de los datos y el proceso de análisis se relacionan porque ambos organizan el trabajo con datos mediante etapas. El primero abarca su gestión desde la planificación hasta la destrucción; el segundo se centra en utilizarlos para resolver problemas y comunicar resultados que orienten decisiones.
+
+2. Relación entre preguntar y planificar
+
+La fase de preguntar define el problema que se busca resolver y las expectativas de las partes interesadas, mientras que planificar determina qué datos se necesitan, cómo se gestionarán y quién será responsable. Ambas orientan el trabajo desde el inicio, pero se enfocan, respectivamente, en el problema y en la gestión de los datos.
+
+3. Aplicación en futuros proyectos
+
+En futuros proyectos, comenzaría por definir el problema y las expectativas, y planificaría qué datos necesito y cómo los gestionaría. Después, preparar, procesar y analizar los datos, comunicar los resultados y usarlos para orientar acciones. También establecer cómo conservar o eliminar los datos cuando dejen de ser necesarios.
+
+- Comentarios
+¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una buena reflexión sobre este tema tendría en cuenta las fases que atraviesan los datos en su ciclo de vida y cómo repercute esto en el proceso de análisis de datos.
+
+Aunque el proceso de análisis de datos impulsará sus proyectos y le ayudará a alcanzar sus objetivos empresariales, debe comprender el ciclo de vida de sus datos para poder utilizar ese proceso. Para analizar bien sus Datos, necesita conocerlos a fondo. Del mismo modo, puede recopilar todos los Datos que desee, pero éstos sólo le serán útiles si dispone de un plan para analizarlos.
+
+Las fases Planificar y Preguntar implican ambas la planificación y la formulación de preguntas, pero abordan sujetos diferentes. La fase Preguntar del proceso de análisis de datos se centra en el pensamiento estratégico a gran escala sobre los objetivos empresariales. Sin embargo, la fase Plan se centra en los aspectos fundamentales del proyecto, como a qué datos tiene acceso, qué datos necesita y de dónde los va a obtener.
