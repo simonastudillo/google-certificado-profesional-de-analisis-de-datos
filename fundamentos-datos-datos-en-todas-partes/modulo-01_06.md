@@ -27,3 +27,8 @@
 
 - ​Me muero por ver a dónde vas con el análisis de datos.
 - ​Sin embargo, por ahora, date una palmadita en la espalda ​por un trabajo bien hecho.
+
+---
+
+## Glosario de términos del curso 1, módulo 1
+- El glosario completo se encuentra [aquí](./README.md#glosario)
