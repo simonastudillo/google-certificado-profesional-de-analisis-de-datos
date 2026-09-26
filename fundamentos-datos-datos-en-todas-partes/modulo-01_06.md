@@ -32,3 +32,12 @@
 
 ## Glosario de términos del curso 1, módulo 1
 - El glosario completo se encuentra [aquí](./README.md#glosario)
+
+---
+
+## Estrategias de evaluación
+- A medida que avance en este Programa, completará evaluaciones puntuadas al final de cada Módulo.
+- Las evaluaciones son una señal útil para que anote sus progresos o identifique los conceptos o habilidades que necesita repasar.
+- Sin embargo, a veces las evaluaciones pueden resultar abrumadoras.
+- Abordarlas con una estrategia puede hacerlas más manejables.
+- Para ayudarle a conseguirlo, esta lectura le proporcionará una lista de consejos y estrategias que puede utilizar para prepararse para el éxito y sentirse seguro de su capacidad para superarlas.
