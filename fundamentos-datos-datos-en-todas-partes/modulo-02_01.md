@@ -185,3 +185,35 @@
 ---
 
 ## Canjea tu prueba de Google AI Pro
+
+---
+
+## Ponga a prueba sus conocimientos sobre el Ciclo de vida de los datos
+
+1. Hay seis fases en el Ciclo de vida de los datos, que culminan con analizar, archivar y destruir. ¿Cuál es el orden correcto de las tres primeras fases?
+   - [x] Planificar, captar, gestionar
+   - [ ] Gestionar, captar, planificar
+   - [ ] Planificar, Gestionar, Captar
+   - [ ] Gestionar, planificar, captar
+> El orden correcto es planificar, capturar, gestionar. La progresión del ciclo de vida de los datos es: planificar, capturar, gestionar, analizar, archivar y destruir.
+
+2. Rellene el espacio en blanco: Durante la fase _____, los Equipos de Datos deciden qué tipo de Datos se necesitan y quién será responsable de ellos.
+   - [ ] analice
+   - [x] planificación
+   - [ ] capture
+   - [ ] gestionar
+> Durante la Fase de planificación, los Equipos de datos deciden qué tipo de datos se necesitan y quién será responsable de ellos.
+
+3. Un Equipo de Datos considera cómo y dónde se almacenarán los datos, qué herramientas se necesitan para salvaguardarlos y cómo mantenerlos adecuadamente. ¿Qué fase del Ciclo de vida de los datos describe este escenario?
+   - [ ] Analice
+   - [x] Gestionar
+   - [ ] Archivo
+   - [ ] Capture
+> La consideración de cómo y dónde se almacenarán los datos, qué herramientas se necesitan para salvaguardarlos y cómo mantenerlos adecuadamente tiene lugar durante la fase de gestión. 
+
+4. ¿Cómo se denomina el sistema informático en el que las organizaciones almacenan sus Datos?
+   - [ ] Caché
+   - [x] Base de datos
+   - [ ] Ecosistema de datos
+   - [ ] Catálogo
+> Una Base de datos es el sistema informático en el que las organizaciones almacenan sus datos.
