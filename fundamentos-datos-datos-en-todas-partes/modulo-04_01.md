@@ -129,3 +129,20 @@ Al comparar el volumen de accesos, los tiempos de espera y el personal disponibl
 Por ejemplo, considere un restaurante que entrega comida fría a sus clientes. Más datos sobre el proceso de entrega, como el tiempo medio de entrega o el número medio de entregas diarias, podrían ayudar al restaurante a racionalizar el proceso y entregar la comida a tiempo.
 
 La Analítica de datos ayuda a las empresas a tomar mejores decisiones, pero llegar a ello es un proceso. Comienza con el análisis de un problema empresarial, la identificación de datos sobre ese problema y, a continuación, el uso del análisis de datos para llegar a una respuesta. A veces se obtiene una respuesta que resuelve el problema empresarial, pero a menudo es igual de probable que se descubran otras cuestiones que investigar más a fondo.
+
+---
+
+## Tony: Apoyando las carreras en el análisis de datos
+- Para cualquier analista, para cualquier persona ​que se encuentre honestamente en las primeras etapas de su carrera, ​entender los datos, respetarlos y ​saber cómo trabajar con los datos es increíblemente importante porque, ​mi visión es que cada puesto, de ​alguna forma o manera, implicará datos y su uso ​para aprender a extraer información de ellos será ​la base de cualquier función crítica ​en cualquier organización empresarial.
+- ​Por lo general, en esos dos primeros años, ​estás desarrollando las ​habilidades básicas que te convierten en un fantástico generalista, ​y luego, en los próximos 2 a 5 años, ​aprendes sobre algo ​muy específico en lo que respecta a tu trabajo.
+- ​Ya sea el área en la que apoyas ​o quizás un componente muy técnico.
+- Por ejemplo ​, supongamos que quieres ​convertirte en un experto en SQL ​para poder manipular grandes conjuntos de datos con fines de análisis financiero.
+- ​Del mismo modo, incluso si se dedica a las ​finanzas como analista ​de datos, puede dejar las finanzas y dedicarse a lo que ​a mucha gente le gusta llamar el negocio, ​que normalmente son sus funciones de operaciones, y ​convertirse en analista de negocios o analistas de datos.
+- ​Hay tantos caminos diferentes que puedes tomar desde ​el punto de partida que ​realmente no puedes predecir tu final.
+- ​Me apasiona profundamente trabajar con los ​jóvenes y apoyarlos y realmente ​darles un impulso a su carrera.
+
+- ​Honestamente, esto se debe a mi propia experiencia personal, ​en la que, en los dos primeros años de mi carrera, ​prácticamente no conté con el apoyo ​de mi gerente ni de mi cadena de administración directa.
+- ​Tras haber pasado por esa experiencia en mis primeros años, me ​doy cuenta y he sentido la ​experiencia de que eso puede ​ralentizarte, y especialmente cuando eres alguien que tiene mucho ​potencial y mucha habilidad, ​quieres estar en un entorno que ​fomente esa capacidad y realmente quieres verte crecer.
+- ​Creo que es increíblemente importante ​contar con programas como estos que ​eliminen todas las barreras ​que eliminan cualquiera de los conceptos que impiden que ​las personas puedan averiguar lo que ​necesitan en una industria como esta, ​para tener éxito en un puesto como el de analista de datos, de ​modo que ellas mismas puedan ​soñar con el rumbo que pueden alcanzar en su carrera.
+- ​Me llamo Tony.
+- Soy gerente de programas financieros en Google.
