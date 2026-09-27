@@ -555,3 +555,21 @@ WHERE
 - Puntos clave
    - Los mejores analistas de datos utilizan muchas herramientas y métodos diferentes para visualizar y compartir sus datos.
    - A medida que continúe aprendiendo más sobre la visualización de datos a lo largo de este curso, asegúrese de mantener la curiosidad, investigar diferentes opciones y probar continuamente nuevos programas y plataformas para ayudarle a sacar el máximo provecho de sus datos.
+
+---
+
+## Lilah El poder de una visualización
+- Mi nombre es Lilah Jones y formo parte de nuestro equipo de nube.
+- ​Tengo la oportunidad de dirigir un equipo de personas increíbles que se centran en ayudar a ​los clientes a llegar a la nube.
+- ​Datos visualizables, esa es una palabra larga y ​que también puede hacer que tus ojos se pongan vidriosos.
+- ​Pero me pregunto si, cuando eras pequeño y estabas con tus padres, ​tal vez ellos tenían una rutina para dormir o tal vez tienes hijos, ​estás haciendo una rutina para dormir con ellos.
+- ​Muy pocas veces vas a acudir a esos niños con un montón de datos y ​cifras antes de que se vayan a dormir.
+- ​Pero apuesto a que probablemente les estás contando una historia, les estás mostrando imágenes, ​sé que siempre me han gustado los cómics, las imágenes cuentan una historia.
+- ​Las visualizaciones de datos son imágenes, son una forma maravillosa de tomar ​ideas muy básicas sobre datos y puntos de datos y hacerlas realidad.
+
+- ​Puedes hacer diferentes tipos de combinaciones de visualizaciones, ​pero las que son interactivas, vaya, son enormes.
+- ​¿Te imaginas ser el ejecutivo de una organización y ​tratar de averiguar cómo deberíamos abrir otro sitio en Bangkok? ​¿Tiene sentido? Y el hecho de que podamos entrar y decir: ​He aquí por qué tiene sentido tener excelentes visualizaciones de datos que respalden todos ​nuestros puntos de vista, hace que sea una obviedad.
+- ​Curiosamente, sí recuerdo la primera vez que me encontré con una ​visualización increíble, fue en mi vida personal.
+- ​Cambié mi software de presupuestación de un proveedor a otro, y ​el proveedor al que me cambié se centró realmente en que cada dólar tuviera un trabajo y en ​asegurarse de que se presupueste, cada dólar.
+- ​Ofrecían visualizaciones que cambiaban, según la entrada que se le ​añadiera y, en realidad, eso cambió por completo mi perspectiva, todo el asunto.
+- ​Por lo tanto, tener los datos es como tener la hoja de respuestas para una prueba, en ​realidad solo te permite saber que vas a tomar buenas decisiones porque está ​respaldada por datos.
