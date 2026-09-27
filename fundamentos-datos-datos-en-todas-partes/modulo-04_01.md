@@ -81,3 +81,51 @@
 - ​Al principio de mi carrera, me centré un poco más en las piezas técnicas y ​quería asegurarme de que tenía los conocimientos técnicos adecuados para poder responder a ​las preguntas.
 - ​Pero lo que descubrí es que, con el tiempo, necesité hacer crecer ese otro lado por igual.
 - ​Y creo que mi carrera me ha dado la oportunidad de ​trabajar cada uno de esos músculos, la parte de la interacción humana y la parte técnica ​para asegurarme de que ambos crecen al final del día.
+
+---
+
+## Autorreflexión: Uso empresarial de los Datos (Business-to-Business)
+
+- Visión general
+   - Ahora que se ha introducido en el papel de un analista de datos, deténgase un momento y piense en lo que está aprendiendo.
+   - En esta autorreflexión, reflexionará sobre cómo utilizan los datos las industrias y responderá a unas breves preguntas.
+   - Esta autorreflexión le ayudará a desarrollar perspectivas sobre su propio aprendizaje y le preparará para conectar sus conocimientos sobre las responsabilidades de un analista de datos con escenarios empresariales del mundo real.
+   - A medida que responda a las preguntas -y formule las suyas propias- tendrá en cuenta conceptos, prácticas y principios que le ayudarán a refinar su comprensión y a reforzar su aprendizaje.
+   - Usted ha hecho el trabajo duro, así que asegúrese de sacarle el máximo partido: ¡Esta reflexión le ayudará a que sus conocimientos se queden grabados! 
+
+- Cómo utiliza los datos una empresa
+   - En esta autorreflexión, tendrá en cuenta las empresas con las que interactúa a diario y reflexionará sobre cómo utilizan los datos para mejorar la experiencia de sus clientes.
+   - Elija una empresa, servicio o producto con el que haya tenido una experiencia personal que utilice los datos para mejorar su servicio al cliente.
+   - Algunos ejemplos son los restaurantes locales, los proveedores de atención sanitaria, los proveedores de Internet o su aplicación de smartphone favorita.
+   - A continuación, piense en un problema específico de la experiencia del cliente que pueda tener esta empresa, servicio o producto y que sospeche que podría abordarse con datos.
+   - Podría ser algo así como que un restaurante haga un seguimiento de las ventas de un nuevo producto o que los proveedores de servicios de internet intenten averiguar dónde se producen los cortes.
+   - Intente evitar los problemas generales y piense en cuestiones concretas.
+   - Un buen ejemplo de problema sería que la comida que encargó a un servicio de reparto llegara fría.
+
+1. Reflexión
+- Considere la empresa, servicio o producto que ha elegido en esta reflexión:
+- ¿Cómo podría utilizar los Datos para mejorar la experiencia del cliente?
+- ¿Qué tipo de Datos necesitaría recopilar?
+- ¿Cómo podría resolver un problema la información procedente de esos datos?
+- Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuesta
+
+¿Cómo podría utilizar los datos para mejorar la experiencia del cliente?
+
+En los sistemas de conserjería con los que interactúo a diario, utilizaría datos para identificar los días y horarios con mayor congestión en los accesos. Esto permitiría coordinar mejor los turnos de conserjes y guardias, reducir las esperas de residentes y visitantes y mantener un control de acceso adecuado.
+
+¿Qué tipo de datos necesitaría recopilar?
+
+Recopilaría la cantidad de entradas y salidas por hora y día de la semana, distinguiendo entre peatones y vehículos, y entre residentes, visitantes y repartidores. También registraría los tiempos de espera y de atención, junto con la cantidad de conserjes y guardias disponibles en cada turno.
+
+¿Cómo podría resolver un problema la información procedente de esos datos?
+
+Al comparar el volumen de accesos, los tiempos de espera y el personal disponible, podría identificar cuándo se forman filas y evaluar si hace falta reforzar algún turno. Con esa información, propondría ajustes en los horarios del personal y comprobaría después si disminuyen las demoras sin afectar la seguridad.
+
+- Comentarios
+¡Gran trabajo reforzando su aprendizaje con una autorreflexión reflexiva! Una reflexión sólida sobre este tema consideraría cómo un tipo específico de datos puede ayudar a una empresa, producto o servicio a mejorar su experiencia de servicio al cliente.
+
+Por ejemplo, considere un restaurante que entrega comida fría a sus clientes. Más datos sobre el proceso de entrega, como el tiempo medio de entrega o el número medio de entregas diarias, podrían ayudar al restaurante a racionalizar el proceso y entregar la comida a tiempo.
+
+La Analítica de datos ayuda a las empresas a tomar mejores decisiones, pero llegar a ello es un proceso. Comienza con el análisis de un problema empresarial, la identificación de datos sobre ese problema y, a continuación, el uso del análisis de datos para llegar a una respuesta. A veces se obtiene una respuesta que resuelve el problema empresarial, pero a menudo es igual de probable que se descubran otras cuestiones que investigar más a fondo.
