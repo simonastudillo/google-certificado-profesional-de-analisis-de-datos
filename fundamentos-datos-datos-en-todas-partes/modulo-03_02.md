@@ -573,3 +573,50 @@ WHERE
 - ​Cambié mi software de presupuestación de un proveedor a otro, y ​el proveedor al que me cambié se centró realmente en que cada dólar tuviera un trabajo y en ​asegurarse de que se presupueste, cada dólar.
 - ​Ofrecían visualizaciones que cambiaban, según la entrada que se le ​añadiera y, en realidad, eso cambió por completo mi perspectiva, todo el asunto.
 - ​Por lo tanto, tener los datos es como tener la hoja de respuestas para una prueba, en ​realidad solo te permite saber que vas a tomar buenas decisiones porque está ​respaldada por datos.
+
+---
+
+## Ponga a prueba sus conocimientos sobre SQL y la visualización de datos
+
+1. ¿Qué parte de la siguiente consulta solicita que se seleccionen todas las columnas de la tabla? 
+```sql
+SELECT *
+FROM customers
+WHERE country = 'France'
+```
+   - [x] Asterisk (*) 
+   - [ ] Signo igual (=)
+   - [ ] ‘France’
+   - [ ] WHERE
+> El asterisco (*) solicita que se seleccionen todas las columnas de la tabla; en este caso, la tabla de clientes.
+
+2. ¿Qué parte de la siguiente consulta indica la tabla de la que recuperar los datos? 
+```sql
+SELECT *
+FROM jobs
+WHERE specialty = 'operations'
+```
+   - [x] FROM
+   - [ ] SELECT
+   - [ ] WHERE
+   - [ ] ‘Operations’
+> FROM indica la tabla de la que recuperar los datos, en este caso, la tabla de empleos.
+
+3. En la siguiente consulta, ¿los datos se recuperarán de qué tabla?
+```sql
+SELECT *
+FROM inventory
+WHERE product = 'vacuum'
+```
+   - [ ] SELECCIONE
+   - [ ] Producto
+   - [x] Inventario 
+   - [ ] Vacío
+> Los Datos se recuperarán de la tabla de inventario.
+
+4. ¿En cuál de los siguientes escenarios sería un Gráfico de líneas la visualización más adecuada? 
+   - [ ] Al mostrar qué porcentaje del total de ventas anuales generaron las distintas tiendas 
+   - [ ] Al mostrar la relación entre la dieta y la presión arterial
+   - [x] Al mostrar el cambio en el salario de alguien a lo largo del tiempo
+   - [ ] Al mostrar la distribución de las personas que viven en una zona determinada
+> Un Gráfico de líneas sería la visualización más apropiada cuando se muestra el cambio en el salario de alguien a lo largo del tiempo.
