@@ -300,3 +300,23 @@
 > Basándome en los datos, los meses con mayores ventas corresponden al periodo diciembre-febrero, esto se ve de forma constante a través de los años por lo que es crucial aumentar personal e inventario en estas fechas. El gráfico de líneas permite observar cómo aumente y disminuyen las ventas a través de los meses, así como los picos de venta de forma clara.
 - Comentario 
 > ¡Enhorabuena por completar esta actividad práctica! Una respuesta eficaz incluiría una explicación de cómo la visualización de los datos permite determinar que su empresa registra sus mayores ventas entre diciembre y febrero. Durante estos meses, su empresa deberá aumentar su inventario y contratar personal temporal para hacer frente al incremento de las ventas durante la temporada turística.
+
+---
+
+## Más recursos de hojas de cálculo
+- En el espíritu del aprendizaje permanente, es bueno disponer de recursos a los que recurrir cuando se desea saber más sobre el uso de las hojas de cálculo.
+- Dos de las plataformas de hojas de cálculo más conocidas y utilizadas son Google Sheets y Microsoft Excel.
+- Ambas ofrecen recursos gratuitos de Entrenamiento en línea a los que puede acceder en cualquier momento que los necesite.
+- Marque estos enlaces si desea acceder a ellos más tarde.
+
+- [Entrenamiento y Ayuda de Google Sheets](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1)
+   - Aprenda aún más formas de mover, almacenar y analizar sus datos con la página de Entrenamiento y Ayuda de Google Sheets, ubicada en el Centro de Aprendizaje del Espacio de Trabajo de Google.
+   - Este concentrador ofrece una lista ampliada de consejos, desde principiantes hasta avanzados, junto con hojas de trucos, plantillas, guías y tutoriales.
+
+- [Consejos rápidos sobre Google Sheets](https://support.google.com/a/users/answer/9300022)
+   - ¿Desea obtener más información sobre las Hojas de cálculo de Google?
+   - Este artículo de ayuda en línea ofrece una breve lista de las funciones más importantes que utilizará, incluidas filas, columnas, celdas y funciones.
+
+- [Entrenamiento de Microsoft Excel para Windows](https://support.microsoft.com/en-us/office/excel-for-windows-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
+   - Conozca un poco mejor las hojas de cálculo de Excel visitando este centro gratuito de Entrenamiento en línea.
+   - Ofreciéndole desde una guía de inicio rápido e introducción hasta tutoriales y plantillas, encontrará todo lo que necesita saber, todo en un mismo lugar.
