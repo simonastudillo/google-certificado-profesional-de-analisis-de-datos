@@ -320,3 +320,52 @@
 - [Entrenamiento de Microsoft Excel para Windows](https://support.microsoft.com/en-us/office/excel-for-windows-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb)
    - Conozca un poco mejor las hojas de cálculo de Excel visitando este centro gratuito de Entrenamiento en línea.
    - Ofreciéndole desde una guía de inicio rápido e introducción hasta tutoriales y plantillas, encontrará todo lo que necesita saber, todo en un mismo lugar.
+
+---
+
+## Ponga a prueba sus conocimientos sobre los conceptos básicos de las hojas de cálculo
+
+1. En esta hoja de cálculo, ¿qué número hay en la celda B4?
+
+| n/a | A | B | C | D | E |
+| --- | - | - | - | - | - |
+| 1 | 909 | 365 | 794 | 649 | 846 |
+| 2 | 347 | 221 | 351 | 737 | 362 |
+| 3 | 520 | 705 | 990 | 256 | 393 |
+| 4 | 797 | 986 | 184 | 292 | 482 |
+| 5 | 993 | 161 | 212 | 764 | 970 |
+
+   - [ ] 649
+   - [ ] 737
+   - [ ] 161
+   - [x] 986
+> El número de la Célula B4 es 986. B es la columna, que es vertical. Y 4 es la fila, que es horizontal. Se cruzan en la Célula B4, que contiene el número 986.
+
+2. ¿Qué Característica de la hoja de cálculo se utiliza para cambiar la altura de una Célula para que quepa el texto que hay dentro?
+   - [x] Ajuste de texto
+   - [ ] Ordenación
+   - [ ] Filtrado
+   - [ ] Desplegable
+> El ajuste de texto se utiliza para cambiar la altura de una Célula para que quepa el texto que hay dentro. Desbordamiento permite que el texto continúe en la siguiente celda, si ésta está vacía. Ajustar obliga al texto a ajustarse a la línea siguiente dentro de la misma celda. Recortar oculta cualquier texto que no quepa dentro de la anchura de la celda.
+
+3. En esta hoja de cálculo, ¿cuáles de los siguientes son atributos? Seleccione todos los que correspondan.
+
+| (n/a) | A              | B        | C       | D       |
+| ----- | -------------- | -------- | ------- | ------- |
+| (n/a) | (n/a)          | Rosas    | Irises  | Lirios  |
+| 1     | Ingresos       | $15,837  | $10,224 | $13,857 |
+| 2     | Gastos         | $6,409   | $3,592  | $4,002  |
+| 3     | Beneficio neto | $9,428   | $6,632  | $9,855  |
+
+   - [x] Lirios
+   - [ ] Ingresos
+   - [x] Irises 
+   - [ ] Beneficio neto
+> Los lirios y las azucenas son atributos. Son características utilizadas para etiquetar columnas.
+
+4. ¿Qué símbolo se utiliza para comenzar una fórmula?
+   - [ ] Signo más (+)
+   - [ ] Asterisco (*)
+   - [x] Signo igual (=)
+   - [ ] Marca de barra oblicua (/)
+> El signo igual (=) se utiliza para iniciar una fórmula. 
