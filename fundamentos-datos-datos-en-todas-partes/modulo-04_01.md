@@ -146,3 +146,50 @@ La Analítica de datos ayuda a las empresas a tomar mejores decisiones, pero lle
 - ​Creo que es increíblemente importante ​contar con programas como estos que ​eliminen todas las barreras ​que eliminan cualquiera de los conceptos que impiden que ​las personas puedan averiguar lo que ​necesitan en una industria como esta, ​para tener éxito en un puesto como el de analista de datos, de ​modo que ellas mismas puedan ​soñar con el rumbo que pueden alcanzar en su carrera.
 - ​Me llamo Tony.
 - Soy gerente de programas financieros en Google.
+
+---
+
+## Ponga a prueba sus conocimientos sobre las funciones del analista de datos
+- Identify the industries where data analysts can work with data.
+
+1. Industry data example: Use geographic data to power GPS technology in cars.
+   - [x] Technology
+   - [ ] Finance
+   - [ ] Healthcare
+   - [ ] Government
+> Technology relies on software and hardware to function.
+
+2. Industry data example: Use demographic data to target advertisements for a new consumer product for youths.
+   - [ ] Finance
+   - [ ] Healthcare
+   - [x] Marketing
+   - [ ] Hospitality
+> Marketing uses audience insights to make decisions.
+
+3. Industry data example: Use stock market data to determine which portfolios to invest in.
+   - [ ] Technology
+   - [x] Finance
+   - [ ] Hospitality
+   - [ ] Government
+> Finance relies on daily market trends for insight.
+
+4. Industry data example: Use bed occupancy data to determine the number of nurses and orderlies to schedule on a given shift.
+   - [ ] Hospitality
+   - [x] Healthcare
+   - [ ] Government
+   - [ ] Marketing
+> Healthcare involves reviewing hospital traffic to inform staff decisions.
+
+5. Industry data example: Use past booking data to accurately anticipate levels of demand for hotel rooms.
+   - [x] Hospitality
+   - [ ] Healthcare
+   - [ ] Government
+   - [ ] Marketing
+> Hospitality looks at seasonal trends to predict demand.
+
+5. Industry data example: Use population data to determine which communities need federal funding.
+   - [x] Government
+   - [ ] Finance
+   - [ ] Marketing
+   - [ ] Healthcare
+> Government relies on demographic information in order to provide proper support.
