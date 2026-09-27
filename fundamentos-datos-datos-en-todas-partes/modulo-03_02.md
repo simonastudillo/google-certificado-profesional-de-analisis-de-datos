@@ -202,3 +202,24 @@ WHERE
 - Claves
    - Las cláusulas SELECT, FROM y WHERE son los componentes esenciales de las `query` SQL.
    - Las `query` con múltiples campos serán más sencillas después de que practique escribiendo sus propias `query` SQL más adelante en el programa.
+
+---
+
+## Angie: Luchas cotidianas al aprender nuevas habilidades
+- Soy Angie, Gerente del Programa ​de Ingeniería en Google.
+- ​Actualmente estoy trabajando en el certificado de Analítica de Datos.
+- ​Antes, fui investigadora en analítica de personas.
+- ​También fui lo que yo llamo una mercenaria analítica ​trabajando para un montón de empresas diferentes ​para ayudarles a dar sentido a sus datos.
+- ​Cada vez que aprendo una nueva habilidad, ​me siento como si estuviera aprendiendo a hablar de nuevo.
+- ​Recuerdo la primera vez que aprendí SQL, ​estaba tan frustrada porque todo el mundo a mi alrededor, ​tenía la sensación de que hablaban con fluidez, ​sabían exactamente lo que estaban haciendo.
+- ​Recuerdo que luchaba con las cosas más básicas, ​como sacar los datos de la tabla o recuerdo ​que alguien me pidió que encontrara la media ​de algo y seguía obteniendo un error.
+
+- ​Realmente se siente como si estuvieras ​aprendiendo un nuevo idioma y estuvieras ​en el nivel de un niño pequeño y ​todo el mundo a tu alrededor es como si tal vez lo hablara con fluidez.
+- ​Mis padres emigraron a ​este país cuando tenían unos 30 años.
+- ​Después de haber aprendido ​otro idioma y tuvieron que empezar ​de nuevo y aprender inglés.
+- ​Recuerdo de niña verlos ​luchar cada día para aprender un nuevo idioma, ​para hacer cosas realmente básicas, ​como pedir ayuda en el supermercado.
+- ​Recuerdo llamar a la compañía de cable cuando tenía seis años, ​hacerles preguntas sobre ​la factura porque mis padres no podían.
+- ​Recuerdo lo duro que trabajaron para ​aprender este nuevo lenguaje y llegar a ser ​fluidos y cada vez que estoy aprendiendo ​un nuevo lenguaje de datos como ​SQL o R, pienso en lo duro que debe haber sido.
+- ​Pienso que si ellos pueden hacer eso, yo puedo aprender SQL.
+- ​Si pueden pedir ayuda para las cosas más básicas, ​puedo preguntar a los Analistas de datos que tengo al lado cómo ​escribir una sentencia SQL y ​cómo sacar datos de una tabla.
+- ​Eso me ayudó mucho, ​es simplemente tener esa mentalidad ​y saber que puedo pedir ayuda.
