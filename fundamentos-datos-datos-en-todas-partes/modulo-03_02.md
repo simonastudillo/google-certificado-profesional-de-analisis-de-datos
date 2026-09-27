@@ -223,3 +223,191 @@ WHERE
 - ​Pienso que si ellos pueden hacer eso, yo puedo aprender SQL.
 - ​Si pueden pedir ayuda para las cosas más básicas, ​puedo preguntar a los Analistas de datos que tengo al lado cómo ​escribir una sentencia SQL y ​cómo sacar datos de una tabla.
 - ​Eso me ayudó mucho, ​es simplemente tener esa mentalidad ​y saber que puedo pedir ayuda.
+
+---
+
+## Infinitas posibilidades SQL
+- Ha aprendido que una consulta SQL utiliza SELECT, FROM y WHERE para especificar los datos que debe devolver la consulta.
+- Esta lectura proporciona información más detallada sobre el formato de las `query`, el uso de las condiciones de WHERE, la selección de todas las columnas de una tabla, la adición de comentarios y el uso de alias.
+- Todo ello le facilitará la comprensión (y la escritura) de `query` para poner SQL en acción.
+- La última sección de esta lectura ofrece un ejemplo de lo que haría un analista de datos para extraer datos de empleados para un proyecto.
+
+- Mayúsculas, indentación y punto y coma
+   - Puede escribir sus `query` SQL en minúsculas y no tendrá que preocuparse por los espacios adicionales entre palabras.
+   - Sin embargo, utilizar mayúsculas y sangría puede ayudarle a leer la información más fácilmente.
+   - Mantenga sus `query` ordenadas y le resultarán más fáciles de revisar o solucionar si necesita comprobarlas más adelante.
+   ```sql
+   SELECT field1
+   FROM table
+   WHERE field1 = condition;
+   ```
+   - Observe que la sentencia SQL mostrada anteriormente tiene un punto y coma al final.
+   - El punto y coma es un terminador de sentencia y forma parte de la norma SQL-92 del Instituto Nacional Estadounidense de Estándares (ANSI), que es una sintaxis común recomendada para su adopción por todas las bases de datos SQL.
+   - Sin embargo, no todas las bases de datos SQL han adoptado o aplican el punto y coma, por lo que es posible que se encuentre con algunas sentencias SQL que no estén terminadas con punto y coma
+   - Si una sentencia funciona sin punto y coma, está bien.
+
+- Condiciones WHERE
+   - En la consulta mostrada anteriormente, la cláusula SELECT identifica la columna de la que desea extraer datos por su nombre, field1, y la cláusula FROM identifica la table en la que se encuentra la columna por su nombre, tabla.
+   - Por último, la cláusula WHERE acota su consulta para que la base de datos le devuelva sólo los datos con una coincidencia de valor exacta o los datos que coincidan con una determinada condición que desee satisfacer.
+   - Por ejemplo, si busca un cliente concreto con el apellido Chávez, la cláusula WHERE sería:
+      - `WHERE field1 = 'Chavez'`
+   - Sin embargo, si busca todos los clientes cuyo apellido empiece por las letras "Ch", la cláusula WHERE sería:
+      - `WHERE field1 LIKE 'Ch%'`
+   - Puede concluir que la cláusula LIKE es muy potente porque le permite indicar a la base de datos que busque un patrón determinado
+   - El signo de porcentaje % se utiliza como comodín para hacer coincidir uno o varios caracteres.
+   - En el ejemplo anterior, se devolverían tanto Chávez como Chen.
+   - Tenga en cuenta que en algunas bases de datos se utiliza un asterisco * como comodín en lugar del signo de porcentaje %.
+
+- SELECT todas las columnas
+   - ¿Puede utilizar SELECT *?
+   - En el ejemplo, si sustituye SELECT field1 por SELECT *, estaría seleccionando todas las columnas de la tabla en lugar de sólo la columna campo1.
+   - Desde el punto de vista de la sintaxis, se trata de una sentencia SQL correcta, pero debe utilizar el asterisco * con moderación y precaución.
+   - Dependiendo del número de columnas que tenga una tabla, podría estar seleccionando una enorme cantidad de datos.
+   - Seleccionar demasiados datos puede hacer que una consulta se ejecute con lentitud.
+
+- Comentarios
+   - Algunas tablas no están diseñadas con convenciones de nomenclatura suficientemente descriptivas.
+   - En el ejemplo, field1 era la columna correspondiente al apellido de un cliente, pero no la reconocería por el nombre.
+   - Un nombre mejor habría sido algo como last_name.
+   - En estos casos, puede colocar comentarios junto a su SQL para ayudarle a recordar lo que representa el nombre.
+   - Los Comentarios son texto colocado entre ciertos caracteres, /* y */, o después de dos guiones --) como se muestra a continuación.
+   ```sql
+   SELECT
+      field1 /* this is the last name column */
+   FROM
+      table -- this is the customer data table  
+   WHERE
+      field1 LIKE 'Ch%';
+   ```
+   - Los Comentarios también pueden añadirse fuera de una sentencia, así como dentro de una sentencia.
+   - Puede utilizar esta flexibilidad para proporcionar una descripción general de lo que va a hacer, notas paso a paso sobre cómo lo consigue y por qué establece diferentes parámetros/condiciones.
+   ```sql
+   -- This is an important query used later to join with the accounts table 
+   SELECT
+         rowkey,  -- key used to join with account_id
+   Info.date,  -- date is in string format YYYY-MM-DD HH:MM:SS
+   Info.code  -- e.g., 'pub-###'
+
+   FROM  Publishers
+   ```
+   - Cuanto más cómodo se sienta con SQL, más fácil le resultará leer y comprender las `query` de un vistazo.
+   - Aun así, nunca está de más incluir comentarios en una consulta para recordar lo que intenta hacer.
+   - Esto también facilita que otros entiendan su consulta si ésta se comparte.
+   - A medida que sus `query` se vuelvan más y más complejas, esta práctica le ahorrará mucho tiempo y energía para entender `query` complejas que escribió hace meses o años.
+
+- Ejemplo de consulta con comentarios
+   - He aquí un ejemplo de cómo se pueden escribir comentarios en BigQuery:
+   ```sql
+   -- Pull basic information from the customer table
+   SELECT
+      customer_id, --main ID used to join with customer_addresss
+      first_name, --customer's first name from loyalty program
+      last_name --customer's last name
+   FROM
+      customer_data.customer_name
+   ```
+   - En el ejemplo anterior, se ha añadido un comentario antes de la sentencia SQL para explicar lo que hace la consulta.
+   - Además, se ha añadido un comentario junto a cada uno de los nombres de las columnas para describir la columna y su uso.
+   - Generalmente se admiten dos guiones --.
+   - Por lo tanto, es mejor utilizar -- y ser coherente con él.
+   - Puede utilizar # en lugar de -- en la consulta anterior, pero # no se reconoce en todas las versiones de SQL; por ejemplo, MySQL no reconoce #.
+   - También puede colocar comentarios entre /* y */ si la base de datos que utiliza lo admite.
+   - A medida que desarrolle sus habilidades profesionales, en función de la base de datos SQL que utilice, podrá elegir los símbolos delimitadores de comentarios que prefiera y ceñirse a ellos como estilo coherente.
+   - A medida que sus `query` se vuelvan más y más complejas, la práctica de añadir comentarios útiles le ahorrará mucho tiempo y energía para comprender `query` que puede haber escrito meses o años antes. 
+
+- Asignación de alias
+   - También puede facilitarse las cosas asignando un nuevo nombre o alias a los nombres de las columnas o tablas para que le resulte más fácil trabajar con ellos (y evitar la necesidad de comentarios).
+   - Esto se hace con una cláusula SQL AS.
+   - En el ejemplo siguiente, se utilizan alias tanto para el nombre de una tabla como para el de una columna.
+   - Dentro de la base de datos, la tabla se llama actual_table_name y la columna de esa tabla se llama actual_column_name.
+   - Se les asigna el alias my_table_alias y my_column_alias, respectivamente.
+   - Estos alias sólo sirven para la duración de la consulta.
+   - Un alias no cambia el nombre real de una columna o tabla de la base de datos.
+   - Ejemplo de consulta con alias
+   ```sql
+   SELECT 
+      my_table_alias.actual_column_name AS my_column_alias
+   FROM
+      actual_table_name AS my_table_alias
+   ```
+
+- Poner SQL a trabajar como Analista de datos
+   - Imagine que es usted analista de datos de una pequeña empresa y su jefe le pide algunos datos sobre sus empleados.
+   - Decide escribir una consulta con SQL para obtener lo que necesita de la base de datos.
+   - Quiere obtener todas las columnas: empID, firstName, lastName, jobCode y salary.
+   - Como sabe que la base de datos no es tan grande, en lugar de introducir el nombre de cada columna en la cláusula SELECT, utiliza SELECT *.
+   - Esto seleccionará todas las columnas de la tabla Empleado en la cláusula FROM.
+   ```sql
+   SELECT
+      *
+   FROM
+      Employee
+   ```
+   - Ahora, puede ser más específico sobre los datos que desea de la tabla Empleados.
+   - Si desea todos los datos sobre los empleados que trabajan en el código de puesto 'SFI', puede utilizar una cláusula WHERE para filtrar los datos en función de este requisito adicional.
+   - En este caso, se utiliza
+   ```sql
+   SELECT
+      *
+   FROM
+      Employee
+   WHERE
+      jobCode = 'SFI'
+   ```
+   - Una parte de los datos resultantes devueltos por la consulta SQL podría tener el siguiente aspecto:
+
+   | empID | firstName | lastName | jobCode | salario |
+   | ----  | -----     | -----    | ---     | ----    |
+   | 0002  | Homer     | Simpson  | SFI     | 15000   |
+   | 0003  | Marge     | Simpson  | SFI     | 30000   |
+   | 0034  | Bart      | Simpson  | SFI     | 25000   |
+   | 0067  | Lisa      | Simpson  | SFI     | 38000   |
+   | 0088  | Ned       | Flandes  | SFI     | 42000   |
+   | 0076  | Barney    | Gumble   | SFI     | 32000   |
+
+   - Supongamos que observa un amplio rango salarial para el código de puesto 'SFI'.
+   - Tal vez quiera marcar a todos los empleados de todos los departamentos con salarios más bajos para su gestor.
+   - Como los becarios también están incluidos en la tabla y tienen sueldos inferiores a 30.000 $, quiere asegurarse de que sus resultados le dan sólo los empleados a tiempo completo con sueldos iguales o inferiores a 30.000 $.
+   - En otras palabras, quiere excluir a los becarios con el código de puesto 'INT' que también ganan menos de 30.000 $.
+   - La cláusula AND le permite comprobar ambas condiciones.
+   - Cree una consulta SQL similar a la siguiente, donde <> significa "no es igual":
+   ```sql
+   SELECT
+      *
+   FROM
+      Employee
+   WHERE
+      jobCode <> 'INT' 
+         AND salary <= 30000;
+   ```
+   - Los datos resultantes de la consulta SQL podrían parecerse a los siguientes (no se devuelven los becarios con el código de puesto INT ):
+
+   | empID | firstName | lastName | jobCode | salario |
+   | ----  | -----     | -----    | ---     | ----    |
+   | 0002  | Homer     | Simpson  | SFI     | 15000   |
+   | 0003  | Marge     | Simpson  | SFI     | 30000   |
+   | 0034  | Bart      | Simpson  | SFI     | 25000   |
+   | 0108  | Edna      | Krabappel  | TUL     | 18000   |
+   | 0099  | Moe       | Szyslak  | ANA     | 28000   |
+
+   - Con un acceso rápido a este tipo de datos mediante SQL, puede proporcionar a su gerente un montón de estadísticas diferentes sobre los datos de los empleados, incluyendo si los salarios de los empleados en toda la empresa son equitativos.
+   - Afortunadamente, la consulta muestra que sólo dos empleados más podrían necesitar un ajuste salarial y usted comparte los resultados con su jefe.
+   - Extraer los datos, analizarlos e implementar una solución podría, en última instancia, ayudar a mejorar la satisfacción y la lealtad de los empleados.
+   - Eso convierte a SQL en una herramienta bastante poderosa.
+
+- Recursos para saber más
+   - Los no suscriptores pueden acceder a estos recursos de forma gratuita, pero si un sitio limita el número de artículos gratuitos al mes y usted ya ha alcanzado su límite, marque el recurso y vuelva a él más tarde.
+      - [Tutorial SQL de W3Schools](https://www.w3schools.com/sql/default.asp):
+         - Si desea explorar un tutorial detallado de SQL, éste es el lugar perfecto para empezar.
+         - Este tutorial incluye ejemplos interactivos que puede editar, probar y recrear.
+         - Utilícelo como referencia o complete todo el tutorial para practicar el uso de SQL.
+         - Clic en el botón verde Empezar a aprender SQL ahora o en el botón Siguiente  para comenzar el tutorial.
+      - [Hoja de trucos SQL](https://www.sqltutorial.org/sql-cheat-sheet/):
+         - Para los alumnos más avanzados, consulte este práctico recurso de 3 páginas para obtener una visión general de las funciones y fórmulas SQL adicionales.
+         - Cuando haya terminado de consultar la hoja de trucos, sabrá mucho más sobre las distintas técnicas SQL y estará preparado para utilizarlas en el análisis empresarial y otras tareas.
+
+- Puntos clave
+   - Las `query` SQL utilizan SELECT, FROM y WHERE para especificar los datos que debe devolver la consulta.
+   - Las mayúsculas, la indentación y el punto y coma son útiles para facilitar la lectura de las `query` SQL.
+   - Además, se pueden añadir comentarios para explicar las `query` a otras personas.
+   - A medida que avance en este curso, seguirá descubriendo muchas formas en las que SQL puede ser una herramienta muy poderosa para recuperar, analizar e interpretar datos.
