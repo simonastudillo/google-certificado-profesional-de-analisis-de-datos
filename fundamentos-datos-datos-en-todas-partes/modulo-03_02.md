@@ -411,3 +411,68 @@ WHERE
    - Las mayúsculas, la indentación y el punto y coma son útiles para facilitar la lectura de las `query` SQL.
    - Además, se pueden añadir comentarios para explicar las `query` a otras personas.
    - A medida que avance en este curso, seguirá descubriendo muchas formas en las que SQL puede ser una herramienta muy poderosa para recuperar, analizar e interpretar datos.
+
+---
+
+## Conviértase en un genio de la visualización de Datos
+- ​Su caja de herramientas de análisis de datos se está llenando.
+- ​Aprender sobre hojas de cálculo y ​SQL lo llevará lejos en el mundo del análisis de datos.
+- ​Hay más que aprender, por supuesto, ​y muchas más herramientas que podrás usar, ​pero tu futuro se ve prometedor.
+- ​Está a punto de tener un aspecto aún más brillante, ​porque estamos aquí para hablar más sobre la visualización de datos.
+- ​Te contaré un poco más sobre el papel de ​las herramientas de visualización y análisis de datos, ​y te daré la oportunidad de ver ​esas herramientas en acción más adelante en este vídeo.
+- ​Tal vez recuerde que la visualización de datos ​es la representación gráfica de la información.
+- ​Para muchos analistas de datos, ​es la parte más emocionante de ​su trabajo porque ​ven que su arduo trabajo da sus frutos con algo interesante.
+
+- ​Sin mencionar que la visualización de datos ​es hermosa y útil.
+- ​Me quedé boquiabierto cuando llegué a Google y ​empecé a recibir un informe de datos trimestral en ​mi correo electrónico y tenía ​una gran presentación de diapositivas en la que la ​gente contribuía con sus visualizaciones.
+- ​Definitivamente fue una fuente de luz cuando ​empecé a crear mis propias visualizaciones.
+- ​Si no te impresiona mi historia, ​déjame contarte sobre Florence Nightingale.
+- ​¿Te suena ese nombre? ​Es responsable de gran parte de ​la filosofía de la enfermería moderna ​y, aunque no lo crea, ​también fue analista de datos.
+- ​Durante la Guerra de Crimea en la década de 1850, ​miles de soldados morían todos los días, ​Nightingale quería encontrar una manera de ​reducir el número de muertes.
+
+- ​Tras examinar los datos, ​descubrió que la mayoría de los ​soldados morían a causa de enfermedades evitables.
+- ​Para convencer a los administradores de los hospitales de ​que tenían que centrarse en estas afecciones, ​creó un gráfico que muestra ​el número de muertes durante varios meses.
+- ​Las secciones azules mucho más grandes de ​la visualización representan las muertes evitables.
+- ​Su trabajo condujo directamente a cambios importantes en la atención a los pacientes.
+- ​Hizo todo esto hace más de ​150 años sin una computadora.
+- ​Una de las principales razones por las que Nightingale creó ​esta visualización fue para que ​los datos fueran más fáciles de digerir para su audiencia.
+- ​Pensó que tendría más ​éxito convenciendo a la parte interesada ​utilizando imágenes en lugar de solo palabras y números.
+
+- ​Tenía razón: las tablas llenas de datos, ​si bien son necesarias para el análisis, ​simplemente no pueden mostrar tendencias y patrones con la ​rapidez y claridad que las visualizaciones.
+- ​Imagina que recibes una ​tarea que debes completar el mismo día.
+- ​Reúne los datos que necesita en una tabla, ​¿podría explicar sus hallazgos usando la tabla? ​Sí, probablemente puedas, ​pero una mejor idea sería usar ​una visualización como este gráfico de barras.
+- ​Algo como esto hace que ​te resulte mucho más fácil explicar rápidamente, ​y tienes la ventaja de contar con ​un gráfico atractivo para respaldar tu análisis.
+- ​Como analista de datos, ​querrá crear visualizaciones que ​hagan que los datos sean fáciles de entender ​e interesantes de ver, así que preséntelos.
+- ​Es posible que las partes interesadas no tengan ​mucho tiempo para dedicar a los datos, ​su trabajo consistirá en hacer que su tiempo valga la pena.
+
+- ​Volvamos a la tabla de datos que ​creamos anteriormente en el curso.
+- ​Si creaste la tuya propia para practicar, ​puedes abrirla ahora o probarla más tarde.
+- ​Estos son los datos que agregamos anteriormente.
+- ​Vamos a crear una visualización de los datos ​insertando un gráfico, un gráfico de barras.
+- ​Puede ver que la hoja de cálculo visualizó ​los datos de nuestra tabla de ​la manera que tenía más sentido.
+- ​Creó un gráfico de barras o un ​gráfico de columnas para comparar las edades de cada persona por su nombre, ​pero es posible que ya lo hayas descubierto.
+- ​Esa es la belleza de la visualización, ​muestra el análisis de datos de forma rápida y clara.
+
+- ​Podemos usar el editor de gráficos para ajustar el gráfico.
+- Los ​distintos programas de hojas de cálculo pueden ​tener diferentes maneras de hacerlo, ​pero todos tienen funciones de visualización ​y formas de editar esas visualizaciones.
+- ​Por ahora, veamos los gráficos sugeridos.
+- ​Podemos hacer que las barras vayan horizontalmente usando un gráfico de barras.
+- ​Se ve muy bien, así que cerremos el editor de Gráficos.
+- ​Hay muchas opciones que considerar, ​pero por ahora lo mantendremos básico.
+- ​No dudes en probar otras visualizaciones ​si practicas más adelante.
+
+- ​Ahora, podemos ajustar nuestro gráfico para que ​toda nuestra hoja de cálculo tenga un aspecto limpio y profesional.
+- ​Excelente.
+- Espero que aprendas a amar la ​visualización de datos tanto como a mí.
+- ​Tal vez te conviertas en un pionero de la visualización de datos, al ​igual que Florence Nightingale.
+- ​Como analista de datos en ciernes, ​empezaste a llenar tu cinturón de servicios con ​valiosas herramientas que ​utilizarás durante el resto del programa.
+- ​Tener ​conocimientos sobre hojas de cálculo, SQL y visualización de datos lo ayudará a convertirse en un excelente detective de datos.
+- ​Podrá utilizar estas herramientas durante todo ​el proceso de análisis de datos a medida que avance.
+
+- ​A continuación, completarás ​algunas actividades para concluir esta parte del programa.
+- ​También completará una evaluación para ​comprobar su comprensión de todo lo que aprende.
+- ​Esta es una gran oportunidad para ​pensar en algunas de las áreas ​que continuará explorando ​en este curso y en su carrera.
+- ​Como siempre, no dudes en revisar los vídeos y ​las lecturas para recordar ciertos temas e ideas, ​incluso si ya te sientes preparado.
+- ​Estás a solo unos pasos del próximo curso, ​eso es un gran progreso.
+- Sigan así.
+- [archivo](./resources/modulo-03/haga-de-las-hojas-de-calculo-su-amigo-v2.xlsx)
