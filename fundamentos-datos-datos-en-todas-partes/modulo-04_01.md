@@ -62,3 +62,22 @@
 - ​Próximamente, analizaremos la tarea empresarial en la que los datos pueden resultar útiles.
 - ​Además, analizaremos aún más cómo los analistas de datos empoderan a las empresas ​a través de los datos.
 - ​Te veré entonces.
+
+---
+
+## Joey: Ruta de acceso a Analista de datos
+- ​Hola, soy Joey y trabajo como gerente de programas de análisis en REWS.
+- ​Ahora REWS son las siglas de servicios inmobiliarios y laborales, y ​mi trabajo consiste en incorporar los datos y el análisis a la toma de decisiones aquí, ​especialmente en lo que respecta a la creación de un entorno de trabajo seguro y divertido.
+- ​Mi viaje hacia la analítica fue un poco diferente, ya que no tenía ningún plan o ​realmente no me veía donde estoy ahora.
+- Ahora ​, por suerte, empecé en un programa rotativo llamado programa HRA dentro de ​las operaciones de personal, que me permitió desempeñar esencialmente tres funciones diferentes.
+- ​Tenía un rol generalista como especialista y como analista, y ​realmente encontré un amor y una pasión en el trabajo analítico.
+- ​Empecé en el equipo de inteligencia empresarial, ​cuyo trabajo consistía en proporcionar informes basados en SQL a la empresa.
+- ​Me di cuenta de que la analítica es la ruta de acceso profesional adecuada para ​mí cuando me di cuenta de que disfrutaba de ir a trabajar y terminar mi trabajo.
+- ​Y creo que puedo conectar eso con dos pasiones mías.
+- ​La primera es la resolución de problemas.
+- Me encanta abordar un problema complejo, ​un misterio, un acertijo y poder encontrar las respuestas y encontrar la solución.
+- ​Y luego, lo segundo es poder trabajar con la gente y ayudar a la gente.
+- ​En análisis, creo que la clave del éxito es poder combinar ​el lado personal con el aspecto técnico.
+- ​Al principio de mi carrera, me centré un poco más en las piezas técnicas y ​quería asegurarme de que tenía los conocimientos técnicos adecuados para poder responder a ​las preguntas.
+- ​Pero lo que descubrí es que, con el tiempo, necesité hacer crecer ese otro lado por igual.
+- ​Y creo que mi carrera me ha dado la oportunidad de ​trabajar cada uno de esos músculos, la parte de la interacción humana y la parte técnica ​para asegurarme de que ambos crecen al final del día.
