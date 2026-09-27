@@ -476,3 +476,82 @@ WHERE
 - ​Estás a solo unos pasos del próximo curso, ​eso es un gran progreso.
 - Sigan así.
 - [archivo](./resources/modulo-03/haga-de-las-hojas-de-calculo-su-amigo-v2.xlsx)
+
+---
+
+## Planificación de una visualización de datos
+- Antes ha aprendido que la visualización de datos es la representación gráfica de la información.
+- Como analista de datos, querrás crear visualizaciones que hagan que tus datos sean fáciles de entender e interesantes de ver.
+- Debido a la importancia de la visualización de datos, la mayoría de las herramientas de análisis de datos (como hojas de cálculo y bases de datos) tienen un componente de visualización incorporado, mientras que otras (como Tableau) se especializan en la visualización como su principal valor añadido.
+- En esta lectura, explorarás los pasos implicados en el proceso de visualización de datos y algunas de las herramientas de visualización de datos más comunes disponibles.
+
+- Pasos para planificar una visualización de datos
+   - Veamos un ejemplo de una situación real en la que un analista de datos puede necesitar crear una visualización de datos para compartirla con las partes interesadas.
+   - Imagina que eres analista de datos de un distribuidor de ropa.
+   - La empresa ayuda a las pequeñas tiendas de ropa a gestionar su inventario, y las ventas están en auge.
+   - Un día, se entera de que su empresa se dispone a realizar una importante actualización de su sitio web.
+   - Para orientar las decisiones relativas a la actualización del sitio web, se le pide que analice los datos del sitio web existente y los registros de ventas.
+   - Veamos los pasos a seguir.
+      - Paso 1: Explorar los datos en busca de patrones
+         - En primer lugar, pide a tu jefe o al propietario de los datos acceso a los registros de ventas actuales y a los informes analíticos del sitio web.
+         - Esto incluye información sobre cómo se comportan los clientes en el sitio web actual de la empresa, información básica sobre quién lo visitó, quién compró a la empresa y cuánto compró.
+         - Mientras revisa los datos, observa un patrón entre quienes visitan con más frecuencia el sitio web de la empresa: geografía e importes de compra más elevados.
+         - Con un análisis más profundo, esta información podría explicar por qué las ventas son tan fuertes ahora mismo en el noreste, y ayudar a su empresa a encontrar formas de hacerlas aún más fuertes a través del nuevo sitio web.
+      - Paso 2: Planificar los elementos visuales
+         - Ha llegado el momento de afinar los datos y presentar los resultados del análisis.
+         - En este momento, tiene un montón de datos repartidos en varias tablas diferentes, lo que no es una forma ideal de compartir sus resultados con la dirección y el equipo de marketing.
+         - Querrá crear una visualización de datos que explique sus conclusiones de forma rápida y eficaz a su público objetivo.
+         - Como sabes que tu público está orientado a las ventas, ya sabes que la visualización de datos que utilices debe
+            - Mostrar las cifras de ventas a lo largo del tiempo
+            - Relacionar las ventas con la ubicación
+            - Mostrar la relación entre las ventas y el uso del sitio web
+            - Mostrar qué clientes impulsan el crecimiento
+      - Paso 3: Cree sus imágenes
+         - Ahora que ha decidido qué tipo de información y perspectivas desea mostrar, es el momento de empezar a crear las visualizaciones reales.
+         - Tenga en cuenta que crear la visualización adecuada para una presentación o para compartirla con las partes interesadas es un proceso.
+         - Implica probar diferentes formatos de visualización y hacer ajustes hasta que consigas lo que buscas.
+         - En este caso, la mejor forma de comunicar los resultados y convertir el análisis en la historia más convincente para las partes interesadas es utilizar una combinación de distintos formatos visuales.
+         - Así que puedes utilizar las funciones de gráficos integradas en tus hojas de cálculo para organizar los datos y crear tus visuales.
+
+- Construye tu conjunto de herramientas de visualización de datos
+   - Hay muchas herramientas diferentes que puedes utilizar para la visualización de datos.
+      - Puedes utilizar las herramientas de visualización de tu hoja de cálculo para crear visualizaciones sencillas, como gráficos de líneas y barras.
+      - Puedes utilizar herramientas más avanzadas, como Tableau, que te permiten integrar los datos en visualizaciones de tipo cuadro de mando.
+      - Si trabajas con el lenguaje de programación R, puedes utilizar las herramientas de visualización de RStudio.
+   - La elección de la visualización dependerá de varios factores, como el tamaño de los datos o el proceso utilizado para analizarlos (hoja de cálculo, bases de datos/consultas o lenguajes de programación).
+   - Por ahora, considera sólo lo básico.
+
+- Hojas de cálculo (Microsoft Excel o Google Sheets)
+   - En nuestro ejemplo, los cuadros y gráficos incorporados en las hojas de cálculo hicieron que el proceso de creación de elementos visuales fuera rápido y sencillo.
+   - Las hojas de cálculo son estupendas para crear visualizaciones sencillas, como gráficos de barras y de tarta, e incluso ofrecen algunas visualizaciones avanzadas, como mapas y diagramas de cascada y de embudo (que se muestran en las siguientes figuras).
+   - Pero a veces se necesita una herramienta más potente para dar vida a los datos.
+   - Tableau y RStudio son dos ejemplos de plataformas ampliamente utilizadas que pueden ayudarle a planificar, crear y presentar visualizaciones de datos eficaces y convincentes.
+
+- Software de visualización (Tableau)
+   - Tableau es una popular herramienta de visualización de datos que le permite extraer datos de casi cualquier sistema y convertirlos en atractivas visualizaciones o perspectivas procesables.
+   - La plataforma ofrece las mejores prácticas visuales integradas, lo que hace que analizar y compartir datos sea rápido, fácil y (lo más importante) útil.
+   - Tableau funciona bien con una amplia variedad de datos e incluye un panel interactivo que le permite a usted y a las partes interesadas hacer clic para explorar los datos de forma interactiva.
+   - Puede empezar a explorar Tableau desde los recursos de [vídeos de instrucciones](https://public.tableau.com/en-us/s/resources).
+   - Tableau Public es gratuito, fácil de usar y está repleto de información útil.
+   - La página de recursos es una ventanilla única para vídeos de instrucciones, ejemplos y conjuntos de datos con los que puede practicar.
+   - Para explorar lo que otros analistas de datos están compartiendo en Tableau, visite la página [Viz of the Day](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day), donde encontrará hermosos visuales que van desde una visión general de los [Faros de Grecia](https://public.tableau.com/app/profile/george.koursaros/viz/LighthousesofGreece/Lighthouses) hasta [Quién habla en las películas populares](https://public.tableau.com/app/profile/bo.mccready8742/viz/WordDataWorking/WhoIsTalking).
+
+- Lenguaje de programación (Python y R)
+   - Muchos analistas de datos trabajan con un lenguaje de programación como Python y R para crear visualizaciones de datos.
+   - Python tiene potentes capacidades de visualización de datos gracias a su amplio ecosistema de bibliotecas de código abierto.
+   - La base es la biblioteca Matplotlib, que proporciona un alto grado de flexibilidad para crear gráficos estáticos, animados e interactivos.
+   - Seaborn está construido sobre Matplotlib y está diseñado para producir rápidamente gráficos estadísticos atractivos e informativos.
+   - Seaborn crea automáticamente visuales de aspecto pulido y profesional, que permiten observar patrones y relaciones en los datos con sólo unas pocas líneas de código.
+   - La biblioteca Plotly es útil para crear visuales interactivos como gráficos y cuadros de mando para sitios web.
+   - Interactivo significa que un usuario puede hacer clic en los puntos de datos, ampliarlos o pasar el ratón sobre ellos para explorar los detalles.
+   - Echa un vistazo a la [Python Graph Gallery](https://python-graph-gallery.com/) para descubrir una amplia colección de visualizaciones hechas con Python.
+
+>[!NOTE] Una biblioteca de Python es una colección de código preescrito diseñado para ayudar con tareas específicas, como el análisis de datos o el aprendizaje automático. Aprenderás más sobre bibliotecas en un curso posterior.
+
+   - El lenguaje de programación R también dispone de potentes herramientas de visualización.
+   - La mayoría de las personas que trabajan con R acaban utilizando también Posit (antes RStudio), un entorno de desarrollo integrado (IDE), para sus necesidades de visualización de datos.
+   - Visita su página web para saber más sobre [Posit](https://posit.co/products/open-source/rstudio/?sid=1).
+
+- Puntos clave
+   - Los mejores analistas de datos utilizan muchas herramientas y métodos diferentes para visualizar y compartir sus datos.
+   - A medida que continúe aprendiendo más sobre la visualización de datos a lo largo de este curso, asegúrese de mantener la curiosidad, investigar diferentes opciones y probar continuamente nuevos programas y plataformas para ayudarle a sacar el máximo provecho de sus datos.
