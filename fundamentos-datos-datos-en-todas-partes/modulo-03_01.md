@@ -219,3 +219,84 @@
 - ​Incluso puede hacer su propia versión de la hoja de cálculo ​con sus propios datos.
 - Adios por ahora.
 - [archivo](./resources/modulo-03/haga-de-las-hojas-de-calculo-su-amigo.xlsx)
+
+---
+
+## Actividad práctica: Generar un gráfico a partir de una hoja de cálculo
+- Resumen de la actividad
+   - A estas alturas del curso, ya ha explorado cómo pueden utilizarse las hojas de cálculo para respaldar las decisiones empresariales basadas en datos.
+   - En esta actividad, utilizará una hoja de cálculo para realizar un gráfico sencillo.
+   - Cuando termine, comprenderá cómo crear una representación gráfica sencilla de la información.
+   - Los analistas de datos utilizan esta habilidad para hacer informes, presentaciones, infografías y más atractivos y accesibles.
+
+- Escenario
+   - Revise el siguiente escenario. A continuación, complete las instrucciones paso a paso.
+   - El escenario: Analizar patrones en las ventas mensuales
+      - Para ayudar a determinar los niveles óptimos de inventario y personal, su empresa le ha pedido que analice las tendencias de las ventas totales de los últimos tres años.
+      - Dado que su empresa depende de los turistas para la mayor parte de sus ventas, los dirigentes saben que la demanda de inventario y las necesidades de personal varían en función de la temporada turística.
+      - Le han pedido que identifique los meses punta para ayudarle a prever las necesidades del año que viene.
+      - Para ello, creará un gráfico. 
+
+- Instrucciones paso a paso
+   - Trabajar con hojas de cálculo
+      - Siga las instrucciones para completar cada paso de la actividad.
+      - A continuación, responda a las preguntas al final de la actividad antes de pasar al siguiente punto del curso.
+
+1. Acceder a la plantilla
+- La hoja de cálculo de las ventas mensuales
+- Para utilizar la hoja de cálculo de este tema del curso, seleccione el enlace siguiente y, a continuación, el botón "Utilizar plantilla" para abrir su propia versión de la hoja de cálculo. 
+- [plantilla](./resources/modulo-03/Monthly-sales.xlsx)
+
+2. Abrir la hoja de calculo
+- Si aún no lo ha hecho, abra la hoja de cálculo Ventas mensuales. 
+
+3. Revisión de los datos
+- Esta hoja de cálculo contiene los datos de ventas totales de cada mes a partir de enero de 2021 y hasta diciembre de 2023.
+
+4. Crear un gráfico
+- Para facilitar la comprensión de las tendencias de ventas mensuales, siga estos pasos para crear un Gráfico:
+   - Seleccionar la Célula A1. 
+   - Selecciona Insertar > Gráfico.
+   - Google Sheets inserta un Gráfico a la derecha de los Datos.
+   - Por defecto, Google Sheets crea un Gráfico de líneas. 
+   - Observa que Google Sheets ha generado automáticamente un título para el Gráfico, "Ventas totales frente a mes", y ha añadido las etiquetas "Ventas totales" para el eje vertical y "Mes" para el eje horizontal.
+   - También abre automáticamente el panel Editor de gráficos en la parte derecha de la ventana, con la pestaña Configuración abierta.
+
+5. Ajustar gráfico
+- Utilice el panel Editor de gráficos para realizar cambios en el gráfico.
+- En la pestaña Configuración, puede cambiar el tipo de Gráfico, el Rango de datos, las etiquetas de los ejes, etc.
+- Por ejemplo, la lista desplegable Tipo de gráfico cambia el tipo de gráfico de líneas a otro estilo, como un gráfico de barras.
+- En la pestaña Personalizar, puede cambiar muchas otras opciones, como el estilo del Gráfico. 
+- Si el panel del Editor de Gráficos no está abierto, haga doble clic en el gráfico para abrirlo.
+- A continuación, cambie los distintos componentes del gráfico seleccionándolos dentro del gráfico o accediendo a ellos desde el panel Editor de gráficos. 
+- En este ejemplo, cambie el título del Gráfico a "Ventas mensuales" Siga estos pasos: 
+- Si es necesario, abra el panel Editor de gráficos haciendo doble clic en el gráfico. 
+- En el panel Editor de gráficos, seleccione la pestaña Personalizar.
+- Despliegue la sección Títulos de Gráfico y Ejes. 
+- Verifique que el título del Gráfico está seleccionado en el menú desplegable, luego cambie el título a Ventas mensuales.
+- Su Gráfico mostrará ahora el título "Ventas mensuales"
+- Si utiliza Microsoft Excel, haga doble clic en el título del Gráfico para editarlo directamente.
+- ¡Sea creativo! No tenga miedo de jugar con las opciones.
+- Siempre puedes guardar o descargar otra copia de la plantilla si quieres empezar de cero
+
+- Consejo profesional
+   - Asegúrese de guardar una copia de la plantilla de hoja de cálculo que ha utilizado para completar esta actividad.
+   - Puede utilizarla para seguir practicando o para ayudarle a elaborar sus procesos de reflexión para tareas similares en un futuro puesto de analista de datos.
+- [archivo resuelto](./resources/modulo-03/Monthly-sales-resuelto.xlsx)
+
+
+1. Reflexión
+- Basándose en el Gráfico que ha creado, ¿cuál es la época del año de mayor actividad para su empresa? 
+   - [ ] Septiembre-Noviembre
+   - [ ] Junio-agosto
+   - [x] Diciembre-febrero
+   - [ ] Marzo-mayo
+> La época de mayor actividad del año es de diciembre a febrero.
+
+2. Examine su Visualización de datos terminada.
+- En el espacio que se proporciona a continuación, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de las siguientes preguntas:
+- ¿Cómo le ayuda el Gráfico de líneas a visualizar los datos de ventas?  
+- Basándose en su análisis, ¿cuándo necesitará su empresa aumentar el personal y el inventario? 
+> Basándome en los datos, los meses con mayores ventas corresponden al periodo diciembre-febrero, esto se ve de forma constante a través de los años por lo que es crucial aumentar personal e inventario en estas fechas. El gráfico de líneas permite observar cómo aumente y disminuyen las ventas a través de los meses, así como los picos de venta de forma clara.
+- Comentario 
+> ¡Enhorabuena por completar esta actividad práctica! Una respuesta eficaz incluiría una explicación de cómo la visualización de los datos permite determinar que su empresa registra sus mayores ventas entre diciembre y febrero. Durante estos meses, su empresa deberá aumentar su inventario y contratar personal temporal para hacer frente al incremento de las ventas durante la temporada turística.
