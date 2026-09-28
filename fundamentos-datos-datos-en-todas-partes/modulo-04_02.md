@@ -140,3 +140,102 @@
    - Como profesional de los Datos, deberá asegurarse de tener siempre en cuenta la imparcialidad.
    - Esto le permitirá evitar crear o reforzar sesgos o extraer accidentalmente conclusiones engañosas.
    - El uso de estas buenas prácticas puede ayudarle a orientar sus análisis y convertirle en un mejor profesional de los datos
+
+---
+
+## Autorreflexión: Casos de negocio (Business-to-Business)
+- Visión general
+   - Ahora que ha explorado cómo las empresas utilizan los datos en el mundo real, deténgase un momento y piense en lo que está aprendiendo.
+   - En esta autorreflexión, considerará la equidad y el uso de los datos en tres casos empresariales de ejemplo y responderá a breves preguntas con sus reflexiones.
+
+- Estudio de caso nº 1 
+   - Para mejorar la eficacia de su personal docente, la administración de un instituto ofreció a todos los profesores la oportunidad de participar en un taller.
+   - No era obligatorio asistir; en su lugar, el administrador animó a los profesores a inscribirse.
+   - De los 43 profesores en plantilla, 19 optaron por asistir al taller.
+   - Al final del año académico, la administración recopiló datos sobre el rendimiento de todos los profesores en plantilla.
+   - Los Datos se recogieron mediante una Encuesta a los alumnos.
+   - En la encuesta, se pidió a los alumnos que clasificaran la eficacia de cada profesor en una escala de 1 (muy deficiente) a 6 (muy buena).
+   - El administrador comparó los datos de los profesores que asistieron al taller con los de los que no lo hicieron.
+   - La comparación reveló que los profesores que asistieron al taller obtuvieron una puntuación media de 4,95, mientras que los profesores que no asistieron obtuvieron una puntuación media de 4,22.
+   - El administrador concluyó que el taller había sido un éxito.
+
+- Reflexión
+   - Considere este escenario:
+      - ¿Cuáles son los ejemplos de prácticas justas o injustas?
+      - ¿Cómo podría un Analista de datos corregir las prácticas injustas?
+      - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuesta
+¿Cuáles son los ejemplos de prácticas justas o injustas?
+
+Ofrecer el taller a todos y utilizar una escala común son prácticas que favorecen la igualdad de oportunidades y la comparación. Sin embargo, concluir que el taller fue exitoso solo por las puntuaciones finales ignora la participación voluntaria, las diferencias previas entre docentes y los posibles sesgos de las encuestas estudiantiles.
+
+¿Cómo podría un analista de datos corregir las prácticas injustas?
+
+Un analista podría recopilar evaluaciones antes y después del taller para ambos grupos y comparar sus cambios, considerando las diferencias iniciales y el contexto de sus clases. También debería revisar cuántos alumnos respondieron y complementar sus opiniones con otras medidas de desempeño, sin asumir que las malas calificaciones invalidan sus evaluaciones.
+
+- Comentario
+¡Buen trabajo reforzando su aprendizaje con una autorreflexión reflexiva! En su respuesta, es probable que haya señalado que se trata de un ejemplo de práctica desleal. Es tentador concluir -como hizo el administrador- que el taller fue un éxito. Sin embargo, dado que el taller era voluntario y no aleatorio, no es apropiado inferir una relación causal entre la asistencia al taller y la calificación más alta.
+
+El taller podría haber sido eficaz, pero no se pueden descartar otras explicaciones para las diferencias en las calificaciones. Por ejemplo, otra explicación podría ser que el personal voluntario para el taller fueran los profesores mejores y más motivados. Este grupo de profesores recibiría una valoración más alta independientemente de que el taller fuera eficaz o no.
+
+También es notable que no haya una conexión directa entre las respuestas de los alumnos a la encuesta y la asistencia al taller. El Analista de datos podría corregir esto pidiendo que los profesores fueran seleccionados al azar para participar en el taller. También podrían recopilar datos que midan algo más directamente relacionado con la asistencia al taller, como el éxito de una técnica que los profesores aprendieron en ese taller.
+
+- Estudio de caso nº 2
+   - Una empresa automovilística pone a prueba las capacidades de conducción de su prototipo de coche autoconducido.
+   - Llevan a cabo las pruebas en varios tipos de carreteras, en concreto, un circuito de carreras, una pista de trail y un camino de tierra.
+   - Los investigadores sólo prueban el prototipo durante el día.
+   - Recopilan dos tipos de datos: los datos de los sensores del coche durante los trayectos y los datos de vídeo de los trayectos procedentes de las cámaras del coche.
+   - Revisan los datos después de las pruebas iniciales.
+   - Los resultados demuestran que el nuevo coche autoconducido cumple los Estándares de rendimiento en cada una de las carreteras.
+   - Como resultado, el coche puede pasar a la siguiente fase de pruebas, que incluirá la conducción en diversas condiciones meteorológicas. 
+
+- Reflexión
+   - Considere este escenario:
+      - ¿Cuáles son los ejemplos de prácticas justas o injustas?
+      - ¿Cómo podría un Analista de datos corregir las prácticas injustas?
+      - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuesta
+
+¿Cuáles son los ejemplos de prácticas justas o injustas?
+
+Probar el vehículo en distintos tipos de carreteras y recopilar datos de sensores y cámaras favorece una evaluación más diversa. Sin embargo, realizar pruebas únicamente durante el día deja fuera las condiciones nocturnas y limita la representatividad de los datos, por lo que los resultados solo respaldan el desempeño en las condiciones evaluadas.
+
+¿Cómo podría un analista de datos corregir las prácticas injustas?
+
+Un analista podría proponer pruebas diurnas y nocturnas en cada tipo de carretera, incluyendo diferentes niveles de iluminación y densidades de tráfico, además de las condiciones meteorológicas ya previstas. Después, compararía el rendimiento por condición para identificar fallos que un promedio general podría ocultar y señalaría qué situaciones todavía no se han evaluado.
+
+- Comentario
+Una vez más, este caso de éxito muestra una práctica desleal. Su respuesta probablemente menciona que, aunque los investigadores prueban el prototipo en tres pistas diferentes, sólo realizan pruebas durante el día.
+
+Las condiciones en cada pista pueden ser muy diferentes durante el día y la noche y esto podría cambiar los resultados de forma significativa. El analista de datos debería corregir esto pidiendo al equipo de pruebas que añada pruebas nocturnas para tener una perspectiva completa de cómo se comporta el prototipo a cualquier hora del día en las pistas.
+
+- Estudio de caso nº 3
+   - Un parque de atracciones planea añadir nuevas atracciones a su Propiedad.
+   - En primer lugar, necesitan determinar qué tipo de atracciones nuevas quieren los visitantes que construya el parque.
+   - Para conocer los intereses de sus visitantes, el parque elabora una encuesta.
+   - Deciden distribuir la encuesta cerca de las montañas rusas porque las colas son lo suficientemente largas como para que los visitantes tengan tiempo de responder a todas las preguntas.
+   - Tras recoger los datos de la encuesta, descubren que la mayoría de los encuestados quieren más montañas rusas en el parque.
+   - Llegan a la conclusión de que deberían añadir más montañas rusas, ya que la mayoría de sus Visitantes las prefieren.
+
+- Reflexión
+   - Considere este escenario:
+      - ¿Cuáles son los ejemplos de prácticas justas o injustas?
+      - ¿Cómo podría un Analista de datos corregir las prácticas injustas?
+      - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuesta
+
+¿Cuáles son los ejemplos de prácticas justas o injustas?
+
+Preguntar directamente a los visitantes es una práctica adecuada para conocer sus intereses. Sin embargo, distribuir la encuesta solo cerca de las montañas rusas introduce un sesgo de selección, porque puede sobrerrepresentar a quienes las prefieren. Por eso, no es válido atribuir las preferencias de esos encuestados a todos los visitantes.
+
+¿Cómo podría un analista de datos corregir las prácticas injustas?
+
+Un analista podría distribuir la encuesta en distintas zonas del parque, como áreas de comida, descanso y salidas, durante diferentes días y horarios. Además, debería seleccionar participantes de forma que incluya diversos perfiles de visitantes y revisar si algún grupo está poco representado antes de recomendar qué atracciones construir.
+
+- Comentario
+Una reflexión meditada habría incluido información sobre la decisión de distribuir las encuestas en lugares donde los visitantes tuvieran tiempo de responder. De lo contrario, se introduce accidentalmente un sesgo del muestreo.
+
+Los únicos que responden a la encuesta son las personas que esperan en la cola de las montañas rusas. Esto podría sesgar injustamente los resultados de la encuesta, porque los encuestados podrían preferir las montañas rusas. Un Analista de datos podría reducir el sesgo del muestreo distribuyendo la encuesta a la entrada y a la salida del parque de atracciones. Así se evitaría dirigirse a los aficionados a las montañas rusas y se obtendrían resultados del público general del parqu
