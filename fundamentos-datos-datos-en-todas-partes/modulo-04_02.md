@@ -47,3 +47,23 @@
 - ​Con un gran poder viene, bueno, ​ya sabes el resto.
 - Y estás haciendo ​un gran trabajo al asimilar toda esta información.
 - ​A continuación, hablaremos sobre su responsabilidad ​como analista de datos para asegurarse de recopilar ​, analizar y presentar los datos de una manera que sea ​justa para las personas a las que representan esos datos.
+
+---
+
+## Rachel: Detectives de datos
+- ​Hola, me llamo Rachel ​y soy la directora de ​análisis y sistemas empresariales de Verily.
+- ​Hay muchos tipos diferentes de ​problemas que un analista de datos puede resolver.
+- ​He tenido la suerte ​a lo largo de mi carrera de haber visto muchos de ellos y de ​asimilar muchos tipos de ​datos muy diferentes y ayudar a convertirlos en respuestas significativas.
+- ​Creo que una de las ​cosas más importantes que hay que recordar sobre el ​análisis de datos es que los datos son datos.
+- ​Soy analista de datos financieros, por lo que ​mi función en Verily consiste en tomar ​toda nuestra información financiera, ​toda la información sobre ​el dinero ​que gastamos y el dinero que ganamos, y convertirla en informes e información ​para que nuestros líderes empresariales ​puedan entender lo que estamos haciendo.
+- ​Una de las cosas más importantes que he hecho ​recientemente en Verily ha sido ayudar a ​crear lo que se denomina un ​estado de pérdidas y ganancias para cada una de nuestras unidades de negocio.
+- ​Esto significa que, en tiempo real, ​nuestros equipos pueden ver cuál ​es su presupuesto y cómo gastan con respecto a ese presupuesto.
+- ​Lo que hace es ayudar a nuestros equipos a cumplir con ​ese presupuesto, ya sea aumentando ​sus fuentes de ingresos ​para tener más dinero con el ​que jugar o reduciendo sus gastos para ​poder mantenerse dentro de ese presupuesto.
+- ​Todo eso realmente nos ayuda a mantenernos en el ​buen camino como empresa ​para asegurarnos de que estamos alcanzando nuestros objetivos.
+- ​He descubierto que los datos actúan como algo que vive y respira.
+- ​Cuando tienes un montón de puntos de datos, ​puede resultar abrumador la ​primera vez que te sientas a buscarles sentido.
+- ​Tienes toneladas de columnas, ​toneladas de registros, toneladas de diferentes tipos de datos, ​y encontrar la manera de darles sentido es muy ​difícil y ahí es donde ​entra en juego la experiencia de un analista de datos.
+- ​Han sido algunos de los ​momentos más frustrantes de mi carrera, ​pero también uno de los trabajos más gratificantes que ​he realizado cuando por fin se concretan.
+- ​El mejor consejo que tengo para ​cualquier analista de datos que comience es que siga haciéndolo.
+- ​Si el ángulo que estás tomando no ​funciona, intenta buscar otro.
+- ​Intente abordarlo de una manera diferente, ​intente hacer una pregunta diferente ​y, finalmente, los datos ​rendirán y obtendrá la información que está buscando.
