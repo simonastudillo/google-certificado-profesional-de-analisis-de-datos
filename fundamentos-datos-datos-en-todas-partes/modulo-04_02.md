@@ -266,3 +266,35 @@ Los únicos que responden a la encuesta son las personas que esperan en la cola 
 - ​Los datos crecen y, al mismo tiempo, ​necesitamos capacitar a las personas para que tengan ​el control sobre sus propios datos.
 - ​El futuro es que los datos siempre crecen, ​no hemos visto ninguna evidencia de ​que los datos realmente se estén reduciendo.
 - ​Con el conocimiento de que los datos crecen, ​estos problemas se vuelven cada vez más acuciantes ​y cada vez es más importante pensar en ellos.
+
+---
+
+## Ponga a prueba sus conocimientos sobre la toma de decisiones empresariales justas
+
+1. En un Contexto de Analítica de datos, ¿qué es una Tarea empresarial?
+   - [ ] Implementar nuevas estrategias que hagan avanzar a la organización
+   - [ ] La gestión eficaz y continua de los Recursos
+   - [ ] El desarrollo de las metas u objetivos de la empresa
+   - [x] La pregunta contestada, o el problema resuelto, mediante el análisis de datos
+> En un contexto de Analítica de datos, una tarea empresarial es la pregunta a la que responde, o el problema que resuelve, el análisis de datos.
+
+2. Rellene el espacio en blanco: Equidad significa garantizar que el proceso de análisis de datos no cree ni _____ los sesgos.
+   - [ ] disminuya
+   - [ ] subvierta
+   - [ ] modifique
+   - [x] refuerce
+> Equidad significa garantizar que el proceso de Análisis de datos no cree ni refuerce sesgos.
+
+3. ¿Cuáles son algunas de las estrategias que utilizan los profesionales de los datos para asegurarse de que sus análisis de datos son imparciales? Seleccione todas las que correspondan.
+   - [x] Considere los complicados contextos sociales que podrían crear sesgos
+   - [x] Dar prioridad a la equidad durante la recogida de Datos
+   - [ ] No tener en cuenta los factores sistémicos que puedan afectar a los datos
+   - [x] Asegúrese de que todo lo que se comparta con las partes interesadas se presente en su contexto
+> Para asegurarse de que sus análisis de datos son imparciales, los profesionales de los datos tienen en cuenta los complicados contextos sociales que podrían crear sesgos, dan prioridad a la imparcialidad durante la recopilación de datos y se aseguran de que todo lo que se comparte con las partes interesadas se presenta en su contexto.
+
+4. Un profesional de los datos se da cuenta de que su conjunto de datos está desequilibrado y, por tanto, no es representativo de toda la población. Trabajan para obtener más respuestas de los grupos no dominantes con el fin de abordar este Problema y garantizar que las perspectivas de los datos sean justas. ¿Qué describe este escenario?
+   - [ ] Contexto
+   - [ ] Limpieza de datos
+   - [x] Sobremuestreo
+   - [ ] Estrategia de datos
+> Este escenario describe el sobremuestreo. El sobremuestreo es el proceso de aumentar el tamaño de la muestra de los grupos no dominantes para representarlos mejor y abordar los conjuntos de datos desequilibrados.
