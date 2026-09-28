@@ -239,3 +239,30 @@ Un analista podría distribuir la encuesta en distintas zonas del parque, como �
 Una reflexión meditada habría incluido información sobre la decisión de distribuir las encuestas en lugares donde los visitantes tuvieran tiempo de responder. De lo contrario, se introduce accidentalmente un sesgo del muestreo.
 
 Los únicos que responden a la encuesta son las personas que esperan en la cola de las montañas rusas. Esto podría sesgar injustamente los resultados de la encuesta, porque los encuestados podrían preferir las montañas rusas. Un Analista de datos podría reducir el sesgo del muestreo distribuyendo la encuesta a la entrada y a la salida del parque de atracciones. Así se evitaría dirigirse a los aficionados a las montañas rusas y se obtendrían resultados del público general del parqu
+
+---
+
+## Alex: Decisiones justas y éticas sobre los datos
+- ​Hola, soy Alex.
+- Soy científico investigador en Google.
+- ​Mi equipo se llama equipo de IA ética.
+- ​Somos un grupo de personas que realmente están preocupadas no solo por el ​funcionamiento de la tecnología de la IA, ​sino también por la forma en que interactúa con la sociedad y por la forma en que ​puede ayudar o dañar a las comunidades marginadas.
+- ​Cuando hablamos de ética de datos, ​pensamos en cuál es ​la forma buena y correcta de usar los datos.
+- ​¿Cuáles serán las formas en que los ​usos de los datos van a beneficiar a las personas? ​En lo que respecta a la ética de los datos, ​no se trata solo de minimizar el daño, sino también ​de este concepto de beneficencia.
+
+- ​¿Cómo podemos mejorar realmente la vida ​de las personas mediante el uso de datos? ​Cuando pensamos en la ética de los datos, pensamos en ​quién recopila los datos.
+- ​¿Por qué lo coleccionan? ​¿Cómo lo recopilan y con qué propósito? ​Debido ​a la forma en que las organizaciones tienen el imperativo de ganar ​dinero, informar a alguien o proporcionar algún análisis, ​también debemos tener muy en cuenta ​cómo esto va a ​beneficiar realmente a las personas al final del día.
+- ​¿Las personas representadas en ​estos datos se van a beneficiar de esto? ​Creo que eso es lo que nunca debes ​perder de vista como científico de datos o analista de datos.
+
+- ​Creo que los aspirantes a analistas de datos deben tener en ​cuenta que muchos de los datos ​que van a encontrar provienen de personas, ​por lo que, al final del día, los datos son personas.
+- ​Quieres tener una responsabilidad ​con las personas que están representadas en esos datos.
+- ​En segundo lugar, está pensando en cómo mantener ​los aspectos de sus datos protegidos y privados.
+- ​No queremos basarnos en nuestra práctica ​pensando en las instancias de datos como ​algo que podemos simplemente publicar en la web.
+- ​No, es necesario tener en cuenta ​cómo conservar esa información ​y semejanzas, como sus imágenes, ​sus voces o su texto.
+- ​¿Cómo lo mantenemos en privado? ​También debemos pensar en cómo podemos disponer de ​mecanismos para dar a los usuarios ​y a los consumidores un mayor control sobre sus datos.
+
+- ​No va a bastar con decir que ​recopilamos ​todos estos datos y nos los confiamos.
+- ​Sin embargo, debemos asegurarnos de que haya ​formas procesables en ​las que las personas puedan dar su consentimiento para proporcionar esos datos ​y formas de ​solicitar que se revoquen o eliminen.
+- ​Los datos crecen y, al mismo tiempo, ​necesitamos capacitar a las personas para que tengan ​el control sobre sus propios datos.
+- ​El futuro es que los datos siempre crecen, ​no hemos visto ninguna evidencia de ​que los datos realmente se estén reduciendo.
+- ​Con el conocimiento de que los datos crecen, ​estos problemas se vuelven cada vez más acuciantes ​y cada vez es más importante pensar en ellos.
