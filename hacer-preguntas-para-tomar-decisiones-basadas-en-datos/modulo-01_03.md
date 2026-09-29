@@ -178,3 +178,19 @@
 4. Identifying themes: Recognizing broader concepts and trends from categorized data.
 5. Discovering connections: Identifying similar challenges across different entities—and using data and insights to find common solutions.
 6. Finding patterns: Using historical data about what happened in the past to understand how likely it is to happen again.
+
+---
+
+## Anmol: DE LA HIPÓTESIS AL RESULTADO
+- ​Hola, soy Anmol.
+- ​Soy el jefe de Análisis de datos de marketing para grandes anunciantes ​en el Equipo de Marketing de Google.
+- ​En esencia, mi trabajo consiste en conectar ​al usuario correcto con el mensaje correcto en el momento correcto.
+- ​El primer paso es realmente tener ​una idea amplia del patrón determinado que está ocurriendo.
+- ​Por ejemplo, sabemos que este segmento particular ​de usuarios responde mejor a este tipo de contenido.
+- ​Una vez que podemos ver realmente ​esta hipótesis a través de los datos, ​hacemos pruebas para asegurarnos de ​que la hipótesis sea realmente correcta.
+- ​Por ejemplo, probaríamos el ​envío de estos contenidos a este segmento de usuarios ​y verificaríamos, en un entorno controlado, ​si la tasa de respuesta es ​realmente mayor para ese tipo de contenido ​o si no lo es.
+- ​Una vez que podamos verificar realmente esa hipótesis, ​nos dirigimos a la parte interesada, ​en este caso, a nuestros especialistas ​en marketing, y les decimos que hemos demostrado con un grado de certeza relativamente alto ​que este segmento en particular ​responde mejor a este tipo de contenido y, por eso, ​te recomendamos que ​produzcas más de este tipo de contenido.
+- ​Nuestra parte interesada realmente puede ver ​toda la evolución, desde la hipótesis hasta el concepto probado, ​y pueden ​acompañarnos en el proceso de probar ​estas hipótesis y, finalmente, ​convertirlas en estrategias y recomendaciones para la empresa.
+- ​El resultado en este caso fue que ​pudimos cambiar la forma en que ​trabajaba todo nuestro equipo de marketing ​para que estuviera mucho más centrado en el usuario.
+- ​Desde nuestra perspectiva, en lugar de ​crear el contenido que creemos que los usuarios necesitan, en ​realidad vamos en la otra dirección: ​averiguar primero qué necesitan los usuarios, ​demostrar que necesitan ​ciertas cosas o no necesitan ciertas cosas ​y, luego, utilizar esa información para volver a los especialistas en marketing ​y crear contenido que satisfaga sus necesidades.
+- ​Así que realmente cambió la dirección de la ​forma en que producimos las cosas.
