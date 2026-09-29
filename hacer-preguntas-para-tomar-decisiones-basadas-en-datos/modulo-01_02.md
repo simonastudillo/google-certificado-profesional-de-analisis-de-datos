@@ -150,3 +150,35 @@
 - ​Una vez que todos nuestros informes estuvieron completos, ​obtuvimos resultados realmente positivos y decidimos actuar en consecuencia ​continuando con ​nuestro programa de incorporación del aprendizaje basado en proyectos.
 - ​Fue realmente satisfactorio saber que tenemos los datos que ​lo respaldan y que realmente funcionó.
 - ​Y no solo porque los datos estaban ahí, ​sino que sabíamos que nuestros estudiantes ​estaban aprendiendo y que eran más productivos y ​volvían más rápido a sus puestos de trabajo.
+
+---
+
+## Ponga a prueba sus conocimientos sobre la toma de medidas con datos
+
+1. Un Analista de datos trabaja para una empresa de ingeniería, especializada en el diseño y desarrollo de aviones. Ayudan a su empleador a elegir los mejores lugares para anunciarse, entre los que se incluyen un Pódcast sobre las últimas tendencias en ingeniería aeronáutica y una revista publicada por una asociación de ingeniería aeronáutica. ¿Qué describe este escenario?
+   - [x] Llegar a un público objetivo 
+   - [ ] Pensamiento estructurado
+   - [ ] Ceñirse a un Presupuesto
+   - [ ] Toma de decisiones basada en datos
+> Este escenario describe cómo llegar a un público objetivo. Un público objetivo son las personas concretas con las que intenta comunicarse.
+
+2. ¿Qué paso del proceso de Análisis de datos incluye la recopilación de datos para su análisis?
+   - [ ] Proceso 
+   - [ ] Compartir 
+   - [x] Preparar
+   - [ ] Pregunte a
+> El paso de preparación incluye la recopilación de Datos para su análisis.
+
+3. Rellene el espacio en blanco: Cuando los profesionales de los datos _____ datos, eliminan las imprecisiones transformando los datos a un formato más útil y eliminando los valores atípicos.
+   - [ ] tienda
+   - [ ] analice
+   - [x] limpie
+   - [ ] consulta
+> Cuando los profesionales de datos limpian los datos, eliminan las imprecisiones transformando los datos a un formato más útil y eliminando los valores atípicos. La limpieza de datos tiene lugar durante la etapa del proceso de análisis de datos.
+
+4. ¿Cuál de las siguientes actividades forma parte de la etapa de reparto del Proceso de análisis de datos? Seleccione todas las que correspondan.
+   - [x] Resuma los resultados del Análisis
+   - [ ] Hacer recomendaciones
+   - [x] Utilizar elementos visuales para ayudar a la gente a entender las estadísticas
+   - [ ] Definir el problema a resolver
+> Durante el paso de la acción del proceso de Análisis de datos, los profesionales de los datos resumen los resultados, a menudo utilizando elementos visuales para ayudar a la gente a entender las perspectivas de los datos.
