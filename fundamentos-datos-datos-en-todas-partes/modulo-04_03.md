@@ -139,3 +139,10 @@
 - ​Cuando te pones en contacto directamente con ​un gerente de contratación o un reclutador, ​realmente demuestra tu entusiasmo ​por el puesto y tus intereses por el puesto.
 - ​Incluso si a veces no ​recibes una respuesta al contactar con alguien, ​nunca se sabe, lo intentas varias veces diferentes.
 - ​Esa única vez que recibas una respuesta ​de un reclutador o gerente de contratación, ​podría ser el momento en que consigas el trabajo que realmente querías.
+
+---
+
+## Más allá de los números: El viaje de un analista de datos
+- En lugar de una lectura, le invitamos a ver
+   - la charla TEDx de Anna Leach en [YouTube](https://www.youtube.com/watch?v=t2oOFs4WgI0&feature=emb_title) o en la plataforma [TED](https://www.ted.com/talks/anna_leach_building_authentic_relationships) para conocer otro interesante viaje como analista de datos.
+
