@@ -166,3 +166,15 @@
 ​Siempre me sorprende escuchar cómo los datos ayudan a personas y ​empresas reales a lograr cambios significativos.
 - ​Espero que tú también lo estés.
 - ​Nos vemos pronto.
+
+---
+
+## Nombre el tipo de problema
+- Identify the six problem types data analysts typically face.
+
+1. Making predictions: Using data to make informed decisions about how things may be in the future.
+2. Categorizing things: Grouping data based on common features.
+3. Spotting something unusual: Identifying data that is different from the norm.
+4. Identifying themes: Recognizing broader concepts and trends from categorized data.
+5. Discovering connections: Identifying similar challenges across different entities—and using data and insights to find common solutions.
+6. Finding patterns: Using historical data about what happened in the past to understand how likely it is to happen again.
