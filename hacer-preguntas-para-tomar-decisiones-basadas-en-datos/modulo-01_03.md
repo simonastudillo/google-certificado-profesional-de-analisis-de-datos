@@ -97,3 +97,72 @@
 - Conclusión clave
    - A medida que avance en este Programa, desarrollará un ojo más agudo para los problemas y practicará la reflexión sobre los tipos de problemas cuando comience su análisis.
    - Este Método de resolución de problemas le ayudará a encontrar soluciones que satisfagan las necesidades de todas las partes interesadas.
+
+---
+
+## Seguir explorando las aplicaciones empresariales
+- Ha estado aprendiendo sobre seis tipos de problemas comunes a los que se enfrentan los analistas de datos: ​hacer predicciones, categorizar cosas, detectar algo inusual, ​identificar temas, descubrir conexiones y encontrar patrones.
+- ​Pensemos en nuestro ejemplo del mundo real de un vídeo anterior.
+- ​En ese ejemplo, ​Anywhere Gaming Repair quería averiguar cómo atraer nuevos clientes.
+- ​Así que el problema era cómo determinar el mejor método de publicidad para el ​público objetivo de Anywhere Gaming Repair.
+- ​Para ayudar a resolver este problema, la empresa utilizó los datos para imaginar ​lo que sucedería si se anunciara en diferentes lugares.
+- ​Ahora nadie puede ver el futuro, pero los datos les ayudaron a tomar una ​decisión informada sobre cómo podrían funcionar las cosas.
+- ​Por lo tanto, su tipo de problema era hacer predicciones.
+
+- ​Ahora pensemos en el segundo tipo de problema, la categorización de las cosas.
+- ​Este es un ejemplo de un problema que implica la categorización.
+- ​Supongamos que una empresa quiere mejorar los niveles de satisfacción de sus clientes.
+- ​Los analistas de datos podrían revisar las llamadas grabadas al ​departamento de servicio al cliente de la empresa y evaluar los niveles de satisfacción de cada persona que llama.
+- ​Podrían identificar ciertas palabras o frases clave que aparecen durante ​las llamadas telefónicas y luego asignarlas a categorías como cortesía, ​satisfacción, insatisfacción, empatía y más.
+- La ​categorización de estas palabras clave nos brinda datos que permiten a la empresa ​identificar a los representantes de servicio al cliente con mejor desempeño y ​a aquellos que podrían necesitar más capacitación.
+- ​Esto se traduce en clientes más satisfechos y puntajes más altos en el servicio de atención al cliente.
+
+- ​Bien, ahora hablemos de un problema que implica detectar algo inusual.
+- ​Es posible que algunos de ustedes tengan un reloj inteligente, mi aplicación favorita es para el seguimiento de la salud.
+- ​Estas aplicaciones pueden ayudar a las personas a mantenerse sanas al recopilar datos como su frecuencia cardíaca, ​patrones de sueño, rutina de ejercicios y mucho más.
+- ​Hay muchas historias sobre aplicaciones de salud que realmente salvan ​la vida de las personas.
+- ​Una es sobre una mujer joven, atlética y ​que no tenía problemas médicos previos.
+- ​Una noche escuchó un pitido en su reloj inteligente, ​una notificación decía que su ritmo cardíaco se había disparado.
+- ​Ahora, en este ejemplo, piense en el reloj como un analista de datos.
+
+- ​El reloj recopilaba y analizaba datos de salud.
+- ​Entonces, cuando su frecuencia cardíaca en reposo fue repentinamente de 120 latidos por minuto, ​el reloj detectó algo inusual porque, según sus datos, ​la frecuencia normalmente rondaba los 70.
+- ​Gracias a los datos que le proporcionó su reloj inteligente, la mujer fue al hospital y ​descubrió que tenía una afección que podría haber provocado ​complicaciones potencialmente mortales si no hubiera recibido ayuda médica.
+- ​Ahora pasemos al siguiente tipo de problema: la identificación de temas.
+- ​Vemos muchos ejemplos de esto en el campo de la experiencia del usuario.
+- ​Los diseñadores de experiencia de usuario estudian y ​trabajan para mejorar las interacciones que las personas tienen con los productos que utilizan todos los días.
+- ​Supongamos que un diseñador de experiencia del usuario quiere ver qué piensan los clientes sobre ​la cafetera que fabrica su empresa.
+
+- ​Esta empresa recopila datos anónimos de encuestas de los usuarios, ​que pueden usarse para responder a esta pregunta.
+- ​Pero primero, para darle sentido a todo esto, ​tendrá que encontrar temas que representen los datos más valiosos, ​especialmente la información que pueda utilizar para mejorar aún más la experiencia del usuario.
+- ​Por lo tanto, el problema al que se enfrenta la empresa del diseñador de experiencia de usuario ​es cómo mejorar la experiencia del usuario de sus cafeteras.
+- ​El proceso aquí es como encontrar categorías para ​palabras clave y frases en las conversaciones de servicio al cliente.
+- ​Sin embargo, la identificación de los temas va más allá al agrupar cada estadística en ​un tema más amplio.
+- ​Luego, el diseñador puede identificar los temas más comunes.
+- ​En este caso, descubrió que los usuarios a menudo no podían saber si la cafetera ​estaba encendida o apagada.
+
+- ​Terminó optimizando el diseño mejorando la ubicación y la iluminación ​del botón de encendido/apagado, lo que permitió mejorar el producto y satisfacer a los usuarios.
+- ​Ahora llegamos al problema de descubrir conexiones.
+- ​Este ejemplo proviene de la industria del transporte y ​utiliza algo llamado logística de terceros.
+- ​Los socios logísticos externos ayudan a las empresas a enviar productos cuando ​no tienen sus propios camiones, aviones o barcos.
+- ​Un problema común al que se enfrentan estos socios es descubrir cómo reducir el tiempo de espera.
+- El ​tiempo de espera ocurre cuando un controlador de camión de un proveedor de logística externo ​llega para recoger un envío, pero no está listo.
+- ​Así que tiene que esperar.
+
+- ​Eso cuesta tiempo y dinero a ambas empresas e ​impide que los camiones vuelvan a la carretera para realizar más entregas.
+- ​Entonces, ¿cómo pueden resolver esto? ​Bueno, al compartir datos, las empresas asociadas pueden ver los plazos de las demás ​y ver qué es lo que provoca que los envíos se retrasen.
+- ​Luego, pueden averiguar cómo evitar esos problemas en el futuro.
+- ​Por lo tanto, un problema para una empresa no causa un impacto negativo para la otra.
+- ​Por ejemplo, si los envíos se retrasan porque una empresa solo entrega los lunes, ​miércoles y viernes, y la otra solo entrega los martes y ​jueves, las empresas pueden optar por entregar el mismo día para reducir el tiempo de espera para los clientes.
+- ​Muy bien, hemos llegado a nuestro último tipo de problema: encontrar patrones.
+
+- ​Las compañías de petróleo y gas trabajan constantemente para mantener sus máquinas funcionando ​correctamente.
+- ​Así que el problema es cómo evitar que las máquinas se estropeen.
+- ​Una forma en que los analistas de datos pueden hacerlo es observando los patrones ​en los datos históricos de la empresa.
+- ​Por ejemplo, podrían investigar cómo y cuándo se ​averió una máquina en particular en el pasado y, luego, generar información sobre lo que provocó la rotura.
+- ​En este caso, la empresa observó un patrón que indicaba que las máquinas comenzaban a ​descomponerse a un ritmo más rápido cuando el mantenimiento no se mantenía en ciclos de 15 días.
+- ​Luego, pueden realizar un seguimiento de las condiciones actuales e ​intervenir si alguno de estos problemas vuelve a ocurrir.
+- ​Bastante guay, ¿verdad? 
+​Siempre me sorprende escuchar cómo los datos ayudan a personas y ​empresas reales a lograr cambios significativos.
+- ​Espero que tú también lo estés.
+- ​Nos vemos pronto.
