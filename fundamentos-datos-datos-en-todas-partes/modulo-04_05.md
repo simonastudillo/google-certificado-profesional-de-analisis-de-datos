@@ -54,3 +54,9 @@
 - ​Estar abierto al aprendizaje es una de ​las cualidades más importantes de un analista de datos.
 - ​A propósito del aprendizaje, en el próximo curso ​profundizaremos en el aprendizaje de ​las habilidades básicas de las hojas de cálculo y, cuando necesite usarlas, ​descubrirá cómo aplicar el ​pensamiento estructurado al trabajo con datos ​y se centrará en cómo satisfacer mejor las ​necesidades y expectativas de las partes interesadas ​mediante la recopilación de todas las pistas.
 - ​Buen trabajo y buena suerte en el próximo curso.
+
+--- 
+
+## A continuación
+- ¡Enhorabuena por completar el primer curso del Certificado en Google Data Analytics!
+- Para facilitarte la continuación del programa, accede al siguiente curso haciendo clic en este enlace: 
