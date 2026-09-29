@@ -1,17 +1,88 @@
 # Fundamentos: Datos, datos, en todas partes
 
 - Módulo 1: Introducción al Análisis de datos y al Pensamiento analítico
+   - [Comenzar](./modulo-01_01.md)
+   - [Transforme los datos en estadísticas](./modulo-01_02.md)
+   - [Comprender el ecosistema de datos](./modulo-01_03.md)
+   - [Aproveche sus habilidades como Analista de datos](./modulo-01_04.md)
+   - [Pensamiento analítico para obtener resultados eficaces](./modulo-01_05.md)
+   - [Desafío del módulo 1](./modulo-01_06.md)
 - Módulo 2: El maravilloso mundo de los Datos
+   - [Siga el Ciclo de vida de los datos](./modulo-02_01.md)
+   - [Esquema del proceso de análisis de datos](./modulo-02_02.md)
+   - [La caja de herramientas del Análisis de datos](./modulo-02_03.md)
+   - [Desafío del módulo 2](./modulo-02_04.md)
 - Módulo 3: Configure su caja de herramientas de análisis de datos
+   - [Fundamentos de las hojas de cálculo](./modulo-03_01.md)
+   - [Empezar con SQL y la visualización de datos](./modulo-03_02.md)
+   - [Desafío del módulo 3](./modulo-03_03.md)
 - Módulo 4: Conviértase en un profesional de los Datos justo y con impacto
+   - [Oportunidades de empleo de Analista de datos](./modulo-04_01.md)
+   - [La importancia de las decisiones empresariales justas](./modulo-04_02.md)
+   - [Opcional: Explore su próximo trabajo](./modulo-04_03.md)
+   - [Desafío del módulo 4](./modulo-04_04.md)
+   - [Conclusión del curso](./modulo-04_05.md)
 
 ## Habilidades y conceptos a aprender
 
+Los siguientes temas corresponden al alcance introductorio del curso. Se incluyen equivalentes en inglés para facilitar su búsqueda en LinkedIn y en recursos de formación.
+
 ### Habilidades técnicas (hard skills)
+
+- Análisis de datos (Data Analysis).
+- Microsoft Excel: manejo básico de hojas de cálculo.
+- Google Sheets: organización y análisis básico de datos.
+- Fórmulas y funciones de hojas de cálculo (Spreadsheet Formulas and Functions).
+- Ordenación y filtrado de datos (Data Sorting and Filtering).
+- SQL: consultas básicas con `SELECT`, `FROM` y `WHERE`.
+- Recopilación de datos (Data Collection): fuentes existentes y encuestas.
+- Limpieza de datos (Data Cleaning): fundamentos de corrección de errores, inconsistencias y datos faltantes.
+- Validación de datos (Data Validation): comprobación de exactitud e integridad.
+- Análisis exploratorio de datos (Exploratory Data Analysis): identificación inicial de patrones y tendencias.
+- Visualización de datos (Data Visualization): selección y creación de gráficos básicos.
+- Tableau: introducción a visualizaciones y cuadros de mando.
+- Interpretación de datos (Data Interpretation): extracción de conclusiones para el negocio.
+- Análisis de causa raíz (Root Cause Analysis): técnica de los cinco porqués.
+- Análisis de brechas (Gap Analysis): comparación entre el estado actual y el deseado.
 
 ### Conceptos clave
 
+- Ecosistema de datos (Data Ecosystem).
+- Ciclo de vida de los datos (Data Lifecycle): planificar, capturar, gestionar, analizar, archivar y destruir.
+- Proceso de análisis de datos (Data Analysis Process): preguntar, preparar, procesar, analizar, compartir y actuar.
+- Estrategia de datos (Data Strategy): personas, procesos y herramientas.
+- Organización y estructura de datos (Data Organization): conjuntos de datos, atributos y observaciones.
+- Tipos de datos (Data Types): numéricos, texto, fechas y valores booleanos.
+- Datos cualitativos y cuantitativos (Qualitative and Quantitative Data).
+- Bases de datos y lenguajes de consulta (Databases and Query Languages).
+- Calidad e integridad de los datos (Data Quality and Integrity).
+- Correlación y causalidad (Correlation and Causation).
+- Definición del problema de negocio (Business Problem Definition).
+- Partes interesadas (Stakeholders): necesidades y expectativas del análisis.
+- Toma de decisiones basada en datos (Data-Driven Decision-Making).
+- Ética y equidad en el análisis de datos (Data Ethics and Fairness).
+- Sesgos en los datos (Data Bias): sesgos de selección y del observador.
+- Representatividad de muestras y sobremuestreo (Sample Representativeness and Oversampling).
+- Datos autodeclarados (Self-Reported Data).
+- Privacidad y confidencialidad de los datos (Data Privacy and Confidentiality).
+
 ### Habilidades transferibles (soft skills)
+
+- Pensamiento analítico (Analytical Thinking).
+- Pensamiento crítico (Critical Thinking).
+- Resolución de problemas (Problem Solving).
+- Pensamiento estructurado (Structured Thinking): descomposición de problemas en pasos manejables.
+- Pensamiento estratégico (Strategic Thinking).
+- Atención al detalle (Attention to Detail).
+- Visión global (Big-Picture Thinking): conexión entre detalles y objetivos generales.
+- Comprensión del negocio (Business Acumen): interpretación del contexto y los objetivos empresariales.
+- Curiosidad intelectual (Intellectual Curiosity).
+- Aprendizaje continuo (Continuous Learning).
+- Formulación de preguntas (Questioning Skills): aclaración de problemas y necesidades.
+- Comunicación efectiva (Effective Communication).
+- Colaboración y trabajo en equipo (Teamwork and Collaboration).
+- Comunicación con partes interesadas (Stakeholder Communication).
+- Narración de historias con datos (Data Storytelling): explicación de hallazgos para distintas audiencias.
 
 ## Descripción del curso
 - Este es el primer curso del Certificado en Análisis de datos de Google.
@@ -95,3 +166,35 @@
 - [TEDx [Charlas TEDx]. (2018, 2 de marzo). Más allá de los números: El viaje de un analista de datos | Anna Leach | TEDxPSU [Vídeo]. YouTube. https://www.youtube.com/watch?v=t2oOFs4WgI0](https://www.youtube.com/watch?v=t2oOFs4WgI0)
 
 ## Resumen de módulos
+
+### Módulo 1: Introducción al análisis de datos y al pensamiento analítico
+
+El análisis de datos consiste en recopilar, transformar y organizar información para obtener conclusiones y resolver problemas. El analista trabaja dentro de un ecosistema que reúne datos, personas, procesos y tecnologías. Su aporte es convertir los datos en información útil para orientar decisiones empresariales, combinando la evidencia con el conocimiento del contexto y de los expertos en la materia. La intuición puede sugerir preguntas, pero las conclusiones necesitan respaldo en los datos.
+
+Las competencias fundamentales son la curiosidad, la comprensión del contexto, la mentalidad técnica, el diseño de datos y la estrategia de datos. Se aplican al formular preguntas, descomponer problemas en pasos manejables, organizar información y elegir cómo distribuir personas, herramientas y recursos. El pensamiento analítico combina la visión general con la atención al detalle y permite reconocer patrones sin perder de vista el objetivo del negocio.
+
+Para investigar problemas, la técnica de los cinco porqués ayuda a encontrar causas raíz, mientras que el análisis de brechas compara la situación actual con la deseada e identifica qué debe mejorar. Una distinción esencial es que la correlación no demuestra causalidad: que dos variables cambien juntas no basta para concluir que una provoca el cambio de la otra.
+
+### Módulo 2: El maravilloso mundo de los datos
+
+El ciclo de vida de los datos describe cómo se gestionan desde su planificación hasta su eliminación: planificar, capturar, gestionar, analizar, archivar y destruir. Incluye decidir qué información se necesita, quién será responsable de ella, cómo se almacenará y protegerá, y cuándo deberá conservarse o eliminarse de forma segura. Archivar permite consultar los datos en el futuro; destruir implica eliminarlos, incluidas sus copias. Las organizaciones pueden adaptar este ciclo a sus necesidades.
+
+El proceso de análisis tiene otro propósito: resolver una pregunta mediante seis fases —preguntar, preparar, procesar, analizar, compartir y actuar—. Comienza con la definición del problema y las expectativas de las partes interesadas; continúa con la recopilación, limpieza y comprobación de los datos; y culmina en la interpretación de resultados, su comunicación y la aplicación de medidas. Ambos marcos incluyen el análisis, pero sus etapas no son intercambiables.
+
+La calidad de los resultados depende de revisar errores, inconsistencias, datos faltantes y valores atípicos antes de extraer conclusiones. La caja de herramientas combina hojas de cálculo, lenguajes de consulta y plataformas de visualización. Su elección depende del volumen y la complejidad de los datos, las tareas necesarias y el resultado que se debe entregar. El valor del trabajo se concreta cuando los hallazgos permiten actuar sobre el problema original.
+
+### Módulo 3: Configure su caja de herramientas de análisis de datos
+
+Las hojas de cálculo permiten registrar, organizar y explorar datos en tablas: las columnas representan atributos y las filas, observaciones. Las prácticas incluyen introducir encabezados, ajustar formatos, ordenar registros y realizar cálculos mediante referencias de celdas. Una fórmula expresa las instrucciones de un cálculo y comienza con `=`; una función es una operación predefinida que puede utilizarse dentro de una fórmula. Mantener los registros completos al ordenar evita romper la relación entre sus valores.
+
+SQL permite consultar información almacenada en bases de datos. En una consulta básica, `SELECT` indica las columnas que se quieren recuperar, `FROM` identifica la tabla y `WHERE` establece las condiciones de filtrado. El asterisco (`*`) selecciona todas las columnas. También se introducen convenciones de formato, comentarios y alias para hacer las consultas más claras y comprensibles.
+
+La visualización convierte resultados en gráficos que facilitan reconocer patrones y explicar hallazgos. Su planificación parte de explorar los datos, decidir qué información necesita la audiencia y elegir una representación adecuada: barras para comparar categorías, líneas para cambios temporales o gráficos circulares para proporciones. Las actividades se centran en gráficos de hojas de cálculo; Tableau y los entornos de Python y R se presentan como opciones para profundizar. La claridad del mensaje y su utilidad para la audiencia orientan la elección del gráfico.
+
+### Módulo 4: Conviértase en un profesional de los datos justo y con impacto
+
+El trabajo del analista se organiza alrededor de una tarea empresarial: la pregunta que debe responder o el problema que debe resolver. Sus aplicaciones abarcan marketing, finanzas, salud, tecnología y otras industrias, con objetivos como comprender clientes, mejorar operaciones o asignar recursos. Un mismo conjunto de datos puede servir para fines distintos según el sector y las necesidades de la organización.
+
+La equidad exige evitar que el análisis cree o refuerce sesgos desde la recopilación hasta la presentación y aplicación de resultados. Para ello, se deben considerar los datos disponibles y los factores del contexto, sin seleccionar únicamente la información que confirma expectativas. Los datos autodeclarados pueden reducir sesgos del observador, y el sobremuestreo puede mejorar la representación de grupos poco incluidos. Los casos prácticos muestran cómo una encuesta realizada en un lugar específico o unas pruebas limitadas a ciertas condiciones pueden producir conclusiones que no representan a toda la población o situación estudiada. También es necesario proteger la privacidad y explicar las decisiones metodológicas al comunicar los hallazgos.
+
+La orientación profesional destaca la importancia de revisar las funciones y competencias de cada oferta, porque puestos con nombres parecidos pueden tener responsabilidades diferentes. Para elegir oportunidades conviene considerar la industria, las herramientas, la ubicación y la cultura de la empresa. En las entrevistas, explicar el razonamiento empleado para resolver un caso, preparar preguntas y demostrar interés por aprender permite mostrar el potencial profesional.
