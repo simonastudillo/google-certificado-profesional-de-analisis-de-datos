@@ -53,3 +53,54 @@
 - ​En un próximo curso, ​veremos las habilidades que tienen todos los analistas de datos de éxito ​y aprenderá cómo ​usted también puede empezar a practicarlas.
 - ​Pero antes de eso, tendrá una evaluación.
 - ​Buena suerte y hasta luego.
+
+---
+
+## Funciones y descripción de puestos de analista de datos
+- ASÍ COMO LA TECNOLOGÍA SIGUE AVANZANDO, ser capaz de recopilar y analizar los datos de esa nueva tecnología se ha convertido en una enorme ventaja competitiva para muchas empresas.
+- Todo, desde los sitios web hasta las redes sociales, está repleto de datos fascinantes que, si se analizan y utilizan correctamente, pueden ayudar a tomar decisiones empresariales.
+- La capacidad de una empresa para prosperar ahora depende a menudo de lo bien que sepa aprovechar los datos, aplicar la analítica e implementar las nuevas tecnologías.
+
+- Esta es la razón por la que los analistas de datos cualificados son algunos de los profesionales más buscados del mundo.
+- Un estudio realizado por IBM estima que hay más de 380.000 vacantes en el campo del Análisis de datos en Estados Unidos (datos de Burning Glass, 1 de febrero de 2021 - 31 de enero de 2022, EE.UU).
+- Como la Demanda es tan fuerte, podrá encontrar oportunidades de trabajo en prácticamente cualquier sector.
+- Haga una búsqueda rápida en cualquier sitio de empleo importante y se dará cuenta de que todo tipo de empresas, desde zoológicos a clínicas de salud, pasando por bancos, buscan profesionales con talento en el campo de los Datos.
+- Incluso si el título del trabajo no utiliza el término exacto "analista de datos", la descripción del trabajo para la mayoría de las funciones que implican el análisis de datos probablemente incluirá muchas de las habilidades y cualificaciones que obtendrá al final de este Programa.
+- En esta lectura, exploraremos algunas de las funciones relacionadas con el análisis de datos que podría encontrar en diferentes empresas e industrias.
+
+- Descifrando la descripción del puesto
+   - La función de analista de datos es uno de los muchos puestos de trabajo que contienen la palabra "analista".
+   - Por nombrar algunos otros que suenan parecido pero que pueden no ser la misma función
+      - Analista de negocios-analiza datos para ayudar a las empresas a mejorar procesos, productos o servicios
+      - Consultor en Analítica de datos-analiza los sistemas y modelos de uso de los datos
+      - Ingeniero de datos: prepara e integra datos de distintas fuentes para su uso analítico
+      - Científico de datos-utiliza habilidades expertas en tecnología y ciencias sociales para encontrar tendencias a través del análisis de datos
+      - Especialista en datos-organiza o convierte los datos para su uso en bases de datos o sistemas de software
+      - Analista de datos de operaciones: analiza los datos para evaluar el rendimiento de las operaciones y los flujos de trabajo de la empresa
+- Analistas de datos, científicos de datos y especialistas en datos suenan muy parecido pero se centran en tareas diferentes.
+- Cuando empiece a examinar las ofertas de empleo en línea, es posible que se dé cuenta de que las descripciones de los puestos de las empresas parecen combinar estas funciones o buscar candidatos que puedan tener aptitudes que se solapan.
+- El hecho de que las empresas difuminen a menudo las líneas que las separan significa que debe tener especial cuidado al leer las descripciones de los puestos y las competencias requeridas.
+- La tabla siguiente ilustra algunos de los solapamientos y distinciones entre ellos:
+
+<img src="./resources/modulo-04/image.png" width="500px">
+
+- Hemos utilizado la función de especialista en datos como ejemplo de las muchas especializaciones dentro de la analítica de datos, ¡pero no tiene por qué convertirse en un especialista en datos!
+- Las especializaciones pueden tomar diversos giros.
+- Por ejemplo, podría especializarse en el desarrollo de visualizaciones de datos y, del mismo modo, profundizar mucho en esa área.
+
+- Especializaciones laborales por industria
+   - Hemos aprendido que la función de especialista en datos se concentra en el conocimiento profundo de las bases de datos.
+   - De forma similar, otros papeles de especialista para analistas de datos pueden centrarse en el conocimiento en profundidad de industrias específicas.
+   - Por ejemplo, en un trabajo como analista de negocios podría llevar algunos sombreros diferentes que en un puesto más general como Analista de datos.
+   - Como analista de negocios, probablemente colaboraría con los directivos, compartiría sus hallazgos sobre los datos y quizá explicaría cómo un pequeño cambio en el sistema de gestión de proyectos de la empresa podría ahorrar a la compañía un 3% cada trimestre.
+   - Aunque seguiría trabajando con datos todo el tiempo, se centraría en utilizar los datos para mejorar las operaciones empresariales, la eficiencia o el balance final.
+   - Otros puestos de especialista en sectores específicos que podría encontrar en su búsqueda de empleo de Analista de datos son:
+      - Analista de marketing-analiza las condiciones del mercado para evaluar las ventas potenciales de productos y servicios.
+      - Analista de RRHH/nóminas-analiza los datos de las nóminas en busca de ineficiencias y errores
+      - Analista financiero: analiza la situación financiera recopilando, supervisando y revisando los datos
+      - Analista de riesgos: analiza los documentos financieros, las condiciones económicas y los datos de los clientes para ayudar a las empresas a determinar el nivel de riesgo que implica la toma de una decisión empresarial concreta
+      - Analista sanitario-analiza datos médicos para mejorar el aspecto empresarial de hospitales e instalaciones médicas
+
+- Puntos clave
+   - Explore las descripciones de los puestos de analista de datos y las funciones de analista específicas de cada sector.
+   - Empezará a hacerse una idea más clara de los distintos puestos de analista de datos que existen y de qué tipo de funciones le interesa más desempeñar. 
