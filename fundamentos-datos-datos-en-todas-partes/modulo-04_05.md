@@ -13,3 +13,8 @@
 - ¿Listo para sumergirte? Únete a tu comunidad
 - La comunidad está aquí para apoyarle en cada paso del camino.
 - La participación en la comunidad es opcional y gratuita.
+
+---
+
+## Glosario del curso 1
+- El glosario completo se encuentra [aquí](./README.md#glosario)
