@@ -132,3 +132,21 @@
 
 - Cuando está empezando su carrera como Analista de datos, es normal que se sienta arrastrado en varias direcciones diferentes con su función y sus expectativas.
 - Seguir procesos como los que se describen aquí y utilizar habilidades de pensamiento estructurado puede ayudarle a volver al buen camino, colmar cualquier laguna y hacerle saber exactamente lo que necesita.
+
+---
+
+## Nikki: El proceso de datos funciona
+- ​Soy Nikki y dirijo el ​equipo de educación, evaluación, valoración e investigación.
+- ​Mi parte favorita del proceso de análisis de datos es encontrar ​el problema más difícil y hacer ​un millón de preguntas al respecto y ​ver si es posible obtener una respuesta.
+- ​Uno de los problemas que hemos abordado en ​Google es nuestro programa de incorporación de Noogler, ​que es la forma en que incorporamos a los nuevos empleados.
+- ​Una de las cosas que hemos hecho es preguntarnos ​cómo podemos saber si los ​Nooglers se están incorporando más rápido o no ​a través de nuestro nuevo programa de incorporación que con ​nuestro antiguo programa de incorporación, en el que solíamos darles clases.
+- ​Trabajamos muy de cerca con los proveedores de contenido para ​entender exactamente qué ​significa incorporar a alguien más rápido.
+- ​Una vez que hicimos todas las preguntas, ​lo que hicimos fue preparar ​los datos entendiendo quién era ​la población de los nuevos empleados que estábamos examinando.
+- ​Preparamos nuestros datos ​analizando y entendiendo quiénes eran nuestras poblaciones, ​entendiendo quién era nuestro conjunto de muestras, ​quién era nuestro grupo de control, ​quién era nuestro grupo de experimentos, ​dónde estaban nuestras fuentes de datos ​y nos aseguramos de que estaban en un conjunto, en un formato ​limpio y digerible para que ​pudiéramos escribir los guiones adecuados.
+- ​Así que el siguiente paso para nosotros fue ​procesar los datos para asegurarnos de que estaban ​en un formato que pudiéramos analizar en SQL, ​asegurándonos de que estaban en el formato correcto, ​en las columnas correctas ​y en las tablas correctas para nosotros.
+- ​Para analizar los datos, ​escribimos scripts en SQL y R para correlacionarlos con el ​grupo de control o el grupo experimental ​e interpretar los datos para comprender ​si hubo algún cambio en ​los indicadores de comportamiento que vimos.
+- ​Una vez que analicemos todos los datos, ​queremos informar sobre ellos de manera ​que nuestra parte interesada pueda entenderlos.
+- ​Dependiendo de quiénes fueran nuestra parte interesada, ​preparamos informes, paneles ​y presentaciones, y compartimos esa información.
+- ​Una vez que todos nuestros informes estuvieron completos, ​obtuvimos resultados realmente positivos y decidimos actuar en consecuencia ​continuando con ​nuestro programa de incorporación del aprendizaje basado en proyectos.
+- ​Fue realmente satisfactorio saber que tenemos los datos que ​lo respaldan y que realmente funcionó.
+- ​Y no solo porque los datos estaban ahí, ​sino que sabíamos que nuestros estudiantes ​estaban aprendiendo y que eran más productivos y ​volvían más rápido a sus puestos de trabajo.
