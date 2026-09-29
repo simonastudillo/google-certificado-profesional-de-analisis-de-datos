@@ -57,3 +57,17 @@
    - Módulo 4: Recuerde siempre a las partes interesadas
       - Los analistas de datos de éxito equilibran las necesidades y expectativas de su equipo y de las partes interesadas a las que apoyan.
       - En esta parte del curso, aprenderá estrategias para gestionar las expectativas de las partes interesadas a la vez que establece una comunicación clara con su equipo.
+
+---
+
+## Recursos y consejos útiles
+- Hábitos saludables para completar con éxito el certificado
+   - Planifique su tiempo
+   - Trabaje a su propio ritmo
+   - Sé curioso
+   - Sigue a los instructores
+   - Toma notas
+   - Revisar ejemplos
+   - Construye tu identidad profesional
+   - Conéctate con otros estudiantes
+   - Actualiza tu perfil
