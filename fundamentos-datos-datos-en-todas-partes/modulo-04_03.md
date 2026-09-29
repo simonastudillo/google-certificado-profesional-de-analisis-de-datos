@@ -104,3 +104,38 @@
 - Puntos clave
    - Explore las descripciones de los puestos de analista de datos y las funciones de analista específicas de cada sector.
    - Empezará a hacerse una idea más clara de los distintos puestos de analista de datos que existen y de qué tipo de funciones le interesa más desempeñar. 
+
+---
+
+## Samah Buenas prácticas en las entrevistas
+- ​Mi nombre es Samah Moid y soy reclutadora ​en Google para el gran equipo de ventas al cliente.
+- ​Básicamente, aquí contrato talento para el equipo de ventas.
+- ​Incluso en el ámbito de la contratación de ventas, ​recluto específicamente para ​los puestos de liderazgo analítico aquí en Google.
+- ​Quiero que el candidato esté lo más cómodo posible.
+- ​Como reclutador, también soy su defensor.
+- ​Si son una buena opción para el equipo, ​me gustaría presentarlos de la mejor manera.
+- ​Como reclutador, daría algunos consejos a ​un analista de datos que esté empezando a buscar trabajo.
+
+- ​Piense en un momento en el que ​utilizó datos para resolver un problema, ​ya sea en sus proyectos profesionales o personales.
+- ​Otro consejo, diría que ​para un analista de datos que ​busca un nuevo trabajo es aumentar su red profesional.
+- ​Hay muchas maneras de aumentar ​su red profesional.
+- ​Una de ellas es aumentar su presencia en línea, ​ponerse en contacto con otros analistas en LinkedIn y ​unirse a reuniones locales con otros científicos de datos.
+- ​A veces, cuando buscamos un conjunto de habilidades único, ​los reclutadores van a sitios web como LinkedIn ​y GitHub e intentan encontrar ese talento por sí mismos.
+- ​Es muy importante tener tu LinkedIn ​actualizado junto con sitios web como GitHub, ​donde puedes mostrar muchos de ​los proyectos de analistas de datos que has realizado.
+- ​Otro consejo que diría para ​una entrevista en persona es ​preparar las preguntas para el entrevistador.
+
+- ​Asegúrese de que no sean preguntas generales.
+- ​Deben ser preguntas que te ayuden a entender ​mejor al equipo y al trabajo.
+- ​Si te dan un caso de éxito en una entrevista, ​debes esperar que te presenten ​un problema empresarial junto con el conjunto de datos de muestra.
+- ​Luego se le pedirá que tome ese conjunto de datos de muestra ​, lo analice y encuentre una solución.
+- ​Una de las cosas que puede hacer para prepararse para ​esto es ​asegurarse de analizar los datos ​y encontrar una solución ​que se relacione con esos datos.
+- ​A veces no hay ​una respuesta correcta y muchas veces los entrevistadores buscan ver ​tu proceso de pensamiento y la forma en ​que llegas a tu solución.
+- ​Te recomiendo encarecidamente que, si ​encuentras un puesto que te interese, ​no solo lo solicites, sino que des el siguiente paso.
+
+- ​Busca al reclutador.
+- Busque ​al gerente de contratación en línea.
+- ​Comprueba si puedes comunicarte con ellos y programar ​una charla de café o enviarles tu currículum directamente.
+- ​Las solicitudes en línea pueden ser ​un gran agujero negro en el ​que nunca recibas respuesta del reclutador o del equipo.
+- ​Cuando te pones en contacto directamente con ​un gerente de contratación o un reclutador, ​realmente demuestra tu entusiasmo ​por el puesto y tus intereses por el puesto.
+- ​Incluso si a veces no ​recibes una respuesta al contactar con alguien, ​nunca se sabe, lo intentas varias veces diferentes.
+- ​Esa única vez que recibas una respuesta ​de un reclutador o gerente de contratación, ​podría ser el momento en que consigas el trabajo que realmente querías.
