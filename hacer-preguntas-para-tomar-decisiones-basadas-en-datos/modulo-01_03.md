@@ -54,3 +54,46 @@
 - ​Realmente me ayudan a entender mejor los nuevos conceptos.
 - ​Me muero por compartir ​aún más casos reales con ustedes.
 - Nos vemos allí.
+
+---
+
+## Seis tipos de problemas comunes
+- La Analítica de datos es mucho más que introducir información en una plataforma para obtener estadísticas.
+- Se trata de resolver problemas.
+- Para llegar a la raíz de estos problemas y encontrar soluciones prácticas, hay muchas oportunidades para el pensamiento creativo.
+- Sea cual sea el problema, el primer paso y el más importante es comprenderlo.
+- A partir de ahí, es bueno adoptar un enfoque de resolución de problemas en su análisis que le ayude a decidir qué información debe incluirse, cómo puede transformar los datos y cómo se utilizarán.
+- Los analistas de datos suelen trabajar con seis tipos de problemas
+
+1. Hacer predicciones
+- Una empresa que quiere saber cuál es el mejor método publicitario para captar nuevos clientes es un ejemplo de problema que requiere que los analistas hagan predicciones.
+- Los analistas que disponen de datos sobre la ubicación, el tipo de medio de comunicación y el número de nuevos clientes captados como resultado de anuncios anteriores no pueden garantizar los resultados futuros, pero pueden ayudar a predecir la mejor ubicación de la publicidad para llegar al público objetivo.
+
+2. Categorizar las cosas
+- Un ejemplo de problema que requiere que los analistas categoricen las cosas es el objetivo de una empresa de mejorar la satisfacción del cliente.
+- Los analistas podrían clasificar las llamadas de servicio al cliente en función de determinadas palabras clave o puntuaciones.
+- Esto podría ayudar a identificar a los representantes de atención al cliente con mejor rendimiento o ayudar a correlacionar ciertas acciones realizadas con puntuaciones más altas de satisfacción del cliente.
+
+3. Detectar algo inusual 
+- Una empresa que vende relojes inteligentes que ayudan a las personas a monitorizar su salud estaría interesada en diseñar su software para detectar algo inusual.
+- Los analistas que han analizado datos sanitarios agregados pueden ayudar a los desarrolladores de productos a determinar los algoritmos adecuados para detectar y hacer saltar las alarmas cuando ciertos datos no siguen una tendencia normal.
+
+4. Identificar temas
+- Los diseñadores de experiencia del usuario (UX) pueden recurrir a analistas para analizar los datos de interactividad del usuario.
+- De forma similar a los problemas que requieren que los analistas categoricen las cosas, los proyectos de mejora de la usabilidad pueden requerir que los analistas identifiquen temas que ayuden a priorizar las características del producto adecuadas para su mejora.
+- Los Temas se utilizan con mayor frecuencia para ayudar a los investigadores a explorar determinados aspectos de los Datos.
+- En un estudio de usuarios, las creencias, prácticas y necesidades de los usuarios son ejemplos de temas. 
+- A estas alturas se estará preguntando si existe alguna diferencia entre categorizar cosas e identificar temas.
+- La mejor manera de pensarlo es: categorizar cosas implica asignar elementos a categorías; identificar temas lleva esas categorías un paso más allá al agruparlas en temas más amplios.
+
+5. Descubrir conexiones 
+- Una empresa de logística de terceros que trabaja con otra empresa para conseguir que los envíos se entreguen a tiempo a los clientes es un problema que requiere que los analistas descubran conexiones.
+- Analizando los tiempos de espera en los concentradores de envíos, los analistas pueden determinar los cambios de horario adecuados para aumentar el número de entregas a tiempo. 
+
+6. Encontrar patrones
+- Minimizar el tiempo de inactividad provocado por el fallo de una máquina es un ejemplo de un problema que requiere que los analistas encuentren patrones en los datos.
+- Por ejemplo, analizando los datos de mantenimiento, podrían descubrir que la mayoría de los fallos se producen si el mantenimiento regular se retrasa más de 15 días. 
+
+- Conclusión clave
+   - A medida que avance en este Programa, desarrollará un ojo más agudo para los problemas y practicará la reflexión sobre los tipos de problemas cuando comience su análisis.
+   - Este Método de resolución de problemas le ayudará a encontrar soluciones que satisfagan las necesidades de todas las partes interesadas.
