@@ -194,3 +194,34 @@
 - ​El resultado en este caso fue que ​pudimos cambiar la forma en que ​trabajaba todo nuestro equipo de marketing ​para que estuviera mucho más centrado en el usuario.
 - ​Desde nuestra perspectiva, en lugar de ​crear el contenido que creemos que los usuarios necesitan, en ​realidad vamos en la otra dirección: ​averiguar primero qué necesitan los usuarios, ​demostrar que necesitan ​ciertas cosas o no necesitan ciertas cosas ​y, luego, utilizar esa información para volver a los especialistas en marketing ​y crear contenido que satisfaga sus necesidades.
 - ​Así que realmente cambió la dirección de la ​forma en que producimos las cosas.
+
+---
+
+## Ponga a prueba sus conocimientos sobre la resolución de problemas con datos
+
+- Escenario
+   - Los profesionales de datos utilizan diferentes tipos de métodos de resolución de problemas para abordar los retos empresariales.
+   - Piensa en un profesional de datos de un servicio de streaming que quiere entender por qué algunos clientes cancelan sus suscripciones. 
+
+- Pregunta: Reflexione sobre los diferentes Tipos de problemas que hemos tratado.
+- A continuación, complete lo siguiente:
+      - Identifica qué tipo de problema sería el mejor punto de partida para que el profesional de datos entendiera por qué los clientes están cancelando.
+      - A continuación, explique cómo podría utilizarse el tipo de problema "identificación de temas" para ampliar el análisis.
+      - Proporcione un ejemplo de cómo podría utilizarse el tipo de problema "encontrar patrones" para descubrir información en los datos de los clientes.
+      - Por último, explique cómo podría utilizarse el tipo de problema "hacer predicciones" para ayudar a la empresa a tomar decisiones basadas en datos. 
+- Tu respuesta debe constar de 4 partes y puedes responder en una lista o en un párrafo corto.
+
+- Respuesta
+1. Categorizar cosas: comenzaría clasificando los motivos de cancelación recogidos en encuestas y comentarios, como precio elevado, problemas técnicos o falta de contenido de interés, para entender las razones declaradas por los clientes.
+2. Identificar temas: agruparía esas categorías en conceptos más amplios. Por ejemplo, los errores de reproducción y las dificultades de navegación formarían el tema «problemas de experiencia de uso».
+3. Encontrar patrones: analizaría datos históricos para comprobar si se repiten ciertos comportamientos antes de cancelar, como una disminución del tiempo de visualización durante varias semanas.
+4. Hacer predicciones: utilizaría esos datos para estimar qué clientes tienen mayor probabilidad de cancelar próximamente. Esto ayudaría a priorizar acciones de retención y evaluar si reducen las cancelaciones.
+
+- Comentario 
+1. Identificas "Categorizar cosas" como punto de partida y lo justificas de forma lógica al mencionar que comenzarías clasificando los motivos de cancelación recogidos en encuestas y comentarios, como precio, problemas técnicos o falta de contenido. Esto encaja muy bien con el escenario, porque antes de hacer análisis más avanzados es clave ordenar y agrupar la información básica. Tu elección es plausible y coherente con el tipo de problema. Para reforzar aún más, podrías mencionar explícitamente que este primer paso facilita los siguientes tipos de análisis, pero en general cumples bien con lo que pide la rúbrica.
+
+2. Describes el uso de "identificar temas" de manera clara al explicar que agruparías las categorías en conceptos más amplios, como convertir errores de reproducción y dificultades de navegación en el tema "problemas de experiencia de uso". Esto muestra que entiendes cómo pasar de categorías específicas a temas más generales y significativos para el negocio. La explicación es lógica, concreta y se ajusta muy bien al objetivo de extender el análisis. Para mejorar aún más, podrías añadir uno o dos temas adicionales, pero lo que presentas ya cumple claramente con la rúbrica.
+
+3. Tu ejemplo de "encontrar patrones" es específico y relevante. Indicas que analizarías datos históricos para ver si se repiten comportamientos antes de cancelar, como una disminución del tiempo de visualización durante varias semanas. Esto encaja perfectamente con la idea de detectar patrones en el comportamiento de los usuarios que se relacionan con la cancelación. La conexión entre el patrón (menos visualización) y el resultado (cancelar) está bien planteada. Para seguir mejorando, podrías mencionar otros posibles patrones, pero para esta rúbrica tu ejemplo ya es claro y adecuado.
+
+4. Tu explicación sobre "hacer predicciones" es clara y está bien conectada con la toma de decisiones basada en datos. Indicas que "utilizarías esos datos para estimar qué clientes tienen mayor probabilidad de cancelar próximamente" y explicas cómo eso serviría para priorizar acciones de retención y evaluar si reducen las cancelaciones. Esto muestra una relación lógica entre el modelo predictivo y decisiones concretas del negocio. Para seguir mejorando, podrías detallar aún más qué tipo de datos usarías o qué tipo de acciones de retención se podrían probar, pero para los requisitos de esta rúbrica tu respuesta es sólida y completa.
