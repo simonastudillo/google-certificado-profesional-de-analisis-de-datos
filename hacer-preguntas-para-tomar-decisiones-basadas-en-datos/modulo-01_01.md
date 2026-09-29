@@ -32,3 +32,28 @@
 - Trabajaremos juntos ​para asegurarnos de que comprenda completamente cómo usar el pensamiento estructurado y el análisis de datos.
 - ​Por último, aprenderemos algunas estrategias comprobadas para comunicarnos con los demás de manera eficaz.
 - ​Me muero por compartir con ustedes más información sobre mi pasión por el análisis de datos, así que ​empecemos.
+
+---
+
+## Resumen del curso 2
+- Hola, y bienvenido al segundo curso del programa de Certificación en Google Data Analytics.
+- ¡Estás en un viaje emocionante!
+- En esta parte del programa, aprenderá cómo los analistas de datos utilizan el pensamiento estructurado para resolver problemas empresariales.
+- A continuación, explorará cómo formular preguntas eficaces y utilizar las respuestas para contar una historia significativa sobre los datos.
+- Por último, descubrirá estrategias para comunicarse y colaborar eficazmente con las partes interesadas a la hora de definir un problema y presentar las perspectivas de los datos.
+- Esto le permitirá apoyar y avanzar en los objetivos de negocio con los datos.
+
+- Contenido del curso 2
+   - Módulo 1: Formular preguntas eficaces
+      - Los analistas de datos están constantemente haciendo preguntas para encontrar soluciones e identificar el potencial del negocio.
+      - En esta parte del curso, aprenderá técnicas eficaces de formulación de preguntas que le ayudarán a orientar su análisis.
+   - Módulo 2: Tomar decisiones basadas en datos
+      - En el análisis, los datos impulsan la toma de decisiones, y esta es su oportunidad de explorar datos de todo tipo y su impacto en todo tipo de decisiones empresariales.
+      - También aprenderá a compartir eficazmente sus datos a través de informes y cuadros de mando.
+   - Módulo 3: La magia de las hojas de cálculo
+      - Las hojas de cálculo son una herramienta clave para el análisis de datos.
+      - Aquí aprenderá por qué y cómo los analistas de datos utilizan las hojas de cálculo en su trabajo.
+      - También investigará cómo el pensamiento estructurado ayuda a los analistas a entender los problemas y a encontrar soluciones.
+   - Módulo 4: Recuerde siempre a las partes interesadas
+      - Los analistas de datos de éxito equilibran las necesidades y expectativas de su equipo y de las partes interesadas a las que apoyan.
+      - En esta parte del curso, aprenderá estrategias para gestionar las expectativas de las partes interesadas a la vez que establece una comunicación clara con su equipo.
