@@ -338,3 +338,35 @@ El framework SMART ayudó a hacer preguntas de forma concreta, menos vaga, poner
    - Elaborar preguntas SMART para conversaciones basadas en datos es una de las herramientas más importantes del arsenal de un analista de datos.
    - A medida que practique, se sentirá más cómodo interactuando con otras personas sobre datos y formulando preguntas significativas durante esas interacciones.
    - De cara al futuro, también puede practicar haciéndose preguntas SMART que le ayuden a gestionar y medir sus propios objetivos.
+
+---
+
+## Conocimientos para elaborar preguntas eficaces
+
+1. Un Analista de datos utiliza la Metodología SMART para crear una pregunta que fomente el Cambio. En la Metodología SMART, ¿cómo se describe este tipo de pregunta? 
+   - [ ] Motivación 
+   - [ ] Centrado en los resultados
+   - [ ] Transicional
+   - [x] Orientado a la acción
+> En la Metodología SMART, las preguntas que fomentan el cambio se describen como orientadas a la acción.
+
+2. Al formular una Pregunta específica (S) con arreglo a la Metodología SMART, ¿cuál de los siguientes detalles se prioriza para garantizar que el alcance del análisis sea estrecho y centrado? Seleccione todo lo que corresponda.
+   - [ ] Determinar el periodo o plazo exacto del análisis.
+   - [x] Definir claramente el tema clave y la métrica.
+   - [x] Garantizar que el lenguaje utilizado sea sencillo y sin ambigüedades.
+   - [x] Centrarse en un único tema o en unas pocas ideas estrechamente relacionadas.
+> Una pregunta específica debe definir claramente el único tema (sujeto) y la única medida (métrica) que se analiza.
+
+3. Un Analista de datos que trabaja para un tostador de café está redactando las preguntas para una encuesta sobre la experiencia de los clientes. Una de las preguntas es: "¿Prefiere comprar en línea o en la tienda?" Entonces, la reescriben para preguntar: "¿Prefiere comprar café en grano a través de nuestro mercado en línea o comprando en nuestra tienda minorista?" ¿Por qué es ésta una pregunta más eficaz?
+   - [ ] La primera pregunta es cerrada, mientras que la segunda anima al encuestado a explayarse.
+   - [x] La primera pregunta es vaga, mientras que la segunda incluye un contexto importante.
+   - [ ] La primera pregunta es capciosa, mientras que la segunda podría tener muchas respuestas diferentes.
+   - [ ] La primera pregunta contiene jerga que puede no tener sentido para todo el mundo, mientras que la segunda es fácilmente comprensible.
+> La primera pregunta es vaga, mientras que la segunda incluye un contexto importante. 
+
+4. Un Equipo de Datos de una empresa de alta tecnología redacta las preguntas para un grupo de discusión. Utilizan abreviaturas comunes como PLS para "por favor" y LMK para "hágamelo saber" Un supervisor sugiere entonces deletrearlo todo para asegurarse de que las preguntas son justas. ¿Qué pretenden conseguir?
+   - [ ] Evitar llevar a la gente a una respuesta determinada
+   - [x] Preguntas de presentación con una redacción sencilla
+   - [ ] Redactar preguntas que no hagan suposiciones
+   - [ ] Hacer preguntas irrelevantes
+> Intentan presentar las preguntas con una redacción sencilla. Este es un aspecto clave de la Equidad.
