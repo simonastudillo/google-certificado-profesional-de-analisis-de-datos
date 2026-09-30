@@ -206,3 +206,35 @@ Hacer preguntas detalladas y específicas permite delimitar el alcance, prioriza
    - Cuantas más preguntas formule, más aprenderá sobre los datos y más poderosas serán sus estadísticas.
    - Formular preguntas minuciosas y específicas significa aclarar detalles hasta llegar a requisitos concretos.
    - Con unos requisitos y unos objetivos claros, es mucho más fácil planificar y ejecutar con éxito un proyecto de Análisis de datos y evitar problemas que le harán perder mucho tiempo.
+
+---
+
+## Evan: Los datos abren puertas
+- Hola, ​soy Evan.
+- Soy gestor de carteras de aprendizaje en Google y ​tengo uno de los mejores trabajos del mundo, en el ​que puedo analizar todas las diferentes tecnologías que afectan a los macrodatos ​y luego incluirlas en cursos de formación como este para que los estudiantes los asistan.
+- ​Ojalá hubiera tenido un curso como este cuando recién salí de la universidad o la ​escuela secundaria.
+- ​Sinceramente, fue un curso de analista de datos que está orientado de la manera en que este, ​si ya has realizado algunos de los vídeos, ​realmente te prepara para hacer lo que quieras.
+- ​Abrirá todas las puertas que desee para ​cualquiera de esas funciones dentro del plan de estudios de datos.
+- ​Bueno, ¿cuáles son algunos de esos roles? ​Hay muchas trayectorias profesionales diferentes para alguien interesado en los datos.
+
+- ​Por lo general, si eres como yo, ​entrarás por la puerta como analista de datos, tal vez trabajando con hojas de cálculo, ​quizás trabajando con bases de datos pequeñas, medianas y grandes, ​pero todo lo que tienes que recordar son 3 funciones principales diferentes.
+- ​Ahora hay muchos en especial, ya sean especialidades, dentro de cada una de estas diferentes ​carreras, pero estos tres son los analistas de datos, ​que generalmente son personas que trabajan con SQL, hojas de cálculo y ​bases de datos, que podrían trabajar como un equipo de inteligencia empresarial ​creando esos paneles.
+- ​Ahora, ¿de dónde provienen todos esos datos? ​Por lo general, un analista de datos trabajará con un ingeniero de datos para convertir ​esos datos sin procesar en canalizaciones procesables.
+- ​Por lo tanto, hay analistas de datos, ingenieros de datos y, por último, ​es posible que haya científicos de datos que básicamente dicen que los ingenieros de datos han ​creado estos hermosos canales.
+- ​A veces el analista también lo hace.
+- Los analistas nos han proporcionado ​datos limpios y procesables.
+- Luego, los ​científicos de datos trabajaron realmente para convertirlos en ​modelos de aprendizaje automático o inferencias estadísticas realmente geniales que superan con creces ​cualquier cosa que pudiera haber imaginado.
+
+- ​Compartiremos muchos recursos en enlaces para que puedas entusiasmarte con ​cada uno de estos diferentes roles.
+- ​Y lo mejor es que, si eres como ​yo cuando fui a la escuela, no sabía lo que quería hacer y ​no tienes que saber desde el principio qué ruta de acceso quieres seguir.
+- ​Pruébalos todos.
+- ​Mira lo que realmente te gusta.
+- ​Es muy personal.
+- Convertirse en analista de datos es muy emocionante.
+- ​¿Por qué? Porque no es solo un medio para lograr ​un fin.
+
+- ​Se trata simplemente de emprender una ruta de acceso profesional en la que muchas personas brillantes han recorrido antes y que ​han hecho que las herramientas y tecnologías sean mucho más fáciles para ti y para mí en la actualidad.
+- ​Por ejemplo, cuando estaba empezando a aprender SQL o el ​lenguaje de consultas estructuradas que vais a aprender como parte de este curso, ​lo hacía en mi portátil local y cada una de las consultas tardaba entre ​20 y 30 minutos en ejecutarse y ​me resultaba muy difícil hacer un seguimiento de las diferentes sentencias SQL que estaba escribiendo o ​compartirlas con otra persona.
+- Eso fue hace unos 10 ó 15 años.
+- ​Ahora, con todas las diferentes empresas y ​todas las diferentes herramientas que ​le facilitan las herramientas y tecnologías de análisis de datos, se lo pasará genial creando estos conocimientos ​con mucho menos de los gastos generales que yo tenía cuando empecé.
+- ​Así que estoy muy emocionada de escuchar lo que piensas y ​cuál va a ser tu experiencia.
