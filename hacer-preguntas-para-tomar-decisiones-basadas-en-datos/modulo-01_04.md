@@ -238,3 +238,103 @@ Hacer preguntas detalladas y específicas permite delimitar el alcance, prioriza
 - Eso fue hace unos 10 ó 15 años.
 - ​Ahora, con todas las diferentes empresas y ​todas las diferentes herramientas que ​le facilitan las herramientas y tecnologías de análisis de datos, se lo pasará genial creando estos conocimientos ​con mucho menos de los gastos generales que yo tenía cuando empecé.
 - ​Así que estoy muy emocionada de escuchar lo que piensas y ​cuál va a ser tu experiencia.
+
+---
+
+## Autorreflexión: Formule sus propias preguntas SMART
+- Visión general
+   - Ahora que ha aprendido más sobre las preguntas SMART, puede detenerse un momento y formular las suyas propias.
+   - En esta autorreflexión, reflexionará sobre sus ideas acerca del framework de preguntas SMART.
+   - Esta autorreflexión le ayudará a desarrollar perspectivas sobre su propio aprendizaje y le preparará para aplicar el marco SMART a sus propias investigaciones de datos.
+   - A medida que responda a las preguntas -y se le ocurran preguntas propias- considerará conceptos, prácticas y principios que le ayudarán a refinar su comprensión y a reforzar su aprendizaje.
+   - Usted ha hecho el trabajo duro, así que asegúrese de sacarle el máximo partido: ¡Esta reflexión le ayudará a que sus conocimientos se queden grabados!
+
+- Formule preguntas del mundo real
+   - En esta actividad, mantendrá una conversación sobre datos con alguien que conozca.
+   - Puede ser en persona, por teléfono o en un videochat.
+   - Elija a alguien de su vida que utilice los Datos para tomar mejores decisiones.
+   - Podría tratarse de un familiar que dirige una pequeña empresa, un amigo que dirige un comité de la Asociación de Padres y Profesores o un vecino que da clases de piano.
+   - Todas estas personas recurren a los Datos de alguna manera para ser más eficaces en sus funciones.
+   - Hágales saber que se está formando para ser analista de datos y que le gustaría tener una charla sobre datos para practicar sus habilidades haciendo preguntas.
+   - Al final de esta conversación, obtendrá algunas estadísticas útiles que les beneficiarán a ambos.
+
+- Planifique la conversación
+   - En primer lugar, decida con quién hablará y cómo podría utilizar los Datos.
+   - Su objetivo es planificar una conversación fructífera.
+   - Piense cuánto tiempo necesita y cómo lo utilizará.
+   - Para este paso, revise los siguientes consejos:
+      - Dé prioridad a sus preguntas: Prepárese para hacer primero las preguntas más importantes e interesantes.
+      - Haga que su tiempo cuente: Manténgase sujeto durante la conversación.
+      - Aclare lo que ha entendido: Para evitar confusiones, dedique algún tiempo a resumir las respuestas para asegurarse de que las ha entendido correctamente. Esto le ayudará mucho a evitar errores. Por ejemplo, en una conversación con un profesor, podría comprobar su comprensión con una afirmación como: "Sólo para asegurarme de que he entendido bien lo que me dice, en la actualidad se utilizan las puntuaciones de los exámenes de las siguientes maneras..."
+   - Dependiendo del Campo en el que se encuentre, puede que la persona con la que charle no se sienta cómoda compartiendo datos detallados con usted.
+   - No pasa nada Asegúrese de respetar lo que estén dispuestos a compartir durante su conversación.
+
+- Elabore preguntas
+   - Ahora, elabore preguntas que le ayuden a comprender sus objetivos empresariales, el tipo de Datos con los que interactúan y las limitaciones de los mismos.
+   - Utilice el marco de preguntas SMART para asegurarse de que cada pregunta que formule tenga sentido en función de su campo.
+   - Cada pregunta debe cumplir el mayor número posible de los criterios SMART. 
+   - Como recordatorio, las preguntas SMART son
+      - Específicas: Las preguntas son sencillas, significativas y se centran en un único tema o en unas pocas ideas estrechamente relacionadas.
+      - Mensurables: Las preguntas pueden cuantificarse y evaluarse.
+      - Orientadas a la acción: Las preguntas fomentan el cambio.
+      - Relevantes: Las preguntas importan, son importantes y tienen significado para el problema que intenta resolver.
+      - Limitadasen el tiempo: Las preguntas especifican el tiempo que se va a estudiar.
+   - Por ejemplo, si mantiene una conversación con alguien que trabaja en el comercio minorista, puede empezar con preguntas como:
+      - Específicas: ¿Utiliza actualmente datos para tomar decisiones en su negocio? En caso afirmativo, ¿qué tipo o tipos de Datos recopila y cómo los utiliza?
+      - Mensurables: ¿Sabe qué porcentaje de las ventas procede de sus productos más vendidos?
+      - Orientado a la acción: ¿Hay decisiones o cambios empresariales que tomaría si dispusiera de la información adecuada? Por ejemplo, si tuviera información sobre cómo cambian las ventas de paraguas con el tiempo, ¿cómo la utilizaría?
+      - Relevante: ¿Con qué frecuencia revisa los datos de su negocio?
+      - Conplazos: ¿Puede describir cómo le han ayudado los datos a tomar buenas decisiones para su(s) tienda(s) este último año?
+   - Si está manteniendo una conversación con un profesor, podría hacer preguntas diferentes, como por ejemplo
+      - Específicas: ¿Qué tipo de Datos utiliza para elaborar sus lecciones?
+      - Mensurables: ¿Qué correlación existe entre los resultados de las pruebas de referencia de los alumnos y sus calificaciones?
+      - Orientadas a la acción: ¿Comparte sus datos con otros profesores para mejorar las lecciones?
+      - Relevantes: ¿Ha compartido los datos de las calificaciones con toda una clase? En caso afirmativo, ¿parece que los alumnos están más o menos motivados, o más o menos igual?
+      - Conplazos: En los últimos cinco años, ¿cuántas veces revisó los datos de cursos anteriores?
+   - Si está manteniendo una conversación con el propietario de una pequeña empresa de helados, podría preguntarle:
+      - Específico: ¿Qué datos utiliza para ayudar con las compras y el inventario?
+      - Mensurables: ¿Puede ordenar (clasificar) estos factores de mayor a menor influencia en las ventas: precio, sabor y época del año (estación)?
+      - Orientado a la acción: ¿Hay algún factor sobre el que necesite más datos para poder aumentar potencialmente las ventas?
+      - Relevante: ¿Cómo se anuncia o se comunica con los clientes?
+      - Conplazos: ¿Cómo ha sido el crecimiento interanual de sus ventas en los últimos tres años?
+   - Tome buenas notas
+      - Es importante tomar buenas notas durante su conversación.
+      - Sus notas deben ser completas y útiles.
+      - Para ayudarle a tomar notas significativas, debe ceñirse a un proceso consistente en formular una pregunta, aclarar lo que ha entendido de su respuesta y, a continuación, registrarla brevemente en sus notas. 
+   - Recuerde: si vale la pena hacer una pregunta, entonces vale la pena registrar la respuesta.
+   - Comprométase a tomar buenas notas durante su conversación. 
+   - Entre los aspectos útiles de su conversación que debe anotar se incluyen:
+      - Hechos: Anote cualquier dato concreto, como fechas, horas, nombres y otros detalles.
+      - Contexto: Los hechos sin contexto son inútiles. Anote cualquier detalle relevante que sea necesario para comprender la Información que recopile.
+      - Incógnitas: A veces puede que se le escape una pregunta importante durante una conversación. Tome nota cuando esto ocurra para poder averiguar la respuesta más tarde.
+   - Por ejemplo, si las preguntas SMART anteriores llevaron al propietario de la heladería a proponer un proyecto para analizar las preferencias de sabores de los clientes, sus notas podrían ser algo así
+      - Proyecto: Recopilar datos sobre las preferencias de sabor de los clientes.
+      - Objetivo general del negocio: Utilizar los datos para ofrecer o crear sabores más populares.
+      - Dos fuentes de datos: Recibos de caja y Encuestas de clientes completadas (correo electrónico).
+      - Fecha de finalización prevista: Q2
+      - A realizar: Volver a llamar más tarde y hablar con el director sobre la localización de los datos de las encuestas.
+   - Las notas que tome serán muy diferentes en función de la conversación sobre datos que mantenga.
+   - Lo importante es que sus notas sean claras, organizadas y concisas.
+   - Ahora ya está preparado para mantener una gran conversación sobre datos en la vida real.
+
+- Reflexión
+   - Antes de iniciar su conversación sobre datos, considere cada uno de los pasos anteriores.
+   - Piense en los posibles candidatos, haga una lluvia de ideas sobre algunas preguntas SMART y hágase una idea de la información que desea registrar durante su conversación.
+   - A continuación, reflexione sobre su conversación:
+   - ¿Qué preguntas SMART hizo? ¿Cómo se relacionaban estas preguntas con el campo de la persona con la que chateó?
+   - ¿Qué estadísticas descubrió durante su conversación?
+   - ¿Cómo le ayudó el framework SMART a llegar a sus conclusiones?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuestas
+La entrevista fue con un profesor de cursos de 4to año básico.
+La primera pregunta que realice fue "Entre 2016 y 2026, ¿qué cambios ha observado en la complejidad de los contenidos de Matemática de 4.º básico? Al comparar evaluaciones de dificultad equivalente, ¿cómo han variado los resultados y qué ajustes ha realizado en sus clases?". Esta pregunta es relevante y delimita el tiempo, además tiene un componente medible.
+Uno de las estadísticas que conversamos es que se ha visto una mejora constante en estudiantes que reciben apoyo específico, pasando de un 50% de respuestas buenas a 67%.
+El framework SMART ayudó a hacer preguntas de forma concreta, menos vaga, poner un marco de tiempo lo que nos permite hacer comparaciones.
+
+- Comentarios
+   - ¡Buen trabajo reforzando su aprendizaje con una autorreflexión reflexiva!
+   - Una buena reflexión describiría cómo creó preguntas SMART relevantes y qué estadísticas le ayudaron a obtener.
+   - Elaborar preguntas SMART para conversaciones basadas en datos es una de las herramientas más importantes del arsenal de un analista de datos.
+   - A medida que practique, se sentirá más cómodo interactuando con otras personas sobre datos y formulando preguntas significativas durante esas interacciones.
+   - De cara al futuro, también puede practicar haciéndose preguntas SMART que le ayuden a gestionar y medir sus propios objetivos.
