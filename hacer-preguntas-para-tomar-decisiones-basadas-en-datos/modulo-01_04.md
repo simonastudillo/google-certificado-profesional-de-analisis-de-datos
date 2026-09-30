@@ -75,3 +75,60 @@
 - En el ​futuro, explorará los diferentes tipos de datos y ​aprenderá cómo se usa cada uno para guiar las decisiones empresariales.
 - ​También obtendrá más información sobre las visualizaciones y sobre cómo las métricas o ​medidas pueden ayudar a lograr el éxito.
 - ​¡Va a ser genial!
+
+---
+
+## Más sobre las preguntas SMART
+- Hoy en día, las empresas de muchos sectores se enfrentan a cambios rápidos y a una creciente incertidumbre.
+- Incluso las empresas bien establecidas se ven presionadas para mantenerse al día de las novedades y averiguar qué es lo siguiente.
+- Para ello, necesitan hacer preguntas.
+- Formular las preguntas adecuadas puede ayudar a suscitar las ideas innovadoras que tantas empresas anhelan hoy en día.
+- Lo mismo ocurre con la Analítica de datos.
+- No importa cuánta Información tenga o lo avanzadas que sean sus herramientas, sus Datos no le dirán mucho si no empieza con las preguntas correctas.
+- Piense en ello como un detective con toneladas de pruebas que no pregunta a un sospechoso clave sobre ellas.
+- A continuación, aprenderá más sobre cómo hacer preguntas altamente eficaces, junto con ciertas prácticas que querrá evitar.
+- Las preguntas altamente eficaces son preguntas SMART:
+
+- S (specific - Específicas): ¿Es específica la pregunta? ¿Aborda el problema? ¿Tiene contexto? ¿Descubrirá mucha de la información que necesita?
+- M (Measurable - Mensurable): ¿Le dará la pregunta respuestas que pueda medir?
+- A (Action-oriented - Orientada a la acción): ¿Le proporcionarán las respuestas información que le ayude a diseñar algún tipo de plan?
+- R (Relevant - Pertinente): ¿Se refiere la pregunta al problema concreto que intenta resolver?
+- T (Timely - Limitada en el tiempo): ¿Son las respuestas relevantes para el momento concreto que se está estudiando?
+
+- Ejemplos de preguntas SMART
+   - He aquí un ejemplo que desglosa el proceso de reflexión para convertir una pregunta sobre un problema en una o varias preguntas SMART utilizando el Método SMART:
+   - ¿Qué características busca la gente cuando compra un coche nuevo?
+      - Específica: ¿La pregunta se centra en una característica concreta del coche?
+      - Mensurable: ¿Incluye la pregunta un sistema de clasificación de características?
+      - Orientada a la acción: ¿Influye la pregunta en la creación de paquetes de características diferentes o nuevos?
+      - Relevante: ¿Identifica la pregunta qué características hacen o deshacen la compra de un coche potencial?
+      - Limitada en el tiempo: ¿La pregunta valida los datos sobre las características más populares de los últimos tres años?
+   - Las preguntas deben ser abiertas.
+   - Es la mejor manera de obtener respuestas que le ayuden a calificar o descalificar con precisión las posibles soluciones a su problema específico.
+   - Así, basándose en el proceso de reflexión, las posibles preguntas SMART podrían ser:
+      - En una escala del 1 al 10 (siendo 10 la más importante), ¿qué importancia tiene que su coche tenga tracción a las cuatro ruedas? Explíquelo.
+      - ¿Cuáles son las cinco características que más le gustaría ver en el paquete de un coche?
+      - ¿Qué características, si se incluyeran con tracción a las cuatro ruedas, le harían inclinarse más por comprar el coche?
+      - ¿Cómo contribuye a su valor, en su opinión, que un coche tenga tracción a las cuatro ruedas?
+
+- Cosas que debe evitar al formular preguntas
+   - Preguntas principales: preguntas que sólo tienen una respuesta concreta
+      - Ejemplo: Este producto es demasiado caro, ¿verdad?
+   - Se trata de una pregunta capciosa porque sugiere una respuesta como parte de la pregunta.
+   - Una pregunta mejor podría ser: "¿Cuál es su opinión sobre este producto?"
+   - Hay montones de respuestas a esa pregunta, y podrían incluir información sobre usabilidad, características, accesorios, color, Confiabilidad y popularidad, además del precio.
+   - Ahora bien, si su problema se centra realmente en el precio, podría hacer una pregunta como "¿Qué precio (o rango de precios) le haría considerar la compra de este producto?"
+   - Esta pregunta proporcionaría muchas respuestas medibles diferentes.
+   - Preguntas cerradas: preguntas que sólo piden una respuesta de una palabra o breve
+      - Ejemplo: ¿Quedó satisfecho con la prueba de cliente?
+   - Se trata de una pregunta cerrada porque no anima a la gente a ampliar su respuesta.
+   - Es muy fácil que den respuestas de una sola palabra que no son muy informativas.
+   - Una pregunta mejor podría ser: "¿Qué aprendió de la prueba sobre la experiencia del cliente?"
+   - Esto anima a la gente a dar más detalles aparte de "Fue bien"
+   - Preguntas vagas: preguntas que no son específicas o que no proporcionan contexto
+      - Ejemplo: ¿Le funciona la herramienta?
+   - Esta pregunta es demasiado vaga porque no hay contexto.
+   - ¿Se trata de comparar la nueva herramienta con la que sustituye? No se sabe.
+   - Una pregunta mejor podría ser: "A la hora de introducir datos, ¿es la nueva herramienta más rápida, más lenta o más o menos igual que la antigua?
+   - Si es más rápida, ¿cuánto tiempo se ahorra? Si es más lenta, ¿cuánto tiempo se pierde?"
+   - Estas preguntas dan contexto (entrada de datos) y ayudan a enmarcar las respuestas que son medibles (tiempo).
