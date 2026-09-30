@@ -132,3 +132,77 @@
    - Una pregunta mejor podría ser: "A la hora de introducir datos, ¿es la nueva herramienta más rápida, más lenta o más o menos igual que la antigua?
    - Si es más rápida, ¿cuánto tiempo se ahorra? Si es más lenta, ¿cuánto tiempo se pierde?"
    - Estas preguntas dan contexto (entrada de datos) y ayudan a enmarcar las respuestas que son medibles (tiempo).
+
+---
+
+## Autorreflexión: Practicar el trabajo SMART
+- Visión general
+   - Ahora que ya conoce el framework SMART para formular preguntas, haga una pausa para aplicar lo que está aprendiendo.
+   - En esta autorreflexión, considerará las preguntas que formularía en un escenario concreto.
+   - Esta autorreflexión le ayudará a desarrollar conocimientos sobre su propio aprendizaje y le preparará para aplicar sus conocimientos sobre el marco de preguntas SMART a sus propias investigaciones de datos.
+   - A medida que responda a las preguntas -e idee sus propias preguntas- tendrá en cuenta conceptos, prácticas y principios que le ayudarán a refinar su comprensión y a reforzar su aprendizaje.
+   - Usted ha hecho el trabajo duro, así que asegúrese de sacarle el máximo partido: ¡Esta reflexión le ayudará a que sus conocimientos se queden grabados!
+
+- El escenario
+   - Lleva tres semanas en su nuevo trabajo como Analista de datos junior.
+   - La empresa para la que trabaja acaba de recopilar datos sobre sus ventas de fin de semana.
+   - Su jefe le pide que realice una exploración exhaustiva de estos datos.
+   - Para poner en marcha este proyecto, debe hacer algunas preguntas y obtener información.
+
+- Preguntas SMART
+   - Como repaso, las preguntas SMART son:
+      - Específicas: Las preguntas son sencillas, significativas y se centran en un único tema o en unas pocas ideas estrechamente relacionadas.
+      - Mensurables: Las preguntas pueden cuantificarse y evaluarse.
+      - Orientadas a la acción: Las preguntas fomentan el cambio.
+      - Relevantes: Las preguntas importan, son importantes y tienen significado para el problema que intenta resolver.
+      - Limitadasen el tiempo: Las preguntas especifican el tiempo de estudio.
+   - A continuación, utilizará el framework SMART para formular preguntas eficaces sobre el escenario anterior.
+   - A continuación, reflexionará sobre los temas que deben abordar sus preguntas SMART.
+
+- Formule el tipo de preguntas RIGHT
+   - Puede aplicar el framework SMART a todo tipo de preguntas.
+   - El tipo de preguntas que formule puede ayudarle a profundizar en sus datos.
+   - Considere la forma en que sus preguntas le ayudan a examinar los objetivos, la audiencia, el tiempo, la Seguridad y los Recursos.
+   - Algunos temas habituales para las preguntas son
+      - Objetivos
+      - Audiencia
+      - Tiempo
+      - Recursos
+      - Seguridad
+   - Piense en cómo puede formular preguntas SMART sobre cada uno de estos temas.
+
+- Reflexión
+   - Considere el escenario anterior:
+      - Basándose en el marco SMART, ¿qué preguntas es más importante formular?
+      - ¿Cómo aclararán estas preguntas los requisitos y objetivos del proyecto?
+      - ¿En qué le beneficia hacer preguntas detalladas y específicas a la hora de planificar un proyecto? ¿Pueden perjudicar a un proyecto las preguntas vagas o poco claras?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+   - Escriba su respuesta en el cuadro de texto que aparece a continuación.
+
+- Respuesta
+1. ¿Qué preguntas es más importante formular?
+¿Qué queremos mejorar en las ventas del fin de semana analizado y con qué métricas compararemos sus resultados frente a fines de semana anteriores? ¿Quién utilizará el análisis y qué decisiones tomará? ¿Cuál es la fecha de entrega, qué datos y herramientas tenemos disponibles y qué restricciones de acceso debemos respetar?
+2. ¿Cómo aclararán estas preguntas los requisitos y objetivos del proyecto?
+Estas preguntas permitirán acordar el objetivo del análisis, las métricas de éxito, el período estudiado y el plazo de entrega. También aclararán si debemos comparar ventas por producto, categoría o sucursal, qué datos adicionales necesitamos y cómo presentar los resultados para apoyar las decisiones de quienes utilizarán el informe.
+3. ¿Cómo ayudan las preguntas específicas y cómo perjudican las vagas?
+Hacer preguntas detalladas y específicas permite delimitar el alcance, priorizar tareas y estimar los recursos necesarios para responder al objetivo del proyecto. Las preguntas vagas pueden generar interpretaciones distintas, análisis innecesarios y resultados poco útiles; por ejemplo, pedir «revisar las ventas» sin definir métricas ni períodos de comparación deja el trabajo abierto a suposiciones.
+
+- Comentarios
+   - ¡Gran trabajo reforzando su aprendizaje con una autorreflexión reflexiva! Una buena reflexión sobre este tema describiría cómo aplicó las preguntas SMART al escenario.
+   - He aquí algunas preguntas que podría plantearse:
+      - ¿Para cuándo está previsto el proyecto?
+      - ¿Hay que tener en cuenta algún reto específico?
+      - ¿Quiénes son las principales partes interesadas en este proyecto y qué esperan que este proyecto haga por ellas?
+      - ¿A quién voy a presentar los resultados?
+   - He aquí algunos ejemplos de preguntas que podría formular basándose en los temas sugeridos:
+      - Objetivos: ¿Cuáles son los objetivos de la inmersión? ¿Qué preguntas, si las hay, se espera responder con esta inmersión profunda?
+      - Audiencia: ¿Quiénes son las partes interesadas? ¿A quién le interesan o preocupan los resultados de esta inmersión profunda? ¿Quién es el público de la presentación?
+      - Tiempo: ¿Cuál es el plazo para la finalización? ¿Para qué fecha hay que hacerlo?
+      - Recursos: ¿De qué recursos se dispone para lograr los objetivos de la inmersión profunda?
+      - Seguridad: ¿Quién debe tener acceso a la Información?
+   - Estas preguntas pueden ayudarle a centrarse en técnicas y análisis que produzcan resultados de interés para las partes interesadas.
+   - También aclaran la fecha de vencimiento del entregable, que es importante conocer para poder gestionar su tiempo con eficacia.
+   - Cuando empiece a trabajar en un proyecto, deberá formular preguntas que se ajusten al plan y a los objetivos y le ayuden a explorar los datos.
+   - Cuantas más preguntas formule, más aprenderá sobre los datos y más poderosas serán sus estadísticas.
+   - Formular preguntas minuciosas y específicas significa aclarar detalles hasta llegar a requisitos concretos.
+   - Con unos requisitos y unos objetivos claros, es mucho más fácil planificar y ejecutar con éxito un proyecto de Análisis de datos y evitar problemas que le harán perder mucho tiempo.
