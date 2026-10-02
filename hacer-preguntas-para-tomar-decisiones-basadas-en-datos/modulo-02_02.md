@@ -115,3 +115,47 @@
 - ​Los objetivos métricos y las fórmulas son excelentes formas de medir y comprender los datos.
 - ​Pero no son las únicas formas.
 - ​A lo largo de este curso hablaremos más sobre cómo interpretar y comprender los datos.
+
+---
+
+## Herramientas para la visualización de datos
+- En este curso, trabajará con Tableau y con hojas de cálculo.
+- Ambas herramientas tienen ventajas y desventajas
+- A menudo, los analistas de datos descubrirán que necesitan utilizar varias herramientas, incluso en un solo proyecto.
+- Lo que utilice vendrá determinado en gran medida por el trabajo que esté realizando y sus objetivos.
+- Esta lectura explora dos de las herramientas que podría utilizar para visualizar y presentar datos: las hojas de cálculo y Tableau. 
+
+- Hojas de cálculo
+   - Tanto Google Workspace como Microsoft Office Suite ofrecen aplicaciones de hojas de cálculo.
+   - Ya ha trabajado con Google Sheets en este curso, y su funcionamiento es muy similar al de Microsoft Excel.
+   - Si desea comparar algunas de las características de Sheets con las de Excel, eche un vistazo al vídeo de [Microsoft Crear un gráfico de principio a fin.](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)
+   - Tanto Sheets como Excel son opciones a las que recurrir para crear diagramas y gráficos estáticos.
+   - Ofrecen capacidades básicas de Visualización de datos que a menudo son suficientes para visualizaciones sencillas.
+   - Además, puede utilizarlas para limpiar, ordenar y filtrar datos.
+   - Y ambos ofrecen una serie de tipos de gráficos, herramientas gráficas y tablas dinámicas para crear visualizaciones de datos eficaces.
+   - Estos gráficos son fáciles de gestionar; se actualizan cuando se actualizan los datos de origen, por lo que no requieren mucha intervención manual una vez implementados. 
+   - Sheets y Excel están conectadas a otras aplicaciones de sus suites de productos.
+   - Google Docs y Diapositivas son muy similares a Microsoft Word y Powerpoint, por ejemplo.
+   - Puede incorporar visualizaciones de datos de Sheets o Excel en informes y documentos de Docs y Word.
+   - Programas de presentación como Diapositivas y Powerpoint le permiten crear presentaciones atractivas que incluyen visualizaciones de datos para que pueda compartir estadísticas en un formato de presentación.
+   - Obtenga más información sobre el poder de esta interconectividad entre las herramientas de Google en el artículo [Vincular un Gráfico, una Tabla o Diapositivas a Google Docs o Diapositivas](https://support.google.com/docs/answer/7009814?hl=en&co=GENIE.Platform%3DDesktop). 
+
+- Tableau
+   - Tableau se utiliza para crear visualizaciones potentes e interactivas, lo que lo convierte en una excelente opción para las visualizaciones de datos, como los cuadros de mando en directo.
+   - Tableau también facilita la creación de cuadros, gráficos y paneles de control en una interfaz de arrastrar y soltar.
+   - La aplicación es compatible con una amplia gama de fuentes de datos y proporciona capacidades de análisis avanzadas.
+   - Estas características permiten explorar en profundidad las tendencias y los patrones de los Datos. 
+   - Tableau resulta especialmente útil para crear visualizaciones a partir de enormes conjuntos de datos, como en este [Informe sobre la felicidad en el mundo](https://www.kaggle.com/datasets/unsdsn/world-happiness) de Sustainable Development Solutions, que utiliza datos de informes globales sobre las calificaciones de felicidad de distintos países.
+   - Del mismo modo, esta visualización de [Datos estatales sobre Población y Vivienda](https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html) a partir de Datos del Censo de Estados Unidos de 2020 compara las tasas de población en Estados Unidos y las viviendas disponibles. 
+   - Tableau es ampliamente conocido y utilizado por su versatilidad y potencia, pero puede llevar bastante tiempo aprender a utilizar Tableau con eficacia.
+   - Pronto empezará a practicar con Tableau.
+   - Pero si quiere comprobarlo ahora, existe un entorno gratuito al que puede acceder en [Tableau Public](https://www.tableau.com/products/public).
+
+- Puntos clave
+   - Existen muchas herramientas de visualización que tendrá la oportunidad de utilizar como profesional de los datos.
+   - Las distintas herramientas tienen diferentes ventajas y desventajas.
+   - Aunque, en última instancia, Tableau tiene más potencia que una aplicación básica de hoja de cálculo, se suele utilizar para casos concretos y para trabajar con grandes conjuntos de datos.
+   - No subestime lo mucho que puede hacer con las hojas de cálculo ni lo potente que puede ser la interconectividad entre aplicaciones
+   - La mayoría de las veces, sobre todo para algo como un informe rápido, es más probable que busque en su caja de herramientas la aplicación de hoja de cálculo que prefiera.
+   - Pero su carrera en el campo de los Datos se beneficiará definitivamente de Tableau, así que a medida que progrese aproveche las oportunidades de trabajar con él.
+   - Con tantas situaciones diferentes de análisis de datos, familiarizarse con todas estas herramientas le ayudará a saber cuál es la mejor para cada situación. 
