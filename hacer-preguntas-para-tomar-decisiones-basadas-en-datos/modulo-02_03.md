@@ -95,3 +95,35 @@
 | Volumen | Variedad | Velocidad | Veracidad |
 | ------- | -------- | --------- | --------- |
 | La cantidad de Datos | Los diferentes tipos de Datos | La rapidez con que se pueden procesar los Datos | La Calidad y Confiabilidad de los Datos |
+
+---
+
+## Ponga a prueba sus Conocimientos sobre cómo unir los puntos de los Datos
+
+1. ¿Cuáles son algunas de las características de los Microdatos? Seleccione todas las que correspondan.
+   - [x] Útil a la hora de tomar decisiones cotidianas
+   - [ ] Tiene un impacto significativo en los grandes frameworks
+   - [x] Es probable que se centre en Métricas específicas
+   - [x] A menudo organizados y analizados mediante hojas de cálculo
+> Los Microdatos tienden a centrarse en métricas específicas, se organizan y analizan mediante hojas de cálculo y pueden ser útiles a la hora de tomar decisiones cotidianas.
+
+2. Rellene el espacio en blanco: Big data suele implicar grandes conjuntos de datos que contienen datos de _____ largos, que deben organizarse antes de su análisis.
+   - [ ] presentaciones de Negocio a negocio (Business-to-Business)
+   - [ ] campañas de ventas
+   - [ ] proyectos de investigación
+   - [x] periodos de tiempo
+> Big data suele implicar grandes conjuntos de datos que contienen datos de largos periodos de tiempo, que deben organizarse antes de su análisis.
+
+3. Un profesional de los datos trabaja con datos almacenados en una base de datos. Utilizan SQL para ordenarlos y analizarlos con el fin de garantizar que las estadísticas sean lo más precisas posible. ¿Qué tipo de Datos utilizan con mayor probabilidad?
+   - [x] Big
+   - [ ] Interno
+   - [ ] Exterior
+   - [ ] Pequeño
+> Lo más probable es que utilicen Big data. Los big data suelen almacenarse en una base de datos y requieren SQL para su ordenación y análisis. Las hojas de cálculo son más eficaces cuando se utilizan datos pequeños.
+
+4. A la hora de considerar los beneficios y los retos del big data, ¿cuál de las "cuatro palabras V" describe la cantidad de datos que se analizan?
+   - [x] Volumen
+   - [ ] Velocidad
+   - [ ] Veracidad
+   - [ ] Variedad
+> El volumen describe la cantidad de datos que se analizan. 
