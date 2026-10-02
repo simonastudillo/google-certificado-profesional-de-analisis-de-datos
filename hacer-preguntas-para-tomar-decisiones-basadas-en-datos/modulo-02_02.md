@@ -295,3 +295,35 @@
       - Definir indicadores clave de rendimiento o Métricas.
       - Identificar problemas potenciales o puntos de ineficacia.
    - Aunque casi todas las empresas pueden beneficiarse de alguna manera del uso de un cuadro de mando, las empresas más grandes y las que tienen una gama más amplia de productos o servicios probablemente se beneficiarán más. Las empresas que operan en mercados volátiles o que cambian rápidamente, como las de marketing, ventas y tecnología, también tienden a obtener estadísticas más rápidamente y a tomar decisiones basadas en datos.
+
+---
+
+## Ponga a prueba sus conocimientos sobre el seguimiento de las pruebas
+
+1. Las partes interesadas de una empresa de servicios públicos solicitan información estadística que resuma los resultados comerciales del último mes. La información incluirá datos históricos de alto nivel sobre el uso de la electricidad. ¿Qué tipo de Entregable debe proporcionar el Equipo de Datos?
+   - [ ] Panel
+   - [ ] Contrato
+   - [x] Informe
+   - [ ] Propuesta
+> Deben proporcionar un Informe. Un Informe es una recopilación estática de datos que se entrega periódicamente a las partes interesadas. Suele contener datos históricos de alto nivel que se limpian y clasifican.
+
+2. ¿Cuáles son algunos de los beneficios clave de los paneles de control? Seleccione todas las que correspondan.
+   - [ ] Los Datos entran en el Panel prelimpiados
+   - [x] Bajo mantenimiento
+   - [x] Fácil accesibilidad para las partes interesadas
+   - [x] Capacidad para monitorizar Datos en tiempo real
+> Beneficios de los paneles de control incluyen la capacidad de monitorizar Datos en tiempo real, fácil accesibilidad y bajo mantenimiento. 
+
+3. Rellene el espacio en blanco: Un analista de datos crea una tabla dinámica cuando utiliza _____ para resumir, contar o promediar los datos de una hoja de cálculo.
+   - [x] hojas de cálculo
+   - [ ] lenguajes de programación
+   - [ ] software estadístico
+   - [ ] SQL
+> Un analista de datos crea una tabla dinámica cuando trabaja con hojas de cálculo para resumir, contar o promediar datos.
+
+4. Un supervisor presenta a su Equipo de datos un objetivo claro que ha sido fijado por los responsables de la empresa y que será evaluado y medido. A continuación, el Equipo de datos utiliza este objetivo para impulsar un proyecto de trabajo. ¿Qué describe este escenario?
+   - [ ] Colaboración entre equipos
+   - [x] Utilizar un objetivo métrico
+   - [ ] Utilización de un único tipo de datos cuantificable
+   - [ ] Toma de decisiones basada en datos
+> Este escenario describe el uso de un objetivo métrico. Un objetivo métrico es un objetivo mensurable fijado por una empresa y evaluado mediante métricas.
