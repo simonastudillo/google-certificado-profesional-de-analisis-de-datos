@@ -69,3 +69,49 @@
 - ​Bastante guay, ¿verdad? ​Más adelante en este programa, ​veremos cómo puede crear ​sus propias visualizaciones de datos.
 - ​Tenemos mucho que aprender antes de llegar a eso.
 - ​Pero espero que este haya sido un primer vistazo emocionante a ​las diferentes herramientas de visualización ​que utilizará como analista de datos.
+
+---
+
+## Datos frente a Métricas
+- ​En el último vídeo, aprendimos cómo puede visualizar sus datos utilizando informes y ​cuadros de mando para mostrar sus hallazgos de formas interesantes.
+- ​En uno de nuestros ejemplos, ​la empresa quería ver los ingresos por ventas de cada vendedor.
+- ​Esa medición específica de datos se realiza utilizando métricas.
+- ​Ahora, quiero hablarle un poco más sobre la diferencia entre Datos y ​métricas.
+- ​Y cómo pueden utilizarse las métricas para convertir los datos en información útil.
+- ​Una métrica es un tipo de dato único y cuantificable que puede utilizarse para realizar mediciones.
+- ​Piénselo de esta manera.
+
+- ​Los datos comienzan como una colección de hechos en bruto, hasta que los organizamos ​en métricas individuales que representan un único tipo de datos.
+- ​Las métricas también pueden combinarse en fórmulas en las que puede introducir ​sus datos numéricos.
+- ​En nuestro anterior ejemplo de ingresos por ventas, todos esos datos no significan gran cosa ​a menos que utilicemos una métrica específica para organizarlos.
+- ​Así que utilicemos los ingresos por vendedor individual como nuestra métrica.
+- ​Ahora podemos ver qué ventas aportaron los mayores ingresos.
+- ​Las métricas suelen implicar matemáticas sencillas.
+- ​Los ingresos, por ejemplo, son el número de ventas multiplicado por el precio de venta.
+
+- ​Elegir la métrica correcta es clave.
+- ​Los datos contienen muchos detalles en bruto sobre el problema que estamos explorando.
+- ​Pero necesitamos las métricas correctas para obtener las respuestas que buscamos.
+- ​Los distintos sectores utilizan todo tipo de métricas para medir las cosas en un conjunto de datos.
+- ​Veamos otras formas en que las empresas de distintos sectores utilizan las métricas.
+- ​Para que pueda ver cómo aplicar las métricas a los datos recopilados.
+- ​¿Ha oído hablar alguna vez del ROI? 
+
+- ​Las empresas utilizan esta métrica todo el tiempo.
+- ​El ROI, o Retorno de la inversión, es esencialmente una fórmula diseñada utilizando ​métricas que permiten a una empresa saber lo bien que está funcionando una inversión.
+- ​El ROI se compone de dos métricas, ​el beneficio neto durante un periodo de tiempo y el coste de la inversión.
+- ​Al comparar estas dos métricas, el beneficio y el coste de la inversión, la empresa ​puede analizar los datos de los que dispone para ver lo bien que le está yendo su inversión.
+- ​Esto puede ayudarles a decidir cómo invertir en el futuro y ​a qué inversiones dar prioridad.
+- ​Vemos que las métricas también se utilizan en marketing.
+- ​Por ejemplo, las métricas pueden utilizarse para ayudar a calcular las tasas de retención de clientes, ​o la capacidad de una empresa para mantener a sus clientes a lo largo del tiempo.
+
+- ​Las tasas de retención de clientes pueden ayudar a la empresa a comparar el número de clientes al ​principio y al final de un periodo para ver sus tasas de retención.
+- ​De este modo, la empresa sabe el éxito de sus estrategias de marketing ​y si necesita investigar nuevos enfoques para volver a atraer a más clientes ​Las distintas industrias utilizan todo tipo de métricas diferentes.
+- ​Pero hay una cosa que todas tienen en común: ​todas intentan alcanzar un objetivo específico midiendo datos.
+- ​Este objetivo métrico es un objetivo medible establecido por una empresa y evaluado utilizando métricas.
+- ​Y al igual que hay muchas métricas posibles, ​también hay muchos objetivos posibles.
+- ​Puede que una organización quiera alcanzar un determinado número de ventas mensuales, ​o tal vez un determinado porcentaje de clientes que repiten.
+- ​Al utilizar métricas para centrarse en aspectos individuales de sus datos, ​puede empezar a ver la historia que cuentan sus datos.
+- ​Los objetivos métricos y las fórmulas son excelentes formas de medir y comprender los datos.
+- ​Pero no son las únicas formas.
+- ​A lo largo de este curso hablaremos más sobre cómo interpretar y comprender los datos.
