@@ -219,3 +219,63 @@
 - ​Es su trabajo como detective de datos saber ​qué preguntas hacer para encontrar la solución correcta.
 - ​Entonces puede empezar a pensar ​en formas geniales y creativas de ​ayudar a las partes interesadas a entender mejor los datos.
 - ​Por ejemplo, los cuadros de mando interactivos, ​de los que aprenderemos pronto.
+
+---
+
+## Datos cualitativos y cuantitativos en el Negocio a negocio (Business-to-Business)
+- Esta lectura profundiza en el significado de lo cualitativo frente a lo cuantitativo.
+- Como ha aprendido, existen dos tipos de datos: cualitativos y cuantitativos.
+
+| Qualitative data tools | Quantitative data tools |
+| --------               | --------                |
+| Focus groups           | Structured interviews   |
+| Social media text analysis  | Surveys            |
+| In-person interviews        | Polls              |
+
+- Ahora, analice más detenidamente los tipos de datos y las herramientas de recopilación de datos.
+- En este escenario, usted es Analista de datos de una cadena de cines. Su gerente quiere que haga un seguimiento de las tendencias en:
+   - Asistencia al cine a lo largo del tiempo
+   - Rentabilidad del puesto de concesión
+   - Preferencias del público nocturno
+- Suponga que ya existen datos cuantitativos para monitorizar las tres tendencias.
+
+- Asistencia al cine a lo largo del tiempo
+   - Partiendo de los datos históricos que el cine tiene a través de su programa de fidelidad y recompensas, su primer paso es investigar qué estadísticas puede obtener de esos datos.
+   - Usted se fija en la asistencia de los últimos 3 meses.
+   - Pero, como los últimos 3 meses no incluían una festividad importante, decide que es mejor examinar los datos de todo un año.
+   - TAL COMO sospechaba, los Datos cuantitativos confirman que la asistencia media fue de 550 al mes, pero luego subió a una media de 1.600 al mes en los meses con vacaciones.
+   - Los datos históricos sirven a sus necesidades para el proyecto, pero también decide que reanudará el análisis de nuevo dentro de unos meses después de que el teatro aumente los precios de las entradas para los espectáculos nocturnos.
+
+- Rentabilidad del puesto de concesión
+   - El beneficio se calcula restando los costes de los ingresos por ventas.
+   - Los datos históricos muestran que, aunque el puesto de concesión era rentable, los márgenes de beneficio eran muy estrechos, inferiores al 5%.
+   - Usted vio que las compras medias ascendían a 20 $ o menos.
+   - Usted decide que va a seguir monitoreando esto de forma continua.
+   - Basándose en su conocimiento de las herramientas de recopilación de datos, sugerirá una Encuesta en línea a los clientes para que puedan hacer comentarios sobre la comida del puesto de concesión.
+   - Esto le permitirá recopilar aún más datos cuantitativos para renovar el menú y aumentar potencialmente los beneficios.
+
+- Preferencias del público nocturno
+   - Su análisis de los datos históricos muestra que el horario de las 19:30 era el más popular y el que contaba con mayor asistencia, seguido de los horarios de las 19:15 y las 21:00.
+   - Puede sugerir que se sustituya el horario actual de las 20:00, que tiene menor asistencia, por el de las 20:30.
+   - Pero necesita más datos que respalden su corazonada de que la gente asistiría más al pase más tarde.
+   - Los espectadores del cine nocturno son la mayor fuente de Ingresos del cine.
+   - Por lo tanto, también decide incluir una pregunta en su encuesta en línea para obtener más estadísticas.
+
+- Datos cualitativos de las tres tendencias más el precio de las entradas
+   - Como sabe que el cine tiene previsto subir el precio de las entradas para las funciones nocturnas dentro de unos meses, también incluirá una pregunta en la encuesta para hacerse una idea de la sensibilidad de los clientes a los precios.
+   - Su encuesta final en línea podría incluir estas preguntas para obtener datos cualitativos:
+      - ¿Qué influyó en su decisión de ver hoy una película en nuestro cine? (asistencia al cine)
+      - ¿Qué opina de la calidad y el valor de sus compras en el puesto de comida? (rentabilidad del puesto de comida)
+      - ¿Qué hora de proyección prefiere, las 20:00 o las 20:30, y por qué prefiere esa hora? (preferencias de los espectadores de cine nocturno)
+      - ¿En qué circunstancias elegiría una matiné en lugar de una proyección nocturna? (aumento del precio de las entradas)
+
+- Puntos clave
+   - Los analistas de datos suelen utilizar ambos tipos de datos en su trabajo.
+   - Por lo general, los datos cualitativos pueden ayudar a los analistas a comprender mejor sus datos cuantitativos proporcionándoles una razón o una explicación más exhaustiva.
+   - En otras palabras, los Datos cuantitativos generalmente le dan el qué, y los datos cualitativos generalmente le dan el por qué.
+   - Utilizando datos cuantitativos y cualitativos, puede saber cuándo le gusta a la gente ir al cine y por qué eligen la sala.
+   - Tal vez les gusten mucho las butacas reclinables, así que su gerente puede comprar más butacas reclinables.
+   - Tal vez el cine sea el único que sirve cerveza de raíz.
+   - Tal vez una hora de proyección más tardía les da más tiempo para conducir hasta el cine desde donde se encuentran los restaurantes más populares.
+   - Tal vez van a las matinés porque tienen hijos y quieren ahorrar dinero.
+   - Usted no habría descubierto esta información analizando sólo los datos cuantitativos de asistencia, beneficios y horarios de los espectáculos.
