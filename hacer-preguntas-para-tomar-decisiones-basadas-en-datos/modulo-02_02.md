@@ -224,3 +224,74 @@
    - Les ayuda a navegar por la ruta de acceso de un proyecto dentro de los datos.
    - Si añade marcadores claros y resalta los puntos importantes de su cuadro de mando, los usuarios comprenderán hacia dónde se dirige su historia de datos.
    - Entonces, podrán trabajar juntos para asegurarse de que el negocio llega a donde tiene que llegar. 
+
+---
+
+## Autorreflexión: Profundice en los cuadros de mando
+- Resumen de actividades
+   - Anteriormente, se le presentó la herramienta de gestión de datos conocida como cuadro de mando.
+   - En esta autorreflexión, examinará diferentes tipos de cuadros de mando y considerará cómo los utilizan los analistas de datos y sus empleadores.
+   - A modo de repaso, un cuadro de mando es un punto de acceso único para gestionar la información de una empresa.
+   - Permite a los analistas extraer información clave de los datos en una revisión rápida mediante la visualización de los datos de una forma que facilita la comprensión de las conclusiones.
+   - Esta autorreflexión le ayudará a desarrollar la percepción de su propio aprendizaje y le preparará para conectar su conocimiento de los cuadros de mando con lo que sabe sobre las necesidades empresariales.
+   - A medida que responda a las preguntas -y formule las suyas propias- tendrá en cuenta conceptos, prácticas y principios que le ayudarán a refinar su comprensión y a reforzar su aprendizaje.
+   - Usted ha hecho el trabajo duro, así que asegúrese de sacarle el máximo partido: ¡Esta reflexión le ayudará a que sus conocimientos se queden grabados!
+
+- Tipos de paneles de control
+   - Para refrescar la memoria, considere los diferentes tipos de cuadros de mando que puede utilizar una empresa.
+   - A menudo, las empresas adaptan un cuadro de mando a un propósito específico. Las tres categorías más comunes son:
+      - Estratégico: se centra en objetivos y estrategias a largo plazo en el nivel más alto de métricas
+      - Operativo : seguimiento del rendimiento a corto plazo y objetivos intermedios
+      - Analítico : consiste en los conjuntos de datos y las matemáticas utilizadas en estos conjuntos
+
+- Paneles de control estratégicos
+   - Un amplio abanico de empresas utilizan cuadros de mando estratégicos a la hora de evaluar y alinear sus objetivos estratégicos.
+   - Estos cuadros de mando proporcionan información sobre el marco temporal más amplio, desde un único trimestre financiero hasta años.
+   - Suelen contener información útil para la toma de decisiones en toda la empresa.
+   - A continuación se muestra un ejemplo de cuadro de mando estratégico que se centra en los indicadores clave de rendimiento (KPI) a lo largo de un año.
+
+<img src="./resources/modulo-02/image-01.png" alt="cuadro de mandos estratégico titulado Resumen de ingresos y clientes - 1er trimestre" width="500px">
+
+- Cuadros de mando operativos
+   - Los cuadros de mando operativos son, posiblemente, el tipo más común de cuadro de mando.
+   - Dado que estos cuadros de mando contienen información en una escala temporal de días, semanas o meses, pueden proporcionar información sobre el rendimiento casi en tiempo real.
+   - Esto permite a las empresas seguir y mantener sus procesos operativos inmediatos a la luz de sus objetivos estratégicos.
+   - El cuadro de mando operativo que se muestra a continuación se centra en el servicio al cliente.
+   
+<img src="./resources/modulo-02/image-02.png" alt="Cuadro de mandos operativo titulado Cuadro de mandos del equipo de Servicio al clienteResolutions are divided between first call resolution (61%) and unresolved calls (9%)" width="500px">
+
+- Cuadros de mando analíticos
+   - Los cuadros de mando analíticos contienen una gran cantidad de datos utilizados por los analistas de datos.
+   - Estos cuadros de mando contienen los detalles implicados en el uso, el análisis y las predicciones realizadas por los científicos de datos.
+   - Sin duda la categoría más técnica, los cuadros de mando analíticos suelen ser creados y mantenidos por los equipos de científicos de datos y rara vez se comparten con la alta dirección, ya que pueden ser muy difíciles de entender.
+   - El panel de control analítico que se muestra a continuación se centra en las métricas de los resultados financieros de una empresa.
+
+<img src="./resources/modulo-02/image-03.png" alt="cuadro de mando analítico titulado cuadro de mando de resultados financierosContains Return on assets, wrong capital ratio, and balance sheet" width="500px">
+
+1. Reflexión
+   - Considere los diferentes tipos de cuadros de mando:
+   - ¿En qué se parecen entre sí los distintos tipos de cuadros de mando?
+   - ¿En qué se diferencian?
+   - Escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+> Los 3 cuados de mando se parecen en que muestran una métrica acumulada como valor actual, promedio, mayor o menos, esto acompañado de un gráfico con datos adicionales. La diferencia entre los es el tipo y la forma de presentar los datos, en algunos son tipos de datos de dinero, otros porcentajes, otros valores fijos, unos cuadros de mandos muestran más detalles de valores previos mientras que otros solo dan a entender cómo cambia en el tiempo.
+
+- Comentarios
+   - ¡Buen trabajo reforzando su aprendizaje con una autorreflexión reflexiva! Algunos puntos en común de estos ejemplos son:
+      - Los paneles son visualizaciones: La visualización de datos puede ser enormemente útil para comprender y demostrar lo que realmente significan los datos.
+      - Los paneles identifican Métricas: Las Métricas relevantes pueden ayudar a los analistas a evaluar el rendimiento de la empresa.
+   - Algunas diferencias incluyen el marco temporal descrito en cada cuadro de mando. El cuadro de mando operativo tiene un marco temporal de días y semanas, mientras que el cuadro de mando estratégico muestra todo el año. El cuadro de mando analítico se salta un marco temporal específico. En su lugar, identifica y realiza un seguimiento de los distintos KPI que pueden utilizarse para evaluar los objetivos estratégicos y operativos.
+
+2. Ahora que ha considerado los diferentes tipos de cuadros de mando, piense en el impacto que los cuadros de mando pueden tener en una empresa:
+   - ¿Cuál es un ejemplo de fuente de datos que una empresa podría utilizar con un cuadro de mando?
+   - ¿Cómo se beneficiaría una empresa de un cuadro de mando que utilizara estos Datos?
+   - ¿Qué sectores o negocios podrían beneficiarse más que otros del uso de cuadros de mando?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas. Introduzca su respuesta en el cuadro de texto que aparece a continuación.
+> Los cuadros de mando son utiles para ver como avanza el negocio, un ejemplo puede ser las ventas del día, el promedio diario de venta e incluso comparar eso con el mes o el año pasado. Una empresa que utiliza cuadros de mandos le permite tomar decisiones basada en datos, puede saber que productos se venden más y cuanto stock les queda, de esta forma poder tomar acción y conseguir más stock. Creo que todos los sectores o negocios se podrían beneficiar de cuadros de mando, sin embargo, lo importante del cuadro de mando es que métrico y datos se está monitoreando.
+
+- Comentarios
+   - ¡Gracias por su respuesta! Los paneles de control pueden ayudar a las empresas a realizar muchas tareas útiles, como:
+      - Seguimiento del rendimiento histórico y actual.
+      - Establecer objetivos a largo y/o corto plazo.
+      - Definir indicadores clave de rendimiento o Métricas.
+      - Identificar problemas potenciales o puntos de ineficacia.
+   - Aunque casi todas las empresas pueden beneficiarse de alguna manera del uso de un cuadro de mando, las empresas más grandes y las que tienen una gama más amplia de productos o servicios probablemente se beneficiarán más. Las empresas que operan en mercados volátiles o que cambian rápidamente, como las de marketing, ventas y tecnología, también tienden a obtener estadísticas más rápidamente y a tomar decisiones basadas en datos.
