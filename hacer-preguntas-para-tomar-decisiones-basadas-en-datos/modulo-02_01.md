@@ -279,3 +279,35 @@
    - Tal vez una hora de proyección más tardía les da más tiempo para conducir hasta el cine desde donde se encuentran los restaurantes más populares.
    - Tal vez van a las matinés porque tienen hijos y quieren ahorrar dinero.
    - Usted no habría descubierto esta información analizando sólo los datos cuantitativos de asistencia, beneficios y horarios de los espectáculos.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre el poder de los Datos
+
+1. ¿Cuál de las siguientes afirmaciones describe con exactitud los Datos? Seleccione todas las que correspondan.
+   - [x] Los Datos son una colección de hechos.
+   - [ ] No hay limitaciones para los Datos, ya que las medidas de los mismos son estándar para todos los usuarios.
+   - [x] Los Datos pueden revelar patrones, tendencias y estadísticas importantes.
+   - [x] Los Datos se utilizan para ayudar a las organizaciones a tomar decisiones más informadas.
+> Los Datos son una colección de hechos. Puede utilizarse para revelar patrones, tendencias y estadísticas importantes. Esto ayuda a las organizaciones a tomar decisiones más informadas.
+
+2. Rellene el espacio en blanco: Un _____ es un proceso o conjunto de reglas que se pueden seguir para realizar una tarea específica.
+   - [ ] observación
+   - [x] algoritmo
+   - [ ] atributo
+   - [ ] ecuación
+> Un algoritmo es un proceso o conjunto de reglas que pueden seguirse para realizar una tarea específica.
+
+3. Un profesional de datos de una empresa de diseño web recopila datos sobre los usuarios del sitio web. Los Datos indican el número de veces que cada usuario visita el sitio web. También muestra la duración de sus visitas, en segundos. ¿Qué tipo de Datos se están recopilando?
+   - [ ] Cualitativo
+   - [ ] Redundancia
+   - [ ] Narrativa
+   - [x] Cuantitativo
+> Los usuarios han proporcionado datos cuantitativos. Datos cuantitativos son una medida específica y objetiva de hechos numéricos.
+
+4. Un director de Recursos Humanos recoge comentarios de los empleados durante sus entrevistas de salida. Se pide a los empleados que compartan sus sentimientos sobre la cultura de la empresa, qué beneficios disfrutaron más y sugerencias para mejorar el rendimiento. ¿Qué tipo de datos está recopilando el director?
+   - [ ] Numérico
+   - [x] Cualitativo 
+   - [ ] Incompleto
+   - [ ] Cuantitativo
+> Recogen Datos cualitativos. Datos cualitativos son una medida subjetiva o explicativa de cualidades y características.
