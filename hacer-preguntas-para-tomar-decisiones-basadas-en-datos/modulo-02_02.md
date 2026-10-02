@@ -159,3 +159,68 @@
    - La mayoría de las veces, sobre todo para algo como un informe rápido, es más probable que busque en su caja de herramientas la aplicación de hoja de cálculo que prefiera.
    - Pero su carrera en el campo de los Datos se beneficiará definitivamente de Tableau, así que a medida que progrese aproveche las oportunidades de trabajar con él.
    - Con tantas situaciones diferentes de análisis de datos, familiarizarse con todas estas herramientas le ayudará a saber cuál es la mejor para cada situación. 
+
+---
+
+## Diseñe cuadros de mando atractivos
+- Los paneles son potentes herramientas visuales que le ayudan a contar la historia de sus datos.
+- Un cuadro de mando es una herramienta que monitoriza los datos entrantes en directo.
+- Organiza la información de múltiples conjuntos de datos en una ubicación central, lo que ofrece un enorme ahorro de tiempo.
+- Los analistas de datos utilizan los cuadros de mando para controlar, analizar y visualizar los datos con el fin de responder a preguntas y resolver problemas.
+- Para hacerse una idea básica del aspecto de los cuadros de mando, consulte este artículo: ["Ejemplos reales de cuadros de mando de Inteligencia empresarial"](https://www.tableau.com/learn/articles/business-intelligence-dashboards-examples)
+
+- La belleza de los cuadros de mando
+   - La siguiente tabla resume los beneficios de utilizar un cuadro de mando tanto para los analistas de datos como para las partes interesadas.
+
+| Beneficios | Para los analistas de datos | Para las partes interesadas |
+| ---------- | --------------------------- | --------------------------- |
+| Centralización | Comparta una única fuente de Datos con todas las partes interesadas  | Trabaje con una visión completa de los datos, iniciativas, objetivos, proyectos, procesos, etc |
+| Visualización de datos | Muestre y actualice en tiempo real los datos entrantes*  | Detecte tendencias y patrones de cambio con mayor rapidez |
+| Perspicacia | Extraiga información relevante de distintos conjuntos de datos | Comprenda la historia que hay detrás de los números para no perder de vista los objetivos y tomar decisiones basadas en datos |
+| Personalización | Cree vistas personalizadas dedicadas a una persona, un proyecto o una presentación de los datos concretos | Profundice en áreas más específicas de interés o preocupación especializada |
+
+- Es importante recordar que los datos modificados se incorporan automáticamente a los cuadros de mando sólo si la estructura de los datos es la misma.
+- Si la estructura de los datos cambia, tendrá que actualizar el diseño del cuadro de mando antes de que los datos puedan actualizarse en directo.
+
+- Tableau 
+   - Existen muchas herramientas de visualización diferentes.
+   - Una de las más potentes es Tableau, que admite diversas fuentes de datos y dispone de funciones de análisis avanzadas que permiten explorar en profundidad las tendencias y pautas de los datos.
+   - Tableau puede manejar más datos y conjuntos de datos más grandes que muchas otras herramientas y ofrece disponibilidad de datos en tiempo real. 
+   - Lleva algún tiempo aprender a utilizar Tableau, pero sus esfuerzos pueden verse recompensados, ya que las visualizaciones de Tableau son agradablemente interactivas.
+   - Para que un cuadro de mando tenga éxito, debe atraer a los usuarios y ayudarles a aprender.
+   - Tableau se ha esforzado mucho para garantizar que sus usuarios tengan una gran experiencia y que la plataforma sea accesible para todos. 
+
+- Crear un panel de control
+   - He aquí un proceso que puede seguir para crear un cuadro de mando, ya sea en Tableau o en otra herramienta de visualización:
+   1. Identifique a las partes interesadas que necesitan ver los Datos y cómo los van a utilizar
+      - Comience formulando preguntas eficaces.
+      - Consulte esta [hoja de trabajo de recopilación de requisitos de cuadros](https://s3.amazonaws.com/looker-elearning-resources/Requirements+Gathering+Worksheet.pdf) de mando para explorar una amplia gama de buenas preguntas que puede utilizar para identificar a las partes interesadas y sus necesidades de datos.
+      - Este es un gran recurso que le ayudará a guiarse a través de este proceso una y otra vez.
+   2. Diseñe el panel (qué debe mostrarse)
+      - Utilice estos consejos para que el diseño de su panel sea claro y fácil de seguir:
+         - Utilice un Encabezado claro para etiquetar la Información.
+         - Añada breves descripciones de texto a cada visualización.
+         - Muestre la información más importante en la parte superior.
+   3. Cree maquetas si lo desea
+      - Una maqueta es un boceto sencillo de una visualización que se utiliza para planificar un cuadro de mando y evaluar su progreso.
+      - Esto es opcional, pero a muchos Analistas de datos les gusta esbozar sus cuadros de mando antes de crearlos. 
+   4. Seleccionar las visualizaciones
+      - Aquí tiene muchas opciones.
+      - Las visualizaciones que seleccione dependerán de la Historia de datos que esté contando.
+      - Si necesita mostrar un cambio de valores a lo largo del tiempo, los gráficos de líneas o de barras pueden ser la mejor opción.
+      - Si su objetivo es mostrar cómo contribuye cada parte a la cantidad total de la que se informa, un gráfico de tarta o de donuts es probablemente una mejor elección.
+   - Para saber más sobre cómo elegir las visualizaciones adecuadas, consulte las galerías de Tableau:
+      - Para ver más ejemplos de gráficos de área, gráficos de columnas y otras visualizaciones, visite la [Galería de cuadros de mando de Tableau](https://www.tableau.com/solutions/gallery). Esta galería está repleta de magníficos ejemplos creados con datos reales; explore este recurso por su cuenta para inspirarse.
+      - Explore el [Viz del día de Tableau](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day) para echar un vistazo a las visualizaciones comisariadas por la comunidad. Se trata de visualizaciones creadas por usuarios de Tableau y son una forma estupenda de conocer cómo utilizan otros analistas de datos las herramientas de visualización de datos. 
+   5. Cree filtros según sus necesidades
+      - Los filtros muestran determinados datos mientras ocultan el resto de los datos en un cuadro de mando.
+      - Esto puede ser de gran ayuda para identificar patrones manteniendo intactos los datos originales.
+      - Es habitual que los analistas de datos utilicen y compartan el mismo cuadro de mando, pero gestionen su parte del mismo con un filtro.
+      - Para profundizar en los filtros y encontrar un ejemplo de filtros en acción, visite la página de Tableau sobre [Acciones de filtrado](https://help.tableau.com/current/pro/desktop/en-us/actions_filter.htm).
+      - Se trata de un recurso útil que podrá guardar y al que podrá volver cuando empiece a practicar el uso de filtros en Tableau por su cuenta.
+
+- Puntos clave
+   - Al igual que el cuadro de mandos de un avión muestra al piloto su ruta de acceso, su cuadro de mandos hace lo mismo para sus partes interesadas.
+   - Les ayuda a navegar por la ruta de acceso de un proyecto dentro de los datos.
+   - Si añade marcadores claros y resalta los puntos importantes de su cuadro de mando, los usuarios comprenderán hacia dónde se dirige su historia de datos.
+   - Entonces, podrán trabajar juntos para asegurarse de que el negocio llega a donde tiene que llegar. 
