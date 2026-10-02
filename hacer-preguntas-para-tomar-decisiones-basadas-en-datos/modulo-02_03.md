@@ -53,3 +53,45 @@
 - ​A continuación, abordaremos los conceptos básicos de las hojas de cálculo.
 - ​Pondrá en práctica lo aprendido y ​aprenderá una nueva herramienta que le ayudará a lo largo del proceso de análisis de datos.
 - ​Nos vemos pronto.
+
+---
+
+## Big data y small data
+- Como analista de datos, trabajará con datos grandes y pequeños.
+- Ambos tipos de Datos son valiosos, pero desempeñan funciones muy diferentes.
+- Tanto si trabaja con datos grandes como pequeños, puede utilizarlos para ayudar a las partes interesadas a mejorar los procesos empresariales, responder preguntas, crear nuevos productos y mucho más.
+- Pero hay ciertos retos y beneficios que conllevan los big data y la siguiente tabla explora las diferencias entre los big data y los small data.
+
+| Microdatos   | Big data |
+| ------------ | -------- |
+| Describe un conjunto de datos compuesto por Métricas específicas durante un periodo de tiempo corto y bien definido | Describe conjuntos de datos grandes y menos específicos que abarcan un periodo de tiempo largo |
+| Suelen organizarse y analizarse en hojas de cálculo | Normalmente se guardan en una base de datos y se consultan |
+| Probable uso por parte de pequeñas y medianas empresas (Business-to-Business) | Es probable que lo utilicen las grandes organizaciones |
+| Fáciles de recopilar, almacenar, gestionar, clasificar y representar visualmente  | Requiere mucho esfuerzo recopilar, almacenar, gestionar, clasificar y representar visualmente |
+| Suele tener ya un tamaño manejable para el análisis | Suele ser necesario dividirla en partes más pequeñas para organizarla y analizarla eficazmente para la toma de decisiones |
+
+
+- Retos y beneficios
+   - Estos son algunos de los retos a los que puede enfrentarse cuando trabaja con Big data:
+      - Muchas organizaciones se enfrentan a una sobrecarga de datos y a demasiada información sin importancia o irrelevante.
+      - Los Datos importantes pueden estar ocultos en el fondo con todos los datos sin importancia, lo que hace que sean más difíciles de encontrar y utilizar. Esto puede dar lugar a plazos de toma de decisiones más lentos e ineficaces.
+      - Los Datos que necesita no siempre son fácilmente accesibles.
+      - Las herramientas y soluciones tecnológicas actuales siguen teniendo dificultades para proporcionar datos medibles y notificables. Esto puede dar lugar a un sesgo algorítmico injusto.
+      - Existen lagunas en muchas soluciones empresariales de Big data.
+   - Ahora, ¡las buenas noticias! He aquí algunos Beneficios que conllevan los Big data:
+      - Cuando se pueden almacenar y analizar grandes cantidades de Datos, se puede ayudar a las empresas a identificar formas más eficientes de hacer negocios y ahorrar mucho tiempo y dinero.
+      - Big data ayuda a las organizaciones a detectar las tendencias de los patrones de compra de los clientes y sus niveles de satisfacción, lo que puede ayudarles a crear nuevos productos y soluciones que hagan felices a los clientes.
+      - Mediante el análisis de Big data, las empresas obtienen una comprensión mucho mejor de las condiciones actuales del mercado, lo que puede ayudarles a mantenerse por delante de la competencia.
+      - ASÍ COMO en nuestro anterior ejemplo de las Redes sociales, los big data ayudan a las empresas a hacer un seguimiento de su presencia en línea, especialmente de los comentarios, tanto buenos como malos, de los clientes. Esto les proporciona la información que necesitan para mejorar y proteger su marca.
+
+- Las tres (o cuatro) palabras con V para big data
+   - A la hora de pensar en los beneficios y los retos de los big data, resulta útil pensar en las tres V: volumen , Variedad y Velocidad. Volumen describe la cantidad de datos.
+      - Variedad describe los diferentes tipos de Datos.
+      - Velocidad describe la rapidez con la que se pueden procesar los Datos.
+      - Algunos Analistas de datos también tienen en cuenta una cuarta V: la veracidad .
+      - La veracidad se refiere a la calidad y la fiabilidad de los Datos.
+   - Todas estas son consideraciones importantes relacionadas con el procesamiento de conjuntos de datos enormes y complejos.
+
+| Volumen | Variedad | Velocidad | Veracidad |
+| ------- | -------- | --------- | --------- |
+| La cantidad de Datos | Los diferentes tipos de Datos | La rapidez con que se pueden procesar los Datos | La Calidad y Confiabilidad de los Datos |
