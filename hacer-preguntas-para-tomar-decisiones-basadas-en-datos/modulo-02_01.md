@@ -170,3 +170,52 @@
    - Experimenta con muchas posibilidades diferentes.
    - Y utilice tanto la lógica como la creatividad a lo largo del camino.
    - Con este enfoque, estarás preparado para interpretar los datos con el máximo cuidado y precisión.
+
+---
+
+## Datos cualitativos y cuantitativos
+- ​Hola de nuevo.
+- ​Cuando se trata de tomar decisiones, los datos son clave.
+- ​Pero también hemos aprendido que ​hay muchos tipos diferentes ​de preguntas que los datos pueden ayudarnos a responder, ​y estas preguntas diferentes ​hacen diferentes tipos de datos.
+- ​Hay dos tipos de datos de los que hablaremos en ​este vídeo, los cuantitativos y los cualitativos.
+- ​Los datos cuantitativos se refieren a ​las medidas específicas y objetivas de hechos numéricos.
+- ​A menudo pueden ser el qué, ​cuántos y con qué frecuencia sobre un problema.
+- ​En otras palabras, cosas que se pueden medir, ​como cuántos pasajeros ​toman el tren para ir a trabajar cada semana.
+
+- ​Como analista financiero, ​trabajo con muchos datos cuantitativos.
+- ​Me encanta la certeza y la precisión de los números.
+- ​Por otro lado, ​los datos cualitativos describen ​medidas subjetivas o explicativas de ​cualidades y características o ​cosas que no pueden medirse con datos numéricos, ​como el color de su pelo.
+- ​Los datos cualitativos son estupendos ​para ayudarnos a responder a preguntas de por qué.
+- ​Por ejemplo, por qué a la gente le puede gustar ​un determinado famoso o un aperitivo más que otros.
+- ​Con los datos cuantitativos, podemos ver los números ​visualizados en forma de tablas o gráficos.
+- ​Los datos cualitativos pueden darnos ​una comprensión de más alto nivel de ​por qué los números son como son.
+
+- ​Esto es importante porque nos ayuda a ​añadir contexto a un problema.
+- ​Como Analista de datos, ​utilizará tanto ​análisis cuantitativo como cualitativo, ​dependiendo de su Tarea empresarial.
+- ​Las reseñas son un buen ejemplo de ello.
+- ​Piense en alguna ocasión en la que haya utilizado las reseñas para decidir ​si quería comprar algo o ir a algún sitio.
+- ​Es posible que estas reseñas le hayan dicho ​a cuánta gente no le gusta esa cosa y por qué.
+- ​Las empresas también leen estas reseñas, ​pero utilizan los datos de formas diferentes.
+- ​Veamos un ejemplo de una empresa que utiliza datos de ​reseñas de clientes para ver ​datos cualitativos y cuantitativos en acción.
+
+- ​Pongamos que una heladería local ha empezado a utilizar ​sus reseñas en línea para relacionarse con ​sus clientes y construir su marca.
+- ​Estas reseñas proporcionan a la heladería ​una visión de las experiencias de sus clientes, ​que pueden utilizar para tomar decisiones.
+- ​El propietario se da cuenta de que su valoración ha ido bajando.
+- ​Ve que últimamente su tienda ​ha estado recibiendo más reseñas negativas.
+- ​Quiere saber por qué, ​así que empieza a hacer preguntas.
+- ​Primero son preguntas medibles.
+- ​¿Cuántas reseñas negativas hay? 
+- ​¿Cuál es la valoración media? ​¿Cuántas de estas reseñas utilizan las mismas palabras clave? ​Estas preguntas generan datos cuantitativos, ​resultados numéricos que ayudan ​a confirmar que sus clientes no están satisfechos.
+- ​Estos datos pueden llevarles a plantearse diferentes preguntas.
+- ​¿Por qué los clientes están insatisfechos? ​¿Cómo podemos mejorar su experiencia? ​Estas son preguntas que conducen a datos cualitativos.
+
+- ​Después de revisar las reseñas, ​el propietario de la heladería ve un patrón, ​17 de las reseñas negativas utilizan ​la palabra "frustrado" Eso son datos cuantitativos.
+- ​Ahora podemos empezar a recopilar datos cualitativos ​preguntándonos por qué se repite esta palabra.
+- ​Descubre que los clientes están ​frustrados porque la tienda se está ​quedando sin los sabores populares antes de que acabe el día.
+- ​Sabiendo esto, la heladería puede cambiar su pedido ​semanal para asegurarse de que tiene ​suficiente de lo que quieren los clientes.
+- ​Con datos cuantitativos y cualitativos, ​el propietario de la heladería pudo averiguar ​que sus clientes estaban descontentos y entender por qué.
+- ​Contar con ambos tipos de datos le permitió ​realizar los cambios adecuados y mejorar su negocio.
+- ​Ahora que conoce la diferencia entre ​datos cuantitativos y cualitativos, ​ya sabe cómo obtener distintos tipos de ​datos formulando diferentes preguntas.
+- ​Es su trabajo como detective de datos saber ​qué preguntas hacer para encontrar la solución correcta.
+- ​Entonces puede empezar a pensar ​en formas geniales y creativas de ​ayudar a las partes interesadas a entender mejor los datos.
+- ​Por ejemplo, los cuadros de mando interactivos, ​de los que aprenderemos pronto.
