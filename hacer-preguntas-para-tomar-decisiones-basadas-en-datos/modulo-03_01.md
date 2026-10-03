@@ -30,3 +30,33 @@
 - ​Las funciones y las fórmulas también tienen otros usos, ​y también los analizaremos.
 - ​Iremos un paso más allá con ​ejercicios que utilizan datos reales de bases de datos.
 - ​Esta es tu oportunidad de reorganizar una hoja de cálculo, ​hacer algunos análisis de datos reales ​y divertirte con los datos.
+
+---
+
+## Póngase a trabajar con hojas de cálculo
+- Los analistas de datos dedican mucho tiempo a organizar los datos y realizar ​cálculos.
+- ​Por suerte, hay muchas herramientas diferentes que les ayudan a hacer precisamente eso, ​incluidas las hojas de cálculo.
+- En este vídeo, analizaremos algunas de las formas en que los ​analistas de datos utilizan las hojas de cálculo para ayudarlos con sus responsabilidades diarias.
+- ​Más adelante, podrá probar algunas de estas cosas usted mismo, pero por ahora, ​comencemos con un vistazo rápido a la forma en que los analistas de datos utilizan las hojas de cálculo para hacer ​su trabajo.
+- ​Esto cambiará en función del trabajo que necesites completar.
+- ​Pero he aquí un resumen de algunas de las tareas principales.
+- ​Imagina que trabajas para una empresa de construcción.
+
+- ​Tu empresa necesita tus conocimientos de hojas de cálculo para analizar algunos datos sobre sus gastos, ​por lo que puedes acceder a los datos adecuados y añadirlos a tu hoja de cálculo.
+- ​No cubriremos todos los detalles de este proyecto ahora mismo, pero ​tendrás la oportunidad de ver muchas funciones de las hojas de cálculo de cerca y de forma ​personal a medida que avancemos.
+- ​¿Qué haces con los datos ahora que están en tu hoja de cálculo? Una vez más, ​esto será diferente para cada trabajo, pero ​puede empezar por organizar los datos según la tarea que se le ha asignado.
+- ​Por ejemplo, puede colocar los datos en una tabla dinámica.
+- ​Ya hemos hablado de las tablas dinámicas anteriormente en este curso.
+- Las ​trataremos con más detalle más adelante, pero por ahora, considérelas como ​tablas bien organizadas y muy útiles.
+
+- ​A continuación, puede filtrar los datos de la tabla dinámica.
+- ​Clasificar y filtrar datos es una parte común de la mayoría de los trabajos.
+- ​Esto le permite centrarse únicamente en los datos que necesitará para el análisis.
+- ​En nuestro ejemplo, tal vez solo necesite los gastos durante un período determinado, ​como los últimos tres meses.
+- Después de filtrar los datos, ​puede realizar algunos cálculos para obtener más información al respecto.
+- ​Tal vez necesite averiguar qué proyectos de construcción terminaron costando ​más dinero.
+- ​Aquí es donde las fórmulas y funciones son realmente útiles.
+
+- ​Hablaremos de ellas en un momento, pero las fórmulas y funciones son geniales para ​hacer cálculos rápidos, especialmente cuando te quedas sin los dedos de las manos y los pies con los que contar.
+- ​Ya ha visto algunas de las formas en que los analistas de datos utilizan las hojas de cálculo en su ​trabajo diario para muchas tareas diferentes, ​incluida la organización de sus datos y la realización de cálculos.
+- Antes de que te des cuenta, ​tendrás que trabajar en tus propias hojas de cálculo.
