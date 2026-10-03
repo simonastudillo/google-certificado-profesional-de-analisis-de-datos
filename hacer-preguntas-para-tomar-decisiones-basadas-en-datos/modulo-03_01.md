@@ -92,3 +92,155 @@
    - Los accesos directos de las hojas de cálculo pueden ayudarle a ser más eficiente con ellas.
    - Si desea obtener más información, puede explorar la colección de [Accesos directos de Google Sheets](https://support.google.com/docs/answer/181110) o visitar la página de [Accesos directos de Microsoft Excel](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f) si utiliza Excel.
    - Ambos Recursos contienen una Lista de accesos directos de hojas de cálculo que puede guardar y consultar a medida que trabaje más con hojas de cálculo por su cuenta.
+
+---
+
+## Actividad práctica: Introducción a Google Sheets
+- Resumen de actividades
+   - A estas alturas, ya ha conocido las hojas de cálculo y su función en el análisis de datos.
+   - En esta actividad, trabajará con una hoja de cálculo en Google Sheets.
+   - Creará y editará una hoja de cálculo, compartirá la hoja con otras personas y añadirá comentarios a la hoja.
+   - Google Sheets es una aplicación de hojas de cálculo basada en la nube.
+   - Puede utilizar Hojas para organizar y analizar datos desde cualquier dispositivo en línea.
+   - Todos los cambios que realice se guardarán automáticamente en la nube.
+   - Cuando complete esta actividad, estará más familiarizado con algunas de las principales características de Google Sheets.
+   - Saber trabajar con aplicaciones de hojas de cálculo es una habilidad esencial para cualquier analista de datos.
+   - Las hojas de cálculo son herramientas poderosas porque le permiten almacenar, organizar, analizar y compartir datos.
+
+- Instrucciones paso a paso
+   - A medida que avance en el Programa, se irá familiarizando con las hojas de cálculo.
+   - Aprenderá a utilizar funciones, fórmulas, tablas dinámicas y mucho más para organizar y analizar datos.
+   - Por ahora, empezará por lo básico: cómo crear, editar y dar formato a su propia hoja de cálculo.
+   - Siga las instrucciones para completar cada paso de la actividad.
+   - A continuación, responda a las preguntas al final de la actividad antes de pasar al siguiente punto del curso 
+
+1. Acceder a una aplicación de hoja de calculo
+- Hay muchas aplicaciones excelentes de hojas de cálculo a disposición de los analistas de datos, como Google Sheets, Microsoft Excel, etc.
+- En esta actividad se utiliza Google Sheets.
+- Si desea seguir con una aplicación de hoja de cálculo diferente, los pasos serán similares.
+- Si desea utilizar Google Sheets, necesitará una cuenta de Google.
+- Si aún no tiene una cuenta de Google, puede seguir las instrucciones de la Página de asistencia para cuentas de Google.
+- Una vez que haya configurado su cuenta de Google, ¡podrá empezar a trabajar con las Hojas de cálculo de Google! 
+
+2. Crear una nueva hoja de calculo
+- Para empezar, vaya a www.google.com.
+- Haga clic en el icono de aplicaciones de Google.
+- A continuación, haga clic en el icono Hojas de cálculo.
+- En la sección Iniciar una nueva hoja de cálculo, haga clic en En blanco  para crear una nueva hoja de cálculo en blanco.
+- Ahora ya tiene una nueva hoja de cálculo que puede utilizar para introducir sus datos
+
+3. Edite y dé formato a su hoja de calculo
+- Para esta actividad, desea crear una hoja de cálculo que contenga los datos de ventas de una panadería local.
+- Aquí tiene un ejemplo de la hoja de cálculo que creará: 
+
+<img src="./resources/modulo-3/image-01.png" alt="Datos de ejemplo" width="500px">
+
+- Después de crear su hoja, póngale un título.
+- En la esquina superior izquierda de su hoja, haga clic en Hoja de cálculo sin título e introduzca un título.
+- Haga que su título sea claro y conciso.
+- Debe describir de qué tratan los datos de la hoja de cálculo.
+- Por ejemplo, podría utilizar el título Ventas de panadería marzo 2020 o algo similar.
+- A continuación, introduzca los encabezados de sus columnas.
+- La primera fila de la hoja de cálculo es para los atributos de los datos, que es otro nombre para los encabezados de columna.
+- Un atributo es una característica o cualidad de los datos que se utiliza para etiquetar una columna de una tabla.
+- Básicamente consiste en etiquetar el tipo de datos de cada columna.
+- En este caso, desea introducir datos para la fecha de la transacción, el nombre del producto, el precio y la cantidad.
+- Haga clic en la celda A1 e introduzca su primer encabezado: Fecha.
+- Haga clic en la celda B1 e introduzca su siguiente encabezado: Nombre.
+- Repita este proceso para el resto de los atributos.
+- A continuación, dé formato a sus encabezados de columna para que destaquen claramente.
+- Por ejemplo, puede hacer que los encabezados destaquen del resto de las filas utilizando negrita y alineación central.
+- Haga clic en la celda A1 y arrastre el tirador hasta la celda D1 (ahora ha seleccionado el rango A1:D1).
+- A continuación, haga clic en el icono de negrita de la barra de herramientas.
+- A continuación, haga clic en el icono Alinear al centro de la barra de herramientas.
+- Ahora, introduzca los datos pertinentes para cada columna(Fecha, Nombre, Precio, Cantidad).
+- Siéntase libre de utilizar los datos del ejemplo anterior o de crear los suyos propios. 
+- Si desea añadir otra columna entre dos columnas existentes, puede insertar una nueva columna.
+- En primer lugar, haga clic en una columna para seleccionarla.
+- A continuación, haga clic en Insertar en la barra de menús y elija dónde desea añadir la columna.
+- Puede hacer lo mismo para insertar filas.
+- Si desea mover una fila o columna existente, haga clic en el número de la fila o en la letra de la columna para seleccionarla.
+- A continuación, arrástrela a una nueva ubicación.
+- Si desea eliminar una fila o columna existente, haga clic con el botón derecho del ratón en el número de fila o letra de columna que desee eliminar.
+- A continuación, seleccione Eliminar en el menú emergente.
+- (Opcional) No dude en explorar algunas de las otras características de las Hojas de cálculo de Google.
+- Más adelante en el curso, cubriremos muchas de estas características en detalle.
+- Por ejemplo, puede hacer clic en Insertar en la barra de menús y experimentar con gráficos, imágenes, dibujos y mucho más.
+- Como ya hemos mencionado, sus datos se guardan automáticamente a medida que va trabajando.
+- Ahora que ha configurado su hoja de cálculo, compártala con los demás. 
+
+4. Comparta su hoja de cálculo
+- Colaborar con los miembros del equipo es una parte importante de ser analista de datos.
+- Cuando colabora, la gente puede hacer cambios al mismo tiempo, y usted puede ver sus cambios a medida que se producen. 
+- En las Hojas de cálculo de Google, sólo puede compartir archivos que sean de su propiedad o a los que tenga acceso de edición.
+- Como usted creó su hoja de cálculo, es el propietario por defecto. 
+- Para empezar, haga clic en el icono Compartir. 
+- En Compartir con personas y grupos, en la ventana emergente, introduzca la dirección de correo electrónico de su colaborador.
+- En las Hojas de cálculo de Google, los usuarios tienen diferentes privilegios de acceso.
+- Como propietario de la hoja, puede elegir el nivel de acceso para sus colaboradores.
+- Haga clic en Editor en la lista desplegable y elija el nivel de acceso:
+   - Puede editar los colaboradores pueden añadir y editar contenido o comentarios.
+   - Elija este nivel de acceso si desea que puedan realizar cambios en su hoja de cálculo.
+   - Puede comentar los colaboradores pueden añadir comentarios, pero no pueden editar el contenido.
+   - Elija este nivel si sólo desea sus comentarios.
+   - Puede ver los colaboradores pueden ver el archivo, pero no pueden editarlo ni añadir comentarios.
+   - Elija este nivel si desea compartir una hoja de cálculo como recurso opcional y no necesita comentarios.
+- (Opcional) De forma predeterminada, Hojas de cálculo de Google enviará una notificación por correo electrónico a la persona o al grupo con el que comparta la hoja de cálculo para informarles de que ahora tienen acceso.
+- Puede añadir una nota en ese correo electrónico introduciendo su texto en el cuadro Mensaje.
+- Por ejemplo, puede incluir una descripción de los datos que contiene su hoja de cálculo y por qué desea que esa persona la consulte.
+- Si no desea enviar una notificación por correo electrónico, desmarque la casilla Notificar a la gente.
+- Esto resulta especialmente útil durante la documentación, cuando no necesita que la gente revise su trabajo de inmediato, pero puede desear que lo hagan en el futuro.
+- Haga clic en Enviar.
+
+5. Compartir un enlace a un archivo o carpeta
+- Puede enviar a otras personas un enlace a un archivo o carpeta para que cualquiera que tenga el enlace pueda abrirlo.
+- Esto es útil cuando desea compartir su archivo o carpeta con un grupo grande y no quiere escribir las direcciones de correo electrónico individuales de cada uno.
+- Puede compartir archivos que sean de su propiedad o a los que tenga acceso de edición.
+- Para empezar, haga clic en el icono Compartir.
+- En la sección Obtener enlace de la ventana emergente, observará que el valor predeterminado es Restringido, de modo que sólo podrán acceder al archivo o carpeta los usuarios con los que lo haya compartido por correo electrónico.
+- Pero, si desea permitir que otras personas accedan a su archivo o carpeta sin tener que añadir sus direcciones de correo electrónico, haga clic en Cambiar.
+- Por defecto, su organización está seleccionada. Ahora elija un nivel de acceso.
+- Haga clic en Copiar enlace.
+- Haga clic en Hecho.
+- Pegue el enlace en un correo electrónico o en cualquier lugar donde desee compartirlo.
+- Si el destinatario pertenece a su organización, podrá acceder a su archivo o carpeta sin que usted tenga que concederle acceso individual.
+
+6. Descomparta su hoja de cálculo
+- También puede dejar de compartir una hoja de cálculo de su propiedad en cualquier momento.
+- Puede que desee hacerlo si alguien ha cambiado de trabajo o de equipo y ya no debe consultar sus datos.
+- Para empezar, haga clic en el icono Compartir.
+- Haga clic en el menú desplegable que muestra el nivel de acceso de la persona con la que desea dejar de compartir el archivo y, a continuación, haga clic en Eliminar.
+- Por último, haga clic en Guardar.
+
+7. Comente su hoja de cálculo
+- Google Sheets le permite a usted y a sus colaboradores añadir comentarios a su hoja y responder a esos comentarios.
+- Como analista de datos, esta es una forma estupenda de compartir comentarios con sus compañeros de equipo.
+- En su hoja, seleccione la celda o celdas que desee comentar.
+- Realice una de las siguientes acciones:
+   - Haga clic con el botón derecho en la celda y haga clic en Comentar en el menú emergente. 
+   - O haga clic en el icono Comentar de la barra de menús situada en la parte superior de su hoja. 
+- A continuación, introduzca su comentario en la casilla.
+- (Opcional) Para dirigir su comentario a una persona concreta, introduzca una arroba (@) seguida de su dirección de correo electrónico.
+- Puede añadir tantas personas como desee.
+- Cada persona recibirá un correo electrónico con su comentario y un enlace al archivo de la hoja de cálculo.
+- Si esa persona no tiene acceso actualmente a su archivo, Hojas de cálculo de Google se lo notificará en una ventana emergente y le preguntará si desea conceder acceso a ese usuario..
+- (Opcional) Para asignar el comentario a una persona concreta, marque la casilla Asignar a.
+- Por último, haga clic en Comentar o Asignar.
+
+1. En Google Sheets, ¿qué nivel de accesibilidad debe seleccionar si desea que su colaborador comente su hoja de cálculo, pero no edite el contenido?
+   - [x] Puede comentar
+   - [ ] Puede editar 
+   - [ ] Puede ver
+   - [ ] Puede eliminar 
+> En las hojas de cálculo de Google, debe seleccionar el nivel de acceso "Puede comentar" si desea que su colaborador comente su hoja de cálculo, pero no edite el contenido. Cuando comparte una hoja de Google con colaboradores, puede asignarles los siguientes niveles de acceso: puede editar, puede comentar, puede ver. Como Analista de datos, a menudo compartirá su trabajo con otras personas para obtener comentarios o comunicar sus ideas. 
+
+2. En esta actividad, ha tenido la oportunidad de conocer algunas de las características básicas de Google Sheets. En el cuadro de texto que aparece a continuación, escriba de 2 a 3 frases (de 40 a 60 palabras) en respuesta a cada una de las siguientes preguntas:
+- ¿Cuáles cree que son las principales ventajas de utilizar las Hojas de cálculo de Google para organizar, analizar y compartir sus datos?
+- ¿Cómo cree que la Característica de comentarios de las Hojas de cálculo de Google puede aumentar la Colaboración entre compañeros de equipo? 
+> Las ventajas de las Hojas de cálculo de Google son su respaldo y guardado automático en la nube, permitiendo que las pueda ver y editar desde cualquier dispositivo, además me permite compartir rápidamente mediante un correo. Los comentarios en las hojas son realmente útiles cuando se trabaja con más gente o incluso cuando se trabaja solo, nos permite agregar información de porqué la información es útil, como se decidió un cálculo, etc.
+
+- Comentarios
+¡Enhorabuena por haber completado esta actividad práctica! En esta actividad, ha aprendido los conceptos básicos de Google Sheet. Ha creado, editado y formateado una hoja de cálculo; ha compartido la hoja con otras personas; y ha añadido comentarios a la hoja.
+Las hojas de cálculo son una herramienta importante en la caja de herramientas de todo Analista de datos. Le ayudan a organizar, limpiar y analizar datos. Las funciones para compartir y comentar de las Hojas de cálculo de Google le permiten comunicarse y colaborar con sus compañeros de equipo, una parte clave de su función como Analista de datos. En las próximas actividades, seguirá explorando las muchas formas en que las hojas de cálculo pueden ayudarle a analizar sus datos.
+
+- [Excel de referencia](./resources/modulo-03/Libro1.xlsx)
