@@ -216,3 +216,54 @@
    - En este caso, COUNT es la fórmula; se ejecutará SI las condiciones que usted cree son verdaderas.
    - Por ejemplo, podría utilizar =COUNTIF(A1:A16, “7”) para contar sólo las celdas que contienen el número 7.
    - Combinar fórmulas y funciones le permite hacer más trabajo con un solo comando.
+
+---
+
+## Actividad práctica: Análisis de datos y fórmulas: Estadísticas de ventas en panadería
+- Resumen de la actividad
+   - Hasta ahora, usted ha sido introducido a los fundamentos del uso de fórmulas para realizar cálculos para el Análisis de datos.
+   - En esta actividad, editarás la hoja de cálculo Ventas de panadería que creaste anteriormente en la actividad Práctica: Introducción a Google Sheets.
+   - Volverás a consultar los datos y revisarás los datos nuevos; a continuación, utilizarás fórmulas para calcular las Métricas clave y obtener información estadística.
+   - Cuando termines esta actividad, estarás más familiarizado con el uso de fórmulas sencillas para analizar y extraer información significativa de los conjuntos de datos.
+   - Saber utilizar fórmulas en aplicaciones de hojas de cálculo es una habilidad esencial para cualquier analista de datos, ya que le ayudan a automatizar cálculos, tomar decisiones basadas en datos y ahorrar tiempo.
+
+- Instrucciones paso a paso
+   - Siga las instrucciones para completar cada paso de la actividad.
+   - A continuación, responda a la pregunta al final de la actividad antes de pasar al siguiente punto del curso.
+
+1. Acceder a la hoja de cálculo
+- Para empezar, determine qué software desea utilizar, como Google Sheets o Microsoft Excel.
+- También necesitará la hoja de cálculo actualizada Ventas de panadería marzo 2020, que contiene datos nuevos que no estaban en la actividad anterior. 
+- Para utilizar la plantilla para este tema del curso, haga clic en el enlace de abajo y seleccione "Usar plantilla" 
+- Plantilla: Ventas de panadería marzo 2020 
+- [archivo](./resources/modulo-03/Bakery-Sales-March-2020.xlsx)
+
+2. Editar una hoja previa existente
+- La nueva hoja de cálculo Ventas de panadería marzo 2020 se ha actualizado con los datos de ventas de la panadería local para los días restantes del mes.
+- En esta actividad, utilizará fórmulas para calcular métricas esenciales que revelen los ingresos generados por cada producto.
+- Este análisis de datos le proporcionará información valiosa sobre el rendimiento de la panadería local. 
+- El gerente de la panadería local quiere saber cuántas unidades de cada producto se vendieron y cuántos ingresos aportó cada producto durante este periodo de ventas.
+- Para encontrar las respuestas, siga estos pasos:
+   1. Cree un nuevo Atributo llamado Ingresos en la celda E1. Ponga en negrita y centre el nombre de esta columna como hizo anteriormente.
+   2. Para calcular los ingresos de las 30 magdalenas vendidas el 25/3, seleccione la celda E2. A continuación, multiplique el número de magdalenas vendidas por el precio de cada magdalena. Introduzca =C2*D2 y pulse Intro.
+   3. Copie la fórmula (o utilice el tirador de relleno) de la celda E2 a E3:E22.
+   4. Para hallar el número total de cada producto vendido, calcule primero la cantidad total de cada uno. Empiece por hacer que los datos sean claros y fáciles de leer. En la celda G3, introduzca el Nº total de Cookies vendidas. En la celda G4, introduzca # Total de Magdalenas Vendidas. En la celda G5, introduzca # Total de Magdalenas Vendidas. En la celda G6, introduzca # Total de Pasteles vendidos.
+   5. Ahora, calcule la cantidad total de Cookies vendidas. Seleccione la celda H3, introduzca =D3+D8+D13+D18+D22 y pulse Intro.
+   6. A continuación, calcule la cantidad total de magdalenas, muffins y tartas vendidas siguiendo los mismos pasos.
+   7. El director de la panadería también desea saber cuántos ingresos le ha reportado cada producto.
+   8. Empiece por hacer que los datos sean claros y fáciles de leer. En la celda G9, introduzca Ingresos por galletas. En la celda G10, introduzca Ingresos por magdalenas. En la celda G11, introduzca Ingresos por magdalenas. En la celda G12, introduzca Ingresos por pasteles.
+   9. Para calcular los ingresos totales de las galletas, multiplique el número total de galletas vendidas por el precio de cada galleta.
+   10. Seleccione la celda H9, introduzca =H3*1, y pulse Intro.
+   11. Por último, calcule los ingresos del resto de los productos (magdalenas, muffins y tartas) vendidos siguiendo los mismos pasos.
+
+- Reflexión
+   - En esta actividad, ha utilizado fórmulas para calcular el número total de productos vendidos de cada tipo y los ingresos totales de cada uno. En el espacio que se proporciona a continuación, escriba de 2 a 3 frases (de 40 a 60 palabras) para responder a cada una de las siguientes preguntas:
+   - ¿Qué producto vendió más la panadería? ¿Recomendaría algún cambio en la estrategia de ventas de la panadería basándose en esta información?
+   - ¿Qué producto generó más Ingresos para la panadería? Basándose en esta conclusión, ¿qué medidas recomendaría que tomara la panadería para mejorar su rentabilidad?
+   - Considere cómo ha utilizado las fórmulas en esta actividad. ¿De qué manera mejorarán las fórmulas su eficacia como Analista de datos? ¿Cuáles son las ventajas de las fórmulas para el Análisis de datos?
+> El producto que más vendió en la panadería fueron los Cupcakes con 291 unidades. Basado en los datos aprovecharía de hacer ofertas relacionadas, como un cupcake más un té, café o incluso 2 cupcake a un precio un pooc menor. El producto con mayor ingreso son los Cupcakes, ya que vendieron bastante más que otros productos aunque a un precio menor. Para mejorar la rentabilidad verificaría si se puede ahorrar un porcentaje en el proceso de producción de Cupcakes para obtener mayor ganancia o ver un margen de aumento de precio verificando mensualmente como afecta a la ventas. Las formulas ayudan a agilizar el proceso de obtención de información, por ejemplo, no fue necesario usar la calculadora para calcular el revenue para cada producto, realizamos la formula una sola vez y luego aplicamos la misma al resto.
+
+- Comentarios
+Gran trabajo analizando los datos y haciendo recomendaciones que la panadería puede aprovechar para mejorar sus operaciones. A medida que siga desarrollando sus habilidades como analista de datos, esta experiencia le resultará inestimable. Demuestra su destreza en el uso de fórmulas para extraer estadísticas de los datos y tomar decisiones con conocimiento de causa. Se trata de una habilidad altamente transferible a escenarios del mundo real en su futura carrera. Siga perfeccionando sus habilidades analíticas, ya que serán un recurso clave en su trayectoria profesional.
+
+- [Archivo resuelto](./resources/modulo-03/Bakery-Sales-March-2020-resuelto.xlsx)
