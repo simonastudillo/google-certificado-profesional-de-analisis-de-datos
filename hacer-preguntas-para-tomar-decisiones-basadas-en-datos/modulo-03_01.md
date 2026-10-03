@@ -292,3 +292,66 @@ Las hojas de cálculo son una herramienta importante en la caja de herramientas 
    - Seleccione la celda situada en la esquina superior izquierda de la imagen, encima de 1 y a la izquierda de A.
    - Seleccione el icono Bordes del menú.
    - Seleccione Todos los bordes.
+
+---
+
+## Tareas básicas de hoja de cálculo
+- ​Ya hemos hablado de cómo las hojas de cálculo son excelentes ​para organizar los datos y realizar cálculos.
+- ​Ahora es el momento de ​ensuciarnos las manos y empezar a crear una hoja de cálculo real.
+- ​En este vídeo, voy a demostrar algunas tareas básicas para las ​que sabemos que los analistas de datos utilizan las hojas de cálculo ​, incluida la introducción y la organización de datos.
+- ​Empezaremos con un proceso paso a paso para ​mostrarte algunas herramientas para organizar los datos en una hoja de cálculo.
+- ​Considera estos pasos como básicos.
+- ​No siempre tendrá que ​usarlos cuando trabaje con un conjunto de datos, ​pero si los datos están un poco desordenados cuando los obtiene, ​estos pasos pueden ayudarlo a prepararlos para el análisis.
+- ​Empecemos por abrir una nueva hoja de cálculo.
+
+- ​Como analista de datos, ​es posible que no comiences con una hoja de cálculo en blanco, ​pero es bueno saber cómo hacerlo, por si acaso.
+- ​Empieza por abrir Excel, ​Google Sheets o cualquier ​software de hojas de cálculo que estés utilizando y, a ​continuación, selecciona un nuevo archivo en blanco.
+- ​Lo primero que querrás hacer cuando abras ​una hoja de cálculo nueva es ponerle un título.
+- He aquí un consejo profesional.
+- ​Haz que el título sea breve y claro ​y que indique exactamente de qué ​se tratan los datos de la hoja de cálculo.
+- ​Confía en mí, hará que buscarlo sea mucho más fácil.
+- ​Crear una carpeta en la computadora específicamente para ​hojas de cálculo y archivos relacionados ​también puede facilitar su búsqueda.
+
+- ​Para esta hoja de cálculo, ya está guardada en nuestro disco.
+- ​Así que abriremos nuestro menú Archivo para hacer clic en Mover.
+- ​Luego crearemos una nueva carpeta, la ​llamaremos «Datos de Población» ​y moveremos la hoja de cálculo allí.
+- ​Nuestra hoja de cálculo ahora tiene un nuevo hogar.
+- ​Esto le ahorrará muchos ​clics innecesarios y dolores de cabeza ​cuando busque este archivo.
+- ​Hay diferentes maneras en las que los analistas de datos ​obtienen los datos con los que trabajan.
+- ​Según el trabajo, ​es posible que utilices datos de código abierto, ​que te den datos con los que trabajar ​o que te pidan que busques tus propios datos.
+
+- ​Experimentará todo esto más adelante en el programa.
+- ​Hay muchas fuentes de datos abiertos en línea, ​donde los datos están disponibles para el público.
+- ​Por ejemplo, utilizaremos datos de worldbank.
+- rg, ​que ya están en la hoja de cálculo.
+- ​Los datos muestran la población de los ​países de América Latina y el Caribe entre 2010 y 2019.
+- ​Vamos a abrir esta hoja de cálculo.
+- ​Es hora de preparar los datos para el análisis.
+- ​Empezaremos seleccionando toda la hoja y ​ensanchando nuestras columnas ​arrastrando el límite de una de las columnas.
+
+- ​Esto nos ayudará a ver los datos con claridad y, a ​continuación, podremos ajustar ​cualquier columna individual que lo necesite.
+- ​También puedes hacer que las columnas sean más anchas de otras maneras, ​pero esto funcionará por ahora.
+- ​La primera fila de la hoja de cálculo es para ​los atributos o variables de datos.
+- ​Básicamente se trata de etiquetar el tipo de datos de cada columna.
+- ​Hagamos que los atributos destaquen del resto de ​las filas seleccionándolos y rellenándolos de color.
+- ​También pondremos las etiquetas en negrita.
+- ​Si queremos añadir otro atributo de datos ​entre dos de los otros atributos, ​siempre podemos añadir una nueva columna.
+
+- ​Simplemente haga clic en cualquier celda de ​una columna y use el menú Insertar para agregar una nueva.
+- ​Aparecerá junto a la columna en la que ​hiciste clic originalmente, es bastante simple.
+- ​Eliminar una columna es igual de sencillo.
+- ​Para eliminar, haga clic con el botón derecho ​en una celda de la columna de la que desee deshacerse.
+- ​Los pasos que mostramos pueden variar ​según el programa de hojas de cálculo que utilices, ​pero deberían ser bastante similares.
+- ​Añadamos una cosa más a nuestra tabla de datos: los bordes.
+- ​Esto puede ayudarle a ver cada dato con mayor claridad.
+
+- ​Para añadir bordes, empieza por hacer clic en el ​botón Seleccionar todo en la esquina superior izquierda de la hoja de cálculo.
+- ​Es como un botón mágico porque puedes hacer clic en él ​siempre que necesites ​hacer cambios en cada celda de la hoja de cálculo.
+- ​A continuación, haga clic en ​el botón Borde del menú y elija el tipo de bordes que desee.
+- ​Para mantener nuestras hojas de cálculo uniformes, ​elegiremos bordes para todas las celdas.
+- ​Así de simple, hemos pasado de lo crudo a lo refinado.
+- ​Ahora nuestra hoja de cálculo está llena de ​datos y también es agradable verla.
+- ​El uso de estas herramientas de organización antes de analizar puede ​ayudarle a centrarse en los datos una vez que comience el análisis.
+- ​Ahora que hemos repasado algunas formas en las que ​se pueden usar las hojas de cálculo para organizar los datos, ​estás listo para empezar a trabajar en ellas tú mismo.
+- ​Más adelante, obtendrás más información sobre las hojas de cálculo, ​incluidos algunos errores comunes y cómo solucionarlos.
+- [Archivo de trabajo](./resources/modulo-03/Tareas%20básicas%20de%20hoja%20de%20cálculo.xlsx)
