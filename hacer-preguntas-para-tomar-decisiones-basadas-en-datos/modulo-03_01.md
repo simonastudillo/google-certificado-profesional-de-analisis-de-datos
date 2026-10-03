@@ -60,3 +60,35 @@
 - ​Hablaremos de ellas en un momento, pero las fórmulas y funciones son geniales para ​hacer cálculos rápidos, especialmente cuando te quedas sin los dedos de las manos y los pies con los que contar.
 - ​Ya ha visto algunas de las formas en que los analistas de datos utilizan las hojas de cálculo en su ​trabajo diario para muchas tareas diferentes, ​incluida la organización de sus datos y la realización de cálculos.
 - Antes de que te des cuenta, ​tendrás que trabajar en tus propias hojas de cálculo.
+
+---
+
+## Hojas de cálculo y Ciclo de vida de los datos
+- Para comprender mejor las ventajas de utilizar hojas de cálculo en el análisis de datos, exploremos cómo se relacionan con cada fase del ciclo de vida de los datos: planificar, capturar, gestionar, analizar, archivar y destruir.
+
+1. Planificar:
+   - Planifique para los usuarios que trabajarán en una hoja de cálculo mediante el desarrollo de estándares organizativos.
+   - Esto puede significar dar formato a sus celdas, los encabezados que elija para resaltar, el esquema de colores y la forma en que ordena sus puntos de datos.
+   - Si dedica tiempo a establecer estos Estándares, mejorará la comunicación, garantizará la coherencia y ayudará a las personas a ser más eficientes con su tiempo.
+2. Capturar
+   - Capture los datos según la fuente conectando las hojas de cálculo a otras fuentes de datos, como una aplicación de encuestas en línea o una base de datos.
+   - Estos Datos se actualizarán automáticamente en la hoja de cálculo.
+   - De este modo, la Información es siempre lo más actual y precisa posible.
+3. Gestionar
+   - Gestione distintos tipos de datos con una hoja de cálculo.
+   - Esto puede implicar almacenar, organizar, filtrar y actualizar la información.
+   - Las hojas de cálculo también le permiten decidir quién puede acceder a los datos, cómo se comparte la información y cómo mantener sus datos seguros y protegidos.
+4. Analizar
+   - Analice los Datos en una hoja de cálculo para tomar mejores decisiones.
+   - Algunas de las herramientas de análisis más comunes de las hojas de cálculo son las fórmulas para agregar datos o crear informes, y las tablas dinámicas para obtener gráficos claros y fáciles de entender.
+5. Archivar
+   - Archive cualquier hoja de cálculo que no utilice a menudo, pero que pueda necesitar consultar más adelante con las herramientas integradas.
+   - Esto resulta especialmente útil si desea almacenar datos históricos antes de que se actualicen.
+6. Destruir
+   - Destruya su hoja de cálculo cuando esté seguro de que no volverá a necesitarla, si dispone de mejores copias de seguridad o por motivos legales o de Seguridad.
+   - Tenga en cuenta que muchas empresas están obligadas a seguir ciertas normas o disponen de medidas para asegurarse de que los Datos se destruyen correctamente.
+
+- Recursos para obtener más Información
+   - Los accesos directos de las hojas de cálculo pueden ayudarle a ser más eficiente con ellas.
+   - Si desea obtener más información, puede explorar la colección de [Accesos directos de Google Sheets](https://support.google.com/docs/answer/181110) o visitar la página de [Accesos directos de Microsoft Excel](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f) si utiliza Excel.
+   - Ambos Recursos contienen una Lista de accesos directos de hojas de cálculo que puede guardar y consultar a medida que trabaje más con hojas de cálculo por su cuenta.
