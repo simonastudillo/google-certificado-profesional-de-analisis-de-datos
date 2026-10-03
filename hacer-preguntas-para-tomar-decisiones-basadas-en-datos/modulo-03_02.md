@@ -349,3 +349,74 @@ Gran trabajo analizando los datos y haciendo recomendaciones que la panadería p
 - ​Cuando vuelva a verlos, ​sabrá lo que significan.
 - ​La solución de problemas es una parte importante del análisis de datos, ​por lo que ser capaz de encontrar soluciones ​es una habilidad clave para los analistas de datos.
 - [archivo del video](./resources/modulo-03/Spreadsheet-Errors-and-Fixes-Demo-Sheets.xlsx)
+
+---
+
+## Más información sobre errores y correcciones en hojas de cálculo
+- El archivo .pdf adjunto incluye temas y contenidos tanto del vídeo complementario como de esta lectura.
+- [DAC2 Spreadsheet Errors and Fixed.pdf](./resources/modulo-03/DAC2%20Spreadsheet%20Errors%20and%20Fixes.pdf)
+- Cuando se es nuevo en el análisis de datos -y a veces incluso cuando no se es- las luchas con las hojas de cálculo son reales.
+- Nunca sienta bien introducir lo que está seguro que es una fórmula o función perfecta, sólo para recibir un mensaje de error.
+- Comprender los errores y cómo solucionarlos es una parte importante para mantener sus datos limpios, por lo que es importante saber cómo tratar los problemas a medida que surgen y, lo que es más importante, no desanimarse. 
+- Incluso los usuarios más avanzados de hojas de cálculo se encuentran con problemas de vez en cuando.
+
+- Como continuación de lo que aprendió en el vídeo anterior, aquí tiene algunas buenas prácticas y consejos útiles.
+- Estas estrategias le ayudarán a evitar errores en la hoja de cálculo para empezar, haciendo que su vida en el análisis sea mucho menos estresante:
+   1. Filtre los datos para que su hoja de cálculo sea menos compleja y ajetreada.
+   2. Utilice y congele los encabezados para saber qué hay en cada columna, incluso al desplazarse.
+   3. Cuando multiplique números, utilice un asterisco (*) y no X.
+   4. Comience cada fórmula y función con un signo igual (=).
+   5. Siempre que utilice un paréntesis abierto, asegúrese de que hay un paréntesis cerrado en el otro extremo para que coincida.
+   6. Cambie la fuente por otra fácil de leer.
+   7. Establezca los colores de los bordes en blanco para que esté trabajando en una hoja en blanco.
+   8. Cree una pestaña con sólo los datos en bruto y otra pestaña con sólo los datos que necesite.
+- Ahora que ha aprendido algunas formas básicas de evitar errores, puede centrarse en qué hacer cuando aparezca esa temida ventana emergente.
+- La siguiente tabla es una referencia que puede utilizar para buscar errores comunes en las hojas de cálculo y ejemplos de cada uno.
+- Saber lo que significan los errores le quitará parte del miedo a cometerlos. 
+
+| Error | Descripción | Ejemplo |
+| ----- | ----------- | ------- |
+| #¡DIV/0! | Una fórmula está intentando dividir un valor en una celda por 0 (o una celda vacía sin valor) | =B2/B3cuando la celda B3 contiene el valor 0  |
+| #¡ERROR! | (Sólo Hojas de cálculo de Google) No se puede interpretar  algotal y como se ha introducido. Esto también se conoce como error de análisis sintáctico.  |  =COUNT(B1:D1 C1:C10) no es válido porque los rangos de celdas no están separados por una coma |
+| #N/A | Una fórmula no puede encontrar los datos  | La Célula a la que se hace referencia no puede ser encontrada  |
+| #¿NOMBRE? | No se reconoce el nombre de una fórmula o función utilizada | El nombre de una función está mal escrito  |
+| #¡NÚMERO! | La hoja de cálculo no puede realizar un cálculo de fórmula porque una celda tiene un valor numérico no válido | =DATEDIF(A4, B4, "M") no puede calcular el número de meses entre dos fechas porque la fecha de la celda A4 es posterior a la fecha de la celda B4 |
+| #¡REF! | Una fórmula hace referencia a una Célula que no es válida | Una Célula utilizada en una Fórmula estaba en una columna que fue borrada |
+| #¡VALOR! | Un error general que indica un problema con una fórmula o con celdas referenciadas | Podría haber problemas con los espacios o el texto, o con las celdas referenciadas en una fórmula; es posible que tenga que realizar un trabajo adicional para encontrar el origen del problema. |
+
+- Si trabaja con Microsoft Excel, una página interactiva, [Cómo corregir un error #VALUE!](https://support.microsoft.com/en-us/office/how-to-correct-a-value-error-15e1b616-fbf2-4147-9c0b-0a11a20e409e), puede ayudarle a reducir la causa de este error.
+- Puede seleccionar una función concreta de una lista desplegable para que aparezca un enlace con consejos para corregir el error al utilizar esa función.
+
+- Consejo profesional: Detección de errores en hojas de cálculo con formato condicional
+   - El Formato condicional puede utilizarse para resaltar las celdas de un color diferente en función de su contenido.
+   - Esta característica puede ser extremadamente útil cuando desee localizar todos los errores en una hoja de cálculo de gran tamaño.
+   - Por ejemplo, utilizando el formato condicional, puede resaltar en amarillo todas las celdas que contengan un error y, a continuación, trabajar para corregirlos.
+
+- Formato condicional en Microsoft Excel
+   - Para configurar el formato condicional en Microsoft Excel para resaltar todas las celdas de una hoja de cálculo que contengan errores, haga lo siguiente:
+      1. Clic en el triángulo gris situado encima de la fila número 1 y a la izquierda de la columna A para seleccionar todas las celdas de la hoja de cálculo.
+      2. En el menú principal, haga clic en Inicio y, a continuación, en Formato condicional para seleccionar Resaltar reglas de celda > Más reglas.
+      3. Para Seleccionar un tipo de regla, elija Utilizar una fórmula para determinar qué celdas formatear.
+      4. Para Formatear valores donde esta fórmula es verdadera, introduzca =ISERROR(A1).
+      5. Clic en el botón Formato, seleccione la pestaña Relleno, elija amarillo (o cualquier otro color) y, a continuación, clic en Aceptar. 
+      6. Haga clic en Aceptar para cerrar la ventana de reglas de formato.
+   - Para eliminar el formato condicional, haga clic en Inicio y seleccione Formato condicional y, a continuación, haga clic en Gestionar reglas.
+   - Localice la regla de formato en la Lista, haga clic en Eliminar regla y, a continuación, en Aceptar.
+
+- Formato condicional en Hojas de cálculo de Google
+   - Para configurar el formato condicional en Hojas de cálculo de Google para resaltar todas las celdas de una hoja de cálculo que contengan errores, haga lo siguiente:
+      1. Clic en el rectángulo vacío situado encima de la fila número 1 y a la izquierda de la columna A para seleccionar todas las celdas de la hoja de cálculo. En el vídeo [Paso a paso](https://www.coursera.org/learn/ask-questions-make-decisions/lecture/lpuHf/step-by-step-in-spreadsheets) en hojas de cálculo, esto se denominaba botón Seleccionar todo.
+      2. En el menú principal, haga clic en Formato y seleccione Formato condicional para abrir el panel de reglas de Formato condicional a la derecha.
+      3. En la pestaña Color único, en Reglas de formato, utilice el menú desplegable para seleccionar Fórmula personalizada es, introduzca =ISERROR(A1), seleccione amarillo (o cualquier otro color) para el estilo de formato y, a continuación, haga clic en Listo.
+   - Para eliminar el formato condicional, haga clic en Formato y seleccione Formato condicional y, a continuación, haga clic en el icono Papelera de la regla de formato.
+
+- Recursos sobre errores en hojas de cálculo
+   - Para obtener más información y leer ejemplos adicionales de errores y soluciones, explore estos Recursos:
+      - [Fórmulas y Funciones de Microsoft](https://support.microsoft.com/en-us/office/formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9?ui=en-US&rs=en-US&ad=US#id0eaabaaa=errors):
+         - Este recurso describe cómo evitar las fórmulas rotas y cómo corregir errores en Microsoft Excel.
+         - Es una referencia útil para tener guardada en caso de que se encuentre con un error específico y necesite encontrar soluciones rápidamente mientras trabaja en Excel.
+      - [Cuando su fórmula no funciona: Errores de análisis de fórmulas en Hojas de cálculo de Google](https://www.benlcollins.com/spreadsheets/formula-parse-error/):
+         - Este recurso es una guía para encontrar y solucionar algunos errores comunes en las Hojas de cálculo de Google.
+         - Si trabaja con Hojas de cálculo de Google, puede utilizarlo como referencia rápida para resolver los problemas que pueda encontrar trabajando por su cuenta. 
+   - Con un poco de práctica y determinación investigadora, se sentirá mucho más cómodo manejando los errores en las hojas de cálculo.
+   - Cada error que detecte y corrija hará que sus Datos sean más claros, limpios y útiles.
