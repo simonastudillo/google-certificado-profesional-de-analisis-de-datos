@@ -512,3 +512,35 @@ Gran trabajo analizando los datos y haciendo recomendaciones que la panadería p
 Abordar de forma proactiva los errores de las hojas de cálculo le dota de unas habilidades de análisis de datos de un valor incalculable. Tras algo de práctica y tiempo, estas habilidades se convertirán en algo natural, permitiéndole mejorar aún más la precisión de los Datos. A medida que avance, recuerde aplicar estos conocimientos a sus futuros proyectos, garantizando un análisis de datos preciso y fiable.
 
 - [Archivo completado](./resources/modulo-03/Resolve-spreadsheet-errors-resuelto.xlsx)
+
+---
+
+## Ponga a prueba sus conocimientos sobre el uso de fórmulas en hojas de cálculo
+
+1. ¿Cuál es el Operador de una fórmula que utiliza la división?
+   - [ ] Asterisk (*)
+   - [ ] Barra oblicua (\\)
+   - [ ] Dos puntos (\:)
+   - [x] Barra oblicua (/)
+> Una barra oblicua (/) es el operador de una fórmula que utiliza la división.
+
+2. Rellene el espacio en blanco: Una Célula _____ está compuesta por la letra de la columna de la célula y el número de su fila.
+   - [ ] vALUE
+   - [ ] rango
+   - [ ] fórmula
+   - [x] referencia
+> Una Referencia de celda está compuesta por la letra de la columna de la celda y el número de su fila.
+
+3. ¿Qué mensaje de error aparecerá cuando una fórmula no pueda interpretarse tal como está escrita? 
+   - [ ] LOOKUP
+   - [ ] DIV
+   - [ ] N/A
+   - [x] ERROR
+> El mensaje de error ERROR (también llamado error de análisis sintáctico) aparecerá cuando una fórmula no pueda interpretarse tal como está escrita.
+
+4. ¿Qué debe hacerse para resolver un error NAME?
+   - [ ] Asegúrese de que no se han borrado las Referencias de celda.
+   - [ ] Inserte una coma entre los rangos de las Células.
+   - [x] Asegúrese de que el nombre de la Fórmula es correcto.
+   - [ ] No divida un valor por cero o por una Célula vacía.
+> Para resolver un error de NAME, asegúrese de que el nombre de la fórmula es correcto.
