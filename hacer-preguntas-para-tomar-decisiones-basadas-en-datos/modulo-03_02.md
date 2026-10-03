@@ -420,3 +420,95 @@ Gran trabajo analizando los datos y haciendo recomendaciones que la panadería p
          - Si trabaja con Hojas de cálculo de Google, puede utilizarlo como referencia rápida para resolver los problemas que pueda encontrar trabajando por su cuenta. 
    - Con un poco de práctica y determinación investigadora, se sentirá mucho más cómodo manejando los errores en las hojas de cálculo.
    - Cada error que detecte y corrija hará que sus Datos sean más claros, limpios y útiles.
+
+---
+
+## Actividad práctica: Resolver errores de hojas de cálculo
+- Resumen de la actividad
+   - En esta actividad, aprenderá a identificar y corregir errores comunes de las hojas de cálculo.
+   - Trabajará con un conjunto de datos prepoblado que contiene errores y, a continuación, aplicará métodos para corregirlos.
+   - Como profesional de los datos, la identificación y depuración de errores es crucial para un análisis de datos preciso.
+
+- Instrucciones paso a paso
+   - Siga las instrucciones para completar cada paso de la actividad.
+   - A continuación, responda a la pregunta al final de la actividad antes de pasar al siguiente punto del curso.
+
+1. Acceder a la hoja de cálculo
+- Para empezar, determine qué software desea utilizar para crear su gráfico, como Google Sheets o Microsoft Excel.
+- Guarde la hoja de cálculo con la convención de nomenclatura de archivos que prefiera y guárdela en una carpeta que le ayude a mantenerse organizado.
+- [Plantilla Excel](./resources/modulo-03/Resolve-spreadsheet-errors.xlsx)
+
+2. Explorar la hoja de cálculo
+- Abra la hoja de cálculo Resolver errores de hoja de cálculo.
+- Dedique unos minutos a explorar las dos primeras hojas, Descripciones y Ejemplos, para conocer mejor los errores más comunes y explorar algunos ejemplos.
+- Al final de la actividad, no dude en explorar la hoja Soluciones para revisar una explicación de los errores y sus soluciones directamente en la hoja. 
+
+3. Identificar y resolver los errores comunes
+- Tipos de error y ejemplos
+- En la hoja de cálculo Resolver errores de la hoja de cálculo, seleccione la hoja Solucionar los ejemplos aquí. 
+
+- Error de VALOR: El error VALOR indica un problema con la fórmula o las celdas a las que hace referencia, a menudo debido a tipos de datos incompatibles. Resuélvalo ahora siguiendo estos pasos:
+   - Localice la celda de referencia que contiene el mensaje de error #¡VALOR! 
+   - Seleccione la celda con el error VALOR. 
+   - Compruebe la fórmula en la celda G3 e identifique dónde se están utilizando tipos de datos incompatibles. La barra de fórmulas muestra la expresión =B3*C3. Cuando compruebe las celdas B3 y B4, observará que la celda B3 contiene la palabra texto en lugar de un valor. 
+   - Tendrá que ajustar la fórmula o asegurarse de que las celdas referenciadas contienen datos compatibles. En este caso, introduzca un valor en la celda B3. En la celda B3, introduzca 50 y pulse Intro.
+   - La celda G3 muestra ahora el número 15 en lugar del error VALOR, lo que permite que la fórmula se ejecute correctamente. 
+
+- ERROR (parsing error): El error de análisis sintáctico se produce cuando una hoja de cálculo no puede interpretar la fórmula tal como se introduce, a menudo debido a problemas de sintaxis. Soluciónelo ahora:
+   - Localice la celda de referencia que contiene el mensaje de error #¡ERROR! 
+   - Seleccione la celda con el error ERROR.
+   - Seleccione la celda G4 y compruebe si hay errores de sintaxis en la fórmula. Los errores más comunes son la falta de operadores o de comas. 
+   - La expresión en la barra de fórmulas muestra que a la función SUM que se está realizando le falta una coma.
+   - En la barra de fórmulas, borre el espacio entre B2 y B3 e introduzca una coma (,), después pulse Intro.
+   - La celda G4 muestra ahora el valor 150 en lugar del mensaje de error, con lo que se soluciona el problema.
+
+- Error DIV: El error DIV se produce cuando intenta dividir un número por cero o por una celda vacía. Solucione este problema con estos pasos:
+   - Localice la celda de referencia que contiene el mensaje de error #¡DIV/0! 
+   - Seleccione la celda con el error DIV. 
+   - Compruebe la fórmula en la celda G5 para identificar dónde se está produciendo la división por cero. 
+   - La expresión en la barra de fórmulas muestra que C5 está siendo dividida por la celda B5, lo que significa que B5 contiene el valor 0.
+   - Modifique la fórmula para evitar la división por cero. Seleccione la celda B5 e introduzca 10, después pulse Intro.
+   - La celda G4 muestra ahora el valor 0,08 en lugar del error de análisis. ¡Otro error solucionado!
+
+- Error de NOMBRE: El error NOMBRE se produce cuando no se reconoce el nombre de la fórmula, normalmente debido a una errata o a un nombre incorrecto de la función.
+   - Localice la celda de referencia que contiene el mensaje de error #¿NOMBRE? 
+   - Seleccione la celda con el error NOMBRE.
+   - Seleccione la celda G6 e inspeccione la fórmula en busca de errores tipográficos o nombres de función incorrectos. 
+   - Borre la M que sobra en  SUMM y pulse Intro para corregir el error tipográfico en la barra de fórmulas. Esta es una barra de herramientas que muestra la información contenida en una celda.
+   - La celda G6 muestra ahora el valor 30,6 en lugar del error NOMBRE, solucionando así el error habitual de las hojas de cálculo. 
+
+- Error N/A: El error N/A aparece cuando los datos referenciados en su fórmula no pueden ser encontrados por la hoja de cálculo, a menudo en funciones de búsqueda como VLOOKUP.
+   - Localice la celda de referencia que contiene el mensaje de error #N/A.
+   - Seleccione la celda con el error N/A.
+   - Seleccione la celda G7 y compruebe la fórmula en esa celda. Asegúrese de que los datos que se están buscando existen en el Rango especificado. La barra de fórmulas muestra que se está buscando "Manzanas" en el conjunto de datos, pero "Manzanas" no existe en la columna A. En la barra de fórmulas, borre la s para que coincida con el título Manzana que aparece en la celda A2. Pulse Intro.
+   - La celda G7 muestra ahora el valor 100 en lugar del error N/A. ¡Buen trabajo!
+
+- Error NUM: El error NUM indica que el cálculo de la fórmula no puede realizarse según lo especificado, a menudo porque los datos no tienen sentido para ese cálculo. 
+   - Localice la celda de referencia que contiene el mensaje de error #NUM. 
+   - Seleccione la celda con el error NUM.
+   - Compruebe la fórmula e identifique por qué el cálculo no es factible. 
+   - La hoja de cálculo no puede tomar la raíz cuadrada de un número negativo. (Ver nota.) Así que, en la barra de fórmulas, borre el - (menos) y pulse Intro.
+   - La celda G8 muestra ahora el valor 4 en lugar del error NUM, ¡resolviendo así otro error más!
+   - Nota: En matemáticas, es posible sacar la raíz cuadrada de un número negativo, ya que el resultado no es un número real; se considera imaginario. Eso está fuera del alcance de este curso, pero sepa que las aplicaciones de hojas de cálculo proporcionarán errores NUM cuando se cumplan ciertas condiciones matemáticas.
+
+- Error REF: El error REF se produce cuando las celdas a las que se hace referencia en una fórmula han sido eliminadas, haciendo que la fórmula no pueda realizar el cálculo.
+   - ¡Localice la celda de referencia que contiene el mensaje de error #REF! 
+   - Seleccione la celda con el error REF. 
+   - Seleccione la celda G9 y compruebe la fórmula para averiguar qué celdas de referencia se han borrado o modificado.
+   - En este caso, actualice las celdas de referencia borrando la expresión en la barra de fórmulas y escribiendo =B2+B3, después pulse Intro. 
+   - El valor de la celda G9 muestra ahora 150-¡ya nohay error REF!
+   - ¡Nota: Cuando tenga una celda o columna referenciada, y luego borre la columna, a veces recibirá el error #REF! Asegurarse de que las celdas de sus funciones son correctas es crucial para un analista de datos, ya que las modificaciones en las hojas de cálculo pueden hacer que sus cálculos produzcan errores o se vuelvan incorrectos.
+
+1. Reflexión
+   - En este ejercicio ha resuelto errores comunes de las hojas de cálculo. Ahora, dedique unos minutos a reflexionar sobre esta actividad. 
+   - ¿Cuál fue el error más difícil que encontró y cómo lo resolvió con éxito?
+   - ¿Cómo contribuye la resolución de errores a la Exactitud de los Datos? ¿Por qué es tan importante para el Análisis de datos y la Confiabilidad de los resultados? 
+   - ¿Cómo piensa aplicar las habilidades de identificación y resolución de errores que ha adquirido en esta actividad a sus futuros proyectos de análisis de datos?
+   - En el espacio que se proporciona a continuación, escriba 2-3 frases (40-60 palabras) para responder a cada una de estas preguntas y a su experiencia en la resolución de errores. 
+> Creo que el error de referencia fue el más complejo porque hay que saber que quería sumar, el resto se podía resolver corrigiendo sintaxis o datos erroneos fáciles de corregir. Es importante corregir estos datos para el análisis porqué pueden generar problemas en cadena, entre mayor sea la cantidad de información podría ser más difícil detectar estos errores, por eso la normalización es importante y realizar los pasos de a 1 para asegurarse que la información que estamos calculando es correcta. Pienso aplicar esta habilidad en el uso diario de Excel, verificar la información, verificar las celdas, estar atento al referenciar valores y celdas.
+
+- Comentarios
+¡Gran trabajo profundizando en los retos y matices de la resolución de errores en hojas de cálculo! Una reflexión bien hecha incluiría los errores específicos con los que se ha encontrado y cómo han puesto de relieve la importancia de un análisis de datos preciso.
+Abordar de forma proactiva los errores de las hojas de cálculo le dota de unas habilidades de análisis de datos de un valor incalculable. Tras algo de práctica y tiempo, estas habilidades se convertirán en algo natural, permitiéndole mejorar aún más la precisión de los Datos. A medida que avance, recuerde aplicar estos conocimientos a sus futuros proyectos, garantizando un análisis de datos preciso y fiable.
+
+- [Archivo completado](./resources/modulo-03/Resolve-spreadsheet-errors-resuelto.xlsx)
