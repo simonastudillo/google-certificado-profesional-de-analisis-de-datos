@@ -244,3 +244,51 @@
 Las hojas de cálculo son una herramienta importante en la caja de herramientas de todo Analista de datos. Le ayudan a organizar, limpiar y analizar datos. Las funciones para compartir y comentar de las Hojas de cálculo de Google le permiten comunicarse y colaborar con sus compañeros de equipo, una parte clave de su función como Analista de datos. En las próximas actividades, seguirá explorando las muchas formas en que las hojas de cálculo pueden ayudarle a analizar sus datos.
 
 - [Excel de referencia](./resources/modulo-03/Libro1.xlsx)
+
+---
+
+## Paso a paso: Tareas básicas con hojas de cálculo
+- Esta lectura esboza los pasos que el instructor realiza en el siguiente vídeo, Tareas básicas de la hoja de cálculo.
+- En el vídeo, el instructor explica cómo organizar una hoja de cálculo y demuestra cómo la organización de los datos le ayuda a comprenderlos mejor. 
+- Mantenga abierta esta guía paso a paso mientras ve el vídeo.
+- Puede servirle como referencia útil si necesita contexto o aclaraciones adicionales mientras sigue los pasos del vídeo.
+- No se trata de una actividad calificada, pero puede completar estos pasos para practicar las habilidades demostradas en el vídeo.
+
+- Qué necesitará
+   - Si desea seguir los dos primeros ejemplos de este vídeo, elija una herramienta de hoja de cálculo y abra una hoja en blanco. 
+   - Si desea acceder a la otra hoja de cálculo que el instructor utiliza en este vídeo, haga clic en el enlace al Conjunto de datos para crear una copia.
+   - Si no dispone de una cuenta de Google, puede descargar los datos directamente de los archivos adjuntos a continuación.
+   - [Archivo ejemplo](./resources/modulo-03/Population-Latin-and-Caribbean-Countries-2010-2019.xlsx)
+
+- Ejemplo 1: Abrir una nueva hoja de cálculo
+   - Abra una nueva hoja de cálculo en blanco.
+   - En la barra de título, nómbrela Población, Países de América Latina y el Caribe, 2010-2019.
+- Ejemplo 2: Crear una nueva carpeta
+   - Organizar los archivos en carpetas le ayuda a localizar el archivo correcto más fácilmente.
+   - Seleccione Archivo, luego seleccione Mover.
+   - Seleccione el icono Nueva carpeta.
+   - Nombre la nueva carpeta Datos de Población.
+   - Seleccione el icono de marca de verificación para mover la hoja de cálculo a su nueva carpeta.
+- Ejemplo 3: Cambiar el tamaño de las Células
+   - Cambie el formato de su hoja de cálculo para facilitar su comprensión.  
+   - Abra la hoja de cálculo Población de los países de América Latina y el Caribe y seleccione [Utilizar plantilla](https://docs.google.com/spreadsheets/d/1ZlhSF9X-E-7LgIBXdEEgyw1Czm0dQvjJ/template/preview)
+   - Seleccione la celda donde se cruzan las cabeceras de columna y fila. 
+   - Ensanche todas las columnas haciendo clic y arrastrando el límite entre las columnas D y E.
+- Ejemplo 4: Hacer que destaquen los atributos
+   - Añadir formato a las celdas que contienen etiquetas de atributos ayuda a que éstos destaquen. 
+   - Seleccione la celda 1 para seleccionar toda la primera fila. 
+   - Seleccione el icono del bote de pintura llamado Color de relleno y elija un color. Esto rellenará las celdas de la fila con el color seleccionado, haciendo que los atributos destaquen. 
+   - Seleccione el icono B de la barra de menú para poner en negrita las etiquetas.
+- Ejemplo 5: Añadir una columna
+   - Si necesita añadir un nuevo atributo a su hoja de cálculo, añada una nueva columna. 
+   - Seleccione la Célula I1.
+   - En el menú Insertar , seleccione Columna a la derecha en la barra de menús. Esto inserta una columna a la derecha de la Columna I.
+- Ejemplo 6: Borrar una columna
+   - Organice sus datos borrando un atributo. 
+   - Clic derecho en la Célula J1.
+   - Seleccione Borrar columna. Esto borra la columna y hace que el resto de columnas se desplacen hacia la izquierda. 
+- Ejemplo 7: Añadir un borde
+   - Añadir bordes ayuda a distinguir las celdas entre sí.
+   - Seleccione la celda situada en la esquina superior izquierda de la imagen, encima de 1 y a la izquierda de A.
+   - Seleccione el icono Bordes del menú.
+   - Seleccione Todos los bordes.
