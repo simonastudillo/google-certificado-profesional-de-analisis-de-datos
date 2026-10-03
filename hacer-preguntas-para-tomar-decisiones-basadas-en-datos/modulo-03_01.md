@@ -355,3 +355,50 @@ Las hojas de cálculo son una herramienta importante en la caja de herramientas 
 - ​Ahora que hemos repasado algunas formas en las que ​se pueden usar las hojas de cálculo para organizar los datos, ​estás listo para empezar a trabajar en ellas tú mismo.
 - ​Más adelante, obtendrás más información sobre las hojas de cálculo, ​incluidos algunos errores comunes y cómo solucionarlos.
 - [Archivo de trabajo](./resources/modulo-03/Tareas%20básicas%20de%20hoja%20de%20cálculo.xlsx)
+
+---
+
+## Más información sobre los conceptos básicos de las hojas de cálculo
+- A continuación, encontrará una lista que abarca dos tipos de programas de hojas de cálculo: Microsoft Excel y Google Sheets.
+- La lista incluye guías de inicio rápido, tutoriales y mucho más.
+- Los ejemplos de este curso utilizan Google Sheets, pero puedes seguirlos utilizando Excel o cualquier otra aplicación de hojas de cálculo.
+- La interfaz de usuario puede ser un poco diferente, pero el aspecto y el funcionamiento deberían ser similares.
+
+- Microsoft Excel
+   - [Inicio rápido de Office](https://support.microsoft.com/en-us/office/microsoft-365-for-mac-quick-starts-5bccb480-0e5b-4b51-b072-66d3793ccad8):
+      - Desplázate hacia abajo hasta la sección de Guías descargables para descargar la Guía de inicio rápido de Excel: Esta guía en PDF comienza con un mapa etiquetado de Excel que puede guiarle a través de las tareas básicas que puede realizar en Excel.
+      - Para obtener consejos sobre cómo iniciar y abrir Excel, esta [Página de soporte de Microsoft](https://support.microsoft.com/en-us/office/create-a-new-workbook-ae99f19b-cecb-4aa0-92c8-7126d6212a83?wt.mc_id=otc_excel) le mostrará cómo iniciar un nuevo libro.
+   - [Formación en vídeo sobre Excel](https://support.microsoft.com/en-us/office/excel-for-windows-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?wt.mc_id=otc_home):
+      - Se trata de una colección de vídeos paso a paso para utilizar todo tipo de funciones de Excel, como añadir y trabajar con filas, columnas y celdas; aplicar formato; utilizar fórmulas y funciones; y añadir gráficos y tablas dinámicas.
+   - [Ordenar datos en un rango o tabla](https://support.microsoft.com/en-us/office/sort-data-in-a-range-or-table-62d0b95d-2a90-4610-a6ae-2e545c4a4654):
+      - Esta página te guía a través de todos los pasos necesarios para ordenar datos por número, texto y color.
+      - También tendrás la opción de ordenar por lista personalizada para que puedas personalizar exactamente lo que quieres ordenar.
+   - [Filtrar datos en un rango o tabla](https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e):
+      - Este artículo contiene instrucciones paso a paso sobre cómo filtrar una hoja de cálculo de Excel para mostrar sólo los datos que desea ver.
+      - También puedes utilizar operadores de comparación incorporados, como "mayor que" y "los 10 primeros", para mostrar sólo los datos más relevantes.
+   - [Dar formato a una hoja de cálculo](https://support.microsoft.com/en-us/office/quick-start-format-a-worksheet-d70f75a2-23e6-4c92-83d6-2f219e4ad42e):
+      - La guía te ayudará a seleccionar y dar formato a tu hoja de cálculo de Excel y, a continuación, a cambiar los bordes, el sombreado, los colores y el texto.
+      - Esto puede ayudar a mejorar la legibilidad de tu hoja de cálculo.
+- Consejo de experto: Si buscas información sobre el uso de opciones personalizables, consulta la guía de [Microsoft Directrices para organizar y dar formato a los datos en una hoja de cálculo](https://support.microsoft.com/en-us/office/guidelines-for-organizing-and-formatting-data-on-a-worksheet-90895cad-6c85-4e02-90d3-8798660166e3).
+- Este artículo proporciona métodos claros para crear hojas de cálculo fáciles de leer.
+
+- Hojas de cálculo de Google
+   - [Hoja de cálculo de Google](https://support.google.com/a/users/answer/9300022):
+      - La hoja de referencia incluye todos los aspectos básicos de las hojas de cálculo en una sola página para facilitar su consulta.
+      - En ella encontrarás información sobre cómo personalizar la hoja de cálculo y los datos que contiene, cómo trabajar con filas, columnas y celdas, cómo compartir la hoja de cálculo con otras personas, cómo crear diferentes versiones y copias de una hoja de cálculo, etc.
+   - [Primeros pasos con Hojas de cálculo: Crear e importar archivos](https://support.google.com/a/users/answer/9300311?hl=en&ref_topic=9296423):
+      - Esta guía es una guía paso a paso para trabajar con Sheets.
+      - Empieza por aprender a abrir una hoja de cálculo y, a continuación, pasa a añadir datos.
+   - [Ordena y filtra tus datos](https://support.google.com/docs/answer/3540681?co=GENIE.Platform%3DDesktop&hl=en):
+      - Este recurso puede ayudarte a organizar los datos en Sheets.
+      - Utiliza esta guía para ordenar parte o la totalidad de una hoja de cálculo.
+      - Puedes ordenar por texto, número y color.
+      - A continuación, aprende a crear filtros para mostrar sólo determinados datos y ocultar el resto.
+      - Por último, el artículo incluye información sobre cómo crear, guardar y eliminar una vista de filtro.
+   - [Editar y dar formato a una hoja de cálculo](https://support.google.com/docs/answer/46973?co=GENIE.Platform%3DDesktop&hl=en&oco=0):
+      - Esto te ayudará a crear hojas de cálculo fáciles de leer.
+      - Aprenderás a asignar un color, personalizar los bordes alrededor de las celdas y cambiar el aspecto del texto.
+      - Si quieres darle un tema a tu hoja de cálculo, puedes desplazarte hasta el final de la página y descubrir cómo aplicarlo a partes de la hoja de cálculo.
+- Consejo: Microsoft Excel y Google Sheets son muy similares en cuanto a cálculos, fórmulas, funciones y muchas otras características.
+- Sin embargo, existen algunas diferencias que pueden dificultar el cambio de una a otra.
+- Si vas a pasar de Excel a Google Sheets, encontrarás una lista rápida de las diferencias entre los dos tipos de aplicaciones de hojas de cálculo en [Visión general: Diferencias entre Sheets y Excel](https://support.google.com/a/users/answer/9331278?hl=en).
