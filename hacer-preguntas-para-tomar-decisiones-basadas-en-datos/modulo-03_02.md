@@ -267,3 +267,85 @@
 Gran trabajo analizando los datos y haciendo recomendaciones que la panadería puede aprovechar para mejorar sus operaciones. A medida que siga desarrollando sus habilidades como analista de datos, esta experiencia le resultará inestimable. Demuestra su destreza en el uso de fórmulas para extraer estadísticas de los datos y tomar decisiones con conocimiento de causa. Se trata de una habilidad altamente transferible a escenarios del mundo real en su futura carrera. Siga perfeccionando sus habilidades analíticas, ya que serán un recurso clave en su trayectoria profesional.
 
 - [Archivo resuelto](./resources/modulo-03/Bakery-Sales-March-2020-resuelto.xlsx)
+
+---
+
+## Hoja de cálculo errores y correcciones
+- ​Hola y bienvenidos de nuevo.
+- ​Recientemente hemos estado aprendiendo sobre fórmulas.
+- ​A veces los Analistas de datos nos encontramos ​con un problema con nuestras fórmulas y obtenemos un error.
+- ​Todos hemos pasado por eso y puede ser frustrante.
+- ​Pero hay soluciones, ​eso es lo que vamos a explorar en este vídeo.
+- ​Un error que puede encontrarse es el error DIV.
+- ​El error DIV se produce cuando una fórmula está intentando dividir ​un valor de una celda por cero o por una celda vacía.
+
+- ​En esta hoja de cálculo, ​los valores de porcentaje Completo en ​la columna C se calculan ​dividiendo los valores de ​la columna Tareas Completadas entre ​los valores de la columna Tareas Requeridas.
+- ​Note que la columna C ya está ​formateada como porcentaje.
+- ​El error DIV está en la celda C4 porque estamos ​dividiendo por cero el valor de la celda A4.
+- ​Para evitar este problema, ​podemos hacer que esta hoja de cálculo ​introduzca automáticamente no aplicable ​siempre que una celda de la columna A ​contenga un cero que provocaría el error.
+- ​Para ello, utilizaremos la función IFERROR.
+- ​Si encuentra un error DIV ​causado por una celda que contenga el cero, ​se insertará la frase "No aplicable".
+- ​También podemos copiar la fórmula al resto de celdas de la ​columna C para que compruebe ​cualquier otra celda que contenga un cero.
+
+- ​Ahora pasemos al ERROR.
+- ​En Google Sheets, ​ERROR nos indica que la fórmula no puede ​interpretarse tal y como se introduce.
+- ​También se conoce como error de análisis sintáctico.
+- ​Digamos que queremos contar el número de ​total de tareas en las columnas B y C, ​utilizamos la función SUM, ​pero la fórmula igual suma B2 a B6, ​C2 a C6 provoca un error.
+- ​Examinándolo más detenidamente, ​vemos que falta una coma entre ​los rangos de celdas B2 a B6 y C2 a C6.
+- ​Podemos solucionarlo insertando una coma entre los rangos de celdas ​para indicar el final de cada elemento de datos.
+- ​Esto se denomina un delimitador, ​del que aprenderá más próximamente.
+
+- ​Ahora, la fórmula puede ​calcular correctamente el número total de tareas como 25.
+- ​Otro tipo de error es N/A.
+- ​El error N/A le indica que los datos ​de su fórmula no pueden ser encontrados por la hoja de cálculo.
+- ​Generalmente, esto significa que los datos no existen.
+- ​Este error suele producirse ​cuando se utilizan funciones como VLOOKUP, ​que busca un determinado valor en una columna ​para devolver un dato correspondiente.
+- ​Aquí, vemos una lista maestra de frutos secos y sus precios.
+- ​Usando VLOOKUP, la hoja de cálculo encuentra los precios en la lista, ​y luego calcula los precios de ​cada tienda utilizando el margen de beneficio asignado.
+
+- ​Pero tenemos un error N/A en las celdas B49 y C49.
+- ​La fórmula VLOOKUP es correcta, ​entonces, ¿qué está pasando? ​Bueno, si nos fijamos bien en el nombre del fruto seco, ​"almendra" no tiene ningún MATCH en la tabla de búsqueda, ​la tabla de búsqueda utiliza el plural "almendras" en su lugar.
+- ​Así que cambiamos almendra por almendras, ​y con esa errata corregida, ​se rellenan los precios correctos.
+- ​Hablando de erratas, a veces ​una errata puede causar un error de NOMBRE.
+- ​Un error de NOMBRE puede producirse cuando ​no se reconoce o no se entiende el nombre de una fórmula.
+- ​Supongamos que vemos un error de NOMBRE ​en la hoja de cálculo de los precios de los frutos secos.
+
+- ​Si nos fijamos bien, ​la función VLOOKUP en la Célula B21 está mal escrita, ​tiene una O de más; ​esto provoca un error de NOMBRE tanto para ​el precio como para ​el cálculo de margen resultante para la tienda.
+- ​Para solucionar este error, ​podemos eliminar la O de más en VLOOKUP.
+- ​Perfecto.
+- A veces, un error ​está causado por datos incoherentes o erróneos.
+- ​Por ejemplo, el error NUM nos dice que ​el cálculo de una fórmula no puede ​realizarse tal y como especifican los datos.
+- ​Los datos no tienen sentido para ese cálculo.
+- ​A esto me refiero.
+
+- ​Supongamos que estamos trabajando en ​un gran proyecto de construcción utilizando ​una hoja de cálculo para hacer un seguimiento ​de cuántos meses se tarda en alcanzar los hitos clave.
+- ​Podemos utilizar la función DATEDIF para ​calcular el número de meses ​entre las fechas de inicio y fin.
+- ​La función requiere que la fecha de inicio ​esté en la primera celda ​referenciada y que la fecha de fin ​esté en la segunda celda referenciada.
+- ​En nuestro caso, las celdas B2 y C2 respectivamente.
+- ​La M representa meses, ​ya que queremos que esta hoja de cálculo calcule el número de ​meses entre nuestras fechas inicial y final.
+- ​Pero obtenemos un error NUM en la celda D6.
+- ​Nos damos cuenta de que la fecha final es anterior a la fecha inicial, ​por lo que la función DATEDIF ​no puede calcular el número de meses entre ambas.
+
+- ​Es probable que las fechas de inicio y fin ​se hayan intercambiado por accidente.
+- ​Podemos solicitar la verificación de los datos para asegurarnos.
+- ​Mientras tanto, invirtamos el orden de ​las celdas de la fórmula para ​salvar temporalmente el error.
+- ​Ahora, el resultado es nueve meses.
+- ​¿Y si el nombre del cliente se ​insertó accidentalmente en la fecha de inicio de la hoja de cálculo? ​Adivinó, obtenemos un error.
+- ​El error VALUE puede indicar ​un problema con una fórmula o celdas referenciadas.
+
+- ​A menudo no está claro de inmediato cuál es el problema, ​por lo que este error puede requerir un poco más de esfuerzo para solucionarlo.
+- ​En este caso, se introdujo John Welty como fecha de inicio, ​haciendo imposible el cálculo para ​la función DATEDIF en la celda D6.
+- ​Simplemente sustituimos el texto, John Welty, ​por la fecha de inicio correcta del 1 de septiembre de 2016.
+- ​El último es el error REF, ​que suele aparecer cuando se han eliminado celdas a las que se ​hace referencia en una fórmula, ​haciendo así que la fórmula no pueda ​realizar el cálculo.
+- ​Aquí tiene una hoja de cálculo utilizada para calcular ​el número de asientos disponibles para una comida de empresa.
+- ​Digamos que la empresa ​decidió no realizar la segunda planta, ​así que borramos la fila 4.
+- ​Esto da lugar a un error REF cuando ​calculamos el total de asientos disponibles en la celda B5.
+
+- ​Para solucionarlo, podemos cambiar la fórmula para ​añadir los valores de las celdas B2 y B3.
+- ​Además, en este caso, ​podríamos haber evitado ​el error REF utilizando la función SUM y ​un Rango de celdas en lugar de añadir ​el valor de la celda por referencia directa.
+- ​Ahora, si borramos la fila 10, ​la función SUM calcula el total de asientos ​disponibles.
+- Ya está.
+- ​Ahora hemos corregido algunos de ​los errores más comunes de las hojas de cálculo.
+- ​Cuando vuelva a verlos, ​sabrá lo que significan.
+- ​La solución de problemas es una parte importante del análisis de datos, ​por lo que ser capaz de encontrar soluciones ​es una habilidad clave para los analistas de datos.
+- [archivo del video](./resources/modulo-03/Spreadsheet-Errors-and-Fixes-Demo-Sheets.xlsx)
