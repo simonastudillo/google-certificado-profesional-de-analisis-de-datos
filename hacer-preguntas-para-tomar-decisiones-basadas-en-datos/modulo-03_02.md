@@ -1,0 +1,76 @@
+# Fórmulas en hojas de cálculo
+
+## Paso a paso: Fórmulas para el éxito
+- Esta lectura esboza los pasos que el instructor realiza en el siguiente vídeo, Fórmulas para el éxito.
+- En el vídeo, el instructor explica los fundamentos del uso de fórmulas de hojas de cálculo para realizar cálculos. 
+- Mantenga abierta esta guía paso a paso mientras ve el vídeo.
+- Puede servirle como referencia útil si necesita contexto o aclaraciones adicionales mientras sigue los pasos del vídeo.
+- No se trata de una actividad calificada, pero puede completar estos pasos para practicar las habilidades demostradas en el vídeo.
+
+- Qué necesitará
+   - Si desea seguir el primer ejemplo de este vídeo, elija una herramienta de hoja de cálculo y abra una hoja en blanco. 
+   - Si desea acceder a la otra hoja de cálculo que el instructor utiliza en este vídeo, haga clic en el enlace al Conjunto de datos para crear una copia.
+   - Si no tiene una cuenta de Google, descargue los datos directamente de los archivos adjuntos a continuación.
+   - [Archivo ejemplo](./resources/modulo-03/Monthly-Sales.xlsx)
+
+- Ejemplo 1: Crear una fórmula
+   - Las fórmulas constituyen la base de tareas más complejas en una hoja de cálculo.
+   - He aquí un ejercicio sencillo: 
+      - Abra una nueva hoja de cálculo.
+      - Seleccione la celda A1. 
+      - Introduzca =2-2 y pulse Intro. La Célula muestra el resultado de 0. 
+      - Seleccione la celda A2. 
+      - Introduzca =31982-17795 y pulse Intro.
+      - La Célula muestra el resultado 14187.
+      - Nota: El signo igual (=) significa que está comenzando una fórmula.
+- Ejemplo 2: Utilizar referencias de celda en una fórmula
+   - Las referencias de celda hacen que su hoja de cálculo sea flexible y responda a los cambios de datos.
+   - Para Implementar esto:
+      - Abra la hoja de cálculo Ventas mensuales.
+      - Para hallar las ventas totales de abril a julio de 2017, seleccione la celda F2. 
+      - Introduzca la fórmula =B2+C2+D2+E2 y pulse Intro.
+      - Ahora tiene el total de ventas para este periodo de tiempo.
+      - Pero, ¿qué pasaría si los Datos de una de las Células fueran incorrectos?
+      - Seleccione la celda D2 e introduzca 47002 para corregir la entrada.
+      - Pulse Intro.
+      - Observe que su hoja de cálculo recalcula automáticamente la suma en la celda F2.
+- Ejemplo 3: Copiar una fórmula
+   - Copiar y pegar fórmulas ahorra tiempo y ayuda a garantizar la coherencia de sus cálculos.
+   - Para ello:
+      - En la hoja de cálculo Ventas mensuales, seleccione la celda F2. 
+      - En el menú Edición , seleccione Texto publicitario (Copiar).
+      - También puede utilizar el acceso directo del teclado de Windows Ctrl+C o el acceso directo del teclado de Mac Comando+C para copiar la fórmula.
+      - Seleccione la celda F3 y, en el menú Edición , elija Pegar.
+      - También puede pulsar Ctrl+V (Windows) o Comando+V (Mac) para pegar la fórmula en la celda F3. 
+      - Nota: Después de pegar en la celda F3, la fórmula en esa celda será =B3+C3+D3+E3.
+- Ejemplo 4: Calcular las ventas medias
+   - Utilice fórmulas para diferentes cálculos, como por ejemplo para hallar una media:
+      - En la hoja de cálculo Ventas mensuales , seleccione la celda G1.
+      - Introduzca Ventas medias en la celda G1 y pulse Intro. 
+      - Seleccione de nuevo la celda G1.
+      - En la barra de herramientas, seleccione Negrita para poner el texto en negrita.
+      - Nota: Nombrar las columnas en las hojas de cálculo mejora la claridad al indicar el propósito de los números.
+      - Seleccione la celda G2.
+      - Introduzca =(B2+C2+D2+E2)/4 y pulse Intro para calcular la media de ventas en este periodo de tiempo.
+      - Nota: Esta fórmula calcula la media de las ventas del mes, incluidos los casos en los que no hay ventas (celdas en blanco), que se tratan como ceros en el cálculo.
+      - Si el negocio tuvo cero ventas durante un mes, la celda en blanco se sigue incluyendo en el cálculo para mantener la exactitud.
+      - Copie y pegue la fórmula de la celda G2 en las celdas G3 y G4. 
+- Ejemplo 5: Calcular el cambio porcentual en las ventas 
+   - Utilice una fórmula diferente para calcular el cambio porcentual:
+      - En la hoja de cálculo Ventas mensuales , seleccione la celda H1.
+      - En la Célula H1, introduzca Cambio de junio a julio.
+      - Ponga este texto en negrita.
+      - En la celda H2, introduzca =(E2-D2)/D2 para calcular el cambio porcentual en las ventas.
+      - Para formatear el valor como porcentaje, en la barra de herramientas, seleccione el botón %.
+      - Ahora encontrará que el cambio porcentual en las ventas entre junio y julio es de 247,5%. 
+      - Copie esta fórmula en la Célula H3.
+      - Observe que la hoja de cálculo copia tanto la fórmula como el formato del porcentaje.
+- Ejemplo 6: Corregir un error de fórmula
+   - Corregir los errores de fórmula garantiza que sus análisis de datos sigan siendo precisos y fiables.
+   - He aquí cómo solucionar un error común:
+      - En la hoja de cálculo Ventas mensuales, copie la fórmula de la celda H2 a la celda H4 y pulse Intro. 
+      - Observe el error que aparece en la celda H4.
+      - Este error se produce porque la fórmula está intentando dividir por un valor de cero.
+      - La razón de este error es que la celda D4 está en blanco y, en este contexto, la hoja de cálculo interpreta que tiene un valor de cero.
+      - Para resolver el error, escriba 75866 en la celda D4 y pulse Intro.
+      - Observe que el error desaparece, y la celda H4 muestra ahora 121,16%. 
