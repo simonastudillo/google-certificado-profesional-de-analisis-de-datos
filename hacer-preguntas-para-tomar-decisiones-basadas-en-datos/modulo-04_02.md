@@ -233,3 +233,57 @@
 - Aunque no estábamos seguros al 100% ​de que mi teoría fuera correcta, teníamos la suficiente confianza para pasar a la acción y entonces ​miramos atrás, y vimos cómo mejoraban todas las Métricas que me apuntaban a esta teoría.
 - Y ​eso siempre sienta muy bien cuando eres capaz de ayudar a una causa en la que ​crees a hacerlo mejor, y ayudar a más gente a través de los datos.
 - ​Hace que todo el aprendizaje friki sobre SQL y todo lo demás merezca completamente la pena. 
+
+---
+
+## El compromiso de los Datos: Velocidad frente a Exactitud
+- Vivimos en un mundo al que le encanta la gratificación instantánea, ​ya sea la entrega al día siguiente o las películas a la carta.
+- ​Queremos lo que queremos y lo queremos ya.
+- ​Pero en el mundo de los Datos, ​la velocidad puede ser a veces enemiga de la precisión, ​especialmente cuando se requiere colaboración.
+- ​Vamos a hablar de cómo equilibrar ​las respuestas rápidas con las correctas y de cómo ​abordar mejor estas cuestiones ​enmarcando de nuevo las preguntas y esbozando los problemas.
+- ​De este modo, los miembros de su Equipo y ​las partes interesadas comprenderán qué respuestas ​pueden esperar en cada momento.
+- ​Como analistas de datos, necesitamos saber el ​por qué de cosas como una caída en las ventas, ​la media de bateo de un jugador o los totales de precipitaciones.
+- ​No se trata sólo de las cifras, ​se trata también del contexto y llegar ​al fondo de estas cosas lleva tiempo.
+
+- ​Así que si una parte interesada llama a su puerta, ​muchas veces ​esa persona puede no saber realmente lo que necesita.
+- ​Sólo sabe que lo quiere a la velocidad de la luz.
+- ​Pero a veces la presión nos supera e ​incluso los analistas de datos más experimentados pueden verse ​tentados a tomar atajos y proporcionar ​datos defectuosos o inacabados en interés del tiempo.
+- ​Cuando eso ocurre, se pierde ​mucha de la historia de los datos.
+- ​Por eso la comunicación es una de ​las herramientas más valiosas para trabajar con equipos.
+- ​Es importante empezar con ​un pensamiento estructurado y un ámbito de trabajo bien planificado, ​de lo que ya hemos hablado antes.
+- ​Si empieza con una comprensión clara ​de las expectativas de sus interesados, ​podrá desarrollar un alcance realista del ​trabajo que describa las expectativas acordadas, ​los plazos, los hitos y los informes.
+
+- ​De este modo, su Equipo siempre ​tendrá una hoja de ruta para guiar sus acciones.
+- ​Si le presionan para algo ​que está fuera del alcance, ​podrá sentirse seguro ​estableciendo unas expectativas más realistas.
+- ​Al final del día, ​su trabajo consiste en equilibrar ​las respuestas rápidas con las respuestas correctas.
+- ​Sin olvidar averiguar lo que ​la persona está preguntando realmente.
+- ​Ahora me parece un buen momento para poner un ejemplo.
+- ​Imagínese que su vicepresidente de RR.HH.
+- se presenta en su mesa exigiendo ​saber cuántos nuevos empleados están ​completando un curso de entrenamiento que han introducido.
+- ​Dice: "No hay manera de que ​la gente esté pasando por cada sección del curso.
+
+- ​El Equipo de Recursos Humanos está siendo vapuleado con ​preguntas.
+- Probablemente deberíamos cancelar el Programa".
+- ​¿Cómo respondería usted? ​Bueno, podría registrarse en el sistema, ​hacer algunos números y entregárselos a su supervisor.
+- ​Eso no le llevaría nada de tiempo.
+- ​Pero la respuesta rápida podría no ser la más acertada.
+- ​En lugar de eso, podría replantear su pregunta, ​esbozar el problema, los retos, ​las posibles soluciones y el calendario.
+
+- ​Podría decir: "Desde luego, puedo ​comprobar los índices de ejecución, ​pero intuyo que aquí puede haber algo más en la Historia.
+- ​¿Podría darme dos días para elaborar ​algunos informes y saber qué está pasando realmente?" ​Con más tiempo, podrá ganar en contexto.
+- ​Usted y el vicepresidente de RR.HH.
+- ​deciden ampliar el plazo del proyecto, ​de modo que pueda dedicar tiempo a recopilar ​datos de encuestas anónimas de ​empleados nuevos sobre el curso de Entrenamiento.
+- ​Sus respuestas proporcionan datos que pueden ayudarle a determinar ​exactamente por qué los índices de finalización son tan bajos.
+- ​Los empleados informan de que ​el curso les resulta confuso y obsoleto.
+- ​Debido a que pudo dedicar ​tiempo a abordar el problema mayor, ​el vicepresidente de RR.HH.
+- tiene ​una mejor idea de por qué los nuevos empleados no ​completan el curso y puede ​tomar nuevas decisiones sobre cómo actualizarlo.
+
+- ​Ahora el curso de formación es fácil de seguir y ​el departamento de RR.HH.
+- no recibe tantas preguntas.
+- ​Todo el mundo sale beneficiado.
+- ​Redirigir la conversación le ayudará a encontrar ​el verdadero problema, lo que conduce a ​soluciones más estadísticas y precisas.
+- ​Pero es importante tener en cuenta, ​que a veces hay que ser el portador de ​malas noticias y eso está bien.
+- ​Comunicar los problemas, las posibles soluciones y las ​diferentes expectativas puede ayudarle a avanzar ​en un proyecto en lugar de quedarse estancado.
+- ​Cuando se trata de comunicar ​respuestas a sus equipos y partes interesadas, ​la respuesta más rápida y la ​más precisa no suelen ser la misma respuesta.
+- ​Pero si se asegura de que comprende ​sus necesidades y establece claramente sus expectativas, ​podrá equilibrar la Velocidad y la Precisión.
+- ​Sólo tiene que asegurarse de ser claro y ​franco y encontrará el éxito. 
