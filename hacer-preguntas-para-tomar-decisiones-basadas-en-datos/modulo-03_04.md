@@ -237,3 +237,45 @@ Normalmente, los proyectos no empiezan hasta que se aprueba un SOW con sus pieza
 - ​Luego, tendrás los datos ​para que puedas transmitirlos a tu equipo.
 - ​Esperamos que ahora comprenda ​la importancia de los datos justos y objetivos, ​y lo importante ​que es el contexto, a la hora de comprenderlo e interpretarlo.
 - ​A continuación, descubriremos cómo podemos darle vida.
+
+---
+
+## La importancia del contexto
+- Contexto en la Analítica de datos es la condición y las circunstancias que rodean y dan significado a los datos.
+- El Contexto es importante en la Analítica de datos porque ayuda a hacer accesibles y comprensibles los datos desorganizados.
+- El hecho es que los Datos tienen poco valor si no están vinculados a un contexto. 
+- Comprender el contexto que hay detrás de los Datos puede ayudarnos a hacerlos más significativos en cada fase del proceso de análisis de datos.
+- Por ejemplo, es posible que pueda hacer algunas conjeturas sobre lo que está viendo en la siguiente tabla, pero no podría estar seguro sin más contexto.
+
+| 2010  | 28000 |
+| ----- | ----- |
+| 2005  | 18000 |
+| 2000  | 23000 |
+| 1995  | 10000 |
+
+- Por otro lado, si la primera columna estuviera etiquetada para representar los años en los que se realizó una Encuesta, y la segunda columna mostrara el número de personas que respondieron a esa encuesta, entonces la tabla empezaría a tener mucho más sentido.
+- Vaya un paso más allá y se dará cuenta de que la Encuesta se realiza cada 5 años.
+- Este contexto añadido le ayudará a entender por qué hay lagunas de cinco años en la tabla.
+
+| Años (Recogida cada 5 años) | Respondedores |
+| --------------------------- | ------------- |
+| 2010                        | 28000         |
+| 2005                        | 18000         |
+| 2000                        | 23000         |
+| 1995                        | 10000         |
+
+- El Contexto puede convertir los Datos en bruto en Información significativa.
+- Es muy importante que los Analistas de datos contextualicen sus datos.
+- Esto significa dar una perspectiva a los Datos definiéndolos.
+- Para ello, es necesario identificar:
+   - Quién: La persona u organización que creó, recopiló y/o financió la recopilación de datos
+   - Qué: Las cosas en el mundo sobre las que los Datos podrían tener un Impacto
+   - DONDE: El origen de los Datos
+   - Cuándo: El momento en que se crearon o recopilaron los datos
+   - Por qué: La motivación detrás de la creación o recopilación
+   - Cómo: El Método utilizado para crearlos o recopilarlos
+
+- Comprender e incluir el contexto es importante durante cada paso de su proceso de Análisis, por lo que es una buena idea sentirse cómodo con él al principio de su carrera.
+- Por ejemplo, cuando recopile Datos, también querrá hacer preguntas sobre el contexto para asegurarse de que comprende el negocio y el proceso empresarial.
+- Durante la organización, el contexto es importante para sus convenciones de nomenclatura, la forma en que decide mostrar las relaciones entre las variables y lo que decide mantener u omitir.
+- Y, por último, cuando realice la presentación, es importante incluir información contextual para que las partes interesadas entiendan su análisis.
