@@ -108,3 +108,100 @@
 - ​Esto te ayudará a comunicarte de forma clara y ​eficaz con los miembros de tu equipo en cualquier proyecto.
 - ​Puede llevar algo de tiempo, pero encontrarás un estilo de comunicación que funcione para ti y ​tu equipo, tanto en persona como en línea.
 - ​Mientras estés dispuesto a aprender, no tendrás problemas para adaptarte a ​las diferentes expectativas de comunicación que verás en futuros trabajos. 
+
+---
+
+## Utilice múltiples estrategias de Comunicación para llegar a su público
+
+- Ser capaz de comunicarse en múltiples formatos es una habilidad clave para los analistas de datos.
+- Escuchar, hablar, hacer presentaciones y escribir le ayudarán a tener éxito en sus proyectos y en su carrera.
+- Esta lectura cubre las estrategias de comunicación eficaz, incluyendo ejemplos de correos electrónicos redactados con claridad para situaciones comunes.
+- He aquí un primer consejo importante: ¡Conozca a su público! Cuando comunique sus análisis y recomendaciones como Analista de datos, es vital que tenga presente a su público.
+- Asegúrese de responder a estas cuatro preguntas importantes relacionadas con su público:
+   - ¿Quién es su público? 
+   - ¿Qué saben ya? 
+   - ¿Qué necesitan saber? 
+   - ¿Cuál es la mejor forma de comunicar lo que necesitan saber? 
+
+- Ejemplo de Proyecto 
+   - COMO ANALISTA DE DATOS, recibirá muchas solicitudes y preguntas a través del correo electrónico.
+   - Veamos un ejemplo de cómo podría enfocar la respuesta a uno de estos correos electrónicos.
+   - Supongamos que es usted un Analista de datos que trabaja en una empresa que desarrolla aplicaciones para dispositivos móviles.
+   - Empecemos revisando las respuestas a las cuatro preguntas del público que acabamos de tratar:
+
+   - ¿Quien es tu audiencia?
+      -  Kiri, Gerente de proyectos de desarrollo de productos
+   - ¿Qué es lo que ya saben?
+      - Kiri recibió actualizaciones sobre nuestro proyecto desde sus fases de planificación, incluido el informe más reciente del proyecto, enviado hace dos semanas.
+   - ¿Qué necesitan saber?
+      - Kiri necesita una actualización sobre el progreso del proyecto de análisis y necesita saber que el equipo ejecutivo aprobó los cambios en los datos y en el calendario.
+      - Sabe que añadir una nueva variable al análisis repercutirá en el calendario actual del proyecto.
+      - Kiri tendrá que cambiar los hitos del proyecto y la fecha de finalización.
+   - Como puedes comunicar mejor lo que necesitan saber?
+      - Puede empezar enviando un correo electrónico de actualización a Kiri con el calendario más reciente del proyecto, pero puede que sea necesaria una reunión si ella quiere hablar de sus preocupaciones sobre el incumplimiento de un plazo.
+   
+- Muestra de correo electrónico con el calendario actualizado
+   - Después de responder a las preguntas del público, ya tiene las piezas clave que necesita para escribir un correo electrónico a Kiri.
+   - He aquí un ejemplo de cómo estas preguntas pueden ayudar a organizar el flujo del mensaje de correo electrónico:
+
+<img src="./resources/modulo-04/image-02.png" alt="" width="500px">
+   
+   - Después de recibir su correo electrónico, Kiri tendrá una visión más clara de los cambios en el proyecto de análisis y podrá hacer ajustes para trabajar con el nuevo calendario.
+
+- Muestra de correo electrónico de seguimiento del Proyecto
+   - Una vez finalizado el siguiente informe, también puede enviar una actualización del proyecto ofreciendo más información.
+   - El correo electrónico podría tener este aspecto:
+
+<img src="./resources/modulo-04/image-03.png" alt="" width="500px">
+
+   - Una buena Comunicación mantiene a las partes interesadas al corriente de los progresos y, en última instancia, ayuda a evitar problemas.
+   - La clave está en redactar cuidadosamente las respuestas.
+   - Tanto si recopila y aborda los comentarios utilizando el correo electrónico, las reuniones o los informes, todas las personas con las que trabaje sabrán a qué atenerse.
+   - Como resultado, podrán gestionar mejor sus propios Cronogramas, Recursos y Equipos.
+
+---
+
+## Navegar por las expectativas y los objetivos realistas del Proyecto
+- ​Ya hemos hablado de las limitaciones de los datos.
+- ​A veces no tiene acceso a los datos que necesita, o ​sus fuentes de datos no están alineadas o sus datos no están limpios.
+- ​Esto puede ser un problema a la hora de analizar los datos, pero ​también puede afectar a su comunicación con las partes interesadas.
+- ​Por eso es importante equilibrar las expectativas de las partes interesadas con lo que ​realmente es posible para un proyecto.
+- ​Vamos a aprender la importancia de establecer metas realistas y objetivas y ​la mejor manera de comunicarse con sus partes interesadas sobre los problemas ​con los que se puede encontrar.
+- ​Tenga en cuenta que muchas cosas dependen de su análisis.
+- ​Quizá su equipo no pueda tomar una decisión sin su informe.
+
+- ​O quizá su trabajo inicial con los datos determine cómo y ​dónde se recopilarán datos adicionales.
+- ​Quizá recuerde que hemos hablado de algunas ​situaciones en las que es importante incluir a las partes interesadas.
+- Por ejemplo, ​decirle a su jefe de proyecto si está cumpliendo los plazos o si está teniendo algún problema.
+- ​Ahora, veamos un ejemplo de la vida real en el que necesita comunicarse con ​las partes interesadas y qué podría hacer si se encuentra con un problema.
+- ​Digamos que está trabajando en un proyecto para una compañía de seguros.
+- ​La compañía quiere identificar las causas comunes de los accidentes de tráfico leves para ​poder desarrollar materiales educativos que fomenten una conducción más segura.
+- ​Hay algunas preguntas iniciales que usted y su equipo deben responder.
+
+- ​¿Qué hábitos de conducción incluirá en su conjunto de datos? ​¿Cómo recopilará estos datos? ​¿Cuánto tiempo tardará en recopilar y ​limpiar esos datos antes de poder utilizarlos en su análisis
+- Desde el principio, ​deberá comunicarse claramente con las partes interesadas para responder a estas preguntas, ​de modo que usted y su equipo puedan establecer un calendario razonable y realista para el proyecto.
+- ​Puede resultar tentador decir a las partes interesadas que lo tendrá listo en ​poco tiempo y sin problemas.
+- ​Pero establecer expectativas para un calendario realista le ayudará a largo plazo.
+- ​Sus partes interesadas sabrán qué esperar y cuándo, y usted no trabajará en exceso ​ni incumplirá los plazos por haber prometido más de la cuenta.
+- ​Me parece que fijar las expectativas con antelación me ayuda a emplear mi tiempo de forma más productiva.
+- ​Así que, a medida que vaya empezando, querrá enviar un cronograma de alto nivel con ​las distintas fases del proyecto y sus fechas aproximadas de inicio.
+- ​En este caso, usted y sus equipos establecen que necesitará tres semanas para ​completar el análisis y ofrecer recomendaciones, y ​se lo hace saber a sus partes interesadas para que puedan planificar en consecuencia.
+- ​Imaginemos ahora que se encuentra en una fase más avanzada del proyecto y se encuentra con un problema.
+- ​Quizás los controladores han optado por compartir datos sobre el uso de su teléfono en el coche, pero ​usted descubre que algunas fuentes contabilizan el uso del GPS y otras no en sus datos.
+- ​Esto podría añadir tiempo a su procesamiento y limpieza de datos y ​retrasar algunos hitos del proyecto.
+- ​Querrá hacérselo saber a su jefe de proyecto y ​quizás elaborar un nuevo calendario para presentarlo a las partes interesadas.
+
+- ​Cuanto antes pueda señalar estos problemas, mejor.
+- ​De este modo, sus partes interesadas podrán hacer los cambios necesarios lo antes posible.
+- ​O qué ocurre si sus partes interesadas quieren añadir el modelo de coche o la edad como posibles variables.
+- ​Tendrá que comunicarse con ellos sobre cómo eso podría cambiar el Modelo ​que ha construido, ​si puede añadirse y antes de los plazos, y ​cualquier otro obstáculo que necesiten saber para que ​puedan decidir si merece la pena cambiarlo en esta fase del Proyecto.
+- Para ayudarles ​podría preparar un Informe sobre cómo su petición modifica el calendario del proyecto o ​altera el Modelo.
+- ​También podría esbozar los pros y los contras de ese cambio.
+- ​Usted quiere ayudar a sus partes interesadas a alcanzar sus objetivos, pero es importante establecer ​expectativas realistas en cada fase del proyecto.
+
+- ​Esto requiere cierto equilibrio.
+- ​Ha aprendido a equilibrar las necesidades de los miembros de su Equipo y de las partes Interesadas, pero ​también necesita equilibrar las expectativas de las partes Interesadas y ​lo que es posible con los proyectos, ​los recursos y las limitaciones.
+- ​Por eso es importante ser realista y objetivo y comunicarse con claridad.
+- ​Esto ayudará a las partes interesadas a entender el calendario y ​a tener confianza en su capacidad para alcanzar esos objetivos.
+- ​Así que sabemos que la comunicación es clave y ​tenemos algunas buenas reglas a seguir para nuestra comunicación profesional.
+- ​Próximamente ​hablaremos aún más sobre cómo responder a las preguntas de las partes interesadas, ​entregar datos y comunicarse con su equipo. 
