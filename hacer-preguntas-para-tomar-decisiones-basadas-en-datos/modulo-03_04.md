@@ -80,3 +80,25 @@
    - Un alcance del trabajo se basa en el proyecto y establece las expectativas y los límites de un proyecto.
    - Un alcance del trabajo puede incluirse en una declaración de trabajo para ayudar a definir los resultados del proyecto. 
    - Como analista de datos junior, es más típico que le pidan que cree un alcance del trabajo que una declaración de trabajo. 
+
+---
+
+## Creación de un ámbito de trabajo
+- As a data analyst, it's important to understand scope of work (SOW). In this exercise, you'll organize a staff training event at a company to learn more about SOW.
+
+- Deliverables (Deliverables are items or tasks you will complete before you can finish the project.)
+   - Goals for the employee training event
+   - Estimated budget for the event
+   - List of employees to invite
+- Timeline (Timelines include due dates for when deliverables, milestones, and/or reports are due.)
+   - Invite all attendees by June 1
+   - Send event reminder email June 25
+   - Hold the training event July 1
+- Milestones (Milestones are significant tasks you will confirm along your timeline to help everyone know the project is on track.)
+   - Confirm list of employees who will attend
+   - Confirm budget
+   - Confirm staff trainers
+- Reports (Reports notify everyone as you finalize deliverables and meet milestones.)
+   - Performance improvement one month after training
+   - Employee feedback after the training
+   - Final list of employees who attended
