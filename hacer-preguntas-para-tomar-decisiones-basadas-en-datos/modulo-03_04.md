@@ -102,3 +102,91 @@
    - Performance improvement one month after training
    - Employee feedback after the training
    - Final list of employees who attended
+
+---
+
+## Actividad práctica: Crear un ámbito de trabajo
+- Resumen de la actividad
+   - Ha estado aprendiendo sobre el papel de un analista de datos y cómo gestionar, analizar y visualizar datos.
+   - Ahora, tendrá en cuenta una valiosa herramienta que le ayudará a practicar el pensamiento estructurado y a evitar errores: un alcance del trabajo (SOW).
+   - En esta actividad, obtendrá experiencia práctica en la elaboración de un documento SOW con la ayuda de una práctica plantilla.
+   - A continuación, completará un SOW de ejemplo para un proyecto imaginario de su elección y aprenderá cómo los analistas esbozan el trabajo que van a realizar.
+   - Cuando termine esta actividad, estará familiarizado con una herramienta esencial y estándar del sector, y se sentirá más cómodo formulando las preguntas adecuadas para desarrollar un SOW.
+   - Antes de empezar, tómese un minuto para pensar en las ideas principales, los objetivos y los destinatarios de los documentos SOW.
+
+- Instrucciones paso a paso
+   - Siga las instrucciones para completar cada paso de la actividad.
+   - A continuación, responda a las preguntas al final de la actividad antes de pasar al siguiente punto del curso.
+
+1. Entienda lo que necesita saber sobre un SOW
+- Como analista de datos, es difícil exagerar la importancia de un documento SOW.
+- Un SOW bien definido le mantiene a usted, a su equipo y a todos los implicados en un proyecto en la misma página.
+- Garantiza que todos los colaboradores, patrocinadores y partes interesadas compartan la misma comprensión de los detalles relevantes.
+- ¿Por qué necesita un SOW?
+   - El objetivo de los proyectos de Análisis de datos es completar tareas empresariales que sean útiles para las partes interesadas.
+   - Crear un SOW ayuda a asegurarse de que todos los implicados, desde los analistas e ingenieros hasta los directivos y las partes interesadas, comparten la comprensión de cuáles son esos objetivos empresariales y el plan para alcanzarlos.
+   - Aclarar los requisitos y fijar las expectativas son dos de las partes más importantes de un proyecto.
+   - Recuerde la primera fase del proceso de Análisis de datos: hacer preguntas.
+   - A medida que vaya haciendo más y más preguntas para aclarar los requisitos, los objetivos, las fuentes de datos, las partes interesadas y cualquier otra información relevante, un SOW le ayudará a formalizarlo todo registrando todas las respuestas y los detalles.
+   - En este contexto, la palabra "preguntar" significa dos cosas.
+   - Preparar la redacción de un SOW consiste en hacer preguntas para conocer la información necesaria sobre el proyecto, pero también consiste en aclarar y definir lo que se le pide que consiga y cuáles son los límites o fronteras del "pedir".
+   - Al fin y al cabo, si no puede hacer una distinción entre las preguntas de negocio que es y no es responsable de responder, ¡entonces es difícil saber qué significa el éxito! 
+- ¿Qué es un buen SOW?
+   - No existe un formato estándar para un SOW.
+   - Pueden diferir significativamente de una organización a otra, o de un proyecto a otro.
+   - Sin embargo, todas tienen en común unos cuantos contenidos fundamentales.
+      - Entregables: ¿Qué trabajo se va a realizar y qué cosas se van a crear como resultado de este proyecto? Cuando el proyecto esté terminado, ¿qué se espera que entregue a las partes interesadas? Sea específico aquí. ¿Recopilará datos para este proyecto? ¿Cuántos o durante cuánto tiempo?
+   - Evite las afirmaciones vagas. Por ejemplo, "solucionar los problemas de tráfico" no especifica el alcance. Esto podría significar cualquier cosa, desde rellenar unos cuantos baches hasta construir un nuevo paso elevado. Sea específico Utilice números y apunte a metas y objetivos duros y mensurables. Por ejemplo: "Identifique los 10 principales problemas de tráfico dentro de los límites de la ciudad e identifique las 3 soluciones más rentables para reducir la congestión del tráfico"
+      - Hitos: Esto está estrechamente relacionado con su calendario. ¿Cuáles son los principales hitos para el progreso de su proyecto? ¿Cómo sabe cuándo una parte determinada del proyecto se considera completada?
+   - Los hitos pueden ser identificados por usted, por las partes interesadas o por otros miembros del equipo, como el director del proyecto. Los ejemplos más pequeños pueden incluir pasos incrementales en un proyecto más grande como "Recopilar y procesar el 50% de los datos necesarios (100 respuestas a encuestas)", pero también pueden ser ejemplos más grandes como "completar el informe inicial de análisis de datos" o "entregar a las partes interesadas las visualizaciones del cuadro de mando y los informes de análisis completados".
+      - Calendario: Su cronograma estará estrechamente vinculado a los hitos que cree para su proyecto. El calendario es una forma de trazar las expectativas sobre el tiempo que debe llevar cada paso del proceso. El calendario debe ser lo suficientemente específico como para ayudar a todos los implicados a decidir si el proyecto va según lo previsto. ¿Cuándo se completarán los entregables? ¿Cuánto tiempo espera que dure el proyecto? Si todo va según lo previsto, ¿cuánto tiempo espera que tarde cada componente del proyecto? ¿Cuándo podemos esperar alcanzar cada hito?
+      - Informes: Los buenos SOW también establecen límites sobre cómo y cuándo dará actualizaciones de estado a las partes interesadas. ¿Cómo comunicará los progresos a las partes interesadas y a los patrocinadores, y con qué frecuencia? ¿Se informará del progreso semanalmente? ¿Mensualmente? ¿Cuando se completen los hitos? ¿Qué información contendrán los informes de situación?
+   - Como mínimo, cualquier SOW debe responder a todas las preguntas relevantes en las áreas anteriores. Tenga en cuenta que estas áreas pueden variar en función del proyecto. Pero en su esencia, el documento SOW debe servir siempre al mismo propósito, conteniendo información que sea específica, relevante y precisa. Si algo cambia en el proyecto, su SOW debe reflejar esos cambios.
+
+- ¿Qué está dentro y fuera del alcance?
+   - Los SOW también deben contener información específica sobre lo que se considera parte del proyecto y lo que no.
+   - El alcance de su proyecto es todo lo que se espera que complete o realice, definido con un nivel de detalle que no deje ninguna ambigüedad o confusión sobre si una determinada tarea o elemento forma parte del proyecto o no.
+   - Fíjese en cómo el ejemplo anterior sobre el estudio de la congestión del tráfico definía su ámbito como el área dentro de los límites de la ciudad.
+   - Esto no deja lugar a confusiones: las partes interesadas sólo tienen que consultar un mapa para saber si un tramo de carretera o una intersección forman parte del proyecto o no.
+   - Definir los requisitos puede ser más complicado de lo que parece, por lo que es importante ser lo más específico posible en estos documentos y utilizar afirmaciones cuantitativas siempre que sea posible.
+   - Por ejemplo, suponga que le asignan un proyecto que implica el estudio de los efectos medioambientales del cambio climático en el litoral de una ciudad: ¿Cómo define qué partes del litoral le corresponde estudiar y cuáles no?
+   - En este caso, sería importante definir el área que se espera que estudie utilizando ubicaciones GPS, o puntos de referencia.
+   - Utilizar afirmaciones específicas y cuantificables ayudará a garantizar que todo el mundo tenga una idea clara de lo que se espera.
+
+2. Accerder a la plantilla
+- Ahora que conoce los conceptos básicos, puede practicar la creación de su propio modelo de pliego de condiciones para un proyecto de su elección.
+- Para empezar, acceda primero a la plantilla del alcance del trabajo.
+- [plantilla](./resources/modulo-03/Scope-Of-Work-Template.docx)
+
+3. Rellena la plantilla de su proyecto imaginario
+   - Dedique unos minutos a pensar en un proyecto plausible de Analítica de datos.
+   - Consulte [5 Proyectos de Analítica de datos para principiantes](https://www.coursera.org/articles/data-analytics-projects-for-beginners) si necesita ayuda para encontrar ideas. 
+   - Piense en un ámbito problemático y, a continuación, invente los detalles pertinentes que le ayuden a rellenar la plantilla.
+   - Tómese su tiempo para rellenar la plantilla.
+   - Trate este ejercicio como si estuviera escribiendo su primer SOW en su nueva carrera como analista de datos.
+   - Intente ser minucioso, específico y conciso
+   - Los detalles aquí no son importantes.
+   - El objetivo es sentirse cómodo identificando y formalizando requisitos y utilizando esos requisitos de una manera profesional mediante la creación de SOWs. 
+
+4. Compare su trabajo con un ejemplo solido
+- Una vez que haya rellenado su plantilla, considere el ejemplo fuerte que aparece a continuación y compárelo con el suyo.
+- [Scope-Of-Work Exemplar.pdf](./resources/modulo-03/Scope-Of-Work%20Exemplar.pdf)
+
+- Reflexión
+- Cuando creó un simulacro de pliego de condiciones completo y minucioso, ¿qué contenidos fundamentales incluyó? Seleccione todas las que correspondan.
+   - [ ] Presupuesto
+   - [x] Hitos
+   - [x] Cronología
+   - [x] Entregables
+   - [x] Informes
+> En su simulacro de alcance de los trabajos, debería haber incluido cuatro contenidos fundamentales: los entregables, los hitos, el calendario y los informes. Una vez establecidos estos elementos, el pliego de condiciones le ayudará a usted, a su equipo y a las partes interesadas en el proyecto a mantenerse organizados y en sintonía. En el futuro, podrá utilizar esta herramienta estándar del sector para aclarar los objetivos empresariales de un proyecto y cómo alcanzarlos, ¡como un analista de datos profesional!
+
+- Ahora que ha puesto en práctica sus conocimientos sobre el Alcance del trabajo, dedique un momento a examinar y reflexionar sobre su simulacro de EDT completado. A continuación, revise su trabajo junto al ejemplo sólido enlazado anteriormente. En el cuadro de texto que aparece a continuación, escriba de 2 a 3 frases (de 40 a 60 palabras) en respuesta a cada una de las preguntas siguientes:
+   - ¿Cómo identificó y formalizó los requisitos del proyecto?
+   - ¿Qué preguntas se hizo para definir los límites fundacionales y las piezas de su contenido analítico, que pueden incluir descripciones de sus entregables, plazos, hitos e informes?
+   > para identificar los requisitos del proyecto comencé por preguntar que problema quería resolver de forma concreta, comencé a hacerme preguntas para identificar los criterios que hacen que el problema este resuelto. Para definir los límites fundacionales se definió el problema, "mejorar el acceso a conserjería", para ello se delimitó a los eventos que ocurren en concerjería que podemos controlar por ejemplo ¿Como agilizamos el ingreso de personas? ¿Como verificamos el permiso de la visita para entrar? ¿Podemos automatizar el ingreso de residentes? con esto en mente se idea un plan basado en hitos, a los hitos se les puso un plazo y un informe correspondiente.
+
+- Comentarios
+¡Enhorabuena por haber completado esta actividad práctica! Aunque los SOW no tienen un formato establecido, sí incluyen piezas fundamentales comunes de contenido. Una buena respuesta incluiría cómo este contenido responde a las preguntas, establece las expectativas y organiza las actividades. Más allá de eso, considere lo siguiente: 
+
+Normalmente, los proyectos no empiezan hasta que se aprueba un SOW con sus piezas clave de contenido: los entregables, los hitos, el calendario y los informes. Para recopilar y sintetizar esta información, los analistas identifican y formalizan los requisitos cuantificables del proyecto. Utilizan el pensamiento estructurado para formular preguntas aclaratorias, definir lo que hay que conseguir y especificar los límites del proyecto.
