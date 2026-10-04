@@ -204,4 +204,4 @@
 - ​Por eso es importante ser realista y objetivo y comunicarse con claridad.
 - ​Esto ayudará a las partes interesadas a entender el calendario y ​a tener confianza en su capacidad para alcanzar esos objetivos.
 - ​Así que sabemos que la comunicación es clave y ​tenemos algunas buenas reglas a seguir para nuestra comunicación profesional.
-- ​Próximamente ​hablaremos aún más sobre cómo responder a las preguntas de las partes interesadas, ​entregar datos y comunicarse con su equipo. 
+- ​Próximamente ​hablaremos aún más sobre cómo responder a las preguntas de las partes interesadas, ​entregar datos y comunicarse con su equipo
