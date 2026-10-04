@@ -156,3 +156,48 @@
       - Dependiendo de cómo lo configure, las partes interesadas pueden incluso entrar y ver las actualizaciones siempre que lo deseen.
 - *Jason Fried, Basecamp, [www.inc.com/magazine/201809/jason-fried/illusion-agreement-team-project.html](https://www.inc.com/magazine/201809/jason-fried/illusion-agreement-team-project.html)
 
+---
+
+## Céntrese en lo importante
+- Ahora que sabemos la importancia de encontrar el ​equilibrio entre la parte interesada ​y los miembros de su equipo.
+- ​Quiero hablar sobre la importancia de ​mantener la concentración en el objetivo.
+- ​Esto puede resultar complicado cuando ​trabajas con muchas personas ​con necesidades y opiniones contrapuestas.
+- Sin embargo, ​si te haces unas cuantas preguntas sencillas ​al principio de cada tarea, ​puedes asegurarte de ​poder concentrarte en ​tu objetivo y, al mismo tiempo, equilibrar las necesidades de las partes interesadas.
+- ​Pensemos en el ejemplo de rotación ​de empleados del último vídeo.
+- ​Allí, tratábamos con muchos ​miembros del equipo y partes interesadas diferentes, como gerentes ​, administradores e incluso otros analistas.
+- ​Como analista de datos, ​descubrirá que equilibrar las necesidades de todos ​puede resultar un poco caótico a veces ​, pero parte de su trabajo consiste en dejar de ​lado el desorden y concentrarse en el objetivo.
+
+- ​Es importante concentrarse en ​lo que importa y no distraerse.
+- ​Como analista de datos, ​podrías estar trabajando en varios proyectos con muchas ​personas diferentes, pero no importa en ​qué proyecto estés trabajando, ​hay tres cosas en las que puedes ​concentrarte y que te ayudarán a concentrarte en la tarea.
+- ​Uno, ¿quiénes son la parte interesada principal y secundaria? ​Dos, ¿quién administra los datos? ​Y tres, ¿a dónde puedes acudir en busca de ayuda? ​Veamos si podemos aplicar ​esas preguntas a nuestro proyecto de ejemplo.
+- ​La primera pregunta que puede hacerse es ​sobre quiénes son esas partes interesadas.
+
+- ​La principal parte interesada de ​este proyecto es probablemente el vicepresidente de ​Recursos Humanos, que espera utilizar los ​hallazgos de su proyecto para ​tomar nuevas decisiones sobre la política de la empresa.
+- ​También proporcionaría actualizaciones a ​su gerente de proyecto, a los miembros del equipo ​u otros analistas de datos que ​dependen de su trabajo para realizar sus propias tareas.
+- ​Estas son sus partes interesadas secundarias.
+- ​Tómate un tiempo al principio de cada proyecto para ​identificar a la parte interesada y sus objetivos.
+- ​A continuación, comprueba quién más forma parte de tu equipo y cuáles son sus funciones.
+- ​A continuación, querrá preguntar quién administra los datos.
+- ​Por ejemplo, piense en ​trabajar con otros analistas en este proyecto.
+
+- ​Todos son analistas de datos, ​pero es posible que administren diferentes datos dentro de su proyecto.
+- ​En nuestro ejemplo, había otro analista de datos ​que se centraba en gestionar los datos de contratación de la empresa.
+- ​Sus ideas sobre el aumento de nuevas contrataciones ​hace 18 meses resultaron ​ser una parte clave de su análisis.
+- ​Si no te hubieras comunicado con esta persona, ​es posible que hayas dedicado mucho tiempo ​a recopilar o analizar los datos de contratación por tu ​cuenta o que ​ni siquiera hayas podido incluirlos en tu análisis.
+- En su ​lugar, pudo ​comunicar sus objetivos a ​otro analista de datos y utilizar el ​trabajo existente para enriquecer su análisis.
+- ​Al comprender quién administra los datos, ​puede dedicar su tiempo de manera más productiva.
+- ​El siguiente paso es saber ​adónde puede ir cuando necesite ayuda.
+
+- ​Esto es algo que debes saber ​al principio de cualquier proyecto en el que trabajes.
+- ​Si te encuentras con obstáculos en ​el camino para completar una tarea, ​necesitas a alguien que esté en la mejor ​posición para eliminar esas barreras por ti.
+- ​Cuando sepas quién puede ayudarte, ​pasarás menos tiempo preocupándote por otros aspectos ​del proyecto y más tiempo centrado en el objetivo.
+- ​Entonces, ¿a quién podrías acudir si ​tuvieras algún problema en este proyecto? ​Los gestores de proyectos le ayudan a usted y a ​su trabajo gestionando el cronograma del proyecto, ​proporcionando orientación y recursos ​y configurando flujos de trabajo eficientes.
+- ​Tienen una visión general del proyecto ​porque saben lo que tú ​y el resto del equipo estáis haciendo.
+- ​Esto los convierte ​en un excelente recurso.
+- Si te encuentras con algún problema ​en el ejemplo de rotación de empleados, ​necesitarás poder acceder a los ​datos de la encuesta de salida de empleados ​para incluirlos en tu análisis.
+
+- ​Si tienes problemas para obtener ​las aprobaciones para ese acceso, ​puedes hablar con tu gerente de proyecto ​para eliminar esas barreras y así ​poder seguir adelante con tu proyecto.
+- ​Su equipo depende de que usted se ​concentre en su tarea para que, como equipo, ​pueda encontrar soluciones.
+- Si ​te haces tres preguntas sencillas ​al principio de los nuevos proyectos, ​podrás abordar las necesidades de las partes interesadas, ​sentirte seguro de quién gestiona los datos y obtener ​ayuda cuando la necesites para no ​perder de vista el objetivo: ​el objetivo del proyecto.
+- Hasta ahora, ​hemos abordado la importancia de trabajar de manera eficaz en ​un equipo y, al mismo tiempo, mantener el enfoque en las necesidades de las partes interesadas.
+- ​Próximamente, repasaremos algunas formas prácticas de convertirnos en ​mejores comunicadores para que podamos ​ayudar a garantizar que el equipo alcance sus objetivos. 
