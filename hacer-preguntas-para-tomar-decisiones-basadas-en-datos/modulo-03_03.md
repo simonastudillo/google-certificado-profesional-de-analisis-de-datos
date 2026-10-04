@@ -139,3 +139,73 @@
 - Están ​por venir cosas interesantes.
 - Así que quédate aquí.
 - [Excel resuelto](./resources/modulo-03/Monthly-Sales---Functions-101-resuelto.xlsx)
+
+---
+
+## Referencia rápida: Funciones en hojas de cálculo
+- Como recordatorio rápido, una función es un comando preestablecido que realiza automáticamente un proceso o tarea específicos utilizando los Datos de una hoja de cálculo.
+- Las Funciones ofrecen a los analistas de datos la posibilidad de realizar cálculos, que pueden ser desde simples operaciones aritméticas hasta ecuaciones complejas.
+- Utilice esta lectura como ayuda para realizar un seguimiento de algunas de las opciones más útiles.
+
+- Funciones
+   - Lo básico
+      - Al igual que las fórmulas, comience todas sus funciones con un signo igual; por ejemplo =SUM.
+      - El signo igual indica a la hoja de cálculo que lo que sigue es parte de una función, no sólo una palabra o un número en una celda.
+      - Después de introducir el signo igual, la mayoría de las aplicaciones de hojas de cálculo mostrarán un menú de autocompletar que enumera las funciones válidas, los nombres y las cadenas de texto.
+      - Es una forma estupenda de crear y editar funciones evitando errores de escritura y de sintaxis.
+      - Una forma divertida de aprender nuevas funciones es simplemente tecleando un signo igual y una sola letra del alfabeto.
+      - Elija una de las opciones que aparecen y aprenda lo que hace esa función.
+
+   - Diferencia entre fórmulas y funciones
+      - Una fórmula es un conjunto de instrucciones utilizadas para realizar un cálculo utilizando los datos de una hoja de cálculo.
+      - Una función es un comando preestablecido que realiza automáticamente un proceso o tarea específicos utilizando los Datos de una hoja de cálculo.
+
+   - Funciones populares
+      - Mucha gente no se da cuenta de que los accesos directos del teclado como cortar, guardar y buscar son en realidad funciones.
+      - Estas funciones están integradas en una aplicación y son increíbles ahorradoras de tiempo.
+      - El uso de accesos directos le permite hacer más con menos esfuerzo.
+      - Pueden hacerle más eficiente y productivo porque no está constantemente buscando el ratón y navegando por los menús.
+
+   - Autorrelleno
+      - La esquina inferior derecha de cada Célula tiene un Controlador de relleno.
+      - Es un pequeño cuadrado verde en Microsoft Excel y un pequeño círculo azul en Google Sheets.
+      - Clic en el Controlador de relleno de una celda y arrástrelo columna abajo para autorellenar otras celdas de la columna con la misma fórmula o función utilizada en esa celda.
+      - Clic en el Controlador de relleno de una celda y arrástrelo a través de una fila para autorellenar otras celdas de la fila con la misma fórmula o función utilizada en esa celda.
+
+   - Referencias relativas, absolutas y mixtas
+      - Las referencias relativas (celdas referenciadas sin el signo de dólar, como A2) cambiarán cuando copie y pegue la función en una celda diferente.
+      - Con las referencias relativas, la ubicación de la celda que contiene la función determina las celdas utilizadas por la función. 
+      - Las referencias absolutas (celdas totalmente referenciadas con un signo de dólar, como $A$2) no cambiarán cuando copie y pegue la función en una celda diferente.
+      - Con las referencias absolutas, las celdas referenciadas siempre serán las mismas.
+      - Las referencias mixtas (celdas parcialmente referenciadas con un signo de dólar, como $A2 o A$2) cambiarán cuando copie y pegue la función en una celda diferente.
+      - Con las referencias mixtas, la ubicación de la celda que contiene la función determina las celdas utilizadas por la función, pero sólo la fila o la columna es relativa (no ambas).   
+      - En las hojas de cálculo, puede pulsar la tecla F4 para alternar entre referencias relativas, absolutas y mixtas en una función.
+      - Clic en la celda que contiene la función, resalte las celdas referenciadas en la barra de fórmulas y, a continuación, pulse F4 para alternar y seleccionar referencias relativas, absolutas o mixtas.
+
+   - Rangos de datos
+      - Cuando hace clic en una celda que contiene una función, los rangos de datos coloreados en la barra de fórmulas indican qué celdas se están utilizando en la hoja de cálculo.
+      - Hay diferentes colores para cada rango Único en una función.
+      - Los rangos de datos coloreados le ayudan a no perderse en funciones complejas.
+      - En las hojas de cálculo, puede pulsar la tecla F2 para resaltar el rango de datos utilizado por una función.
+      - Haga clic en la celda que contiene la función, resalte el rango de datos utilizado por la función en la barra de fórmulas y, a continuación, pulse F2.
+      - La hoja de cálculo irá a las celdas especificadas por el rango y las resaltará.
+
+   - Rangos de datos evaluados para una condición
+      - COUNTIF es un ejemplo de una función que devuelve un valor basado en una condición para la que se evalúa el rango de datos.
+      - La función cuenta el número de celdas que cumplen los criterios.
+      - Por ejemplo, en una hoja de cálculo de gastos, utilice COUNTIF para contar el número de celdas que contienen un reembolso por "billete de avión"
+   
+   - Para más Información, consulte:
+      - [La página de soporte de Microsoft para COUNTIF ](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34)
+      - D[ocumentación del Centro de Ayuda de Google para COUNTIF](https://support.google.com/docs/answer/3093480?hl=en) donde puede copiar una hoja con [ejemplos de COUNTIF](https://docs.google.com/spreadsheets/d/1PYoKCYZAkWSaMBsiTyvxZzCCt2WQ-QKOC763RWHMB7c/template/preview)
+
+- Puntos clave
+   - Hay muchas más funciones que pueden ayudarle a sacar el máximo partido de sus datos.
+   - Esto es sólo el principio.
+   - Puede seguir aprendiendo a utilizar funciones que le ayuden a resolver problemas complejos con eficacia y precisión a lo largo de toda su carrera.
+
+- Accesos directos del teclado
+   - Puede guardar estas funciones para consultarlas en el futuro.
+   - No dude en descargarse una versión en .pdf de las funciones a continuación:
+      - [DAC2 Keyboard functions 1.pdf](./resources/modulo-03/DAC2 Keyboard functions 1.pdf)
+      - [DAC2 Keyboard functions 2.pdf](./resources/modulo-03/DAC2 Keyboard functions 2.pdf)
