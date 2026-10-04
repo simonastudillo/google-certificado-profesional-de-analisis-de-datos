@@ -343,3 +343,35 @@ Normalmente, los proyectos no empiezan hasta que se aprueba un SOW con sus pieza
 ¡Buen trabajo reforzando tu aprendizaje! Una reflexión meditada sobre este tema destacaría la importancia de utilizar preguntas SMART para ayudar a elaborar un SOW. Además, tu respuesta debería incluir por qué es importante desarrollar un SOW para un proyecto.
 
 El SOW es sobre todo una herramienta de organización para ayudar a los analistas a tomar decisiones efectivas e impactantes. Se trata de ser técnico dando siempre los mismos pasos para asegurarse de que el analista actúa con intención. Ser capaz de describir su proceso y los métodos pone de relieve su capacidad para ser minucioso, hacer un seguimiento de los proyectos y aplicar marcos eficaces a su trabajo.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre Pensamiento estructurado
+
+1. ¿Cómo se denomina el área específica de análisis que abarca todas las actividades que afectan o se ven afectadas por un problema?
+   - [x] Dominio del problema
+   - [ ] Estructura del problema
+   - [ ] Alcance del problema
+   - [ ] Contexto del problema
+> El dominio del problema es el área específica de análisis que abarca todas las actividades que afectan o se ven afectadas por un problema.
+
+2. ¿Cuáles son los elementos clave del pensamiento estructurado? Seleccione todos los que corresponda. 
+   - [x] Revelar lagunas y oportunidades
+   - [x] Organizar la información disponible
+   - [ ] Implementar una solución
+   - [x] Reconocer el problema o la situación actual
+> Pensamiento estructurado es el proceso de reconocer el problema o la situación actual, organizar la información disponible, revelar las lagunas y las oportunidades e identificar las opciones.
+
+3. Rellene el espacio en blanco: Un Alcance del trabajo es un acuerdo _____ del trabajo que va a realizar en un proyecto.
+   - [ ] diagrama
+   - [ ] informe
+   - [x] esquema
+   - [ ] lista de tareas pendientes
+> Un Alcance del trabajo es un esquema acordado del trabajo que va a realizar en un proyecto.
+
+4. ¿Cuáles son algunas de las estrategias que utilizan los profesionales de los datos para asegurarse de que trabajan con datos precisos y justos? Seleccione todas las que correspondan. 
+   - [x] Considerar diferentes puntos de vista antes de sacar conclusiones
+   - [x] Recoger datos de forma imparcial
+   - [x] Garantizar una representación exacta de la Población en una Muestra
+   - [ ] Mantener la objetividad no preguntando dónde se originaron los Datos
+> Para garantizar unos datos exactos y justos, asegúrese de que la población está representada con exactitud, recopile los datos con un gestor imparcial y tenga en cuenta diferentes puntos de vista antes de sacar conclusiones.
