@@ -351,3 +351,51 @@
    ¡Enhorabuena por haber completado esta actividad práctica! En esta actividad, ha importado un conjunto de datos, ha ordenado sus datos, ha creado una tabla de datos y ha utilizado funciones para realizar cálculos y analizar sus datos.  
 
    Una respuesta eficaz señalaría que las funciones de las hojas de cálculo ayudan a los profesionales de los datos a analizar rápidamente grandes cantidades de datos. También mencionaría que la creación de tablas de datos puede ayudar a resumir y comunicar aspectos importantes de los datos. En las próximas actividades, seguirá explorando las formas en que las funciones de las hojas de cálculo pueden ayudarle a trabajar con conjuntos de datos complejos. 
+
+---
+
+## Ponga a prueba sus conocimientos sobre el uso de funciones en hojas de cálculo
+
+1. En esta hoja de cálculo, ¿qué se devolverá de la función =SUM(B1:B4)?
+
+| (n/a) | A | B | C | D | E |
+| ----- | - | - | - | - | - |
+| 1     | 9 | 3 | 7 | 6 | 8 |
+| 2     | 3 | 2 | 3 | 7 | 2 |
+| 3     | 5 | 6 | 9 | 2 | 3 |
+| 4     | 7 | 4 | 1 | 2 | 4 |
+   
+   - [x] 15
+   - [ ] 9
+   - [ ] 13
+   - [ ] 7
+> La función =SUM(B1:B4) devolverá 15. SUM es una función de hoja de cálculo que suma los valores de un rango de celdas seleccionado.
+
+2. ¿Cuál es la forma correcta de escribir una función que halle la media de todos los valores del rango de celdas de F1 a F10 en una hoja de cálculo?
+   - [ ] =(F1-F10)
+   - [ ] AVERAGE(F1+F10)
+   - [x] =AVERAGE(F1:F10)
+   - [ ] =AVERAGE(F1,F10)
+> Para hallar la media de todos los valores entre las celdas F1 y F10, la función es =AVERAGE(F1:F10). AVERAGE es una función de hoja de cálculo que devuelve una media de los valores de un rango seleccionado.
+
+3. En esta hoja de cálculo, ¿qué se devolverá de la función =MIN(D1:D4)?
+
+| (n/a)  | A  | B  | C  | D  | E  |
+| ------ | -- | -- | -- | -- | -- |
+| 1      | 95 | 37 | 1  | 6  | 27 |
+| 2      | 5  | 0  | 49 | 31 | 5  |
+| 3      | 78 | 2  | 6  | 2  | 3  |
+| 4      | 6  | 33 | 1  | 62 | 40 |
+
+   - [ ] 0
+   - [ ] 62
+   - [x] 2
+   - [ ] 95
+> La función =MIN(D1:D4) devolverá 2. MIN es una función de hoja de cálculo que devuelve el valor numérico más pequeño de un rango de celdas.
+
+4. ¿Cuál es la forma correcta de escribir una función que encuentre el mayor valor en el rango de celdas de G60 a G100 en una hoja de cálculo?
+   - [ ] GREAT(G60-G100)
+   - [ ] (G60^G100)
+   - [x] =MAX(G60:G100)
+   - [ ] =(G60:G100)MAXIMUM
+> Para encontrar el mayor valor entre las celdas G60 y G100, la función es =MAX(G60:G100). MAX es una función de hoja de cálculo que devuelve el mayor valor numérico de un rango de celdas.
