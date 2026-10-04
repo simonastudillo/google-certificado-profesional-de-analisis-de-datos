@@ -209,3 +209,145 @@
    - No dude en descargarse una versión en .pdf de las funciones a continuación:
       - [DAC2 Keyboard functions 1.pdf](./resources/modulo-03/DAC2 Keyboard functions 1.pdf)
       - [DAC2 Keyboard functions 2.pdf](./resources/modulo-03/DAC2 Keyboard functions 2.pdf)
+
+---
+
+## Actividad práctica: Crear una tabla de datos personalizada
+- Resumen de la actividad
+   - En esta actividad, utilizará una hoja de cálculo para construir una tabla de datos personalizada y analizar sus datos con funciones.
+   - Para empezar, suponga que es un analista de datos que trabaja para una agencia de contratación.
+   - Esta agencia de contratación ayuda a todo tipo de empresas a encontrar personas cualificadas para cubrir puestos vacantes de analista de datos.
+   - La agencia ha recopilado datos sobre las solicitudes de empleo para las oportunidades publicadas en su sitio web en el transcurso de un año. 
+
+- Escenario
+   - Revise el siguiente escenario.
+   - A continuación, complete las instrucciones paso a paso.
+   - La Agencia ha pedido a su Equipo que optimice su proceso de aplicación en línea.
+   - Su tarea consiste en resumir los datos de la solicitud de empleo de la agencia.
+   - En concreto, quiere responder a las siguientes preguntas: 
+      - ¿Cuál fue el número total de aplicaciones recibidas cada mes?
+      - ¿Cuántas solicitudes se recibieron?
+      - ¿En qué meses se recibieron el menor y el mayor número de solicitudes? 
+      - ¿Cuál fue el número medio de aplicaciones recibidas al mes?
+   - Para ello, trabajará con una hoja de cálculo.
+   - Utilizará funciones de la hoja de cálculo para hacer cálculos basados en sus Datos y creará una tabla de datos personalizada para resumir sus resultados. 
+   - Cuando termine esta actividad, será capaz de importar un archivo de hoja de cálculo, ordenar datos, crear una tabla de datos personalizada y utilizar funciones de hoja de cálculo para trabajar con sus datos.
+   - Las hojas de cálculo son una herramienta esencial para todo Analista de datos.
+   - Utilizar hojas de cálculo para organizar y analizar datos es una habilidad importante que seguirá desarrollando a lo largo de su carrera.  
+
+- Instrucciones paso a paso
+   - Siga las instrucciones para completar cada paso de la actividad.
+   - A continuación, responda a las preguntas al final de la actividad antes de pasar al siguiente punto del curso.
+
+1. Acceder a la hoja de cálculo
+- Para utilizar la hoja de cálculo para este tema del curso, seleccione el enlace que aparece más abajo y, a continuación, seleccione el botón "Utilizar plantilla" para abrir su propia versión de la hoja de cálculo.  
+- [Plantilla](./resources/modulo-03/Untitled-spreadsheet.xlsx)
+
+2. Comprender los datos
+- Los datos de la agencia contienen información sobre todas las solicitudes de empleo de análisis de datos recibidas.
+- Los datos incluyen los siguientes encabezados de columna: ID del solicitante, Fecha, Título del puesto, Lugar del puesto, Contratado y Solicitud fácil.
+- A continuación encontrará una descripción de cada encabezado de columna y valores de muestra.
+
+| Nombre de la columna | Descripción de la columna | Datos de Muestra |
+| -------------------- | ------------------------- | ---------------- |
+| ID del solicitante   | Identificador único de los solicitantes | 11578773 |
+| Fecha                | Fecha y hora de recepción de cada solicitud | 1/1/2023 0:01:00 |
+| Puesto               | El puesto de Analítica de datos solicitado  | ANALISTA DE DATOS FARMACÉUTICOS |
+| Ubicación del puesto | Donde se encuentra el puesto de trabajo     | Lima, Perú                      |
+| Contratado           | Indica si un candidato fue contratado       | TRUE                            |
+| Solicitud fácil      | TRUE si la solicitud fue enviada directamente en la página web de la agencia; FALSE si la solicitud fue descargada y enviada por correo electrónico  | TRUE  |
+
+3. Ordenación de los datos
+- Dado que desea responder a preguntas basadas en un marco temporal específico (en este caso, las solicitudes recibidas por mes en 2023), comience ordenando los datos por fecha.
+- Clasificar implica disponer los datos en un orden significativo para facilitar su comprensión, análisis y visualización.
+- Tener en cuenta el orden en que se recibió cada solicitud puede ayudarle a descubrir tendencias en las solicitudes de empleo de análisis de datos.
+
+   1. En primer lugar, cambie el nombre de su hoja de cálculo. Seleccione Hoja de cálculo sin título e introduzca un nuevo nombre. Utilice data_analyst_jobs_2023 o un nombre similar que describa claramente los datos que contiene su hoja de cálculo. 
+   2. Cuando trabaje en una hoja de cálculo, puede tener varias hojas abiertas. Actualmente, su hoja de cálculo contiene una hoja denominada 2023_data_analyst_job. Cambie el nombre de esta hoja seleccionando la pestaña de la hoja y eligiendo Cambiar nombre en el menú. A continuación, introduzca los datos brutos. 
+   3. Haga más anchas las columnas Título del puesto (C) y Ubicación del puesto (D) arrastrando el límite derecho de los títulos de las columnas.
+   4. Seleccione todos los datos de la hoja de cálculo seleccionando la celda en la que se cruzan las filas y las columnas. 
+   5. En la barra de menús, seleccione Datos > Rango de ordenación > Opciones avanzadas de ordenación por rango.
+   6. En la ventana emergente, seleccione la casilla Los datos tienen encabezado de fila. 
+   7. En el desplegable Ordenar por, seleccione la Fecha de cabecera. A continuación, seleccione A a Z para ordenar en orden ascendente. 
+   8. Por último, seleccione Ordenar. 
+- Su hoja de cálculo muestra ahora las solicitudes de empleo recibidas por orden cronológico.
+
+4. Crear una tabla de datos personalizada
+- Ahora que ha clasificado sus datos, está listo para crear una tabla de datos personalizada que le ayude a responder a cada una de sus preguntas.
+- Su tabla resumirá claramente los datos.
+- Además, si quiere compartir sus resultados, su tabla estará bien organizada y será fácil de entender.
+
+- Cuente el número de solicitudes recibidas cada mes
+   - En primer lugar, utilice las funciones de la hoja de cálculo para ayudarle a encontrar el número total de solicitudes recibidas en cada mes.
+   1. Para empezar, seleccione el icono Añadir hoja (el signo más) en la barra de menús para añadir una nueva hoja a su hoja de cálculo. Creará su tabla de datos en esta hoja
+   2. Cambie el nombre de la nueva hoja. Seleccione la pestaña de la hoja y elija Cambiar nombre en el menú. A continuación, introduzca los datos del resumen. 
+   3. A continuación, añada encabezados de columna a su tabla. En la celda A1 de su hoja de datos resumidos, introduzca Mes. En la celda B1, introduzca Aplicaciones.
+   4. Debajo de la etiqueta Mes , en la celda A2, introduzca Enero. Pulse Intro. 
+   5. Ahora, utilice el autorrelleno para añadir el resto de los meses del año. Seleccione de nuevo la celda A2. El tirador de relleno aparecerá en la celda. Seleccione en el tirador de relleno y arrástrelo hacia abajo hasta la celda A13 para autorrellenar todos los meses del año.
+   6. A continuación, convierta los valores numéricos de la columna Fecha de la hoja de datos brutos en texto. Seleccione la pestaña de datos brutos para volver a la hoja de datos brutos. En la celda G1, introduzca Mes. 
+   7. La función TEXT  convierte un número en texto según un formato especificado. En este caso, enumera en qué mes se recibió una solicitud. Utilice el formato "mmmm" para el nombre completo del mes. En la celda G2, introduzca el siguiente Código (no copie+pegue):
+      -  =TEXT(B2,"mmmm") 
+      - La primera entrada B2 se refiere a la celda que desea convertir. La segunda entrada ("mmmm") se refiere al formato específico que desea utilizar. Pulse Intro.
+      - (Nota: Es muy importante que introduzca manualmente todas las fórmulas y funciones. No debe copiarlas y pegarlas desde la actividad, ya que esto provocará un mensaje de error)
+   8. Si aparece un cuadro con la opción de autocompletar la columna, seleccione la marca de verificación o introduzca Ctrl + Intro (Windows) o Cmd + Retorno (Mac). Si no aparece este cuadro, seleccione la celda G2. A continuación, haga doble clic en el tirador de relleno para copiar la función hacia abajo en la columna. Esto rellenará todas las celdas de la columna con el mes correspondiente.
+   9. Ahora está listo para totalizar las solicitudes por mes. Podría hacerlo manualmente, filtrando los datos y contando el número de entradas de cada mes, pero esto le llevaría mucho tiempo y sería propenso a errores. En su lugar, utilice la función COUNTIF  . 
+   10. La función COUNTIF  cuenta rápidamente cuántos elementos de un rango de celdas cumplen un criterio determinado. En primer lugar, seleccione la pestaña de datos de resumen para volver a su hoja de datos de resumen. A continuación, en la celda B2, introduzca =COUNTIF('raw data'!G:G,A2). La primera entrada 'raw data'!G:G se refiere al Rango donde está contando los datos. El rango se encuentra en su hoja de datos brutos 'raw data'! e incluye todas las entradas de la columna G G:G. Esta columna contiene los datos de los meses. La segunda entrada A2 se refiere al criterio que desea contar. En este caso, es "enero", el valor de la celda A2 de su hoja de datos de resumen. La función calcula cuántas veces aparece enero (el criterio) en la columna Mes (el Rango). 
+   11. Pulse Intro. Observará que aparece el valor 2387 en la celda B2. Esto significa que en enero se presentaron 2.387 solicitudes de empleo. 
+   12. Seleccione la celda B2. Haga doble clic en el tirador de relleno para copiar la función hacia abajo a través de la celda B13.
+   - Ahora su tabla muestra el número total de solicitudes presentadas en cada mes: 
+
+| Mes     | Solicitudes |
+| ------- | ----------- |
+| Enero   | 2387        |
+| Febrero | 2312        |
+| Marzo   | 2536        |
+| Abril   | 2544        |
+| Mayo    | 2954        |
+| Junio   | 2990        |
+| Julio   | 3138        |
+| Agosto  | 2969        |
+| Septiembre | 2865     |
+| Octubre    | 2751     |
+| Noviembre  | 2508     |
+| Diciembre  | 2642     |
+
+5. Hallar el número total de aplicaciones recibidas
+- Ahora que ha calculado el número de solicitudes recibidas en cada mes, utilice las fórmulas de la hoja de cálculo para calcular el número total de solicitudes recibidas.
+- Etiqueta la Célula en la que calcularás el resultado. En la Célula A14, introduzca Total. 
+- En la Célula B14, introduzca =SUM(B2:B13). Esta función calcula el número de aplicaciones recibidas de enero a diciembre. 
+- La Célula B14 contiene el número total de aplicaciones, 32596.
+
+6. Encontrar los meses con menor y mayor número de aplicaciones recibidas
+- Utilice las funciones MIN y MAX para calcular esta información.
+- Primero, haga etiquetas para sus resultados. En la Célula A16, introduzca Mín. En la Célula A17, introduzca MAX.
+- La función MIN  devuelve el valor mínimo en un rango numérico. En la celda B16, introduzca =MIN(B2:B13). El resultado, 2312, es el menor número de aplicaciones recibidas en cualquier mes de 2023. 
+- La función MAX  devuelve el valor máximo en un conjunto de datos numéricos. En la Célula B17, introduzca =MAX(B2:B13). El resultado, 3138, es el mayor número de aplicaciones recibidas en cualquier mes de 2023.
+
+7. Encuentre el número medio de aplicaciones recibidas al mes
+- Utilice la función AVERAGE para calcular esta información.
+- Primero, haga etiquetas para sus resultados. En la Célula A18, introduzca Avg. 
+- La función AVERAGE  devuelve el valor medio en un conjunto de datos numéricos. En la Célula B18, introduzca =AVERAGE(B2:B13). El resultado, 2716,33, es el número medio de aplicaciones mensuales recibidas en 2023.
+- Su trabajo ayudará a su Equipo a descubrir tendencias y Patrones importantes en los datos de la Agencia y a generar estadísticas para optimizar el proceso de aplicación. Por ejemplo, como sus hallazgos revelan que febrero fue el mes más lento, la agencia puede dedicar una mayor parte de su presupuesto de publicidad y divulgación a febrero y menos al mes punta de julio. Este es el Impacto estratégico del Análisis de datos. 
+
+8. Explore las opciones de formato
+- No dude en explorar las opciones de formato para su tabla de datos mediante negrita, alineación al centro, color de relleno, bordes y mucho más.
+- El formato le permite resaltar la información importante y le ayuda a captar la atención de su público.
+
+- [Excel resuelto](./resources/modulo-03/data_analyst_jobs_2023.xlsx)
+
+- Reflexión
+   - ¿Cuál de las siguientes funciones cuenta cuántos elementos de un Rango de celdas cumplen un criterio determinado? 
+      - [ ] COUNTIF  
+      - [ ] TEXT
+      - [ ] MAX
+      - [ ] SUM
+   > La función COUNTIF cuenta rápidamente cuántos elementos de un rango de celdas cumplen un criterio determinado. El uso de funciones para realizar cálculos y analizar datos es una habilidad importante para un analista de datos. En el futuro, seguirá desarrollando esta habilidad a medida que trabaje con conjuntos de datos más complejos. 
+
+   - En esta actividad ha aprendido a analizar Datos utilizando funciones de hoja de cálculo. En el cuadro de texto que aparece a continuación, escriba de 2 a 3 frases (de 40 a 60 palabras) en respuesta a cada una de las siguientes preguntas:
+      - ¿Cómo le ayuda el uso de funciones a obtener rápidamente información estadística sobre grandes cantidades de Datos?
+      - ¿Cómo le ayuda la creación de una tabla de datos a organizar y comunicar aspectos importantes de sus datos? 
+   > Las funciones de las hojas de cálculos ayudan a procesar la información de forma rápida y eficiente, siempre y cuando los datos estén normalizados, para este caso el que más me llamó la atención fue la función COUNTIF, la cual ayudó a contar rápidamente la cantidad de solicitudes por mes, hacer esto de forma manual podría tomar 1 hora o más, además de dejar espacio para el error humano. Crear una nueva hoja con una nueva tabla para resumen ayuda a no modificar la hoja de datos, evitar problemas de mover, eliminar o modificar la información.
+   - Comentarios
+   ¡Enhorabuena por haber completado esta actividad práctica! En esta actividad, ha importado un conjunto de datos, ha ordenado sus datos, ha creado una tabla de datos y ha utilizado funciones para realizar cálculos y analizar sus datos.  
+
+   Una respuesta eficaz señalaría que las funciones de las hojas de cálculo ayudan a los profesionales de los datos a analizar rápidamente grandes cantidades de datos. También mencionaría que la creación de tablas de datos puede ayudar a resumir y comunicar aspectos importantes de los datos. En las próximas actividades, seguirá explorando las formas en que las funciones de las hojas de cálculo pueden ayudarle a trabajar con conjuntos de datos complejos. 
