@@ -59,3 +59,83 @@
 
 - Ejemplo: Solucionar errores
    - Cuando encuentres errores, asegúrate de solucionar el formato de tus funciones y fórmulas en la barra de fórmulas.
+
+---
+
+## Funciones 101
+- ​Las fórmulas son una excelente manera de ser ​más eficiente al usar hojas de cálculo, ​especialmente cuando agregas métodos abreviados, ​como copiar y pegar, a la mezcla.
+- ​A medida que avances como analista de datos, ​lo más probable es que aprendas ​más atajos que te ayudarán en tu proceso.
+- ​Pero ahora es el momento de pasar a las funciones.
+- ​Si bien están estrechamente relacionadas con las fórmulas, ​no son exactamente lo mismo.
+- ​Al final de este vídeo, ​comprenderás la diferencia y ​sabrás cuándo usar ambos.
+- ​En el mundo de las hojas de cálculo, ​una función es un comando preestablecido que ​ejecuta automáticamente un proceso ​o tarea específicos utilizando los datos.
+- ​Es posible que recuerde algunos de los métodos abreviados ​que aprendimos y que se pueden usar con las fórmulas.
+
+- ​Piensa en las funciones como los atajos más útiles.
+- ​La buena noticia es que muchas ​funciones de hojas de cálculo tienen nombres ​que indican lo que hacen.
+- ​Hay un montón de funciones por ahí.
+- A ​medida que continúe trabajando con hojas de cálculo, ​descubrirá que usa algunas con frecuencia ​y otras, muy poco o nada.
+- ​Por ahora, ​veamos algunas de las funciones que podemos ​aplicar a nuestros datos de ventas del vídeo anterior.
+- ​Empezaremos con las ventas totales.
+- ​Usemos la función SUM para esto en la celda F2.
+
+- ​Los primeros pasos son bastante ​similares a los que hicimos en el último vídeo.
+- ​En primer lugar, seleccionaremos la celda ​en la que queremos que aparezca el cálculo.
+- ​Escriba equals y, a continuación, añada la palabra SUM como nuestra función.
+- ​Una de las mejores cosas de las funciones ​es que no siempre necesitan operadores, ​como un signo más para sumar.
+- ​En este caso, después de los paréntesis abiertos, ​puede continuar y seleccionar ​el rango de celdas que va a agregar.
+- Si ​aparecen dos puntos entre las referencias de las celdas, ​se indica que está utilizando un rango.
+- ​En este caso, el rango incluye celdas de la misma fila.
+
+- ​Tras los paréntesis cerrados, pulsamos Entrar.
+- ​Justo así, aparece nuestro número total de ventas.
+- ​Al igual que la fórmula que usamos antes, ​las funciones se pueden copiar y ​pegar en otras celdas de la misma columna.
+- ​Pero deshagamos ese paso para que puedas ​ver otra forma de copiar una función o fórmula.
+- ​Las hojas de cálculo tienen algo llamado identificador de relleno.
+- ​Es un pequeño recuadro que aparece en ​la esquina inferior derecha al hacer clic en una celda.
+- ​Si coloca el cursor sobre el cuadro, ​puede arrastrar el controlador de relleno hasta ​los demás cuadros de la misma fila o columna.
+
+- ​Cualquier fórmula o función de esa celda ​se agregará automáticamente a las celdas que llene y, además, ​el controlador de relleno actualizará la fórmula para que ​las referencias a las celdas coincidan con ​la fila de las columnas de las celdas que complete.
+- ​Esto significa que la fórmula se calcula ​en función de los datos de cada fila o columna independiente.
+- ​Rellenar no funcionará en todas las situaciones, ​pero sigue siendo un truco bastante bueno.
+- ​Ahora vamos a encontrar la venta promedio de ​cada mes usando la función PROMEDIO.
+- ​Las diferentes funciones realizan cálculos diferentes, ​pero funcionan de la misma manera.
+- ​Ten en cuenta que no todos los cálculos con los ​que te encontrarás tienen su propia función para ayudarte.
+- ​Por ejemplo, para encontrar ​el cambio porcentual en las ventas entre junio y julio, ​usarás la misma fórmula que usaste en un vídeo anterior.
+
+- ​Supongamos que se le pide que busque ​las ventas mensuales más bajas en este conjunto de datos.
+- ​Hay una función para eso.
+- ​Se llama función MIN, ​que significa mínimo.
+- ​Así es como funciona.
+- ​Supongamos que necesitas encontrar las ventas mensuales más bajas ​de todo el conjunto.
+- ​Todo lo que tiene que hacer es configurar la función.
+- ​Después del paréntesis abierto, ​seleccione los valores de las tres filas.
+
+- ​Esta información puede ser importante ​para las partes interesadas.
+- ​Añadamos color a la celda con ese valor ​en su conjunto de datos para que destaque.
+- ​En este caso, haga clic en la celda D2 y luego en el icono de color de relleno, ​que parece una lata de pintura, ​luego elija un color.
+- ​Usaré el amarillo aquí.
+- ​Puedes seguir los mismos pasos para conseguir ​las ventas más altas utilizando la ​función MAX, espéralo.
+- ​Parece que tenemos un mensaje de error.
+- ​¿Qué puede estar mal? 
+- ​Se nos olvidó incluir ​un paréntesis abierto después de la función.
+- ​No te preocupes, es una solución rápida.
+- ​Sin embargo, este es un buen recordatorio para comprobar continuamente ​el formato de las funciones y ​fórmulas a medida que las utiliza.
+- Más ​adelante, aprenderemos más sobre los mensajes de error y cómo trabajar con ellos.
+- ​Así está mejor.
+- Ahora ​también agregaremos color a la celda con las ventas más altas.
+- ​Esta es solo una forma de resaltar los datos clave.
+
+- ​Descubrirás algunos otros más adelante.
+- ​Ya has visto algunas formas de ​añadir y organizar datos en una hoja de cálculo.
+- ​También ha visto lo poderosas que ​pueden ser las fórmulas y funciones cuando se aplican a datos del mundo real.
+- ​Como analista de datos, ​esto es solo el principio de ​tu experiencia con las hojas de cálculo.
+- ​Pronto descubrirás ​cuánto más pueden ofrecer las hojas de cálculo.
+- ​Mientras tanto, puedes ​practicar algunas de estas fórmulas ​, funciones y otros procesos por tu cuenta.
+- ​Puede ser divertido experimentar ​y ver todo lo que pueden hacer las hojas de cálculo.
+
+- ​Pronto pasarás de las ​hojas de cálculo al pensamiento estructurado.
+- ​Las piezas de análisis de datos están empezando a encajar.
+- Están ​por venir cosas interesantes.
+- Así que quédate aquí.
+- [Excel resuelto](./resources/modulo-03/Monthly-Sales---Functions-101-resuelto.xlsx)
