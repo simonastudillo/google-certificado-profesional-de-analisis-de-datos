@@ -205,3 +205,31 @@
 - ​Esto ayudará a las partes interesadas a entender el calendario y ​a tener confianza en su capacidad para alcanzar esos objetivos.
 - ​Así que sabemos que la comunicación es clave y ​tenemos algunas buenas reglas a seguir para nuestra comunicación profesional.
 - ​Próximamente ​hablaremos aún más sobre cómo responder a las preguntas de las partes interesadas, ​entregar datos y comunicarse con su equipo
+
+---
+
+## Sarah: Cómo comunicarse con las partes interesadas
+- Soy Sarah y soy líder analítica senior en ​Google.
+- Como analista de datos, habrá ocasiones en las que tengas diferentes ​partes interesadas que no tengan ni idea de la cantidad de tiempo que te lleva hacer ​cada proyecto, y al principio, cuando me piden que haga un proyecto o ​que investigue algo, siempre intento dar un poco de expectativas ​sobre el plazo de entrega porque la mayoría de tus partes interesadas ​no entienden realmente lo que haces con los datos y cómo los obtienes y ​cómo los limpias y elaboras la historia que hay detrás de ellos.
+- ​La otra cosa que quiero dejar clara a todo el mundo es que ​tienes que asegurarte de que los datos te cuentan las historias.
+- ​A veces la gente cree que los datos pueden responder a todo y ​a veces tenemos que reconocer que eso es sencillamente falso.
+- ​Hace poco trabajé con un estado para averiguar por qué la gente no se apuntaba a ​las prestaciones que necesitaba y merecía.
+- ​Vimos que la gente entraba en la página web ​y donde se apuntaba a esas prestaciones y veía si cumplía los requisitos.
+- ​Pero por alguna razón había algo que les impedía dar el paso de ​inscribirse realmente.
+
+- ​Así que pude investigarlo utilizando Google Analytics para intentar descubrir qué es lo que ​impedía a la gente dar el paso de inscribirse en estos Beneficios que ​necesitan y merecen.
+- ​Así que entré en Google Analytics, ​y vi que la gente volvía entre esta página de servicios y ​la página de desempleo, de vuelta a la página de servicios, de vuelta a la página de desempleo.
+- ​Y así se me ocurrió la teoría de que, oye, la gente no está encontrando la Información que ​necesitan para dar el siguiente paso y ver si cumplen los requisitos para recibir estos servicios.
+- ​La única forma de saber realmente por qué ​alguien abandonó el sitio sin tomar medidas es si se lo pregunto.
+- ​Tendría que hacerles una encuesta.
+- ​Google Analytics no me proporcionó los datos que necesitaría ​para respaldar al 100% mi teoría o desmentirla.
+- ​Así que cuando esté explicando a sus partes interesadas, ​"Eh, tengo una teoría.
+
+- ​Estos datos me están contando una historia.
+- ​Sin embargo, no puedo saberlo al 100% debido a las limitaciones de los datos, ​sólo tiene que decirlo.
+- ​Así que la forma en que lo comunico es diciendo: "Tengo la teoría de que la gente ​no encuentra la información que necesita para pasar a la acción.
+- ​Aquí están los puntos probados que tengo que apoyan esa teoría.
+-  ​Así que lo que hicimos fue facilitar un poco la búsqueda de esa ​información.
+- Aunque no estábamos seguros al 100% ​de que mi teoría fuera correcta, teníamos la suficiente confianza para pasar a la acción y entonces ​miramos atrás, y vimos cómo mejoraban todas las Métricas que me apuntaban a esta teoría.
+- Y ​eso siempre sienta muy bien cuando eres capaz de ayudar a una causa en la que ​crees a hacerlo mejor, y ayudar a más gente a través de los datos.
+- ​Hace que todo el aprendizaje friki sobre SQL y todo lo demás merezca completamente la pena. 
