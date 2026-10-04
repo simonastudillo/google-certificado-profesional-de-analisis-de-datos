@@ -279,3 +279,67 @@ Normalmente, los proyectos no empiezan hasta que se aprueba un SOW con sus pieza
 - Por ejemplo, cuando recopile Datos, también querrá hacer preguntas sobre el contexto para asegurarse de que comprende el negocio y el proceso empresarial.
 - Durante la organización, el contexto es importante para sus convenciones de nomenclatura, la forma en que decide mostrar las relaciones entre las variables y lo que decide mantener u omitir.
 - Y, por último, cuando realice la presentación, es importante incluir información contextual para que las partes interesadas entiendan su análisis.
+
+---
+
+## Autorreflexión: Trabajo con conjuntos de datos
+- Resumen de la actividad
+   - Recientemente, has descubierto cómo formular preguntas SMART eficaces y cómo ahorrar tiempo con el pensamiento estructurado.
+   - Ahora, trabajarás con conjuntos de datos y responderás a preguntas breves.
+   - Estas habilidades le ayudarán a desarrollar una visión de su propio itinerario de aprendizaje y le prepararán para aplicar sus conocimientos sobre análisis, elaboración de preguntas SMART y desarrollo de un alcance de trabajo (SOW).
+   - A medida que responda a las preguntas -y formule sus propias preguntas-, considere los conceptos, prácticas y principios que le han ayudado a refinar su comprensión y reforzar su aprendizaje.
+   - Ya has hecho el trabajo duro, así que asegúrate de sacarle el máximo partido practicando lo que has aprendido
+
+- Instrucciones paso a paso
+   - Siga las instrucciones para completar cada paso de la actividad. A continuación, responda a la pregunta al final de la actividad antes de pasar al siguiente punto del curso.
+
+1. Acceder a la plantilla
+- Para utilizar la plantilla para este elemento del curso, haga clic en el enlace siguiente y seleccione "Utilizar plantilla"
+- [Scope-Of-Work-Template-2.docx](./resources/modulo-03/Scope-Of-Work-Template-2.docx)
+
+2. Examinar un conjunto de datos en Kaggle
+- Kaggle es una plataforma de ciencia de datos que alberga diversos conjuntos de datos
+- Echa un vistazo a este [breve vídeo introductorio](https://www.youtube.com/watch?v=TNzDMOg_zsw) para saber más sobre Kaggle.
+- Tendrás que crear una cuenta gratuita para empezar a explorar y analizar diferentes conjuntos de datos.
+- Para crear una cuenta gratuita en Kaggle, visita kaggle.com y haz clic en Registrarse en la esquina superior derecha de la página de inicio.
+- Puedes registrarte utilizando una cuenta de Google u otra dirección de correo electrónico.
+- Completa el registro verificando tu correo electrónico. 
+- A continuación, esta actividad proporcionará un ejemplo de cómo utilizar un conjunto de datos para formular preguntas SMART y crear un SOW.
+- Después, tendrás la oportunidad de explorar un conjunto de datos de tu elección para formular tus propias preguntas SMART y crear tu propio SOW.
+
+- En primer lugar, descarga [Lettuce Growth Days](https://www.kaggle.com/datasets/jurijsruko/lettuce) del sitio web de Kaggle.
+   - Después de extraer los archivos, abre el archivo CSV lettuce_dataset en Google Sheets o Excel. 
+- En segundo lugar, examine los nombres y valores de las columnas del conjunto de datos para obtener una comprensión inicial de los datos.
+   - Ten en cuenta que Kaggle proporciona un resumen del conjunto de datos y una explicación del nombre de cada columna en la sección "Acerca del conjunto de datos"
+- En tercer lugar, contempla objetivos para formular preguntas SMART.
+   - Recuerda que SMART se refiere a Specific (específico), Measurable (medible), Action-oriented (orientado a la acción), Relevant (relevante) y Time-bound (limitado en el tiempo).
+   - (Nota: Esta actividad se centra en la formulación de preguntas SMART. No es necesario que respondas las preguntas para completar la actividad)
+   - Las preguntas SMART para los datos de los Días de crecimiento de la lechuga podrían incluir: 
+      - Específicas: ¿Qué fecha tiene la humedad más baja registrada (%), y cuál es ese valor?
+      - Mensurable: ¿Cuál es el nivel medio de pH para todas las plantas del conjunto de datos?
+      - Orientado a la acción: Si se aumenta el total de sólidos disueltos (TDS) al cultivar lechuga, ¿se acortará el tiempo necesario para que las plantas alcancen la madurez?
+      - Relevante: A partir del conjunto de datos, ¿cómo pueden hacerse predicciones sobre el crecimiento dadas las condiciones?
+      - Limitado en el tiempo: ¿Cuál es el intervalo de fechas para este conjunto de datos?
+- Por último, basándose en sus preguntas SMART, cree un SOW que describa las tareas analíticas.
+- Puede encontrar un ejemplo de SOW para Lettuce Growth Days en el [marco de datos de Lettuce: Ejemplo de SOW](https://docs.google.com/spreadsheets/d/1ifvROJg0le-k5kFtse129zHx4NzCCQE9/template/preview).
+
+3. Explorar más conjuntos de datos
+- En la página de inicio de Kaggle, seleccione Conjuntos de datos para ver los conjuntos de datos disponibles.
+- Selecciona una categoría que te interese o que se ajuste a tus objetivos profesionales.
+- Selecciona Descargar para descargar los datos y comenzar a analizarlos.
+- Basándote en el conjunto de datos que has elegido, crea una lista de 3-5 preguntas SMART y desarrolla un SOW completo.
+- Nota: Es importante comprobar la puntuación de usabilidad de Kaggle al elegir un conjunto de datos en Kaggle; cuanto mayor sea la puntuación, más fácil será trabajar con los datos.
+- Encuentre la puntuación de usabilidad en la información del conjunto de datos.
+- Clasifica la integridad, credibilidad y compatibilidad del conjunto de datos.
+
+- Reflexión
+- Considera lo que has aprendido sobre el trabajo con conjuntos de datos para formular preguntas SMART y elaborar un SOW:
+   - ¿Por qué es importante formular preguntas SMART sobre tus conjuntos de datos? ¿Cómo benefician estas preguntas a tu trabajo como profesional de los datos?
+   - ¿Por qué es importante determinar las preguntas y respuestas SMART antes de elaborar un SOW?
+   - Ahora, escribe 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas. Escribe tu respuesta en el cuadro de texto que aparece a continuación. 
+> Formular preguntas SMART nos ayuda a recopilar y verificar que la información sea relevante para lo que estamos investigando, nos permite asegurarnos de preguntar por el contexto, que se pueda medir, que no sea una respuesta cerrada, limitar los tiempos de investigación en la pregunta. Esta metodología nos beneficia a los analistas porque nos permite obtener información realmente útil, agregando un rango de tiempo en la pregunta nos aseguramos de que los datos obtenidos son útiles para responder la pregunta, por ejemplo. Las preguntas SMART nos ayudan a determinar de manera correcta cuál es el objetivo, nos ayuda a definir correctamente que problema queremos resolver, que datos vamos a obtener, luego de tener eso resuelto podemos avanzar con SOW y planificar sobre esa base y contexto.
+
+-  Comentarios
+¡Buen trabajo reforzando tu aprendizaje! Una reflexión meditada sobre este tema destacaría la importancia de utilizar preguntas SMART para ayudar a elaborar un SOW. Además, tu respuesta debería incluir por qué es importante desarrollar un SOW para un proyecto.
+
+El SOW es sobre todo una herramienta de organización para ayudar a los analistas a tomar decisiones efectivas e impactantes. Se trata de ser técnico dando siempre los mismos pasos para asegurarse de que el analista actúa con intención. Ser capaz de describir su proceso y los métodos pone de relieve su capacidad para ser minucioso, hacer un seguimiento de los proyectos y aplicar marcos eficaces a su trabajo.
