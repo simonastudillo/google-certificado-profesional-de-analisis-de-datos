@@ -190,3 +190,50 @@
 ¡Enhorabuena por haber completado esta actividad práctica! Aunque los SOW no tienen un formato establecido, sí incluyen piezas fundamentales comunes de contenido. Una buena respuesta incluiría cómo este contenido responde a las preguntas, establece las expectativas y organiza las actividades. Más allá de eso, considere lo siguiente: 
 
 Normalmente, los proyectos no empiezan hasta que se aprueba un SOW con sus piezas clave de contenido: los entregables, los hitos, el calendario y los informes. Para recopilar y sintetizar esta información, los analistas identifican y formalizan los requisitos cuantificables del proyecto. Utilizan el pensamiento estructurado para formular preguntas aclaratorias, definir lo que hay que conseguir y especificar los límites del proyecto.
+
+---
+
+## Mantenerse objetivo
+- ​Bienvenido de nuevo.
+- En este vídeo, ​exploraremos la importancia de contextualizar los datos ​y reconocer el sesgo de los datos.
+- Vamos a empezar.
+- ​Datos no viven en el vacío, necesitan contexto.
+- ​Anteriormente, aprendimos que el contexto es ​la condición en la que algo existe o sucede.
+- ​Las acciones pueden ser apropiadas en algunos contextos, ​pero inapropiadas en otros, ​por ejemplo, gritar, ​es grosero ​en un contexto, si tu amigo está de pie frente al televisor, ​pero es totalmente apropiado en otro, ​si ese amigo está ​a punto de ser atropellado por un niño en un triciclo.
+- ​¿Ves la diferencia?
+
+- En el mundo de los datos, ​los números no significan mucho sin contexto.
+- ​Dejaré que mi colega Ed, Googler, ​os cuente un poco más al respecto ​a medida que tengamos más y más datos disponibles.
+- ​Podemos aprovechar esos datos de ​maneras cada vez más sofisticadas ​y generar información más poderosa a partir de ellos.
+- ​Usamos los datos en muchos niveles diferentes.
+- ​A veces, nuestros datos son descriptivos y ​responden a preguntas como: ​¿cuánto gastamos en viajes el mes pasado? ​Datos se vuelven más valiosos a ​medida que generamos información diagnóstica y predictiva, ​como comprender por qué el gasto en viajes aumentó el mes pasado.
+- ​Sin embargo, los datos son más valiosos ​cuando podemos generar información prescriptiva.
+
+- ​Por ejemplo, ¿cómo podemos aprovechar ​los datos para incentivar viajes más eficientes? ​Averiguar qué significan los datos ​es tan importante como recopilarlos.
+- ​Como analista de datos, ​una gran parte de su trabajo consiste en ​poner los datos en contexto.
+- ​También depende de ti ​mantener la objetividad y reconocer ​todos los lados de un argumento antes de sacar conclusiones.
+- ​Lo que pasa con el contexto ​es que es muy personal.
+- ​Si dos personas seleccionan el mismo conjunto de datos ​y siguen las mismas instrucciones, ​existe la posibilidad de que obtengan resultados diferentes.
+- ​¿Por qué? Porque ​no existe un conjunto universal de interpretaciones contextuales.
+
+- ​Cada uno lo aborda a su manera.
+- ​Incluso si el proceso de recopilación de datos es correcto, ​el análisis aún puede malinterpretarse.
+- ​Las conclusiones pueden estar influenciadas por ​sus propios sesgos conscientes y subconscientes, ​que se basan en normas culturales, ​sociales y de mercado.
+- ​Por ejemplo, si le preguntas a un residente de Boston ​qué equipo de béisbol es el mejor ​, lo más probable es que diga Boston Red Sox.
+- ​Lo que nos lleva a una limitación importante del análisis de datos.
+- ​Si el análisis no es objetivo, ​las conclusiones pueden ser engañosas.
+- ​Para entender realmente de qué se tratan los datos, ​hay que pensar en quién, qué, ​dónde, cuándo, cómo y por qué.
+
+- ​Es bueno hacerse preguntas como: ​¿quién recopiló los datos? ​¿Y de qué se trata? ​¿Qué representan los datos en el mundo ​y cómo se relacionan con otros datos? ​¿Cuándo se recopilaron los datos? ​Datos recopilados hace un tiempo ​pueden tener ciertas limitaciones, ​dada la situación actual.
+- ​Por ejemplo, si recopiláramos ​números de teléfono durante el siglo pasado, en algún momento ​se habrían introducido los teléfonos móviles, ​lo que habría llevado a la necesidad de un campo de número de teléfono adicional.
+- ​También debe pensar en ​dónde se recopilaron los datos.
+- ​Muchas cosas pueden cambiar según las ciudades, ​los estados y los países, y la forma en que se recopilaron.
+- ​Es posible que una encuesta no sea tan eficaz ​como una entrevista en persona, por ejemplo.
+- ​Por supuesto, está el, por qué.
+- ​El por qué puede tener ​una relación particularmente fuerte con el sesgo.
+- ​¿Por qué? Porque a veces, los datos se recopilan, ​o incluso se inventan, para cumplir una agenda.
+- ​Lo mejor que puede hacer para garantizar ​la imparcialidad y precisión de sus datos ​es asegurarse de comenzar con ​una representación precisa de la población ​y recopilar los datos de la ​manera más adecuada y objetiva.
+
+- ​Luego, tendrás los datos ​para que puedas transmitirlos a tu equipo.
+- ​Esperamos que ahora comprenda ​la importancia de los datos justos y objetivos, ​y lo importante ​que es el contexto, a la hora de comprenderlo e interpretarlo.
+- ​A continuación, descubriremos cómo podemos darle vida.
