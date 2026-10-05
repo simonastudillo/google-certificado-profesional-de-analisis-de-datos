@@ -216,3 +216,35 @@
 - ​En el ejército, el trabajo en equipo hace que los sueños se hagan realidad.
 - ​Realmente confías en el equipo.
 - ​Definitivamente, ese ha sido el caso ​en mi carrera y trabajos posteriores al Cuerpo de Marines.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre el Trabajo en equipo
+
+1. Cuando dirija una reunión, ¿cuáles son algunas formas de asegurarse de que todos los participantes tengan una experiencia positiva? Seleccione todas las que correspondan.
+   - [x] Tome notas de lo que se discute
+   - [ ] Demostrar una fuerte capacidad de liderazgo haciendo la mayor parte de la conversación
+   - [x] Preparar notas, una presentación y una agenda para compartir con los asistentes
+   - [x] Pruebe la tecnología con antelación para asegurarse de que funciona correctamente
+> Cuando dirija una reunión, probar la tecnología, tomar notas y preparar materiales de apoyo le ayudará a garantizar que todos los participantes tengan una experiencia positiva.
+
+2. Para cambiar una situación de problemática a productiva, los analistas de datos pueden replantear un problema e iniciar una conversación constructiva. ¿Cuál de las siguientes afirmaciones es eficaz para hacerlo? Seleccione todas las que correspondan.
+   - [x] Me encantaría realizar este Proyecto. Consideraré los pasos necesarios y me pondré en contacto con usted en breve con una estimación de tiempo.
+   - [ ] Es importante que sepa que este problema no fue culpa mía.
+   - [x] Me gustaría ayudarle a alcanzar su meta. Hablemos de cómo puedo hacerlo.
+   - [x] Puede que haya otras cosas importantes que deba tener en cuenta. Voy a investigarlo.
+> Para replantear un problema, pueden ser útiles las tres afirmaciones siguientes: 1) Me encantaría realizar este Proyecto. Consideraré los pasos necesarios y me pondré en contacto con usted en breve con una estimación de tiempo. 2) Me gustaría ayudarle a alcanzar su objetivo. Hablemos de cómo puedo hacerlo. 3) Puede que haya otras cosas importantes que deba tener en cuenta. Voy a estudiarlo.
+
+3. Está trabajando en un proyecto con un compañero de trabajo y la situación se vuelve tensa cuando los dos discrepáis sobre lo que os dicen los datos. ¿Cuál es el mejor curso de acción?
+   - [ ] Solicite un socio diferente para éste y futuros proyectos; incluya documentación de apoyo clara.
+   - [ ] Siga adelante con el Proyecto utilizando la interpretación de los Datos de su socio; es bueno llegar a un compromiso.
+   - [ ] Vaya a ver a su supervisor y explíquele amablemente que su compañero de trabajo está mirando los datos de forma incorrecta. 
+   - [x] Inicie una conversación que permita a cada uno exponer con calma sus puntos de vista y determinar un plan adecuado.
+> Lo mejor es iniciar una conversación que permita a cada uno exponer con calma sus puntos de vista y determinar un plan adecuado.
+
+4. Un director le envía un correo electrónico pidiéndole un Informe para el fin de semana. Este tipo de informe tarda al menos 10 días en completarse. ¿Cuál es la mejor forma de proceder?
+   - [ ] Reenvíe el correo electrónico a otro analista de datos de su equipo y pídale que realice el informe en su lugar. 
+   - [ ] Complete el Informe lo mejor que pueda antes del final de la semana para cumplir el plazo solicitado.
+   - [x] Responda diciendo que estará encantado de hacerlo, pero que cree que tardará 10 días en completarse. A continuación, pregunte si puede discutir un plazo diferente.
+   - [ ] Llame al director, haciéndole saber que es imposible que alguien pueda cumplir ese plazo.
+> Lo mejor es responder diciendo que lo hará con mucho gusto, pero que cree que tardará 10 días en completarse. A continuación, pregunte si puede discutir un plazo diferente.
