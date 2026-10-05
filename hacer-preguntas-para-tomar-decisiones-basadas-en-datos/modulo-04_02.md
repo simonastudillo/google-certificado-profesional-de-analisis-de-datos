@@ -346,3 +346,40 @@
    - Los datos son una herramienta extremadamente poderosa para la toma de decisiones, pero si están incompletos, desajustados o no se han limpiado, pueden resultar engañosos.
    - Tome las medidas necesarias para asegurarse de que sus Datos están completos y son coherentes.
    - Limpie los datos antes de comenzar su análisis para ahorrarse a sí mismo y posiblemente a otros una gran cantidad de tiempo y esfuerzo.
+
+---
+
+## Piense en su proceso y en el resultado
+- ​Datos tienen el poder de cambiar el mundo.
+- ​Piensa en esto.
+- Un banco identifica 15 nuevas oportunidades para ​promocionar un producto, lo que genera 120 millones de dólares en ingresos.
+- ​Una empresa de distribución encuentra una forma mejor de gestionar los envíos, reduciendo ​su coste en 500 000$.
+- ​Google crea una nueva herramienta que puede identificar tumores de cáncer de mama en ​los ganglios linfáticos cercanos.
+- ​Todos estos son logros asombrosos, pero ¿sabes qué tienen en común? ​Todos son los resultados del análisis de datos.
+
+- ​Como analista de datos, tiene absolutamente el poder de cambiar el mundo.
+- ​Y todo comienza con la forma en que compartes los datos con tu equipo.
+- ​En este vídeo, ​analizaremos todas las variables que debe tener en cuenta al compartir datos.
+- ​Cuando entregues correctamente los datos a tu equipo, ​puedes asegurarte de que puedan tomar las mejores decisiones posibles.
+- ​Anteriormente aprendimos que la velocidad a veces puede afectar a la precisión al compartir la ​información de la base de datos con un equipo.
+- ​Por eso necesita un proceso sólido que sopese los resultados y ​las acciones de su análisis.
+- ​Entonces, ¿por dónde empezar? 
+​
+- Bueno, las mejores soluciones comienzan con preguntas.
+- ​Tal vez recuerdes de nuestro último vídeo que la parte interesada tendrá muchas ​preguntas, pero depende de ti averiguar qué es lo que realmente necesitan.
+- ​Así que pregúntese: ¿su análisis responde a la pregunta original? ​¿Hay otros ángulos que no hayas considerado? ​¿Puede responder a cualquier pregunta que se le pueda hacer sobre sus datos y análisis? ​Esta última pregunta trae a colación algo más en lo que pensar.
+- ​¿Qué tan detallado debe ser al compartir sus resultados? 
+- ​¿Estaría bien un análisis de alto nivel? ​Por encima de todo, tu análisis de datos debería ayudar a tu equipo a ​tomar decisiones mejores y más informadas.
+- ​He aquí otro ejemplo: imagine que una empresa de jardinería se enfrenta a un aumento de ​los costos y no puede mantener su competitividad en el proceso de licitación.
+- ​Una pregunta que podría hacerse para resolver este problema es: ​¿puede la empresa encontrar nuevos proveedores sin comprometer la calidad? ​Si les hicieras un análisis de alto nivel, ​probablemente solo incluirías la cantidad de clientes y el costo de los suministros.
+- ​En este caso, su parte interesada podría objetar.
+- ​Le preocupa que la reducción de la calidad limite la capacidad de la empresa para mantenerse ​competitiva y mantener contentos a los clientes.
+
+- ​Bueno, tiene razón.
+- ​En ese caso, debe proporcionar un análisis de datos más detallado para que cambie de opinión.
+- ​Esto podría significar explorar cómo se sienten los clientes acerca de las diferentes marcas.
+- ​Es posible que descubra que los clientes no prefieren ​marcas de jardinería específicas.
+- ​De este modo, la empresa puede cambiar a los proveedores más asequibles sin comprometer ​la calidad.
+- ​Si se siente cómodo utilizando los datos para responder a todas estas preguntas y ​consideraciones, es probable que haya llegado a una conclusión sólida.
+- ¡Bonito! 
+- ​Ahora que entiendes algunas de las variables que intervienen en el intercambio de datos con ​un equipo, como el proceso y el resultado, estás un paso más cerca de asegurarte de que tu ​equipo tiene toda la información que necesita para tomar decisiones informadas y basadas en datos.
