@@ -1,5 +1,20 @@
 # Fundamentos: Datos, datos, en todas partes
+- Este es el primer curso del Certificado en Análisis de datos de Google.
+- Organizaciones de todo tipo necesitan analistas de datos que les ayuden a mejorar sus procesos, identificar oportunidades y tendencias, lanzar nuevos productos y tomar decisiones meditadas.
+- En este curso, se le introducirá en el mundo del análisis de datos a través de un plan de estudios práctico desarrollado por Google.
+- El material compartido abarca muchos temas clave de la analítica de datos, y está diseñado para ofrecerle una visión general de lo que le espera en el certificado de analítica de datos de Google.
+- Los actuales analistas de datos de Google le instruirán y le proporcionarán métodos prácticos para llevar a cabo las tareas habituales de los analistas de datos utilizando las mejores herramientas y recursos.
+- Los alumnos que completen este programa certificado estarán equipados para solicitar puestos de trabajo de nivel introductorio como analistas de datos.
+- No es necesaria experiencia previa.
+- Al finalizar este curso, los alumnos:
+   - Comprenderán las prácticas y procesos empleados por un analista de datos junior o asociado en su trabajo diario.
+   - Conocerán las Destrezas analíticas clave (limpieza de datos, análisis de datos, visualización de datos) y las herramientas (hojas de cálculo, SQL, programación R, Tableau) que pueden añadir a su caja de herramientas profesional.
+   - Descubra una amplia variedad de términos y conceptos relevantes para la función de un analista de datos junior, como el ciclo de vida de los datos y el proceso de análisis de datos.
+   - Evalúe la función de la analítica en el Ecosistema de datos.
+   - Realice una autoevaluación del Pensamiento analítico.
+   - Explore las oportunidades laborales a su disposición una vez finalizado el Programa, y conozca las mejores prácticas que puede aprovechar durante su búsqueda de empleo.
 
+## Módulos
 - Módulo 1: Introducción al Análisis de datos y al Pensamiento analítico
    - [Comenzar](./modulo-01_01.md)
    - [Transforme los datos en estadísticas](./modulo-01_02.md)
@@ -83,22 +98,6 @@ Los siguientes temas corresponden al alcance introductorio del curso. Se incluye
 - Colaboración y trabajo en equipo (Teamwork and Collaboration).
 - Comunicación con partes interesadas (Stakeholder Communication).
 - Narración de historias con datos (Data Storytelling): explicación de hallazgos para distintas audiencias.
-
-## Descripción del curso
-- Este es el primer curso del Certificado en Análisis de datos de Google.
-- Organizaciones de todo tipo necesitan analistas de datos que les ayuden a mejorar sus procesos, identificar oportunidades y tendencias, lanzar nuevos productos y tomar decisiones meditadas.
-- En este curso, se le introducirá en el mundo del análisis de datos a través de un plan de estudios práctico desarrollado por Google.
-- El material compartido abarca muchos temas clave de la analítica de datos, y está diseñado para ofrecerle una visión general de lo que le espera en el certificado de analítica de datos de Google.
-- Los actuales analistas de datos de Google le instruirán y le proporcionarán métodos prácticos para llevar a cabo las tareas habituales de los analistas de datos utilizando las mejores herramientas y recursos.
-- Los alumnos que completen este programa certificado estarán equipados para solicitar puestos de trabajo de nivel introductorio como analistas de datos.
-- No es necesaria experiencia previa.
-- Al finalizar este curso, los alumnos:
-   - Comprenderán las prácticas y procesos empleados por un analista de datos junior o asociado en su trabajo diario.
-   - Conocerán las Destrezas analíticas clave (limpieza de datos, análisis de datos, visualización de datos) y las herramientas (hojas de cálculo, SQL, programación R, Tableau) que pueden añadir a su caja de herramientas profesional.
-   - Descubra una amplia variedad de términos y conceptos relevantes para la función de un analista de datos junior, como el ciclo de vida de los datos y el proceso de análisis de datos.
-   - Evalúe la función de la analítica en el Ecosistema de datos.
-   - Realice una autoevaluación del Pensamiento analítico.
-   - Explore las oportunidades laborales a su disposición una vez finalizado el Programa, y conozca las mejores prácticas que puede aprovechar durante su búsqueda de empleo.
 
 ## Glosario
 - `Analytical skills`: Qualities and characteristics associated with using facts to solve problems

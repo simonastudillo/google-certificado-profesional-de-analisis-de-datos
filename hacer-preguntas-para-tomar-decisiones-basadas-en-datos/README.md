@@ -1,5 +1,19 @@
 # Hacer preguntas para tomar decisiones basadas en datos
+- Este es el segundo curso del Certificado en Análisis de datos de Google.
+- Se basará en su comprensión de los temas que se introdujeron en el primer curso de este programa certificado.
+- El material le ayudará a aprender a formular preguntas eficaces, a tomar decisiones basadas en datos y a satisfacer las necesidades de las partes interesadas.
+- Los actuales analistas de datos de Google le instruirán y le proporcionarán métodos prácticos para llevar a cabo tareas habituales de análisis de datos.
+- Los alumnos que completen este programa certificado estarán preparados para solicitar puestos de trabajo de nivel introductorio como analistas de datos.
+- No es necesaria experiencia previa.
+- Al finalizar este curso, usted:
+   - Conocerá técnicas eficaces de interrogatorio que pueden ayudar a guiar el análisis.
+   - Comprenderá el proceso de toma de decisiones basado en datos y la forma en que los analistas de datos presentan sus conclusiones.
+   - Explorará diversos escenarios empresariales reales como ejemplo de cuestionamiento y toma de decisiones.
+   - Descubrirá cómo y por qué las hojas de cálculo son una herramienta importante para los analistas de datos.
+   - Examinará las ideas clave asociadas al pensamiento estructurado y cómo pueden ayudar a los analistas a comprender mejor los problemas y desarrollar soluciones.
+   - Aprenderá estrategias para gestionar las expectativas de las partes interesadas a la vez que establece una comunicación clara con un equipo de análisis de datos para alcanzar los objetivos empresariales.
 
+## Módulos
 - Módulo 1: Formule preguntas eficaces
    - [Resolución de problemas e interrogatorio eficaz](./modulo-01_01.md)
    - [Actúe con datos](./modulo-01_02.md)
@@ -92,21 +106,6 @@ Los temas reflejan el contenido de este curso y su nivel introductorio. Los equi
 - Resolución de conflictos (Conflict Resolution): reformulación de problemas y búsqueda de soluciones compartidas.
 - Gestión del tiempo y priorización (Time Management and Prioritization).
 - Atención al detalle (Attention to Detail).
-
-## Descripción del curso
-- Este es el segundo curso del Certificado en Análisis de datos de Google.
-- Se basará en su comprensión de los temas que se introdujeron en el primer curso de este programa certificado.
-- El material le ayudará a aprender a formular preguntas eficaces, a tomar decisiones basadas en datos y a satisfacer las necesidades de las partes interesadas.
-- Los actuales analistas de datos de Google le instruirán y le proporcionarán métodos prácticos para llevar a cabo tareas habituales de análisis de datos.
-- Los alumnos que completen este programa certificado estarán preparados para solicitar puestos de trabajo de nivel introductorio como analistas de datos.
-- No es necesaria experiencia previa.
-- Al finalizar este curso, usted:
-   - Conocerá técnicas eficaces de interrogatorio que pueden ayudar a guiar el análisis.
-   - Comprenderá el proceso de toma de decisiones basado en datos y la forma en que los analistas de datos presentan sus conclusiones.
-   - Explorará diversos escenarios empresariales reales como ejemplo de cuestionamiento y toma de decisiones.
-   - Descubrirá cómo y por qué las hojas de cálculo son una herramienta importante para los analistas de datos.
-   - Examinará las ideas clave asociadas al pensamiento estructurado y cómo pueden ayudar a los analistas a comprender mejor los problemas y desarrollar soluciones.
-   - Aprenderá estrategias para gestionar las expectativas de las partes interesadas a la vez que establece una comunicación clara con un equipo de análisis de datos para alcanzar los objetivos empresariales.
 
 ## Glosario
 - `Action-oriented question`: A question whose answers lead to change
