@@ -31,3 +31,8 @@
 - ​Cuando esté preparado, puede pasar ​al primer vídeo del próximo curso.
 - ​Buena suerte.
 - Lo va a hacer muy bien.
+
+---
+
+## A continuación
+- ¡Enhorabuena por haber completado el segundo curso del Certificado en Google Data Analytics!
