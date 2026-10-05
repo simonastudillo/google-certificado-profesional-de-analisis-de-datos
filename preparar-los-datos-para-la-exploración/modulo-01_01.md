@@ -56,3 +56,36 @@
 - ​Le mostraré cómo hacer ambas cosas y las aplicaré a su propio análisis.
 - ​Me entusiasma poder ayudarlo a escribir su propia historia personal mientras ​continúa explorando el mundo del análisis de datos.
 - ​Así que vamos a hacerlo.
+
+---
+
+## Resumen del curso 3
+- Bienvenido al tercer curso del programa de certificación en análisis de datos de Google Hasta ahora, se le ha introducido en el campo de la analítica de datos y ha descubierto cómo los analistas de datos utilizan sus habilidades para responder a preguntas empresariales.
+- A medida que avance en este curso, identificará y explorará diferentes tipos de datos y estructuras de datos que se pueden utilizar para comprender y responder a un problema empresarial.
+- A continuación, aprenderá a identificar cualquier sesgo en los datos y a verificar su credibilidad.
+- Seguirá ampliando su caja de herramientas de analista de datos explorando más a fondo los datos dentro de hojas de cálculo y bases de datos.
+- Por último, aprenderá a relacionarse con la comunidad de datos y a gestionar su presencia en Internet.
+- Todas estas habilidades te serán útiles, independientemente de dónde te lleve tu carrera como analista de datos.
+
+- Contenido del curso
+   - Módulo 1. Tipos y estructuras de datos Tipos y estructuras de datos
+      - Cada día se genera una enorme cantidad de datos.
+      - En esta parte del curso, descubrirás cómo se generan estos datos y cómo deciden los analistas qué datos utilizar para el análisis.
+      - También aprenderá acerca de los datos estructurados y no estructurados, los tipos de datos y los formatos de datos a medida que empieza a pensar en cómo preparar sus datos para el análisis.
+   - Módulo 2. Responsabilidad de los datos Responsabilidad de los datos
+      - Antes de trabajar con datos, debes confirmar que son imparciales y creíbles.
+      - Después de todo, si comienza su análisis con datos poco fiables, no podrá confiar en sus resultados.
+      - En esta parte del curso, aprenderá a identificar el sesgo en los datos y a asegurarse de que sus datos son creíbles.
+      - También explorarás los datos abiertos y la importancia de la ética y la privacidad de los datos.
+   - Módulo 3: Fundamentos de las bases de datos
+      - Cuando analice grandes conjuntos de datos, accederá a gran parte de ellos desde una base de datos.
+      - En esta parte del curso, aprenderás sobre bases de datos, incluyendo cómo acceder a ellas y extraer, filtrar y ordenar los datos que contienen.
+      - También explorará los metadatos para descubrir sus múltiples facetas y cómo los analistas los utilizan para comprender mejor sus datos.
+   - Módulo 4: Organice y proteja sus datos
+      - Las buenas habilidades organizativas son una parte importante de la mayoría de los tipos de trabajo, especialmente de la analítica de datos.
+      - En esta parte del curso, aprenderá las mejores prácticas para organizar los datos y mantenerlos seguros.
+      - También entenderá cómo los analistas utilizan las convenciones de nomenclatura de archivos para ayudarles a mantener su trabajo organizado.
+   - Módulo 5: Participar en la comunidad de datos
+      - Tener una fuerte presencia en línea puede ser de gran ayuda para los solicitantes de empleo de todo tipo.
+      - En esta parte del curso, explorarás cómo gestionar tu presencia online.
+      - También descubrirás los beneficios de establecer contactos con otros profesionales del análisis de datos.
