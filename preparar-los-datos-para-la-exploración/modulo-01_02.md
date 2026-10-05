@@ -147,3 +147,34 @@
 
 <img src="./resources/modulo-01/image-01.png" alt="" width="500px">
 
+---
+
+## Pon a prueba tus conocimientos sobre la recogida de datos
+
+1. ¿Qué son las cookies?
+   - [ ] Piezas de código que almacenan información sobre un sitio web
+   - [ ] Programas que permiten a los usuarios acceder a las páginas web
+   - [ ] Tipos de software malicioso que pueden dañar las computadoras
+   - [x] Pequeños archivos almacenados en computadoras que contienen información sobre los usuarios
+> Las Cookies son pequeños archivos almacenados en las computadoras que contienen información sobre los usuarios.
+
+2. Rellene el espacio en blanco: Para los proyectos de Analítica de datos, normalmente se prefieren los datos de _____ porque los usuarios saben que se originaron dentro de la organización.
+   - [ ] segunda parte
+   - [x] primera parte
+   - [ ] varias partes
+   - [ ] terceros
+> Para los proyectos de análisis de datos, normalmente se prefieren los datos de primera fuente porque los usuarios saben que se originaron dentro de la organización. Datos de primera fuente son recopilados por un individuo o grupo utilizando sus propios recursos.
+
+3. Una cadena de supermercados compra los datos de sus clientes a una empresa de tarjetas de crédito. El ultramarinos utiliza estos Datos para identificar a sus clientes más fieles y ofrecerles promociones y descuentos especiales. ¿Qué tipo de Datos se están utilizando en este escenario?
+   - [ ] Varias partes 
+   - [x] Segunda parte 
+   - [ ] Primera parte 
+   - [ ] Terceros 
+> Datos de segunda fuente son utilizados. Datos de segunda fuente son recogidos por un grupo directamente de su audiencia y luego vendidos. 
+
+4. En la Analítica de datos, ¿qué término se refiere a todos los posibles valores de los datos en un conjunto de datos?
+   - [x] Población
+   - [ ] Representación
+   - [ ] Fuente
+   - [ ] Muestra
+> Una población se refiere a todos los valores de datos posibles en un conjunto de datos.
