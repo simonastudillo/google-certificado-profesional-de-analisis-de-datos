@@ -142,3 +142,43 @@
    - Elementos de acción podrían no aplicarse a la situación actual.
    - Si esto ocurre, puede verse obligado a acortar o cancelar la reunión.
    - No pasa nada, pero asegúrese de hablar de todo lo que afecte a su proyecto con su director o con las partes interesadas y vuelva a programar la reunión cuando disponga de más información. 
+
+---
+
+## DEL CONFLICTO A LA COLABORACIÓN
+- Es normal que surjan conflictos en tu vida laboral.
+- ​Mucho de lo que has aprendido hasta ahora, ​como gestionar las expectativas y comunicarte de ​manera eficaz, puede ayudarte a evitar conflictos, ​pero a veces te encontrarás con conflictos de todos modos.
+- ​Si eso ocurre, hay maneras de ​resolverlo y seguir adelante.
+- ​En este video, hablaremos sobre cómo puede ​ocurrir un conflicto y las mejores maneras de ​practicar la resolución de conflictos.
+- ​Un conflicto puede surgir por diversas razones.
+- ​Tal vez una de las partes interesadas malinterpretó ​los posibles resultados de tu proyecto; ​tal vez tú y el miembro de tu equipo tenéis ​estilos de trabajo muy diferentes; ​o tal vez ​se acerca una fecha límite importante y la gente está nerviosa.
+- ​Las expectativas incompatibles y los problemas de comunicación ​son algunas de las razones más comunes por las que ocurren conflictos.
+
+- ​Tal vez no tenías claro quién debía ​limpiar un conjunto de datos y nadie lo limpió, lo que ​retrasa un proyecto.
+- O tal vez ​un compañero ​de equipo envió un correo electrónico con todas tus ideas incluidas, ​pero sin mencionar que era tu trabajo.
+- ​Si bien puede ser fácil tomarse los conflictos como algo personal, ​es importante tratar de ser objetivo ​y concentrarse en los objetivos del equipo.
+- ​Lo creas o no, los momentos tensos ​pueden ser oportunidades para ​reevaluar un proyecto y tal vez incluso mejorar las cosas.
+- ​Por lo tanto, cuando surge ​un problema, hay varias maneras de cambiar la situación ​para que sea más productivo y colaborativo.
+- ​Una de las mejores maneras de cambiar ​una situación de problemática a productiva ​es simplemente replanteando el problema.
+- En lugar de ​centrarte en lo que salió mal o a quién culpar, ​cambia la pregunta con la que estás empezando.
+
+- ​Intenta preguntar, ¿cómo puedo ayudarte a alcanzar tu meta? ​Esto crea una oportunidad ​para que tú y los miembros de tu equipo trabajen ​juntos para encontrar una solución en lugar ​de sentirse frustrados por el problema.
+- ​La discusión es clave para la resolución de conflictos.
+- ​Si te encuentras en medio de ​un conflicto, intentas comunicarte, ​iniciar una conversación o preguntar cosas como: ​¿hay otras cosas importantes que deba considerar? ​Esto brinda a los miembros de su equipo o ​a la parte interesada la oportunidad de exponer sus inquietudes de manera completa.
+- ​Pero si te sientes emocional, ​tómate un tiempo para ​calmarte y así poder iniciar la conversación con una mente más clara.
+- ​Si tengo que escribir un correo electrónico en un momento de tensión, ​lo guardo como borradores ​y lo vuelvo a ​leer al día siguiente para volver a leerlo antes de enviarlo y ​asegurarme de que estoy siendo sensato.
+
+- ​Si descubres que no entiendes lo que un ​miembro de tu equipo o parte interesada te pide que hagas, ​intenta entender el contexto de su solicitud.
+- ​Pregúnteles cuál es su objetivo final, ​qué historia intentan contar con ​los datos o cuál es el panorama general.
+- ​Al convertir los momentos de posible conflicto en ​oportunidades para colaborar y seguir adelante, ​puedes resolver la tensión ​y volver a poner en marcha tu proyecto.
+- ​En lugar de decir: «No hay manera de que pueda hacerlo en este ​período de tiempo», intenta reformularlo diciendo: ​«Con gusto lo haré, ​pero me tomaré este tiempo, ​demos un paso atrás para que pueda ​entender mejor lo que te gustaría hacer ​con los datos y podamos trabajar juntos ​para encontrar la mejor ruta de acceso».
+- ​Con eso, hemos llegado al final de esta sección.
+- ​Buen trabajo.
+- ​Aprender a trabajar con ​nuevos miembros del equipo puede ser un gran desafío a la hora de empezar ​un nuevo puesto o un nuevo proyecto, pero ​con las habilidades que has adquirido en estos vídeos, ​podrás empezar con ​buen pie con cualquier equipo nuevo al que te unas.
+
+- ​Hasta ahora, has aprendido a equilibrar las necesidades ​y expectativas de los miembros de tu equipo y de la parte interesada.
+- ​También has explicado cómo dar sentido a las ​funciones de tu equipo y centrarte en el objetivo del proyecto, ​la importancia de tener una ​comunicación clara y ​las expectativas de comunicación en un lugar de trabajo ​y cómo equilibrar ​las limitaciones de los datos con las preguntas de las partes interesadas.
+- ​Por último, explicamos cómo tener ​reuniones de equipo eficaces y ​cómo resolver conflictos pensando en ​colaboración con los miembros del equipo.
+- ​Esperemos que ahora comprenda lo importante que ​es la comunicación para el éxito de un analista de datos.
+- ​Estas habilidades de comunicación pueden parecer un poco ​diferentes de algunas de ​las otras habilidades que ha estado aprendiendo en este programa, ​pero también son una parte importante de ​su conjunto de herramientas para analistas de datos y de ​su éxito como analista de datos profesional.
+- ​Al igual que todas ​las demás habilidades que estás aprendiendo en este momento, ​tus habilidades de comunicación crecerán ​con la práctica y la experiencia.
