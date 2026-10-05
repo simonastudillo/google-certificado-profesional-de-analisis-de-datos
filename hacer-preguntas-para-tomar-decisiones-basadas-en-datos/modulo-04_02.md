@@ -287,3 +287,62 @@
 - ​Cuando se trata de comunicar ​respuestas a sus equipos y partes interesadas, ​la respuesta más rápida y la ​más precisa no suelen ser la misma respuesta.
 - ​Pero si se asegura de que comprende ​sus necesidades y establece claramente sus expectativas, ​podrá equilibrar la Velocidad y la Precisión.
 - ​Sólo tiene que asegurarse de ser claro y ​franco y encontrará el éxito. 
+
+---
+
+## Limitaciones de los datos
+- Los Datos son poderosos, pero tienen sus limitaciones.
+- ¿Se ha colado en los números la opinión personal de alguien? ¿Están contando sus Datos toda la Historia?
+- Parte de ser un gran analista de datos consiste en conocer los límites de los datos y planificar para ellos.
+- Esta lectura explora cómo puede hacerlo.
+
+- The case of incomplete (or nonexistent!) data
+   - Si tiene datos incompletos o inexistentes, puede que durante un análisis se dé cuenta de que no tiene datos suficientes para llegar a una conclusión.
+   - O, incluso, ¡podría estar resolviendo un problema totalmente distinto!
+   - Por ejemplo, suponga que está buscando empleados que obtuvieron un certificado concreto pero descubre que los registros de certificación se remontan sólo a dos años atrás en su empresa.
+   - Puede seguir utilizando los Datos, pero tendrá que dejar claros los límites de su análisis.
+   - Tal vez pueda encontrar una fuente alternativa de los datos poniéndose en contacto con la empresa que impartió el entrenamiento.
+   - Pero para estar seguro, debe ser franco sobre el conjunto de datos incompletos hasta que esos datos estén disponibles.
+
+- Don't miss misaligned data
+   - Si está recopilando datos de otros equipos y utilizando hojas de cálculo existentes, es bueno que tenga en cuenta que la gente utiliza reglas de negocio diferentes.
+   - Así que un equipo puede definir y medir las cosas de una manera completamente diferente a otro.
+   - Por ejemplo, si una métrica es el número total de alumnos de un programa de certificación, podría tener un Equipo que contara a todas las personas que se inscribieron en el Entrenamiento, y otro Equipo que contara sólo a las personas que completaron el programa.
+   - En casos como éste, establecer cómo medir las cosas desde el principio estandariza los datos en todos los ámbitos para lograr una mayor fiabilidad y precisión.
+   - Esto asegurará que las comparaciones entre equipos sean significativas y estadísticas.
+
+- Deal with dirty data
+   - Datos sucios se refiere a los datos que contienen errores.
+   - Datos sucios pueden provocar pérdidas de productividad, gastos innecesarios y una toma de decisiones imprudente.
+   - Una buena limpieza de datos puede ayudarle a evitarlo.
+   - Como recordatorio rápido, la limpieza de datos es el proceso de arreglar o eliminar datos incorrectos, corruptos, con formato incorrecto, duplicados o incompletos dentro de un conjunto de datos.
+   - Cuando encuentre y corrija los errores -al tiempo que realiza un seguimiento de los cambios efectuados- podrá evitar un desastre de datos.
+   - Aprenderá a limpiar datos más adelante en la formación.
+
+- Tell a clear story
+   - Avinash Kaushik, evangelista de marketing digital de Google, tiene muchos consejos estupendos para los analistas de datos en su blog: [La navaja de Occam](http://www.kaushik.net/).
+   - A continuación encontrará algunas de las mejores prácticas que recomienda para una buena Narración de datos:
+      - Compare los mismos tipos de Datos:
+         - Los datos pueden confundirse cuando los grafica para su visualización.
+         - Asegúrese de comparar los mismos tipos de Datos y vuelva a comprobar que los segmentos de su gráfico muestran definitivamente Métricas diferentes.
+      - Visualización de datos con cuidado:
+         - Una caída del 0,01% en una puntuación puede parecer enorme si se acerca lo suficiente.
+         - Para asegurarse de que su audiencia ve la Historia completa con claridad, es una buena idea fijar su Eje Y en 0.
+      - Deje de lado los gráficos innecesarios:
+         - Si una tabla puede mostrar su historia de un vistazo, quédese con la tabla en lugar de un gráfico circular o un gráfico.
+         - Su atareada audiencia apreciará la claridad.
+      - Pruebe la significación estadística:
+         - A veces dos conjuntos de datos parecerán diferentes, pero necesitará una forma de comprobar si la diferencia es real e importante.
+         - Así que recuerde realizar pruebas estadísticas para ver el grado de confianza que puede depositar en esa diferencia.
+      - Presteatención al tamaño de la Muestra:
+         - Reúna muchos datos.
+         - Si el tamaño de la muestra es pequeño, unas pocas respuestas inusuales pueden sesgar los resultados.
+         - Si descubre que tiene muy pocos datos, tenga cuidado al utilizarlos para formarse juicios.
+         - Busque oportunidades para recopilar más Datos y, a continuación, grafique esas tendencias a lo largo de periodos más prolongados.
+
+- Be the judge
+   - En cualquier organización, una gran parte de la función de un Analista de datos consiste en formular juicios acertados.
+   - Cuando conoce las limitaciones de sus Datos, puede emitir juicios que ayuden a la gente a tomar mejores decisiones apoyadas en los Datos.
+   - Los datos son una herramienta extremadamente poderosa para la toma de decisiones, pero si están incompletos, desajustados o no se han limpiado, pueden resultar engañosos.
+   - Tome las medidas necesarias para asegurarse de que sus Datos están completos y son coherentes.
+   - Limpie los datos antes de comenzar su análisis para ahorrarse a sí mismo y posiblemente a otros una gran cantidad de tiempo y esfuerzo.
