@@ -15,3 +15,19 @@
 
 ## Glosario del curso 2
 - El glosario completo se encuentra [aquí](./README.md#glosario)
+
+---
+
+## ¡Enhorabuena! Resumen del curso
+- ​Ahora que ya ha terminado, está oficialmente ​preparado para afrontar el siguiente curso.
+- ​Impresionante trabajo.
+- ​Pero antes de contarle lo que le espera, ​dediquemos un momento a pensar en lo que hemos tratado hasta ​ahora en el primer paso del proceso de análisis de datos.
+- ​En este curso, hemos explorado las preguntas eficaces ​y hemos aprendido a utilizar ​datos cuantitativos y cualitativos, ​métricas y matemáticas para atar cabos.
+- ​También hemos tratado los conceptos básicos de las hojas de cálculo, ​cómo aplicar el pensamiento estructurado ​y habilidades de comunicación clave para ​trabajar con las partes interesadas y los miembros del Equipo.
+- ¡Eso es mucho! ​Ahora es el momento de llevar lo ​aprendido al siguiente curso, ​donde abordará el siguiente paso del ​proceso de Análisis de datos, preparar sus datos.
+- ​Hallie va a tomar el relevo a partir de aquí.
+- ​¡Quizás la recuerde del ​principio del primer curso! ​Ella le guiará mientras aprende nuevas herramientas importantes ​para su trabajo, como los tipos de datos y las estructuras de datos; ​los sesgos y la credibilidad en los análisis; ​las bases de datos; ​la organización y protección de sus datos; ​y la comunidad de datos.
+- ​Gracias por seguir conmigo a lo largo de este curso.
+- ​Cuando esté preparado, puede pasar ​al primer vídeo del próximo curso.
+- ​Buena suerte.
+- Lo va a hacer muy bien.
