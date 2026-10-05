@@ -383,3 +383,35 @@
 - ​Si se siente cómodo utilizando los datos para responder a todas estas preguntas y ​consideraciones, es probable que haya llegado a una conclusión sólida.
 - ¡Bonito! 
 - ​Ahora que entiendes algunas de las variables que intervienen en el intercambio de datos con ​un equipo, como el proceso y el resultado, estás un paso más cerca de asegurarte de que tu ​equipo tiene toda la información que necesita para tomar decisiones informadas y basadas en datos.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre Comunicación Clara
+
+1. Para comunicar con claridad, los Analistas de datos se plantean una serie de preguntas clave. Una es: "¿Quién es mi público?" ¿Cuáles son las otras? Seleccionar all that apply.
+   - [ ] ¿Cuándo se espera que tenga el proyecto terminado?
+   - [x] ¿Cómo puedo comunicarme eficazmente con mi público?
+   - [x] ¿Qué necesita saber mi público?
+   - [x] ¿Qué sabe ya mi público?
+> Para comunicar con claridad, los analistas de datos se plantean cuatro preguntas: ¿Quién es mi público? ¿Qué saben ya? ¿Qué necesitan saber? ¿Y cómo puedo comunicarme eficazmente con ellos?
+
+2. Un colega le envió una pregunta por correo electrónico hace casi dos días. Encontrar la respuesta implicará unas cuantas horas de investigación, y usted está demasiado ocupado para hacerlo hoy. ¿Cuál es el mejor curso de acción?
+   - [ ] Responda con su mejor suposición a la respuesta de su pregunta para que no tengan que esperar más.
+   - [x] Responda al correo electrónico haciéndoles saber cuándo pueden esperar su respuesta y agradeciéndoles su paciencia.
+   - [ ] Reenvíe el correo electrónico al Equipo de análisis de datos y pregunte si alguien puede responder a la pregunta por usted.
+   - [ ] Borre el correo electrónico; para cuando pueda responder a la pregunta, de todas formas no será información útil.
+> Lo mejor es responder al correo electrónico haciéndoles saber cuándo pueden esperar su respuesta y agradeciéndoles su paciencia.
+
+3. Centrarse en las expectativas de las partes interesadas permite a los analistas de datos lograr ¿qué objetivos? Seleccione todo lo que corresponda.
+   - [x] Mejorar la Comunicación entre Equipos
+   - [x] Comprender los objetivos del Proyecto
+   - [x] Generar confianza
+   - [ ] Realice varias tareas a la vez de forma más eficaz
+> Centrarse en las expectativas de las partes interesadas permite a los analistas de datos comprender los objetivos del proyecto, mejorar la comunicación y generar confianza.
+
+4. Una parte interesada pide a un analista de datos que elabore un informe muy rápidamente. ¿Cuáles son algunas de las estrategias que puede aplicar el analista para asegurarse de que su trabajo ofrece resultados útiles? Seleccione todas las que correspondan. 
+   - [x] Esbozar el problema
+   - [x] Reformular la pregunta
+   - [x] Establezca expectativas claras sobre los plazos
+   - [ ] Trabajar horas extras para que el Informe esté listo en el plazo solicitado
+> Para asegurarse de que su trabajo responde a las preguntas correctas y ofrece resultados útiles, el Analista de datos debe establecer unas expectativas claras, esbozar el problema y replantear la pregunta. 
