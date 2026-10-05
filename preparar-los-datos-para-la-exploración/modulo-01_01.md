@@ -119,3 +119,17 @@
 - ​La parte técnica y creativa ​es lo que me encanta.
 - ​Me llamo Hallie.
 - Soy un líder analítico en ​Google que trabaja específicamente en el sector de la atención médica.
+
+---
+
+## Recursos y consejos útiles
+- Hábitos saludables para completar con éxito el certificado
+   - Planifique su tiempo
+   - Trabaje a su propio ritmo
+   - Sé curioso
+   - Sigue a los instructores
+   - Toma notas
+   - Revisar ejemplos
+   - Construye tu identidad profesional
+   - Conéctate con otros estudiantes
+   - Actualiza tu perfil
