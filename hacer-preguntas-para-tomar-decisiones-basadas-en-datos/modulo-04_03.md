@@ -83,3 +83,62 @@
 - ​Y lo superé simplemente dando un paso atrás cuando alguien me pidió que hiciera ​el proyecto y simplemente aclarando cuál era ese objetivo.
 - ​Una vez que ese objetivo estuvo nítido, ​me gustó entrar en la ambigüedad de cómo llegar allí, ​pero el objetivo tiene que ser realmente objetivo y claro.
 - ​Soy Ximena y soy analista financiera.
+
+---
+
+## Liderar grandes reuniones
+- Un día no muy lejano, puede que se encuentre planificando una reunión en su función de Analista de datos.
+- Pueden ocurrir grandes cosas cuando los participantes anticipan una reunión bien ejecutada.
+- Los asistentes llegan a tiempo.
+- No se distraen con sus portátiles y teléfonos.
+- Sienten que su tiempo estará bien empleado.
+- Todo se reduce a una buena planificación y comunicación de las expectativas.
+- A continuación le ofrecemos nuestros mejores consejos prácticos para dirigir reuniones.
+
+- Antes de la reunión
+   - Si es usted quien organiza la reunión, probablemente hablará de los Datos.
+   - Antes de la reunión:
+      - Identifique su objetivo. Establezca el propósito, las metas y los resultados deseados de la reunión, incluidas las preguntas o peticiones que deban abordarse.
+      - Reconozca a los participantes y manténgalos involucrados con diferentes puntos de vista y experiencias con los datos, el proyecto o el negocio.
+      - Organice los Datos que se van a presentar. Puede que tenga que convertir los datos brutos en formatos accesibles o crear visualizaciones de datos.
+      - Preparar y distribuya una agenda. Repasaremos esto a continuación.
+
+- Elaboración de un orden del día convincente
+   - Un orden del día sólido prepara su reunión para el éxito.
+   - Éstas son las partes básicas que debe incluir su orden del día:
+      - Hora de inicio y fin de la reunión
+      - Lugar de la reunión (incluida la Información para participar a distancia, si se dispone de esa opción)
+      - Objetivos
+      - Material de referencia o datos que los participantes deban revisar de antemano
+   - He aquí un ejemplo de agenda para un proyecto de análisis que acaba de empezar:
+
+<img src="./resources/modulo-04/image-04.png" alt="" width="500px">
+
+- Compartir su agenda con antelación
+   - Después de redactar su agenda, es hora de compartirla con los invitados.
+   - Compartir la agenda con todos con antelación les ayuda a comprender los objetivos de la reunión y a preparar preguntas, comentarios o reacciones.
+   - Puede enviar la agenda por correo electrónico o compartirla utilizando otra herramienta de colaboración.
+
+- Durante la reunión
+   - Como líder de la reunión, su trabajo consiste en guiar el debate sobre los Datos.
+   - Con todo el mundo bien informado del plan y los objetivos de la reunión, puede seguir estos pasos para evitar cualquier distracción:
+      - Haga las presentaciones (si es necesario) y repase los mensajes clave
+      - Presente los Datos
+      - Discuta las observaciones, interpretaciones e implicaciones de los datos
+      - Tome notas durante la reunión
+      - Determine y resuma los próximos pasos para el grupo
+
+- Después de la reunión
+   - Para mantener el proyecto y a todos alineados, prepare y distribuya una breve recapitulación de la reunión con los siguientes pasos que se acordaron en la reunión.
+   - Incluso puede dar un paso más y pedir comentarios al equipo.
+      - Distribuya las notas o los datos.
+      - Confirme los próximos pasos y el calendario de acciones adicionales
+      - Pida comentarios (es una forma eficaz de averiguar si se le ha pasado algo por alto en su recapitulación)
+
+- Unas palabras finales sobre las reuniones
+   - Incluso con la planificación más cuidadosa y los órdenes del día más detallados, a veces las reuniones pueden descarrilarse.
+   - Una situación de emergencia puede robar la atención de la gente.
+   - Una decisión reciente podría cambiar inesperadamente requisitos que se habían discutido y acordado previamente.
+   - Elementos de acción podrían no aplicarse a la situación actual.
+   - Si esto ocurre, puede verse obligado a acortar o cancelar la reunión.
+   - No pasa nada, pero asegúrese de hablar de todo lo que afecte a su proyecto con su director o con las partes interesadas y vuelva a programar la reunión cuando disponga de más información. 
