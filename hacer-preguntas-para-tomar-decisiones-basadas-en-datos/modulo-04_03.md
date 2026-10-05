@@ -182,3 +182,37 @@
 - ​Esperemos que ahora comprenda lo importante que ​es la comunicación para el éxito de un analista de datos.
 - ​Estas habilidades de comunicación pueden parecer un poco ​diferentes de algunas de ​las otras habilidades que ha estado aprendiendo en este programa, ​pero también son una parte importante de ​su conjunto de herramientas para analistas de datos y de ​su éxito como analista de datos profesional.
 - ​Al igual que todas ​las demás habilidades que estás aprendiendo en este momento, ​tus habilidades de comunicación crecerán ​con la práctica y la experiencia.
+
+---
+
+## Nathan Del Cuerpo de Marines de EE.UU. a la Analítica de datos
+​Hola, soy Nathan.
+- ​Soy analista principal de datos ​en la Organización de Confianza y Seguridad de Google.
+- ​Me uní a la Reserva del Cuerpo de Marines ​cuando asistía a la universidad, ​y la unidad de reserva a la que me uní era una unidad de artillería de campaña.
+- ​Así que después de un desafiante campamento de entrenamiento del Cuerpo de Marines, ​fui a la escuela de control de dirección de fuego de artillería de campaña.
+- ​Y para aquellos que no lo sepan, el ​control de la dirección del fuego se considera ​el cerebro de la artillería de campaña.
+- ​Y utilizamos todo tipo de ordenadores ​para hacer nuestros cálculos de artillería.
+- ​Pero en caso de que las computadoras dejaran de ​funcionar, también nos enseñaron a usar las reglas de cálculo como respaldo.
+
+- ​Y luego, un año después, ​tuve la oportunidad de trabajar como conductor de camiones ​en lugar de mi trabajo principal como artillero de campaña, ​y me enviaron a Irak para ​conducir camiones para una compañía de infantería.
+- ​Cuando regresé de Irak, ​terminé mi licenciatura ​y luego trabajé como ingeniera de aplicaciones en Austin, Texas, ​y finalmente vi la necesidad de cambiar más, de ​centrarme más en los negocios.
+- Fue ​entonces cuando realmente me enamoré del análisis de datos, ​fue cuando aprendí mucho más sobre los negocios.
+- ​De hecho, me llevó un par de años, ​cuando realmente desperté mi interés por el análisis de datos, ​conseguir un puesto en el que pudiera dedicarme a tiempo completo ​y ponerme manos a la obra con los datos.
+- ​Mi primer trabajo en el que me dediqué al análisis de datos a tiempo completo ​fue en un banco grande ​y me sentí como en el cielo.
+- ​Realmente tuve que usar SQL de verdad ​y también usé mucho Tableau.
+- ​Tengo que ir a una conferencia de Tableau.
+
+- ​Estuvo muy guay.
+- ​Luego tuve la suerte de tener la oportunidad de ​pasarme a Google y ocupar mi puesto actual ​de Confianza y Seguridad.
+- ​Y lo más emocionante y gratificante de eso ​es que, ya sabes, al igual que el ejército, ​tiene la misión general de proteger a las personas.
+- ​Así que es muy emocionante para mí.
+- ​Lo que me inculcaron en la Infantería de Marina y ​que uso hasta el día de hoy sería la atención a los detalles.
+- ​Eso es muy importante en el ejército en general, ​pero especialmente en la artillería de campaña.
+- ​En segundo lugar, está la importancia de la comunicación.
+
+- ​Tienes tus propios datos guardados.
+- ​Debes asegurarte de que se comuniquen con ​mucha claridad a otras personas con las que trabajas.
+- ​Y la tercera sería la colaboración.
+- ​En el ejército, el trabajo en equipo hace que los sueños se hagan realidad.
+- ​Realmente confías en el equipo.
+- ​Definitivamente, ese ha sido el caso ​en mi carrera y trabajos posteriores al Cuerpo de Marines.
