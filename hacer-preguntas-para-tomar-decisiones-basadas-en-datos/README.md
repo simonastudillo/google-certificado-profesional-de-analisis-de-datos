@@ -1,18 +1,97 @@
 # Hacer preguntas para tomar decisiones basadas en datos
 
 - Módulo 1: Formule preguntas eficaces
+   - [Resolución de problemas e interrogatorio eficaz](./modulo-01_01.md)
+   - [Actúe con datos](./modulo-01_02.md)
+   - [Resolver problemas con datos](./modulo-01_03.md)
+   - [Elabore preguntas eficaces](./modulo-01_04.md)
+   - [Desafío del módulo 1](./modulo-01_05.md)
+   - [Preguntas de repaso del módulo 1](./modulo-01_questions.md)
 - Módulo 2: Tomar decisiones basadas en datos
+   - [Comprender el poder de los Datos](./modulo-02_01.md)
+   - [Seguir las pruebas](./modulo-02_02.md)
+   - [Conecte los puntos de los datos](./modulo-02_03.md)
+   - [Desafío del módulo 2](./modulo-02_04.md)
+   - [Preguntas de repaso del módulo 2](./modulo-02_questions.md)
 - Módulo 3: Hoja de cálculo mágica
-- Módulo 4: Recuerde siempre a la parte Interesada
+   - [Trabajar con hojas de cálculo](./modulo-03_01.md)
+   - [Fórmulas en hojas de cálculo](./modulo-03_02.md)
+   - [Funciones en hojas de cálculo](./modulo-03_03.md)
+   - [Ahorre tiempo con el pensamiento estructurado](./modulo-03_04.md)
+   - [Desafío del módulo 3](./modulo-03_05.md)
+   - [Preguntas de repaso del módulo 3](./modulo-03_questions.md)
+- Módulo 4: Recuerde siempre a las partes interesadas
+   - [Equilibrio entre las necesidades del Equipo y las de las partes Interesadas](./modulo-04_01.md)
+   - [La clave es una Comunicación clara](./modulo-04_02.md)
+   - [Increíble trabajo en equipo](./modulo-04_03.md)
+   - [Desafío del módulo 4](./modulo-04_04.md)
+   - [Conclusión del curso](./modulo-04_05.md)
 
 ## Habilidades y conceptos a aprender
 
+Los temas reflejan el contenido de este curso y su nivel introductorio. Los equivalentes en inglés facilitan la búsqueda de habilidades en LinkedIn y de recursos para profundizar.
+
 ### Habilidades técnicas (hard skills)
 
+- Análisis de datos (Data Analysis): aplicación del proceso analítico a problemas de negocio.
+- Análisis de requisitos (Requirements Analysis): identificación de objetivos, necesidades de datos y resultados esperados.
+- Diseño de encuestas (Survey Design): formulación de preguntas claras, medibles y sin sesgos.
+- Análisis cuantitativo (Quantitative Analysis): interpretación de cantidades, frecuencias y mediciones.
+- Análisis cualitativo (Qualitative Analysis): categorización de respuestas e identificación de temas.
+- Análisis de tendencias (Trend Analysis): reconocimiento de patrones en datos históricos.
+- Microsoft Excel: manejo básico de hojas de cálculo para análisis.
+- Google Sheets: creación, importación y edición de conjuntos de datos.
+- Organización y formato de datos (Data Organization and Formatting): encabezados, tablas y formatos numéricos.
+- Ordenación y filtrado de datos (Data Sorting and Filtering).
+- Fórmulas de hojas de cálculo (Spreadsheet Formulas): operadores, referencias relativas, absolutas y mixtas.
+- Funciones de hojas de cálculo (Spreadsheet Functions): `SUM`, `AVERAGE`, `COUNT`, `MIN`, `MAX` y `COUNTIF`.
+- Depuración de fórmulas (Formula Troubleshooting): identificación y corrección de errores de cálculo y referencias.
+- Tablas dinámicas (Pivot Tables): introducción al resumen y agrupación de datos.
+- Visualización de datos (Data Visualization): selección de gráficos según el mensaje y la audiencia.
+- Elaboración de informes (Reporting): presentación periódica de resultados y métricas de negocio.
+- Diseño de cuadros de mando (Dashboard Design): fundamentos de requisitos, maquetas, visualizaciones y filtros; introducción a Tableau.
+- Documentación del alcance del trabajo (Scope of Work Documentation): entregables, cronograma, hitos e informes.
+
 ### Conceptos clave
-ata Privacy and Confidentiality).
+
+- Proceso de análisis de datos (Data Analysis Process): preguntar, preparar, procesar, analizar, compartir y actuar.
+- Definición del problema de negocio (Business Problem Definition) y dominio del problema (Problem Domain).
+- Metodología SMART (SMART Framework): preguntas específicas, medibles, orientadas a la acción, relevantes y con límite temporal.
+- Tipos de problemas analíticos (Analytics Problem Types): predicción, categorización, anomalías, temas, conexiones y patrones.
+- Toma de decisiones basada en datos (Data-Driven Decision-Making).
+- Toma de decisiones inspirada en datos (Data-Inspired Decision-Making): integración de evidencia, contexto y experiencia.
+- Datos cualitativos y cuantitativos (Qualitative and Quantitative Data).
+- Big data y small data: diferencias de escala, alcance temporal y herramientas de análisis.
+- Las cuatro V del big data: volumen, variedad, velocidad y veracidad.
+- Métricas de negocio y objetivos medibles (Business Metrics and Metric Goals).
+- Retorno de la inversión (Return on Investment, ROI).
+- Informes estáticos y cuadros de mando dinámicos (Static Reports and Dynamic Dashboards).
+- Calidad de datos (Data Quality): exactitud, integridad y consistencia entre fuentes.
+- Sesgo de confirmación (Confirmation Bias): selección o interpretación de evidencia para respaldar expectativas previas.
+- Contexto de los datos (Data Context): significado de variables, unidades y condiciones de recopilación.
+- Partes interesadas principales y secundarias (Primary and Secondary Stakeholders).
+- Alcance del trabajo (Scope of Work) y declaración de trabajo (Statement of Work): límites del proyecto y compromisos contractuales.
+- Pruebas A/B (A/B Testing): introducción a la comparación controlada de alternativas para apoyar decisiones.
 
 ### Habilidades transferibles (soft skills)
+
+- Pensamiento analítico (Analytical Thinking).
+- Pensamiento crítico (Critical Thinking): evaluación de supuestos y conclusiones.
+- Resolución de problemas (Problem Solving).
+- Pensamiento estructurado (Structured Thinking): descomposición de problemas y organización de información.
+- Razonamiento cuantitativo (Quantitative Reasoning).
+- Comprensión del negocio (Business Acumen): conexión entre el análisis y los objetivos empresariales.
+- Curiosidad intelectual (Intellectual Curiosity): formulación de preguntas y exploración de alternativas.
+- Escucha activa (Active Listening).
+- Comunicación con partes interesadas (Stakeholder Communication): adaptación del mensaje a cada audiencia.
+- Comunicación escrita profesional (Business Writing): correos claros, concisos y con próximos pasos.
+- Narración de historias con datos (Data Storytelling): explicación de hallazgos y recomendaciones.
+- Gestión de expectativas (Expectation Management): acuerdo de resultados y plazos realistas.
+- Colaboración interdisciplinaria (Cross-functional Collaboration).
+- Facilitación de reuniones (Meeting Facilitation): agendas, participación, acuerdos y seguimiento.
+- Resolución de conflictos (Conflict Resolution): reformulación de problemas y búsqueda de soluciones compartidas.
+- Gestión del tiempo y priorización (Time Management and Prioritization).
+- Atención al detalle (Attention to Detail).
 
 ## Descripción del curso
 - Este es el segundo curso del Certificado en Análisis de datos de Google.
@@ -161,3 +240,35 @@ ata Privacy and Confidentiality).
 - [Kaushik, A. (s.f.). La navaja de Occam. Kaushik.net](https://www.kaushik.net/avinash/)
 
 ## Resumen de módulos
+
+### Módulo 1: Formule preguntas eficaces
+
+Un análisis útil comienza por definir el problema real, comprender su contexto y acordar con las partes interesadas qué decisión se necesita tomar. Las seis fases del proceso —preguntar, preparar, procesar, analizar, compartir y actuar— conectan la necesidad empresarial con una recomendación y su aplicación. El caso de una empresa de reparación de videojuegos muestra cómo considerar el público objetivo y el presupuesto permite elegir un medio publicitario adecuado.
+
+Se distinguen seis tipos de problemas: hacer predicciones, categorizar elementos, detectar anomalías, identificar temas, descubrir conexiones y encontrar patrones. Reconocer el tipo de problema orienta las preguntas, los datos necesarios y el enfoque de análisis. Categorizar agrupa observaciones con características comunes; identificar temas interpreta el significado de esas categorías, mientras que encontrar patrones examina comportamientos que se repiten en el tiempo.
+
+Las preguntas SMART son específicas, medibles, orientadas a la acción, relevantes y delimitadas en el tiempo. Ayudan a precisar objetivos, audiencia, recursos y restricciones antes de recopilar o analizar datos. Conviene evitar preguntas que sugieran la respuesta, presupongan hechos o carezcan de contexto, y usar preguntas abiertas cuando se necesita comprender experiencias y motivos. Escuchar, pedir aclaraciones y registrar respuestas reduce malentendidos y mantiene la investigación enfocada.
+
+### Módulo 2: Tomar decisiones basadas en datos
+
+Los datos apoyan las decisiones, pero requieren interpretación y conocimiento del contexto. Las decisiones basadas en datos utilizan hechos para orientar la estrategia; las inspiradas en datos incorporan además experiencias, información cualitativa y perspectivas de otras fuentes. Los ejemplos del curso muestran que datos incompletos o unidades de medida mal interpretadas pueden producir decisiones erróneas aunque existan muchas observaciones. Los datos cuantitativos permiten medir cantidades y frecuencias, y los cualitativos ayudan a comprender características, opiniones y razones.
+
+Las métricas convierten los datos en mediciones concretas vinculadas con objetivos empresariales, como ingresos, retorno de la inversión o rotación de personal. El pensamiento matemático permite identificar variables relevantes, relacionarlas mediante cálculos y escoger herramientas adecuadas. Small data suele abordar preguntas acotadas con conjuntos manejables; big data requiere considerar volumen, variedad, velocidad y veracidad, además de los costos y dificultades de acceso, procesamiento y calidad.
+
+Para compartir resultados, los informes ofrecen una fotografía estática y periódica, mientras que los cuadros de mando permiten consultar distintas vistas y seguir datos que se actualizan. La elección depende del uso, la frecuencia de consulta y el mantenimiento necesario. Las tablas dinámicas resumen y agrupan información; el diseño de un cuadro de mando parte de los requisitos de sus usuarios y continúa con la organización visual, posibles maquetas, selección de gráficos y filtros. Las actualizaciones dependen de las fuentes y de una estructura de datos compatible con el diseño.
+
+### Módulo 3: Hoja de cálculo mágica
+
+Las hojas de cálculo permiten capturar, organizar, transformar y analizar datos, y también apoyan su gestión a lo largo del ciclo de vida. Las prácticas con Google Sheets y Excel incluyen crear o importar archivos, trabajar con filas y columnas, definir encabezados, aplicar formatos y ordenar o filtrar registros. Una estructura consistente y legible facilita los cálculos y la colaboración.
+
+Las fórmulas comienzan con `=` y combinan operadores, referencias y rangos; los paréntesis controlan el orden de las operaciones. Las referencias relativas cambian al copiar una fórmula, las absolutas mantienen fija la celda y las mixtas fijan solo la fila o la columna. Las funciones `SUM`, `AVERAGE`, `COUNT`, `MIN` y `MAX` permiten resumir valores, y `COUNTIF` cuenta las celdas que cumplen una condición. El autorrelleno agiliza tareas repetitivas, pero exige revisar las referencias. Corregir errores de sintaxis, tipos de datos, divisiones por cero y referencias inválidas permite obtener resultados confiables.
+
+El pensamiento estructurado ayuda a delimitar el dominio del problema, organizar la información, reconocer brechas y evaluar opciones antes de calcular. El alcance del trabajo establece entregables, cronograma, hitos e informes, y permite acordar límites y expectativas; se distingue de la declaración de trabajo, que puede incluir compromisos contractuales, servicios y costos. Comprender el contexto de los datos y cuestionar los supuestos ayuda a evitar el sesgo de confirmación y a investigar lo que indica la evidencia, en lugar de buscar únicamente respaldo para una idea previa.
+
+### Módulo 4: Recuerde siempre a las partes interesadas
+
+Trabajar con las partes interesadas exige comprender quién decide, quién utiliza los resultados y quién contribuye al análisis. Los equipos ejecutivos, de atención al cliente, de análisis y de gestión de proyectos aportan perspectivas diferentes. Acordar objetivos y responsabilidades desde el inicio permite priorizar las tareas y equilibrar las necesidades del equipo con los resultados esperados del proyecto.
+
+La comunicación se adapta a cuatro preguntas: quién es la audiencia, qué sabe, qué necesita saber y cómo transmitirle la información. Los correos deben ser claros y profesionales, y las actualizaciones deben informar avances, obstáculos y próximos pasos. Conviene acordar plazos realistas y comunicar las limitaciones de datos incompletos, inconsistentes o sucios. La presión por responder rápido no justifica presentar conclusiones sin verificar: es preferible aclarar la necesidad, explicar qué puede entregarse y negociar tiempos o alcance. Las definiciones y unidades de las métricas deben alinearse entre equipos para que las comparaciones sean válidas.
+
+Las reuniones eficaces requieren una agenda, materiales preparados, tecnología probada y participación atenta. Registrar decisiones, responsables y acciones pendientes facilita el seguimiento. Ante un conflicto, escuchar los distintos puntos de vista, mantener la calma y reformular la discusión alrededor del objetivo común permite encontrar soluciones colaborativas. Presentar los hallazgos con contexto y reconocer sus límites fortalece la confianza y ayuda a que las recomendaciones se conviertan en acciones.
