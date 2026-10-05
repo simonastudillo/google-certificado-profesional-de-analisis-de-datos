@@ -66,3 +66,20 @@
 - ​Con estos consejos en mente, ​estarás bien encaminado hacia ​reuniones de equipo productivas y positivas.
 - ​Pero, por supuesto, a veces ​habrá conflictos en tu equipo.
 - ​Hablaremos pronto de la resolución de conflictos.
+
+---
+
+## Ximena Uniéndose a un nuevo Equipo
+- Unirse a un nuevo equipo fue definitivamente aterrador al principio.
+- ​Especialmente en una empresa como Google, donde es muy grande y ​todos son extremadamente inteligentes.
+- ​Pero realmente me apoyé en mi gerente para entender lo que podía aportar.
+- ​Y eso me hizo sentir mucho más cómoda en las reuniones y, al mismo tiempo, compartir mis ​habilidades.
+- ​He descubierto que mis mejores proyectos comienzan cuando la comunicación es muy clara ​sobre lo que se espera.
+- ​Si salgo ​de la reunión en la que se me ha pedido que sepa exactamente ​por dónde empezar y qué tengo que hacer, eso me permite hacerlo de forma más rápida y eficiente, ​alcanzar el verdadero objetivo ​y, tal vez, ir un paso más allá, ya que no tuve que perder tiempo ​confundido con lo que tenía que hacer.
+- ​La Comunicación es muy importante porque te lleva a la línea de meta de la ​manera más eficiente y también te hace lucir muy bien.
+- ​Cuando empecé, tenía una buena cantidad de proyectos por delante y ​estaba muy emocionada.
+- ​Así que los analicé sin hacer demasiadas preguntas.
+- ​Al principio, eso fue un obstáculo, porque si bien puedes prosperar en la ​ambigüedad, la ambigüedad en cuanto a cuál es el objetivo del proyecto puede ser muy perjudicial ​cuando realmente estás intentando lograr el objetivo.
+- ​Y lo superé simplemente dando un paso atrás cuando alguien me pidió que hiciera ​el proyecto y simplemente aclarando cuál era ese objetivo.
+- ​Una vez que ese objetivo estuvo nítido, ​me gustó entrar en la ambigüedad de cómo llegar allí, ​pero el objetivo tiene que ser realmente objetivo y claro.
+- ​Soy Ximena y soy analista financiera.
