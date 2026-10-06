@@ -207,3 +207,29 @@ Si no conociera las etiquetas de las categorías, ¿cómo distinguiría los dibu
 > ¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una reflexión eficaz sobre este tema señalaría que estos garabatos son Datos no estructurados porque no pueden organizarse en columnas y filas.
 > Por ejemplo, los datos de ¡Rápido, dibuja! están organizados vagamente en función de la categoría, pero no más allá de eso. Dentro de cada categoría, no hay organización. Datos no estructurados tampoco tienen una regla establecida sobre cómo comparar dos datos diferentes. En cambio, los Datos estructurados se ajustan a reglas de organización.
 > En el ejemplo del elefante, no hay reglas que hagan que una imagen se parezca más a un elefante que otra. Las reglas son una forma de estructurar los datos, ya que pueden actuar como una prueba para ayudar a determinar si un punto de datos (en este caso, una imagen) debe o no considerarse una imagen de un elefante.
+
+---
+
+## Seguir explorando los datos estructurados
+- Hola, ¡me alegro de volver a verle!
+- ​Antes, comparamos algunos formatos de datos, incluidos los datos estructurados y ​no estructurados.
+- ​La mayoría de los datos que se generan ahora mismo son en realidad no estructurados.
+- ​Archivos de audio, archivos de vídeo, correos electrónicos, fotos y ​redes sociales son ejemplos de datos no estructurados.
+- ​Pueden ser más difíciles de analizar en su formato no estructurado.
+- ​Pero aquí está la buena noticia, ​usted trabajará con datos estructurados la mayor parte del tiempo.
+- ​Por ejemplo, si necesita analizar datos sobre los datos no estructurados de correos electrónicos, ​fotos y sitios de redes sociales, ​lo más probable es que estén estructurados para su análisis antes incluso de que llegue a ellos.
+
+- ​Por eso, quiero explorar un poco más los datos estructurados.
+- ​A modo de repaso rápido, los Datos estructurados son datos organizados en un formato como filas y ​columnas.
+- ​Pero definitivamente hay más que eso.
+- ​Los datos estructurados funcionan bien dentro de un modelo de datos, que es un modelo que se utiliza para ​organizar los elementos de datos y cómo se relacionan entre sí.
+- ​¿Qué son los elementos de datos? ​Son piezas de información, como los nombres de las personas, ​números de cuenta y direcciones.
+- ​Los modelos de datos ayudan a mantener la coherencia de los datos y ​proporcionan un mapa de cómo se organizan los datos.
+
+- ​Esto facilita a los analistas y ​a otras partes interesadas dar sentido a sus datos y utilizarlos con fines empresariales.
+- ​Además de funcionar bien dentro de los modelos de datos, los datos estructurados también son útiles para ​las bases de datos.
+- ​Esto facilita a los analistas la introducción, consulta y ​análisis de los datos siempre que lo necesiten.
+- ​Esto también ayuda a que la visualización de datos sea bastante fácil ​porque los datos estructurados pueden aplicarse directamente a tablas, gráficos, mapas de calor, ​tableros y la mayoría de las demás representaciones visuales de datos.
+- ​Muy bien, ahora sabemos que las hojas de cálculo y ​las bases de datos que almacenan conjuntos de datos son fuentes muy utilizadas de datos estructurados.
+- ​Después de explorar algunas otras estructuras de datos, ​veremos más tipos de datos utilizando una hoja de cálculo.
+- ​¡La aventura continúa!
