@@ -130,3 +130,80 @@
    | -------------------------------------- | ---------- | -------- |
    | Datos estructurados                    | Datos organizados en un formato determinado, como filas y columnas | Informes de gastos <br> Declaraciones de impuestos <br> Inventario de la tienda |
    | Datos no estructurados                 | Datos que no pueden almacenarse como columnas y filas en una base de datos relacional. | Posts en redes sociales <br> Correos electrónicos <br> Vídeos |
+
+---
+
+## Autorreflexión opcional: Datos no estructurados
+
+- Resumen de la actividad
+   - Ahora que ha aprendido sobre los datos no estructurados y los formatos de datos, deténgase un momento a pensar en los datos no estructurados y cómo se comparan con los datos estructurados.
+   - La mayoría de los datos que se generan en la actualidad son no estructurados, y ser capaz de entenderlos permite a las empresas descubrir patrones ocultos, tendencias e información importante que puede ser inaccesible a través del análisis tradicional de datos estructurados.
+   - Responder a las preguntas de esta autorreflexión le ayudará a reforzar lo que ha aprendido y le permitirá sacar el máximo partido de todo tipo de datos a lo largo de su carrera.
+
+- Escenario
+   - Revise el siguiente escenario. A continuación, complete las instrucciones.
+   - ¡En este ejercicio de autorreflexión, explorará y reflexionará sobre la naturaleza de los Datos no estructurados interactuando con un conjunto de datos de origen colectivo en el sitio web Quick, Draw!
+   - Quick, Draw! es un juego en el que la gente crea dibujos. ¡Quick! Draw ha utilizado estos dibujos para amasar un Conjunto de datos que contiene millones de imágenes separadas en categorías como plantas, animales o vehículos. En la página web de Quick, Draw! puede examinar estos dibujos o jugar al juego para añadir los suyos propios. Estos dibujos ayudan a entrenar a las computadoras para que reconozcan objetos con inteligencia artificial. 
+   - ¡En esta autorreflexión, explorará el sitio web Quick! Draw y creará sus propios dibujos. ¡Después, reflexionará sobre Quick! Draw y lo que puede deducir sobre la naturaleza de los datos no estructurados frente a los estructurados. 
+
+- Instrucciones paso a paso
+   - Siga las instrucciones para completar cada paso de la actividad. A continuación, responda a las preguntas al final de la actividad antes de pasar al siguiente punto del curso.
+
+1.  Explore el sitio web de Quick, Draw
+- ¡Visite el [sitio web de Quick, Draw!](https://quickdraw.withgoogle.com/data/cloud)
+- Haga clic en la flecha desplegable que aparece junto a Ahora visualizando: nube.
+- Seleccione un tipo de garabato para empezar.
+- Haga clic en una imagen para obtener sus detalles, como el número de garabatos dibujados. Por ejemplo, hay más de 100.000 dibujos diferentes de elefantes. 
+- Desplácese por la lista y determine si hay alguno que no corresponda. Si encuentra uno que no parece corresponder al objeto previsto, haga clic sobre él y seleccione Marcar como inapropiado.
+- Explore otras categorías de dibujos. Elija tres que le interesen y examine sus garabatos.
+
+- Categorías seleccionadas
+   1. cat
+   2. duck
+   3. hamburger
+
+2. Exploarar obtener los datos
+- Explore más a fondo.
+- Haga Clic en Obtener los datos para visitar la página de GitHub que contiene el Conjunto de datos completo.
+- A medida que se familiarice con los proyectos de datos y empiece a crear los suyos propios, podrá volver a este Conjunto de datos y analizarlo usted mismo. 
+
+3. Explorar obtener los datos
+- ¡Haga Clic en Jugar para dibujar sus propios garabatos y contribuir al conjunto de datos de Quick, Draw! 
+
+- Reflexión
+   - Considere los garabatos que encontró en el Conjunto de datos ¡Rápido, Dibuja!
+   - ¿Qué observó al explorar los dibujos de las distintas categorías? ¿Existen temas coherentes entre los dibujos de una categoría? 
+   - Si no conociera las etiquetas de las categorías, ¿cómo distinguiría los dibujos entre sí? ¿Qué buscaría?
+   - Reflexione sobre sus elecciones y piense en categorías con los dibujos que acaba de explorar. 
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuestas
+¿Qué observó al explorar los dibujos de las distintas categorías? ¿Existen temas coherentes entre los dibujos de una categoría? 
+> Al observar las distintas categorías pude observar que todos los dibujos tienen elementos en común, en las hamburguesas está el pan, en el gato están las orejas y los bigotes y en el pato está el pico y la forma de su cabeza.
+
+Si no conociera las etiquetas de las categorías, ¿cómo distinguiría los dibujos entre sí? ¿Qué buscaría?
+> Los elementos antes mencionados son precisamente los que buscaría, hay elementos que son más característicos de un elemento en comparación a otros, para un gato basta con dibujar un círculo con orejas y bigotes y la mayoría de la gente podría adivinar de que se trata.
+
+- Comentarios
+> ¡Gran trabajo reforzando su aprendizaje con una autorreflexión reflexiva! Una respuesta eficaz incluiría cómo los datos (en este caso, los dibujos) son muy diferentes entre las tres categorías. En cada categoría, los dibujos también varían por un amplio margen, casi tanto como entre categorías.
+> Además, dentro de una misma categoría los dibujos pueden ser diferentes, pero persisten similitudes consistentes. Por ejemplo, prácticamente todas las imágenes de un elefante incluyen una trompa y grandes orejas, mientras que casi todos los televisores serán rectangulares y tendrán una antena.
+
+- ¡Considere lo que sabe sobre datos estructurados y no estructurados y cómo se relacionan con el sitio web de Quick, Draw!
+   - ¿Cómo describiría los garabatos de Quick, Draw! que ha explorado desde el punto de vista de los datos? Por ejemplo, ¿cómo están organizados estos garabatos? ¿Sería capaz de almacenar este tipo de datos en una base de datos?
+   - ¿En qué se diferencian o se parecen estos garabatos a otros tipos de datos que ha encontrado?
+   - ¿Qué tienen estos datos que los hace no estructurados?
+   - Reflexione sobre lo que ha aprendido y piense en los Datos con los garabatos Quick, Draw! que ha creado. 
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuestas
+
+¿Cómo describiría los garabatos de Quick, Draw! que ha explorado desde el punto de vista de los datos? Por ejemplo, ¿cómo están organizados estos garabatos? ¿Sería capaz de almacenar este tipo de datos en una base de datos?
+> Al analizar con más detalles los garabatos uno puede percatarse que hay varios datos dando vuelta, por lo que sí, sería factible almacenar en una base de datos, tenemos la categoría, tenemos un identificar incremental, luego está el país desde donde se dibujó y por último la fecha, como opcional se podría agregar un flag de si es inapropiado o no.
+
+¿Qué tienen estos datos que los hace no estructurados?
+> Los garabatos como tal no son estructurados, las imágenes son datos no estructurados por su estructura interna no puede ordenarse en un formato de filas y columnas.
+
+- Comentarios
+> ¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una reflexión eficaz sobre este tema señalaría que estos garabatos son Datos no estructurados porque no pueden organizarse en columnas y filas.
+> Por ejemplo, los datos de ¡Rápido, dibuja! están organizados vagamente en función de la categoría, pero no más allá de eso. Dentro de cada categoría, no hay organización. Datos no estructurados tampoco tienen una regla establecida sobre cómo comparar dos datos diferentes. En cambio, los Datos estructurados se ajustan a reglas de organización.
+> En el ejemplo del elefante, no hay reglas que hagan que una imagen se parezca más a un elefante que otra. Las reglas son una forma de estructurar los datos, ya que pueden actuar como una prueba para ayudar a determinar si un punto de datos (en este caso, una imagen) debe o no considerarse una imagen de un elefante.
