@@ -190,3 +190,43 @@
 - ​Como Analista de datos, le llegarán muchos datos, y los registros, campos y ​valores de las tablas de datos le ayudarán a navegar por el análisis.
 - ​Comprender las estructuras de las tablas con las que trabaja forma parte de ello.
 - ​Y con suerte, mientras trabaja duro en sus análisis y ​en esas tablas, podrá divertirse un poco con una tabla de datos diferente: ​¡la de su lista de reproducción favorita! 
+
+---
+
+## Paso a paso: Conozca los datos anchos y largos
+- Esta lectura resume los pasos que el instructor realiza en el siguiente video, Conocer datos anchos y largos.
+- En este video, el instructor presenta formatos de datos anchos y largos y discute los tipos de preguntas que cada formato puede ayudarle a responder.
+- Mantenga esta guía abierta mientras ve el video.
+- Puede servirte como referencia útil si necesitas contexto adicional o aclaración mientras sigues los pasos del video.
+- No se trata de una actividad puntuable, pero puedes completar estos pasos para practicar las habilidades demostradas en el vídeo.
+
+- Lo que necesita
+   - Si deseas acceder a las hojas de cálculo que el instructor utiliza en este vídeo, selecciona el enlace a un Conjunto de datos para crear una copia.
+   - Si no tienes una cuenta de Google, descarga los datos directamente de los archivos adjuntos que aparecen a continuación.
+   - Enlace a los conjuntos de datos de Población:
+      - [Population-Latin-and-Caribbean-Countries-2010-2019-wide-format.xlsx](./resources/modulo-01/Population-Latin-and-Caribbean-Countries-2010-2019-wide-format.xlsx)
+      - [Population-Latin-and-Caribbean-Countries-2010-2019-long-format-.xlsx](./resources/modulo-01/Population-Latin-and-Caribbean-Countries-2010-2019-long-format-.xlsx)
+
+- Ejemplo 1: Examinar Datos en formato ancho
+   - Datos en formato ancho es un conjunto de datos en el que cada sujeto de datos tiene una única fila con múltiples columnas para contener los valores de varios atributos del sujeto.
+   - Resulta útil para comparar atributos específicos de distintos sujetos.
+      - Abra la hoja de cálculo de formato ancho Población, países de América Latina y el Caribe, 2010-2019.
+      - Cada fila contiene todos los datos de Población de un país. 
+      - Los datos de Población de cada año están contenidos en una columna.
+      - Encuentra la población anual de Argentina en la fila 3.
+      - En este formato amplio, puede comparar rápidamente la población anual de Argentina con las poblaciones anuales de Antigua y Barbuda, Aruba, Bahamas o cualquier otro país. 
+   - Encontrar el país con mayor población en 2010
+      - Seleccionar la columna E, que contiene los datos de población de cada país en 2010.
+      - Haga clic con el botón derecho del ratón en el Encabezado de la columna E y elija Ordenar de Z a A. 
+      - Observa que Brasil encabeza ahora la Lista porque tuvo la mayor población en el año 2010.
+   - Encuentra el país con menor población en 2013
+      - Seleccionar la columna H. 
+      - Clic con el botón derecho del ratón en el Encabezado de columna H y selecciona Ordenar de A a Z. 
+      - Observa que las Islas Vírgenes Británicas están ahora en la parte superior porque tenían la población más baja de todos los países en 2013.
+
+- Ejemplo 2: Examinar datos en formato largo
+   - Datos en formato largo son datos en los que cada fila representa una observación por sujeto, por lo que cada sujeto estará representado por varias filas.
+   - Este formato de datos es útil para comparar cambios a lo largo del tiempo o hacer otras comparaciones entre sujetos.
+      - Abra la hoja de cálculo Población, países de América Latina y el Caribe, 2010-2019, formato largo.
+      - Observe que los Datos ya no están organizados en columnas por año. Todos los años están ahora en una sola columna.
+      - Encuentra los datos de Población de Argentina en las filas 12-21. Cada fila contiene un año de datos de Población de Argentina. 
