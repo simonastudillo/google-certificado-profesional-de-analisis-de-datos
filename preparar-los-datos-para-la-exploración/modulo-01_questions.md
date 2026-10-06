@@ -11,3 +11,10 @@
    - [ ] Nominal
    - [x] Discreto
 > La clasificación por estrellas es un ejemplo de datos ordinales porque el número de estrellas está en orden de cuánto le gustó la película a cada persona. También es un ejemplo de datos discretos porque una persona tiene que elegir una medida de estrellas completa; las medias estrellas no eran una opción.
+
+- Al hablar de bases de datos estructuradas, los analistas de datos se refieren a los datos contenidos en una fila como un registro. ¿Cómo se refieren a los datos contenidos en una columna?
+   - [ ] Carácter
+   - [ ] Punto
+   - [ ] Sujeto
+   - [x] Campo
+> Los analistas de datos se refieren a los datos contenidos en una columna como un Campo.
