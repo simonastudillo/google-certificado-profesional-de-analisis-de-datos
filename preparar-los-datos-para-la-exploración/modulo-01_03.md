@@ -320,3 +320,35 @@ Si no conociera las etiquetas de las categorías, ¿cómo distinguiría los dibu
    - El Modelado de datos a veces requiere un análisis de datos para comprender cómo se componen los datos; de ese modo, sabrá cómo mapearlos.
    - Y, por último, los Modelos de datos facilitan que todos los miembros de su organización comprendan sus datos y colaboren con usted en ellos.
    - ¡Esto es importante para usted y para todos los miembros de su Equipo!
+
+---
+
+## Ponga a prueba sus conocimientos sobre formatos y estructuras de datos
+
+- ¿Qué tipo de datos es la altura de un rascacielos?
+   - [x] Continuo
+   - [ ] Nominal
+   - [ ] Cualitativo
+   - [ ] Discreto
+> La altura de un rascacielos es un dato continuo, que se mide y puede tener casi cualquier valor numérico. 
+
+2. En la Analítica de datos, ¿cómo se denominan los datos que se generan y viven fuera de una organización?
+   - [ ] Interno
+   - [ ] Periférico
+   - [ ] Exterior
+   - [x] Exterior
+> 
+
+3. ¿Cuáles son las características clave de los Datos no estructurados? Seleccione todas las que correspondan.
+   - [ ] Encaja perfectamente en filas y columnas
+   - [x] Sin organizar
+   - [ ] Construcción claramente identificable
+   - [x] Puede tener una estructura interna
+> Los Datos no estructurados no están organizados de ninguna manera fácilmente identificable, aunque pueden tener una estructura interna.
+
+4. Rellene el espacio en blanco: Un Modelo de datos se utiliza para organizar _____ y cómo se relacionan entre sí. 
+   - [x] elementos de datos
+   - [ ] campos de la hoja de cálculo
+   - [ ] estructuras de bases de datos
+   - [ ] visualizaciones de datos
+> Se utiliza un Modelo de datos para organizar los elementos de datos y cómo se relacionan entre sí. Elementos de datos son piezas de información, como nombres de personas, números de cuenta y direcciones.
