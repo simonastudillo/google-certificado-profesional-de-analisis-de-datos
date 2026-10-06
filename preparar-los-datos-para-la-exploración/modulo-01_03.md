@@ -69,3 +69,64 @@
 - ​Dentro de un bit, ​seguirás explorando los Datos estructurados y aprenderás.
 - ​aún más sobre los Datos que ​como analista.
 - ​Próximamente en una pantalla cercana.
+
+---
+
+## Formatos de datos en la práctica
+- Cuando piensa en la palabra "formato", le pueden venir a la mente muchas cosas.
+- Piense en un anuncio de su tienda favorita.
+- Puede encontrarlo en forma de anuncio impreso, de valla publicitaria o incluso de anuncio publicitario.
+- La Información se presenta en el formato que mejor le funciona para asimilarla.
+- El formato de un Conjunto de datos se parece mucho a eso, y elegir el formato adecuado le ayudará a gestionar y utilizar sus datos de la mejor manera posible.
+
+- Ejemplos de formatos de datos
+   - ASÍ COMO con la mayoría de las cosas, es más fácil que las definiciones encajen cuando puede vincularlas con ejemplos con los que podría encontrarse a diario.
+   - Repase primero la definición de cada formato de datos y luego utilice los ejemplos para afianzar su comprensión.
+
+   - Datos primarios frente a datos secundarios
+      - La siguiente tabla destaca las diferencias entre datos primarios y secundarios y presenta ejemplos de cada uno.
+
+   | Clasificación de los formatos de datos  | Definición | Ejemplos |
+   | --------------------------------------- | ---------- | -------- |
+   | Datos primarios                         | Recogidos por un investigador de fuentes de primera mano | Datos de una entrevista realizada por usted - Datos de una Encuesta devuelta por 20 participantes. <br> Datos de cuestionarios que obtuvo de un grupo de trabajadores |
+   | Datos secundarios                       | Recogidos por otras personas o procedentes de otras investigaciones | Datos que obtuvo de los perfiles de clientes de una empresa local de Analítica de datos.<br> Datos demográficos recopilados por una universidad. <br> Datos censales recopilados por el Gobierno federal. |
+
+   - Datos internos frente a datos externos
+      - La siguiente tabla destaca las diferencias entre datos internos y externos y presenta ejemplos de cada uno de ellos.
+
+   | Clasificación del formato de los Datos | Definición | Ejemplos |
+   | -------------------------------------- | ---------- | -------- |
+   | Datos internos                         | Datos que se almacenan dentro de los propios sistemas de una empresa | Salarios de los empleados en las distintas unidades de negocio seguidos por RRHH <br> Datos de ventas por ubicación de la tienda <br> Niveles de inventario de productos en los centros de distribución |
+   | Datos externos                         | Datos que se almacenan fuera de una empresa u organización | Salarios medios nacionales para los distintos puestos en toda su organización <br> Informes de crédito de los clientes de un concesionario de automóviles |
+
+   - Datos continuos frente a datos discretos
+      - La siguiente tabla destaca las diferencias entre datos continuos y discretos y presenta ejemplos de cada uno de ellos.
+
+   | Clasificación del formato de los Datos | Definición | Ejemplos |
+   | -------------------------------------- | ---------- | -------- |
+   | Datos continuos                        | Datos que se miden y pueden tener casi cualquier valor numérico | Altura de los niños en clases de tercer grado (52,5 pulgadas, 65,7 pulgadas) <br> Marcadores de tiempo de ejecución en un vídeo <br> Temperatura |
+   | Datos discretos                        | Datos que se cuentan y tienen un número limitado de valores | Número de personas que visitan diariamente un hospital (10, 20, 200) <br> Capacidad máxima permitida en una sala <br> Entradas vendidas en el mes en curso |
+
+   - Datos cualitativos frente a datos cuantitativos
+      - La siguiente tabla destaca las diferencias entre datos cualitativos y cuantitativos y presenta ejemplos de cada uno.
+
+   | Clasificación del formato de los Datos | Definición | Ejemplos |
+   | -------------------------------------- | ---------- | -------- |
+   | Cualitativos                           | Medida subjetiva y explicativa de una Calidad o característica | Actividad física favorita <br> Marca con mejor servicio al cliente <br> Preferencias  de moda de los adultos jóvenes <br> |
+   | Cuantitativo                           | Una medida específica y objetiva, como un número, una cantidad o un Rango | Porcentaje de médicos colegiados que son mujeres <br> Tamaño de la población de elefantes en África <br> Distancia de la Tierra a Marte en un momento determinado |
+
+   - Datos nominales frente a datos ordinales
+      - La siguiente tabla destaca las diferencias entre datos nominales y ordinales y presenta ejemplos de cada uno.
+
+   | Clasificación del formato de los Datos | Definición | Ejemplos |
+   | -------------------------------------- | ---------- | -------- |
+   | Nominal                                | Tipo de datos cualitativos que se clasifican sin un orden establecido | Cliente primerizo, cliente recurrente, cliente habitual <br> Nuevo solicitante de empleo, solicitante existente, solicitante interno <br> Lista nueva, lista a precio reducido, ejecución hipotecaria |
+   | Ordinal                                |  Un tipo de Datos cualitativos con un orden o escala establecidos | Clasificaciones de películas (número de estrellas: 1 estrella, 2 estrellas, 3 estrellas) <br> Selecciones de votación por orden de importancia (1ª, 2ª, 3ª) <br> Nivel de satisfacción medido en una encuesta (satisfecho, neutral, insatisfecho) |
+
+   - Datos estructurados frente a datos no estructurados
+      - La siguiente tabla destaca las diferencias entre datos estructurados y no estructurados y presenta ejemplos de cada uno de ellos.
+
+   | Clasificación del formato de los Datos | Definición | Ejemplos |
+   | -------------------------------------- | ---------- | -------- |
+   | Datos estructurados                    | Datos organizados en un formato determinado, como filas y columnas | Informes de gastos <br> Declaraciones de impuestos <br> Inventario de la tienda |
+   | Datos no estructurados                 | Datos que no pueden almacenarse como columnas y filas en una base de datos relacional. | Posts en redes sociales <br> Correos electrónicos <br> Vídeos |
