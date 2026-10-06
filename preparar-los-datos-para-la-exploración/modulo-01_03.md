@@ -263,3 +263,22 @@ Si no conociera las etiquetas de las categorías, ¿cómo distinguiría los dibu
    - Ahora, el nuevo reto al que se enfrentan los científicos de Datos es asegurarse de que estas herramientas sean inclusivas e imparciales.
    - De lo contrario, ciertos elementos de un conjunto de datos estarán más ponderados y/o representados que otros.
    - Y como está aprendiendo, un conjunto de datos injusto no representa con exactitud a la población, lo que provoca resultados sesgados, bajos niveles de exactitud y análisis poco fiables.
+
+---
+
+## Diferenciar los tipos de datos
+- In this matching exercise, match each data type definition to the correct term.
+
+| Definition | Term |
+| ---------- | ---- |
+| Data collected by an individual or group using their own resources | First-party data |
+| Data collected by another group and then sold | Second-party data |
+| Data sold by a provider that didn’t collect the data themselves | Third-party data | 
+| Data that is counted and has a limited number of values | Discrete data |
+| Data that is measured and can have almost any numeric value | Continuous data |
+| Data that is not organized in any easily identifiable manner | Unstructured data |
+| Data organized in a certain format such as rows and columns | Structured data |
+| Data that lives within a company’s own systems | Internal data |
+| Qualitative data with a set order or scale | Ordinal data |
+| Data that lives and is generated outside of an organization | External data |
+| Qualitative data that is categorized without a set order | Nominal data |
