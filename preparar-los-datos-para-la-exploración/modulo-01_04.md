@@ -338,3 +338,108 @@
       | ------------------------------------------ | ------------------------------------------ |
       | Creación de tablas y gráficos con unas pocas variables sobre cada sujeto | Almacenamiento de muchas variables sobre cada sujeto. Por ejemplo, 60 años de tipos de interés de cada banco |
       | Comparar gráficos de líneas sencillos | Realizar análisis estadísticos o gráficos avanzados |
+
+---
+
+## Actividad práctica: Introducción a Kaggle
+- Resumen de actividades
+   - A estas alturas, ya habrá aprendido mucho sobre los diferentes tipos y estructuras de datos.
+   - En esta actividad, trabajará con conjuntos de datos de Kaggle, una comunidad en línea de personas apasionadas por los datos.
+   - Para comenzar esta actividad, creará una cuenta de Kaggle, configurará un perfil y explorará los cuadernos de Kaggle.
+   - Todo analista de datos tiene una comunidad de datos en la que confía para obtener ayuda, apoyo e inspiración.
+   - Kaggle puede ayudarle a construir su propia comunidad de datos.
+   - Kaggle tiene millones de usuarios en todas las etapas de su carrera de datos, desde principiantes hasta científicos de datos con décadas de experiencia.
+   - La comunidad Kaggle reúne a personas para desarrollar sus habilidades de análisis de datos, compartir conjuntos de datos y cuadernos interactivos, y colaborar en la resolución de problemas de datos de la vida real.
+   - Eche un vistazo a este [breve vídeo introductorio](https://www.youtube.com/watch?v=TNzDMOg_zsw) para saber más sobre Kaggle.
+   - Cuando complete esta actividad, será capaz de utilizar muchas de las características clave de Kaggle.
+   - Esto le permitirá crear cuadernos y navegar por los datos, lo cual es importante para completar y compartir proyectos de datos en su carrera como analista de datos.
+
+- Instrucciones paso a paso
+   - Siga las instrucciones para completar cada paso de la actividad.
+   - A continuación, responda a las preguntas al final de la actividad antes de pasar al siguiente punto del curso.
+
+1. Crear una cuenta en Kaggle
+   - Para empezar, siga estos pasos para crear una cuenta en Kaggle. 
+   - Nota: Kaggle actualiza con frecuencia su interfaz de usuario. Es posible que los últimos cambios no se reflejen en las capturas de pantalla, pero los principios de esta actividad siguen siendo los mismos. Adaptarse a los cambios en las actualizaciones del software es una habilidad esencial para los analistas de datos, y le animamos a que practique la resolución de problemas. También puede pedir ayuda a su comunidad de alumnos en el foro de debate.
+   - Ir a [kaggle.com](http://www.kaggle.com/)
+   - Haga clic en el botón Registrarse situado en la parte superior derecha de la página de inicio de Kaggle.
+   - Puede registrarse con sus credenciales de Google o con su dirección de correo electrónico personal.
+   - Una vez que se haya registrado y haya iniciado sesión en Kaggle, haga clic en el icono Cuenta situado en la parte superior derecha de la pantalla.
+   - En el menú que se abre, haga clic en el botón Su perfil. 
+   - En la página de su perfil, haga clic en el botón Editar perfil.
+   - Introduzca cualquier información que desee compartir con la comunidad de Kaggle.
+   - Su perfil será público, así que introduzca sólo la información que se sienta cómodo compartiendo
+   - Si quiere un poco de inspiración, ¡eche un vistazo al perfil del [Defensor de la Comunidad de Kaggle, Jesse Mostipak](https://www.kaggle.com/jessemostipak)
+
+2. Vaya a la página de inicio de código
+   - Ahora que ha creado una cuenta y configurado su perfil, puede consultar algunos cuadernos en Kaggle.
+   - Los Kagglers utilizan cuadernos para compartir conjuntos de datos y análisis de datos.
+   - En primer lugar, vaya a la barra de navegación en la parte izquierda de su pantalla.
+   - A continuación, haga clic en el icono Código.
+   - Esto le llevará a la página de inicio de Código. 
+
+3. Revisar las contribuciones de Kaggler
+   - En la página de inicio de Código, encontrará enlaces a cuadernos creados por otros Kagglers.
+   - Para empezar, desplácese por la Lista y haga clic en los Notebooks que le interesen.
+   - A medida que explore, es posible que se encuentre con términos desconocidos e información nueva: ¡No pasa nada! Los Kagglers proceden de diversos entornos y se centran en diferentes áreas del análisis de datos, la Ciencia de datos, el aprendizaje automático y el aprendizaje profundo.
+
+4. Limite su búsqueda
+   - Una vez que se haya familiarizado con la página de inicio de Código, puede limitar los resultados de su búsqueda escribiendo una palabra en la barra de búsqueda o utilizando la función de filtro.
+   - Por ejemplo, introduzca Principiante en la barra de búsqueda para mostrar cuadernos etiquetados como aptos para principiantes.
+   - O bien, haga clic en el icono Filtro , la forma de triángulo situada a la derecha de la barra de búsqueda.
+   - Puede filtrar los resultados por etiquetas, lenguaje de programación, salida y otras opciones.
+   - Filtre a Conjuntos de datos para mostrar cuadernos que utilicen uno de las decenas de miles de conjuntos de datos públicos disponibles en Kaggle.
+
+5. Revisar los notebooks sugeridos
+   - Dedica algún tiempo a explorar un par de cuadernos que aparezcan en los resultados de tu búsqueda.
+   - Esto te ayudará a familiarizarte con el trabajo que los Kagglers comparten en línea y que podrás crear cuando hayas terminado este curso
+
+6. Editar un notebook
+   - Ahora, trabaja con un cuaderno específico: [Análisis de los aldeanos de Animal Crossing](https://www.kaggle.com/code/jessemostipak/animal-crossing-villager-analysis)
+ por Jesse Mostipak.
+   - Este cuaderno incluye el análisis de los personajes aldeanos del videojuego Animal Crossing.
+   - Sigue estos pasos para aprender a editar cuadernos:
+      1. Haz clic en el enlace para abrir el cuaderno. Contiene el conjunto de datos con el que trabajarás más adelante.
+      2. Haz clic en el botón Copiar y editar de la parte superior derecha para hacer una copia de la libreta en tu cuenta. Ahora, el cuaderno aparece en modo Editar . El modo Edición le permite realizar cambios en la libreta si lo desea.
+         - Esta libreta es privada.
+         - Si quieres compartir tu trabajo, puedes hacerla pública.
+         - Cuando copies y edites el trabajo de otro Kaggler, haz siempre cambios significativos en el cuaderno antes de publicarlo.
+         - De esta forma, no estarás tergiversando el trabajo de otra persona como si fuera tuyo.
+      3. Tómate un momento para explorar el modo Editar del cuaderno.
+         - Algunos de los contenidos del cuaderno, incluyendo el código Python, pueden parecerte poco familiares, y eso está bien.
+         - Al final de este curso, sabrás cómo crear un cuaderno como éste desde cero 
+
+7. Trabajar con conjuntos de datos en notebooks
+   - Ahora ya puedes consultar los datos
+   - En este cuaderno, encontrarás los datos en un recuadro llamado Conjuntos de datos en la parte superior derecha de la pantalla.
+   - En el cuadro, hay una carpeta de entrada con el título: animal-crossing-new-horizons-nookplaza.
+   - Sigue estas instrucciones para explorar los conjuntos de datos y aprender más sobre los datos que contienen:
+      - Haga clic en este título. Aparecerá una lista de archivos .csv en orden alfabético. Haga clic en el archivo villagers.csv. Este archivo incluye datos sobre los distintos atributos de cada personaje aldeano del videojuego. En la parte inferior del cuaderno, encontrarás ahora una tabla de datos interactiva con toda la información del conjunto de datos. 
+      - Tómate un momento para explorar el conjunto de datos.
+      - Ordena los datos de cada columna haciendo clic en las barras horizontales situadas a la derecha del nombre de cada columna.
+      - Haz clic en el botón que dice 10 de 17 columnas para cambiar las columnas visibles en la tabla.
+         - En el menú desplegable, hay una marca de verificación junto al nombre de cada columna que aparece en la tabla. Marcar o desmarcar una de estas casillas cambiará los datos que se presentan.
+         - Enhorabuena Ha explorado varias formas de interactuar con el conjunto de datos. Esto te ayudará a familiarizarte con la interfaz de Kaggle. Puedes guardar el cuaderno en el que has trabajado para futuras consultas. Próximamente, aprenderás más sobre otras formas de utilizar Kaggle.
+
+- Reflexión
+
+1. ¿Qué afirmaciones son ciertas sobre el conjunto de datos de aldeanos del cuaderno Análisis de aldeanos de Animal Crossing? Selecciona todas las que correspondan
+   - [ ] en aldeanos.csv, la columna Frase Clave no se puede ordenar.
+   - [x] en villagers.csv, la columna Nombre incluye dos nombres que empiezan por la letra "Z" (Zell y Zucker). 
+   - [x] aldeanos.csv tiene 17 columnas.
+   - [ ] aldeanos.csv incluye una columna llamada Tamaño.
+> El archivo villagers. csv tiene 17 columnas. En aldeanos.csv, la columna Nombre incluye dos nombres que empiezan por la letra "Z" (Zell y Zucker). Para conocer el conjunto de datos aldeanos, has utilizado la función de visualización de datos de un cuaderno interactivo. En adelante, podrás utilizar cuadernos interactivos para examinar y describir datos. Se trata de una habilidad importante que te ayudará a completar proyectos de datos en el futuro.
+
+2. En esta actividad, has aprendido mucho sobre tipos y estructuras de datos. Utilizando lo que has aprendido hasta ahora, considera tu experiencia con los conjuntos de datos en general y con el conjunto de datos de los aldeanos en particular. En el cuadro de texto que aparece a continuación, escribe de 2 a 3 frases (de 40 a 60 palabras) en respuesta a cada una de las siguientes preguntas:
+   - Utilizando toda la información que has aprendido mientras explorabas en Kaggle, ¿cómo describirías a fondo este conjunto de datos a otra persona?
+   - ¿Cómo crees que compartir cuadernos interactivos en línea puede ayudarte a desarrollar tus habilidades de análisis de datos? 
+
+- ¿cómo describirías a fondo este conjunto de datos a otra persona?
+> Sobre el archivo y datos concretos de villagers.csv lo describiría como un conjunto de datos sobre las características de los aldeanos del juego Animal Crossing, donde podemos apreciar tanto su género, personalidad, fecha de cumpleaños y otros detalles que nos permiten saber cómo interactuar mejor con ellos.
+
+- ¿Cómo crees que compartir cuadernos interactivos en línea puede ayudarte a desarrollar tus habilidades de análisis de datos?
+> Compartir datos de esta forma es muy útil porque permite que otras personas con más experiencia puedan aportar comentarios e indicaciones para mejorar la forma en que se recolecta, presentan e incluso sobre la visión que hay del resultado presentado, además al publicar uno mismo se pone más observador con el trabajo propio.
+
+- Comentarios 
+> ¡Enhorabuena por completar esta actividad práctica! Has trabajado con cuadernos y has explorado un conjunto de datos en Kaggle. Una buena respuesta sería que los recursos en línea como Kaggle ayudan a los analistas de datos a realizar muchas tareas importantes. Más allá de eso, considera lo siguiente:
+> Los analistas de datos utilizan una variedad de recursos para completar proyectos de análisis de datos. Por ejemplo, un analista podría utilizar cuadernos de Kaggle para alojar proyectos en una cartera. Esto es importante para practicar y demostrar sus habilidades, así como para obtener comentarios de analistas de datos más experimentados sobre su trabajo.
