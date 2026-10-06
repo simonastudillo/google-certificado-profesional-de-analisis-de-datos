@@ -443,3 +443,35 @@
 - Comentarios 
 > ¡Enhorabuena por completar esta actividad práctica! Has trabajado con cuadernos y has explorado un conjunto de datos en Kaggle. Una buena respuesta sería que los recursos en línea como Kaggle ayudan a los analistas de datos a realizar muchas tareas importantes. Más allá de eso, considera lo siguiente:
 > Los analistas de datos utilizan una variedad de recursos para completar proyectos de análisis de datos. Por ejemplo, un analista podría utilizar cuadernos de Kaggle para alojar proyectos en una cartera. Esto es importante para practicar y demostrar sus habilidades, así como para obtener comentarios de analistas de datos más experimentados sobre su trabajo.
+
+---
+
+## Pon a prueba tus conocimientos sobre tipos de datos, campos y valores
+
+1. Rellene el espacio en blanco: Un tipo de datos es una clase específica de datos _____ que indica qué clase de valor son los datos. 
+   - [x] atributo
+   - [ ] marco
+   - [ ] Modelo
+   - [ ] punto
+> Un tipo de datos es un tipo específico de atributo de datos que indica qué tipo de valor son los datos. 
+
+2. ¿Cuáles son las características clave de un tipo de datos de texto, o Cadena? Seleccione todas las que correspondan.
+   - [x] Contiene información textual
+   - [x] Secuencia de caracteres y puntuación
+   - [ ] Tiene porcentajes numéricos
+   - [ ] Sólo dos valores posibles
+> Los Tipos de datos de texto, o Cadena, son secuencias de caracteres y signos de puntuación que contienen información textual.
+
+3. En una tabla de Datos, ¿dónde están contenidos los campos?
+   - [ ] Favoritos
+   - [ ] Filas
+   - [x] Columnas
+   - [ ] Gráficos
+> En una tabla de Datos, las columnas son campos y las filas son registros.
+
+4. Cuando se utilizan datos largos, cada sujeto tiene datos en varias filas. Esto se debe a que cada fila representa ¿qué? 
+   - [ ] Datos en diferentes formatos
+   - [ ] Puntos de datos verdaderos o falsos
+   - [ ] Valores múltiples 
+   - [x] Una observación por sujeto
+> Cuando se utilizan datos largos, cada sujeto tiene datos en varias filas. Esto se debe a que cada fila representa un punto de observación por sujeto.
