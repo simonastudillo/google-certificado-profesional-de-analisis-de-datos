@@ -46,3 +46,30 @@
 - ​Si sus datos ayudan a financiar los esfuerzos de una empresa, ​debe saber en qué consisten esos esfuerzos ​y tener la oportunidad de excluirse.
 - ​Los dos últimos aspectos de la ética de los datos, la ​privacidad y la apertura, merecen ​su propia atención en esta etapa de los datos.
 - ​Próximamente, verás por qué.
+
+---
+
+## Repaso opcional: Alex y la importancia de la Ética de los datos
+- Hola, soy Alex.
+- Soy científico investigador en Google.
+- ​Mi equipo se llama Equipo de IA Ética.
+- ​Somos un grupo de personas a las que realmente les preocupa no solo ​cómo funciona la IA, la tecnología, ​sino también cómo interactúa con la sociedad y cómo ​podría ayudar o dañar a las comunidades marginadas.
+- ​Entonces, cuando hablamos de ética de datos ​, pensamos: ¿Cuál es ​la forma buena y correcta de usar los datos? ​¿Cuáles serán las formas en que ​los usos de los datos ​serán beneficiosos para las personas? ​Cuando se trata de la ética de los datos, no se ​trata solo de minimizar el daño, ​sino de este concepto de beneficencia.
+
+- ​¿Cómo podemos mejorar realmente la vida ​de las personas mediante el uso de datos? ​Cuando pensamos en la ética de los datos, ​pensamos en quién recopila los datos.
+- ​¿Por qué lo coleccionan? ​¿Cómo lo están recolectando? ¿Y con qué propósito? ​Debido ​a la forma en que las organizaciones tienen el imperativo de ganar ​dinero, informar a alguien o proporcionar algún análisis, ​también debemos tener muy en cuenta ​cómo esto va a ​beneficiar realmente a las personas al final del día.
+- ​¿Las personas representadas en ​estos datos se van a beneficiar de esto? 
+- ​Creo que eso es lo que nunca debes ​perder de vista como científico de datos o analista de datos.
+- ​Creo que los aspirantes ​a analistas de datos deben tener en cuenta ​que muchos de los datos que van a ​encontrar provienen de personas.
+- ​Así que, al final del día, ​los datos son personas.
+- Y quieres asumir ​una responsabilidad con las personas ​que están representadas en esos datos.
+- ​En segundo lugar, está pensando en cómo mantener ​los aspectos de sus datos protegidos y privados.
+- ​No queremos basarnos en nuestra práctica ​pensando en las instancias de datos como algo que ​podemos simplemente publicar en la web.
+- ​No, es necesario tener en cuenta cómo ​conservar esa información y ​semejanzas, como sus imágenes, ​sus voces o su texto.
+
+- ​¿Cómo lo mantenemos en privado? ​También debemos pensar en cómo podemos disponer ​de mecanismos para dar a los usuarios ​y a los consumidores más control sobre sus datos.
+- ​No bastará ​con decir que hemos recopilado todos estos datos y que nos los hemos confiado, ​sino que debemos asegurarnos de que hay ​formas viables en las que las personas puedan ​dar su consentimiento para que se entreguen esos datos y formas de ​solicitar que se revoquen o eliminen.
+- ​Los datos crecen y, al mismo tiempo, ​necesitamos capacitar a las personas para que tengan el ​control sobre sus propios datos.
+- ​El futuro es que los datos no paran de crecer.
+- ​No hemos visto ningún tipo de evidencia de ​que los datos realmente se estén reduciendo.
+- ​Y con el conocimiento de que los datos crecen, ​estos problemas se vuelven cada vez más ​acuciantes y es cada vez más importante pensar en ellos.
