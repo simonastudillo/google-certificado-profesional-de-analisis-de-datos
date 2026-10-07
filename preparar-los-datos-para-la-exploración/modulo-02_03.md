@@ -97,3 +97,35 @@
 - ​Y con eso, hemos llegado al final de nuestra aventura con sesgo y credibilidad.
 - ​Después de unos cuantos ejercicios más, estarás preparado para lo que te espera.
 - ​Espero con interés su progreso.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre la credibilidad de los Datos
+
+1. Rellene el espacio en blanco: Los Datos se consideran _____ cuando se trata de información precisa, completa e imparcial que ha sido examinada y ha demostrado ser apta para su uso. 
+   - [ ] original
+   - [ ] completo
+   - [ ] actual
+   - [x] confiabilidad
+> Se considera que los Datos son fiables cuando se trata de información precisa, completa e imparcial que ha sido examinada y ha demostrado ser apta para su uso. 
+
+2. ¿Cuál de las siguientes suele ser una buena fuente de datos? Seleccione todas las que correspondan.
+   - [x] Datos de agencias gubernamentales
+   - [ ] Redes sociales 
+   - [x] Conjuntos de datos públicos verificados 
+   - [x] Documentos académicos
+> Los conjuntos de datos públicos contrastados, los trabajos académicos y los datos de agencias gubernamentales suelen ser buenas fuentes de datos.
+
+3. Para determinar si se cita una fuente de Datos, ¿cuál de las siguientes preguntas debe hacerse? Seleccione todas las que correspondan.
+   - [x] ¿Quién ha creado este Conjunto de datos?
+   - [x] ¿Este Conjunto de datos procede de una organización creíble?
+   - [x] ¿Cuándo se actualizaron estos Datos por última vez?
+   - [ ] ¿Se ha limpiado correctamente este Conjunto de datos?
+> Para determinar si una fuente de Datos está citada, hágase tres preguntas: ¿Este Conjunto de datos procede de una organización creíble? ¿Quién creó este Conjunto de datos? ¿Y cuándo se actualizaron estos Datos por última vez?
+
+4. Un analista de datos junior se entera de que el Conjunto de datos que le han proporcionado tiene seis años. Tras investigarlo más a fondo, descubren también que la antigüedad de los datos hace que la información sea irrelevante para su proyecto. ¿Qué principio de fuente de datos correctos han utilizado para evaluar el conjunto de datos?
+   - [ ] Original
+   - [ ] Confiabilidad
+   - [x] Actual
+   - [ ] Completo
+> Han considerado si los Datos son actuales. Datos actuales son oportunos y relevantes
