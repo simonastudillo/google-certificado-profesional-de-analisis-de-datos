@@ -159,3 +159,35 @@
 - ​Nos brinda la oportunidad de pensar en otras cosas de la vida.
 - ​Esta es una razón más por la que es importante que, juntos ​, no solo una organización, sino toda la comunidad, e ​incluso los que no son tecnólogos, todos debamos participar.
 - ​Ese es el papel que desempeño aquí, es el de tratar de ayudar a la IA a ​evolucionar éticamente juntos, y hacerlo ​depende de la democratización del uso responsable de la IA
+
+---
+
+## Ponga a prueba sus Conocimientos sobre Ética de los datos y Privacidad
+
+1. ¿Qué es la Ética de los datos?
+   - [ ] Técnicas antiguas para confirmar que los Datos se utilizan siempre en beneficio de la sociedad
+   - [ ] Métodos establecidos para garantizar que los Datos están limpios, bien organizados y son apropiados para un proyecto
+   - [ ] Estrategias aprobadas que los profesionales de los datos utilizan para salvaguardar la privacidad y la seguridad de un conjunto de datos
+   - [x] Estándares bien fundados de lo correcto y lo incorrecto que dictan cómo se recopilan, comparten y utilizan los Datos
+> Ética de los datos son los Estándares bien fundados de lo correcto y lo incorrecto que dictan cómo se recopilan, comparten y utilizan los datos.
+
+2. ¿Qué concepto establece que todas las actividades de procesamiento de datos y algoritmos deben ser completamente explicables y comprensibles para la persona que proporciona sus datos?
+   - [ ] Privacidad
+   - [x] Transparencia de la transacción
+   - [ ] Moneda
+   - [ ] Responsabilidad
+> La Transparencia de la transacción establece que todas las actividades de procesamiento de datos y algoritmos deben ser completamente explicables y comprensibles para el individuo que proporciona sus datos. 
+
+3. Un analista de datos elimina la información de identificación personal de un conjunto de datos. ¿Qué tarea está realizando?
+   - [x] Anonimización de datos
+   - [ ] Ordenación de datos 
+   - [ ] Recogida de datos 
+   - [ ] Visualización de datos 
+> Llevan a cabo la anonimización de datos, que es el proceso de proteger los datos privados o sensibles de las personas eliminando la información que las identifica. 
+
+4. Antes de rellenar una Encuesta, una persona reconoce haber leído la información sobre cómo y por qué se utilizarán los Datos que proporcione. ¿Cómo se denomina este concepto?
+   - [ ] Privacidad 
+   - [ ] Moneda 
+   - [x] Consentimiento 
+   - [ ] Discreción
+> Este concepto se denomina Consentimiento. Consentimiento es el aspecto de la ética de los datos que presume el derecho de un individuo a saber cómo y por qué se utilizarán sus datos personales antes de aceptar proporcionarlos.
