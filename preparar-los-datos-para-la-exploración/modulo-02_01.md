@@ -134,3 +134,35 @@
 - ​También es importante recordar ​que, independientemente del tipo de datos que utilice, ​todos deben inspeccionarse ​para comprobar su precisión y confiabilidad.
 - ​Hablaremos más sobre esto pronto, cuando empecemos a ​explorar datos incorrectos.
 - Adiós por ahora.
+
+---
+
+## Ponga a prueba sus Conocimientos con Datos objetivos e imparciales
+
+1. Rellene el espacio en blanco: El sesgo es una preferencia _____ a favor o en contra de una persona, grupo de personas o cosa.
+   - [x] consciente o subconsciente
+   - [ ] estándar o subestándar
+   - [ ] justo o injusto
+   - [ ] sensible o insensible
+> El sesgo es una preferencia consciente o subconsciente a favor o en contra de una persona, grupo de personas o cosa.
+
+2. ¿Cuáles de los siguientes son ejemplos de sesgo del muestreo? Seleccione todos los que procedan. 
+   - [x] Un estudio clínico incluye tres veces más hombres que mujeres. 
+   - [ ] Un profesor da mejores notas a los ensayos escritos en su propio estilo de redacción.
+   - [x] Una Encuesta de alumnos no incluye a los alumnos educados en casa.
+   - [x] Una encuesta electoral sólo entrevista a personas con estudios universitarios
+> Una Encuesta a estudiantes que no incluye a los que estudian en casa, un sondeo electoral que sólo entrevista a personas con titulación universitaria y un estudio clínico que incluye tres veces más hombres que mujeres son ejemplos de sesgo del muestreo. Esto se debe a que no son representativos de la población.
+
+3. ¿Cómo se denomina la tendencia a buscar o interpretar la información de forma que valide las creencias preexistentes?
+   - [ ] Sesgo del muestreo
+   - [ ] Sesgo de interpretación
+   - [x] Sesgo de confirmación
+   - [ ] Sesgo del observado
+> La tendencia a buscar o interpretar la información de forma que valide las creencias preexistentes es el sesgo de confirmación.
+
+4. ¿Cuáles de los siguientes términos son también formas de describir el sesgo del observador? Seleccione todas las que correspondan. 
+   - [x] Sesgo de la investigación
+   - [x] Sesgo del experimentador
+   - [ ] Sesgo del espectador
+   - [ ] Sesgo de percepción
+> El sesgo del observador se conoce a veces como sesgo del experimentador o sesgo de la investigación. 
