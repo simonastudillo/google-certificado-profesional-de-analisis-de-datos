@@ -99,3 +99,19 @@
 - ​Todo eso importa ​en el uso responsable del conjunto de datos.
 - ​Pero como analista de datos, ​usted se encuentra en la intersección entre ​las mismas personas que se beneficiarán ​de la tecnología que se está desarrollando ​y las de su organización que ​intentan tomar una decisión más informada sobre ​si seguir adelante o no con ​la producción de la tecnología.
 - ​Puede parecer que hay mucho ​peso ahí, y lo hay, ​pero también es muy fundamental, y habla ​del volumen del impacto de su trabajo.
+
+---
+
+## Recursos para datos abiertos
+- Por suerte para los analistas de datos, hay muchos recursos fiables disponibles para los datos abiertos.
+- Es importante recordar que incluso los datos fiables deben ser evaluados constantemente, pero estos sitios web son un punto de partida útil:
+
+1. [Sitio de datos del Gobierno de EE.UU](https://www.data.gov/): Datos.gov es una de las fuentes de datos más completas de Estados Unidos. Este recurso proporciona a los usuarios los datos y las herramientas que necesitan para investigar, e incluso les ayuda a desarrollar aplicaciones web y para móviles y a diseñar visualizaciones de datos.
+
+2. [Oficina del Censo de EE.UU](https://www.census.gov/data.html): Esta fuente de datos abiertos ofrece información demográfica de los gobiernos federal, estatal y local, y también de entidades comerciales de EE UU.
+
+3. [Red de Datos abiertos](https://www.opendatanetwork.com/): Esta fuente de datos cuenta con un motor de búsqueda realmente potente y filtros avanzados. Aquí puede encontrar datos sobre temas como finanzas, seguridad pública, infraestructuras y vivienda y desarrollo.
+
+4. [Conjuntos de datos públicos de Google Nube](https://cloud.google.com/datasets): Hay una selección de conjuntos de datos públicos disponibles a través del Programa de conjuntos de datos públicos de Google Nube que puede encontrar ya cargados en BigQuery.
+
+5. [Búsqueda de conjuntos de datos](https://datasetsearch.research.google.com/): La Búsqueda de conjuntos de datos es un motor de búsqueda diseñado específicamente para conjuntos de datos; puede utilizarlo para buscar conjuntos de datos específicos. 
