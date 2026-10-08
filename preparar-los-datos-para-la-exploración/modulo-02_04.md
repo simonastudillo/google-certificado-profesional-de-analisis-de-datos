@@ -222,3 +222,35 @@ Con mis conocimiento actuales no puedo saber si está sesgado o no, los datos sa
 Kaggle permite acceder a muchos datos ya estructurados, estos datos se pueden utilizar para practicar en el análisis de datos, hacer preguntas al respecto y buscar la información en los datos, verificar si es un sesgo o no, etc.
 > ¡Enhorabuena por haber completado esta actividad práctica! Una respuesta contundente incluiría que Kaggle le da acceso a toneladas de conjuntos de datos públicos que puede utilizar para practicar el análisis de datos y crear sus propios proyectos. Más allá de eso, considere lo siguiente:
 > Las plataformas en línea como Kaggle le permiten buscar, ver, explorar, cargar y trabajar con conjuntos de datos de una gran variedad de fuentes y perspectivas. Comprender cómo funciona Kaggle y cómo utilizarlo le ayudará a desarrollar su conjunto de habilidades y a crecer como analista de datos.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre Datos abiertos
+
+1. Rellene el espacio en blanco: Apertura se refiere a _____ acceso, uso e intercambio de Datos.
+   - [ ] divulgado
+   - [x] gratis
+   - [ ] protegido
+   - [ ] limitado
+> Apertura se refiere al libre acceso, uso y puesta en común de los Datos.
+
+2. ¿Cuál es el Método preferido para que los Datos abiertos estén disponibles?
+   - [ ] Un texto publicitario que cualquiera puede compartir fácilmente
+   - [ ] Un archivo seguro protegido por contraseña
+   - [ ] Un formato de archivos comprimido que mantiene pequeño el tamaño de los archivos
+   - [x] Una descarga de Internet cómoda y modificable
+> El Método preferido para que los Datos abiertos estén disponibles es a través de una descarga en Internet cómoda y modificable.
+
+3. ¿Cuáles son los principales Beneficios de los Datos abiertos? Seleccione todas las que correspondan.
+   - [ ] Aumenta la cantidad de Datos disponibles para la compra
+   - [x] Combina datos de diferentes campos del conocimiento
+   - [ ] Restringe el acceso a los Datos a determinados grupos de personas
+   - [x] Mayor disponibilidad de Datos de calidad
+> Entre los Beneficios de los Datos abiertos se incluyen la mayor disponibilidad de datos de calidad y la combinación de datos de diferentes campos de Conocimientos.
+
+4. ¿Cuáles son los aspectos clave de la participación universal? Seleccione todos los que corresponda.
+   - [x] Todo el mundo debe poder utilizar, reutilizar y redistribuir los Datos abiertos. 
+   - [x] Nadie puede imponer restricciones a los datos para discriminar a una persona o a un grupo. 
+   - [ ] Todas las empresas pueden vender Datos abiertos.
+   - [ ] Determinados grupos de personas deben compartir sus Datos privados. 
+> Los aspectos clave de la participación universal son que todo el mundo debe poder utilizar, reutilizar y redistribuir los Datos abiertos. Además, nadie puede imponer restricciones a los datos para discriminar a una persona o grupo. 
