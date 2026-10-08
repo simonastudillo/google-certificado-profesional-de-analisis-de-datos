@@ -42,6 +42,13 @@
    - [ ] nominal
 > 
 
+2. Rellene el espacio en blanco: El número de estrellas concedidas a la reseña de un producto es un ejemplo de datos de _____.
+   - [ ] nominal
+   - [ ] continuo
+   - [ ] abierto
+   - [x] discreto
+> Buen trabajo
+
 3. ¿Cuál de las siguientes afirmaciones describe con exactitud los Datos de primera, segunda y tercera fuente? Seleccione todas las que correspondan.
    - [x] Datos de terceros proceden de fuentes externas. 
    - [x] Todos los Datos de primera fuente, de segunda fuente y de terceros deben verificarse para comprobar su exactitud antes de utilizarlos.
@@ -83,6 +90,13 @@
    - [ ] Utilizar una población
    - [ ] Elección de datos cuantitativos
 > 
+
+5. Un analista de datos de una empresa energética quiere estudiar la opinión de todos los adultos de Portugal sobre la energía verde. Como sería poco práctico recoger datos de todas las personas del país, el Analista de datos estudia una parte de la población que sea representativa del conjunto. ¿Qué describe este escenario? 
+   - [ ] Elección de un tipo de datos
+   - [x] Utilización de una Muestra
+   - [ ] Utilizar una población
+   - [ ] Elección de datos cuantitativos
+> Buen trabajo
 
 6. ¿Cuáles de los siguientes elementos son ejemplos de datos continuos? Seleccione todos los que correspondan.
    - [ ] Cantidad de Tráfico en hora punta
