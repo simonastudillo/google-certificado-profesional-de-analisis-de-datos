@@ -82,7 +82,7 @@
    - [ ] Anonimización
    - [ ] Privacidad 
    - [ ] Credibilidad 
->
+> Buen trabajo
 
 6. Una revista realiza una investigación sobre las preferencias de lectura de la gente. Sólo incluyen a los encuestados que están suscritos actualmente. ¿Qué tipo de sesgo describe este escenario?
    - [ ] Intérprete
@@ -138,4 +138,4 @@
    - [ ] Preparar los datos para su análisis por investigadores externos.
    - [ ] Garantizar que los Datos sean fácilmente accesibles para todos los empleados de la organización.
    - [ ] Para reducir el espacio de almacenamiento necesario para los Datos.
-> 
+> Buen trabajo
