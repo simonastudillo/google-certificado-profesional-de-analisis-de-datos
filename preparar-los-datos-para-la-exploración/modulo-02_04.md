@@ -115,3 +115,110 @@
 4. [Conjuntos de datos públicos de Google Nube](https://cloud.google.com/datasets): Hay una selección de conjuntos de datos públicos disponibles a través del Programa de conjuntos de datos públicos de Google Nube que puede encontrar ya cargados en BigQuery.
 
 5. [Búsqueda de conjuntos de datos](https://datasetsearch.research.google.com/): La Búsqueda de conjuntos de datos es un motor de búsqueda diseñado específicamente para conjuntos de datos; puede utilizarlo para buscar conjuntos de datos específicos. 
+
+---
+
+## Actividad práctica: Conjuntos de datos Kaggle
+- Resumen de la actividad
+   - En la última actividad, se instaló en Kaggle y exploró la característica Notebooks.
+   - En esta actividad, trabajaremos con una característica diferente de la plataforma Kaggle: los conjuntos de datos.
+   - Kaggle cuenta con decenas de miles de conjuntos de datos que están disponibles para uso público.
+   - Cualquiera puede subir un conjunto de datos a Kaggle.
+   - Si deciden hacerlo público, otros Kagglers pueden utilizar ese conjunto de datos para crear sus propios proyectos.
+   - En primer lugar, hará un recorrido por un conjunto de datos específico.
+   - Después, tendrá la oportunidad de elegir sus propios conjuntos de datos con los que trabajar
+   - Por último, utilizará lo que ha aprendido en este Módulo para determinar el tipo de datos de sus conjuntos de datos y si los datos están sesgados o no.
+   - Cuando termine esta actividad, será capaz de utilizar muchas de las útiles características que ofrece Kaggle.
+   - Esto le permitirá encontrar datos para proyectos y comprometerse con la comunidad de datos, lo que es importante para desarrollar habilidades y redes en su carrera como analista de datos.
+
+- Explorar los conjuntos de datos de Kaggle
+   - ¡Exploremos la característica de conjuntos de datos!
+
+   - Buscar un conjunto de datos
+      1. Para comenzar, inicie sesión en su cuenta de Kaggle.
+      2. A continuación, haga clic en el icono Conjuntos de datos de la Barra de navegación vertical de la izquierda. Esto le llevará a la Página de inicio de Conjuntos de datos. Desde aquí, puede crear un nuevo Conjunto de datos o buscar Conjuntos de datos creados por otros Kagglers.
+      3. A continuación, consulte un Conjunto de datos específico. Introduzca Animal Crossing en la barra de búsqueda para encontrar conjuntos de datos relacionados con el videojuego de Nintendo Animal Crossing.
+      4. Hay más de una opción, así que haga clic en el catálogo Animal Crossing New Horizons. Esto le llevará a la Página de destino de este conjunto de datos
+   
+   - Visite la página de destino de un Conjunto de datos
+      - Encabezado: El Encabezado situado en la parte superior de la página contiene la siguiente información sobre el conjunto de datos:
+         - Su título
+         - Una breve descripción de su contenido
+         - El nombre de su creador
+         - Cuándo se actualizó por última vez
+         - Su versión actual
+      - Insignia:  En la esquina superior derecha del Encabezado, encontrará tres elementos más:
+         - Una insignia en forma de círculo
+         - Un icono en forma de símbolo de intercalación ( ^ )
+         - Un número 
+      - la insignia está relacionada con el sistema de progresión de Kaggle. Si lo desea, puede leer más sobre ello [aquí](https://www.kaggle.com/progression/).
+
+   - Votos al alza: Si hace clic en el signo de interrogación, podrá "votar al alza" el conjunto de datos. El número muestra el número de veces que este conjunto de datos ha sido votado por la comunidad Kaggle.
+   - Pestañas: Debajo del Encabezado hay una barra con tres pestañas: Tarjeta de datos, Código y Discusión. Tómese un momento para hacer clic en cada una de estas pestañas y explorar su contenido. Después, vuelva a la pestaña Conjuntos de datos
+   - Ahora, puede desplazarse hacia abajo por la página. Encontrará un recuadro que contiene tres términos: Usabilidad, Licencia y Etiquetas.
+   - Usabilidad muestra lo completa que es la página web del Conjunto de datos (y no el conjunto de datos en sí). Kaggle anima a la comunidad a añadir información a la página web del conjunto de datos para facilitar su comprensión. Por ejemplo, una breve descripción o un encabezado de columna. Pase el cursor sobre la puntuación de Usabilidad para descubrir qué contiene la página del conjunto de datos.
+   - Las licencias regulan cómo se puede utilizar un conjunto de datos. Clic en el nombre de la licencia para obtener más información sobre esa licencia específica.
+   - La Frecuencia de actualización prevista informará de cuándo se ha actualizado el conjunto de datos con nuevos atributos, modificaciones o ampliaciones de los datos. También podrá ver las fechas futuras previstas para la actualización de un Conjunto de datos. En este caso, nunca habrá una actualización programada.
+   - El siguiente cuadro hacia abajo contiene una descripción detallada del Conjunto de datos. Los Kagglers suelen incluir información sobre la procedencia del conjunto de datos y sobre cómo se preparó.
+   - Y por último, pero no por ello menos importante, ¡el Explorador de datos!
+
+- Utilice el explorador de datos
+   - El menú del Explorador de datos muestra que el Conjunto de datos de Animal Crossing contiene 30 archivos .csv.
+   - Si hace clic en el nombre de un archivo, la ventana de la derecha mostrará información de ese archivo concreto.
+   - Pruebe a hacer clic en paraguas.csv para comprobarlo
+
+   - Recorrido por el explorador de conjuntos de datos
+      - Observe que el Explorador de datos tiene tres opciones de visualización: Detalle, Compacto y Columna.
+      - Por ahora, nos centraremos en la pestaña Detalle.
+      - La descripción de la parte superior de la pestaña Detalle muestra que el archivo paraguas.csv contiene datos sobre todos los paraguas del videojuego.
+      - Echemos un vistazo a las columnas.
+      - Cada encabezado de columna tiene tres elementos:
+         - Un pequeño icono a la izquierda que muestra el tipo de datos
+         - El nombre de la columna
+         - Un icono con tres barras que le permite ordenar los datos si hace clic en él
+      - Debajo de la cabecera de cada columna hay un recuadro que contiene un resumen de los datos.
+      - Esto le permite hacerse rápidamente una idea de lo que contiene el Conjunto de datos.
+      - Por ejemplo, el resumen de la columna Nombre muestra que hay 67 valores únicos para los nombres de los paraguas.
+      - El resumen para la columna Bricolaje muestra que 9 de las recetas paraguas son de bricolaje, o "hágalo usted mismo" Tómese un momento para explorar los resúmenes de las demás columnas.
+      - Y con esto concluimos nuestro recorrido Es mucha Información. No dude en volver atrás y repasarla.
+
+- Acceder a un Conjunto de datos
+   - Una vez que haya explorado un conjunto de datos, puede vincularlo a un cuaderno Kaggle o descargarlo para acceder a él para su propio uso.
+   - Vincular un conjunto de datos a un cuaderno Kaggle significa crear un nuevo cuaderno a partir del conjunto de datos existente para que esté disponible para su uso.
+
+   - Encuentre sus propios conjuntos de datos
+      - Ahora, ¡tendrá la oportunidad de elegir sus propios conjuntos de datos con los que trabajar!
+      - Siga los siguientes pasos para encontrar conjuntos de datos que le interesen:
+         1. Cuando esté listo, haga clic en el icono de Datos de la izquierda para volver a la página de inicio de Conjuntos de datos
+         2. Tenga en cuenta que los conjuntos de datos pueden existir en una gran variedad de formatos. Si desea asegurarse de que su Conjunto de datos está en formato .csv, haga clic en el botón Filtrado situado a la derecha de la barra de búsqueda de Conjuntos de datos. A continuación, seleccione CSV en el menú
+         3. Busque 2-3 conjuntos de datos que le interese explorar más a fondo.
+         4. Cree cuadernos a partir de ellos, descárguelos o consúltelos en el Explorador de datos. Tenga en cuenta estos conjuntos de datos para su próxima reflexión
+   
+   - Enlazar o descargar un Conjunto de datos
+      - Estas son las opciones para crear un Notebook o descargar el Conjunto de datos:
+         - Crear un cuaderno Kaggle: Para vincular un conjunto de datos a un cuaderno Kaggle, haga clic en el botón Nuevo Notebook de la cabecera del conjunto de datos. Esto creará un cuaderno en su cuenta Kaggle que enlaza con el conjunto de datos.
+         - Descargar el Conjunto de datos: Para descargar una copia del conjunto de datos a su computadora, haga clic en el botón Descargar en el encabezado del conjunto de datos en la parte superior de la página.
+         - Abra el archivo en Google Sheets: Para abrir una vista del archivo en Google Sheets, haga clic en el icono de descarga situado en la parte superior derecha del Explorador de datos. A continuación, podrá descargar el archivo. 
+
+- Reflexión
+
+1. ¿Qué tareas le permiten realizar los conjuntos de datos y el Explorador de datos de Kaggle?
+   - [ ] Creación de visualizaciones a partir de conjuntos de datos
+   - [x] Conjuntos de datos accesibles
+   - [x] Cargue sus propios Conjuntos de datos
+   - [x] Búsqueda de conjuntos de datos
+> Los Conjuntos de datos y el Explorador de datos de Kaggle le permiten buscar, acceder y cargar sus propios conjuntos de datos. Puede utilizar Kaggle para realizar investigaciones, completar proyectos de datos y compartir sus logros con otros miembros de la comunidad de la ciencia de datos.
+
+2. Hasta ahora, ha aprendido mucho sobre cómo utilizar Kaggle para explorar conjuntos de datos. Durante esta actividad, ha utilizado estos Conocimientos para encontrar conjuntos de datos que le interesan. Tenga en mente esos conjuntos de datos y, en el cuadro de texto que aparece a continuación, escriba de 2 a 3 frases (de 40 a 60 palabras) en respuesta a cada una de las siguientes preguntas:
+   - ¿Qué tipo o tipos de datos contiene este conjunto de datos? ¿Este Conjunto de datos está sesgado o no? ¿Cómo lo sabe?
+   - Basándose en lo que ha explorado hasta ahora, ¿cómo podría utilizar la característica Conjuntos de datos de Kaggle para ayudar a desarrollar sus habilidades de análisis de datos?
+
+- Respuesta
+- ¿Qué tipo o tipos de datos contiene este conjunto de datos?
+Si analizamos la data de ejemplo (umbrellas.csv) vemos datos de tipo string como Name, Color 1 y Color 2, también vemos datos de tipo booleano como DIY y por último vemos datos de tipo int como buy y sell.
+- ¿Este Conjunto de datos está sesgado o no? ¿Cómo lo sabe?
+Con mis conocimiento actuales no puedo saber si está sesgado o no, los datos salen aparentemente de la información oficial del videojuego, pero tendría que validar si la información es real o se cambio para dar preferencia a un tipo de paraguas.
+- ¿cómo podría utilizar la característica Conjuntos de datos de Kaggle para ayudar a desarrollar sus habilidades de análisis de datos?
+Kaggle permite acceder a muchos datos ya estructurados, estos datos se pueden utilizar para practicar en el análisis de datos, hacer preguntas al respecto y buscar la información en los datos, verificar si es un sesgo o no, etc.
+> ¡Enhorabuena por haber completado esta actividad práctica! Una respuesta contundente incluiría que Kaggle le da acceso a toneladas de conjuntos de datos públicos que puede utilizar para practicar el análisis de datos y crear sus propios proyectos. Más allá de eso, considere lo siguiente:
+> Las plataformas en línea como Kaggle le permiten buscar, ver, explorar, cargar y trabajar con conjuntos de datos de una gran variedad de fuentes y perspectivas. Comprender cómo funciona Kaggle y cómo utilizarlo le ayudará a desarrollar su conjunto de habilidades y a crecer como analista de datos.
