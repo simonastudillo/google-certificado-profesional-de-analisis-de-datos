@@ -217,3 +217,35 @@
 - ​Así que mientras pensábamos en abordar este proyecto tan enorme e importante, ​pudimos usar los metadatos para acceder rápida y ​fácilmente a las construcciones básicas que estábamos intentando abordar.
 - ​Cuando trabajas con personas que tal vez no tengan la analítica como su trabajo diario, es ​muy importante que consigas ese momento «ajá» y les ayude a entender que la medición y el análisis son herramientas que pueden ayudarlos a alcanzar sus objetivos.
 - ​Y el solo hecho de hacerme esa idea de que algo que antes era ​inaccesible fuera un poco más accesible para ese equipo y ​algo con lo que se sientan cómodos poniendo en práctica ​es muy importante y una excelente manera de salir de una asociación.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre metadatos
+
+1. Una gran empresa tiene varias bases de datos en sus numerosos departamentos. ¿Qué tipo de metadatos describe cuántas ubicaciones contienen un determinado dato?
+   - [ ] Descriptivo
+   - [x] Estructural 
+   - [ ] Representante
+   - [ ] Administrativo
+> Los metadatos estructurales describen cuántas ubicaciones contienen un determinado dato. Indica cómo está organizada una pieza de datos y si forma parte de una o más colecciones de datos.
+
+2. Un gran instituto metropolitano da a cada uno de sus alumnos un número de identificación para diferenciarlos en su base de datos. ¿Qué tipo de metadatos son los números de identificación?
+   - [x] Descriptivo 
+   - [ ] Estructural 
+   - [ ] Administrativo 
+   - [ ] Representante
+> Los números de identificación son metadatos descriptivos. Los metadatos descriptivos describen un dato y pueden utilizarse para identificarlo en cualquier momento.
+
+3. Una organización internacional sin ánimo de lucro quiere fusionar datos de terceros con sus propios datos. ¿Cuál de las siguientes acciones contribuirá al éxito de este proceso? Seleccione todas las que correspondan.
+   - [x] Utilice metadatos para normalizar los conjuntos de datos.
+   - [x] Utilice metadatos para evaluar la calidad y credibilidad de los Datos de terceros.
+   - [ ] Sustituya los metadatos de los datos entrantes por sus propios metadatos de empresa.
+   - [ ] Modifique los metadatos internos para que reflejen mejor los metadatos entrantes.
+> El uso de metadatos para normalizar los datos y evaluar la calidad y credibilidad de los datos de terceros contribuirá al éxito de este proceso.
+
+4. Rellene el espacio en blanco: Datos _____ es un proceso que utilizan los profesionales de los datos para garantizar la gestión formal de los activos de datos de su organización. 
+   - [ ] almacenamiento
+   - [x] gobierno
+   - [ ] organización
+   - [ ] abastecimiento
+> El Gobierno de datos es un proceso que utilizan los profesionales de los datos para garantizar la gestión formal de los activos de datos de su organización. Esto les proporciona un mejor control de sus datos y les ayuda a gestionar los problemas relacionados con la seguridad y la privacidad de los datos, la integridad, la usabilidad y los flujos de datos internos y externos.
