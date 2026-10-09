@@ -257,3 +257,35 @@
    - [Estado Mundial de la Infancia de UNICEF](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/): Este Conjunto de datos de UNICEF incluye una colección de tablas que pueden descargarse.
    - [Estadísticas de población activa de la CPS](https://www.bls.gov/cps/tables.htm): Esta página contiene enlaces a varios conjuntos de datos disponibles que puede explorar.
    - [El Proyecto Stanford de Policía Abierta](https://openpolicing.stanford.edu/): Este Conjunto de datos puede descargarse como archivo .csv para su propio uso.
+
+---
+
+## Ponga a prueba sus conocimientos sobre el acceso a las fuentes de Datos
+
+1. ¿Cuáles son algunos de los beneficios clave de las iniciativas de datos abiertos? Seleccione todas las que correspondan.
+   - [ ] Limitar las oportunidades de colaboración
+   - [x] Apoyar la innovación y el crecimiento económico
+   - [x] Ayudar a educar a los ciudadanos sobre temas importantes
+   - [x] Hacer más transparentes las actividades del Gobierno
+> Algunos beneficios clave de las iniciativas de datos abiertos incluyen hacer más transparentes las actividades del gobierno, educar a los ciudadanos sobre temas importantes y apoyar la innovación y el crecimiento económico.
+
+2. ¿Qué tipo de archivo guarda datos en formato de tabla?
+   - [ ] Variables estructuradas en células (.csv)
+   - [x] Valores separados por comas (.csv)
+   - [ ] Variables científicas compatibles (.csv)
+   - [ ] Valores calculados en hoja de cálculo (.csv)
+> Un Archivo CSV (Valores separados por comas) guarda los datos en formato de tabla.
+
+3. Llevar datos de un Archivo CSV a una hoja de cálculo es un ejemplo de ¿qué proceso?
+   - [ ] Edición de datos
+   - [ ] Datos de archivo
+   - [x] Importación de datos
+   - [ ] Normalización de datos
+> Introducir datos de un archivo .csv en una hoja de cálculo es un ejemplo de importación de datos.
+
+4. En Google Sheets, ¿qué función permite a un analista de datos especificar un Rango de celdas de una hoja de cálculo para que se duplique en otra?
+   - [ ] DUPLICATE
+   - [x] IMPORTRANGE
+   - [ ] CELLRANGE
+   - [ ] SPECIFY
+> En Google Sheets, la función IMPORTRANGE permite a un analista de datos especificar un rango de celdas de una hoja de cálculo para que se duplique en otra.
