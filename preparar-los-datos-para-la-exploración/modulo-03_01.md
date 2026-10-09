@@ -225,25 +225,25 @@
    - [x] tablas
    - [ ] hojas de cálculo
    - [ ] células
-> 
+> Una base de datos relacional contiene una serie de tablas que pueden conectarse para formar relaciones.
 
 2. ¿Cómo se denomina un identificador que hace referencia a una columna de la base de datos en la que cada valor es único?
    - [ ] Clave foránea
    - [ ] Relación
    - [x] Clave primaria
    - [ ] Campo
->
+> Una clave primaria es un identificador que hace referencia a una columna en la que cada valor es único. 
 
 3. ¿Qué proceso utilizan los profesionales de los datos para eliminar la redundancia de los datos, aumentar su integridad y reducir su complejidad en una base de datos?
    - [x] Normalización
    - [ ] Composición
    - [ ] Manipulación
    - [ ] Iteración
-> 
+> Los profesionales de los Datos utilizan la normalización para eliminar la redundancia de los datos, aumentar su integridad y reducir su complejidad en una base de datos. La normalización es el proceso de organización de los datos en una base de datos relacional.
 
 4. Rellene el espacio en blanco: Cuando se utiliza una base de datos relacional, los analistas de datos escriben _____ para solicitar datos de las tablas relacionadas. 
-   - [ ] consultas
+   - [x] consultas
    - [ ] relaciones
    - [ ] claves
    - [ ] programas
-> 
+> Cuando se utiliza una base de datos relacional, los analistas de datos escriben consultas para solicitar datos de las tablas relacionadas. 
