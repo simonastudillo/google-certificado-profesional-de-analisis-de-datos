@@ -233,3 +233,27 @@
       - Puede utilizar la función IMPORTDATA  en una hoja de Google para importar datos a una hoja de Google.
       - Esta función es similar a la función IMPORTRANGE.
       - Consulte la página [IMPORTDATA](https://support.google.com/docs/answer/3093335?hl=en) del Centro de asistencia de Google para obtener más información y conocer la sintaxis.
+
+---
+
+## Explorar conjuntos de datos públicos
+- Los datos abiertos ayudan a crear una gran cantidad de conjuntos de datos públicos a los que puede acceder para tomar decisiones basadas en datos.
+- Estos son algunos Recursos que puede utilizar para empezar a buscar conjuntos de datos públicos por su cuenta:
+   - El sitio [Conjuntos de datos públicos de Google Nube](https://cloud.google.com/public-datasets) permiten a los analistas de datos acceder a conjuntos de datos públicos de gran demanda y facilitan la obtención de información estadística en la nube.
+   - La página [Búsqueda de conjuntos de datos](https://datasetsearch.research.google.com/) puede ayudarle a encontrar conjuntos de datos disponibles en línea mediante búsquedas por palabra clave.
+   - [Kaggle](https://www.kaggle.com/datasets?utm_medium=paid&utm_source=google.com+search&utm_campaign=datasets&gclid=CjwKCAiAt9z-BRBCEiwA_bWv-L6PpACh6RzmrJjQjmNGCCE7kky1FCtc6Jf1qld-4NwDMYL0WsUyxBoCdwAQAvD_BwE) tiene una función de búsqueda de Datos abiertos que puede ayudarle a encontrar conjuntos de datos con los que practicar.
+   - Por último, [BigQuery](https://cloud.google.com/bigquery/public-data) alberga más de 150 conjuntos de datos públicos a los que puede acceder y utilizar.
+
+- Conjuntos de datos de salud pública
+   - [Datos del Observatorio Mundial de la Salud](https://www.who.int/data/collections): Puede buscar conjuntos de datos desde esta página o explorar las colecciones de datos destacados de la Organización Mundial de la Salud.
+   - [Conjunto de datos de The Cancer Imaging Archive (TCIA)](https://cloud.google.com/healthcare/docs/resources/public-datasets/tcia): Al igual que el conjunto de datos anterior, estos datos están alojados en Google Nube Public Datasets y pueden cargarse en BigQuery.
+   - [1000 Genomas](https://cloud.google.com/life-sciences/docs/resources/public-datasets/1000-genomes): Se trata de otro conjunto de datos de los Recursos públicos de Google Nube que puede cargarse en BigQuery.
+
+- Conjuntos de datos climáticos públicos
+   - [Centro Nacional de Datos Climáticos](https://www.ncei.noaa.gov/products): La página de enlaces rápidos del NCDC tiene una selección de conjuntos de datos que puede explorar.
+   - [Galería de Conjuntos de datos públicos de la NOAA](https://www.climate.gov/maps-data/datasets): La Galería de Conjuntos de Datos Públicos de la NOAA contiene una colección de conjuntos de datos públicos que puede consultar.
+
+- Conjuntos de datos sociopolíticos públicos
+   - [Estado Mundial de la Infancia de UNICEF](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/): Este Conjunto de datos de UNICEF incluye una colección de tablas que pueden descargarse.
+   - [Estadísticas de población activa de la CPS](https://www.bls.gov/cps/tables.htm): Esta página contiene enlaces a varios conjuntos de datos disponibles que puede explorar.
+   - [El Proyecto Stanford de Policía Abierta](https://openpolicing.stanford.edu/): Este Conjunto de datos puede descargarse como archivo .csv para su propio uso.
