@@ -74,3 +74,62 @@
    - Los programas de Análisis de datos nos ayudan a extraer estadísticas y conocimientos de los datos.
    - El uso de archivos .csv es esencial para el Análisis de datos.
    - Entender cómo descargar fácilmente datos de la web o añadir sus datos a estos programas le permitirá completar la limpieza de datos, visualizaciones, análisis, ¡y mucho más!
+
+---
+
+## Paso a paso: Importar datos de hojas de cálculo y bases de datos
+- Esta lectura describe los pasos que el instructor realiza en el siguiente vídeo, Importación de datos de hojas de cálculo y bases de datos.
+- El vídeo te enseña a importar un archivo .csv a una hoja de cálculo de Google para que puedas analizar los datos.
+- Mantén esta guía abierta mientras ves el vídeo.
+- Puede servirte de referencia si necesitas más contexto o aclaraciones mientras sigues los pasos del vídeo.
+- No se trata de una actividad puntuable, pero puedes completar estos pasos para practicar las habilidades demostradas en el vídeo.
+
+- Lo que necesitas
+   - Para seguir los ejemplos de este vídeo, abra una hoja de cálculo en blanco.
+   - Además, descargue el siguiente archivo .csv: 
+      - [Entertainment-Expenses---Sheet1.csv](./resources/modulo-03/Entertainment-Expenses---Sheet1.csv)
+
+- Ejemplo 1: Utilizar el menú para importar un Archivo CSV
+   - En ocasiones, necesitarás importar los datos de un archivo .csv a una hoja de cálculo de Google.
+   - Un archivo .csv guarda los datos en formato de tabla.
+   - Sigue los pasos que se indican a continuación para introducir los datos de un archivo .csv en una hoja de cálculo nueva.
+   - Nota: el archivo .csv que importes diferirá del archivo .csv que importa el instructor en el vídeo.
+      1. En el menú, seleccione Archivo y luego Importar. Aparecerá la ventana Importar archivo.
+      2. Seleccione Upload y luego Browse para seleccionar el Archivo CSV a importar. Para este ejemplo, seleccione el Archivo CSV que descargó en la sección anterior
+      3. A continuación, seleccione la ubicación de importación. Puede:
+         - Crear una nueva Hoja de cálculo
+         - Insertar los Datos .csv como una hoja nueva
+         - Reemplazar la hoja de cálculo
+         - Reemplazar la hoja actual
+         - Añadir los datos a la hoja de cálculo actual
+         - Reemplazar los Datos comenzando por una Célula específica.
+      4. A continuación, selecciona el tipo de separador. Google Sheets detecta automáticamente el tipo de separador o delimitador. Para establecer manualmente el tipo de delimitador, selecciona el menú desplegable en Tipo de separador y elige el separador.
+      5. A continuación, determina si quieres que el texto se importe con o sin formato. En la casilla situada junto a Convertir texto en números, fechas y fórmulas, mantenga la marca de verificación si desea que los datos de texto se formateen.
+      6. Seleccionar Importar datos. Los Datos del Archivo CSV se cargarán en la hoja y podrá empezar a utilizarlos.
+
+- Ejemplo 2: Descargar datos del Observatorio Mundial de la Salud
+   - Puede descargar datos públicos de Internet, como los de la Organización Mundial de la Salud y el Observatorio Mundial de la Salud.
+   - Nota: El sitio web del Observatorio Mundial de la Salud se ha actualizado desde que se grabó este vídeo.
+   - Siga estas instrucciones para descargar el Archivo CSV que utiliza el instructor.
+      1. Navegue hasta la [base de datos de estadísticas sobre el personal](https://www.who.int/data/gho/data/themes/topics/health-workforce) del Observatorio Mundial de la Salud.
+      2. Desplácese hasta la tabla Médicos.
+      3. A continuación, desplácese hasta EXPORTAR DATOS en formato .csv en la tabla. Haga Clic con el botón derecho y seleccione Guardar enlace como...
+      4. El archivo .csv se descargará en su computadora como data.csv.
+   - Nota: Si ya tiene un archivo .csv con el nombre data. csv, su computadora añadirá un número al nombre del archivo. 
+
+- Ejemplo 3: Utilizar el menú para importar un Archivo CSV
+   - Siga los pasos que se indican a continuación para importar el archivo .csv que ha descargado, data .csv, a una nueva hoja de cálculo.
+      1. Abra una hoja de cálculo en blanco.
+      2. En el menú, selecciona Archivo y, a continuación, Importar. Aparecerá la ventana Importar archivo.
+      3. Seleccione Cargar y, a continuación, Examinar para seleccionar el Archivo CSV que desea importar.
+      4. A continuación, seleccione la ubicación de Importación. Puede:
+         - Crear una nueva Hoja de cálculo
+         - Insertar los Datos .csv como una hoja nueva 
+         - Reemplazar la hoja de cálculo
+         - Reemplazar la hoja actual
+         - Añadir los datos a la hoja de cálculo actual
+         - Reemplazar los Datos comenzando por una Célula específica.
+      5. Seleccionar el tipo de separador.
+      6. A continuación, determine si desea que el texto se importe con o sin formato. En la casilla situada junto a Convertir texto en números, fechas y fórmulas, mantenga la marca de verificación si desea que los datos de texto se formateen.
+      7. Seleccionar Importar datos.
+      8. Los Datos del Archivo CSV se cargarán en su hoja, y podrá revisarlos y ponerles título.
