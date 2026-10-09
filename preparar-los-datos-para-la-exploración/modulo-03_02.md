@@ -45,3 +45,57 @@
 - ​Todo eso son metadatos y ​pueden decirte mucho sobre el libro, ​pero tienes que leerlo ​para saber de qué se trata.
 - ​Del mismo modo, puede leer sobre análisis de datos, ​pero debe realizar este curso para obtener ​el certificado de Análisis de Datos de Google.
 - ​Sigue avanzando para obtener esa nueva perspectiva.
+
+---
+
+## Los metadatos son tan importantes como los propios Datos
+- La Analítica de datos, por diseño, es un campo que se nutre de la recopilación y organización de datos.
+- En esta lectura, aprenderá sobre los metadatos y el tipo de información que pueden proporcionar.
+- Además, explorará ejemplos de metadatos.
+- Explore un archivo de datos abriendo cualquier archivo en su computadora o un documento en su casa o lugar de trabajo.
+- ¿Qué es? ¿De dónde procede? ¿Es útil? ¿Cómo lo sabe?
+- Aquí es donde entran en juego los metadatos para proporcionar una comprensión más profunda de los Datos.
+- En pocas palabras, los metadatos son datos sobre datos.
+- En la gestión de bases de datos, los metadatos proporcionan información sobre otros datos y ayudan a los analistas de datos a interpretar el contenido de los datos dentro de una base de datos.
+- Independientemente de si trabaja con una cantidad de datos grande o pequeña, los metadatos son la marca de un equipo de análisis bien informado.
+- Los metadatos ayudan a las personas a comunicarse sobre los Datos en toda la empresa y facilitan la reutilización de los datos.
+- En esencia, los metadatos informan sobre quién, qué, cuándo, dónde, qué, por qué y cómo de los Datos.
+
+- Elementos de los metadatos
+   - Antes de examinar ejemplos de metadatos, es importante comprender qué tipo de información suelen proporcionar los metadatos:
+      - Tipo de archivo o documento: ¿Qué tipo de archivo o documento está examinando?
+      - Fecha, hora y creador: ¿Cuándo se creó? ¿Quién lo creó? ¿Cuándo se modificó por última vez?
+      - Título y descripción: ¿Cuál es el nombre del elemento que está examinando? ¿Qué tipo de contención tiene?
+      - Geolocalización: Si está examinando una foto, ¿dónde fue tomada?
+      - Etiquetas y categorías: ¿Cuál es la visión general del artículo que tiene? ¿Está indexado o descrito de forma específica? 
+      - Quién lo modificó por última vez y cuándo: ¿Se realizaron cambios en el archivo? En caso afirmativo, ¿cuándo se realizaron las modificaciones más recientes?
+      - Quién puede acceder a él o actualizarlo: Si está examinando un Conjunto de datos, ¿es público? ¿Se necesitan permisos especiales para personalizarlo o modificarlo?
+
+- Ejemplos de metadatos
+   - En el mundo digital actual, ¡los metadatos están por todas partes! He aquí algunos ejemplos -con imágenes adjuntas- de dónde puede encontrar metadatos.
+
+   - Fotos
+      - Siempre que se captura una foto con una cámara, se recopilan y guardan con ella metadatos como el nombre del archivo, la fecha, la hora, la geolocalización y el tipo de dispositivo en el que se tomó.
+      - Los metadatos de la siguiente foto se muestran como una ventana emergente junto a la foto. 
+   - Correos electrónicos
+      - Cuando se envía o recibe un correo electrónico, contiene metadatos como el sujeto, el remitente, el destinatario, la fecha de envío y la hora de envío.
+      - Los correos electrónicos también contienen metadatos ocultos que incluyen nombres de servidores, direcciones IP, formato HTML y detalles del software.
+      - Esta imagen incluye metadatos ocultos del correo electrónico como el ID del mensaje y cuándo se creó el correo electrónico.
+   - Hojas de cálculo y documentos creados electrónicamente
+      - Las hojas de cálculo y los documentos ya contienen una cantidad considerable de datos, por lo que no es de extrañar que también incluyan metadatos como el título, el autor, la fecha de creación, el número de páginas y los comentarios de los usuarios.
+      - Además, los metadatos de las hojas de cálculo incluyen nombres de pestañas, tablas y columnas.
+   - Páginas web
+      - Cada página web tiene una serie de campos de metadatos estándar como etiquetas y categorías, el nombre del creador del sitio, el título y la descripción de la página web y la hora de creación.
+      - Los resultados de las consultas a los motores de búsqueda que puede realizar a diario son metadatos
+   - Libros y audiolibros
+      - ¡Los artículos no digitales también pueden tener metadatos!
+      - Todos los libros tienen metadatos estándar que le informarán de su título, nombre del autor, índice, información sobre el editor, descripción del copyright, índice y una breve descripción del contenido del libro.
+      - Los metadatos del audiolibro también incluyen estos datos, así como metadatos específicos del audiolibro como el narrador y la longitud de la grabación.
+
+- Puntos clave
+   - Los metadatos pueden encontrarse en fotos, correos electrónicos, hojas de cálculo, sitios web, ¡y mucho más! En su vida diaria, usted utiliza metadatos para mantenerse organizado.
+   - Como analista de datos, utilizará los metadatos para comprender el contenido y el contexto de sus datos, así como su estructura.
+   - Los metadatos proporcionan a los analistas de datos información sobre el tipo de archivo de un dato, su título, su geolocalización, quién lo creó, quién lo modificó por última vez y quién tiene acceso a él.
+   - Como Analista de datos, es importante mantener un registro preciso de los metadatos para asegurarse de poder encontrar, utilizar, conservar y reutilizar los datos en el futuro.
+   - Recuerde que será su responsabilidad gestionar y utilizar los datos en su totalidad; los metadatos son tan importantes como los propios datos.
+
