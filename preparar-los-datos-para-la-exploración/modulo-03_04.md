@@ -287,3 +287,35 @@ La ordenación permite agrupar y revisar rápidamente los valores para detectar 
 
 > ¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una reflexión acertada sobre este tema incluiría en qué se parecen y en qué se diferencian las hojas de cálculo de las tablas de las bases de datos.
 > Los analistas de datos utilizan muchas formas de datos en su trabajo diario. Por ejemplo, un analista puede utilizar una hoja de cálculo para hacer un seguimiento de los datos de ingresos internos, pero una base de datos para almacenar información dinámica sobre los consumidores. Comprender qué tipo de almacenamiento de datos es apropiado utilizar en una situación específica es crucial para ser un analista de datos eficaz. En las próximas actividades, aprenderá más sobre las bases de datos y en qué se diferencian de las hojas de cálculo.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre Ordenación y Filtrado
+
+1. ¿Cuál es el proceso para organizar los datos en un orden significativo que facilite su comprensión, análisis y visualización?
+   - [ ] Reformulación
+   - [ ] Estableciendo prioridades
+   - [x] Ordenación
+   - [ ] Filtrado
+> La Ordenación es el proceso por el que se organizan los datos en un orden significativo para facilitar su comprensión, análisis y visualización.
+
+2. Un analista de datos está revisando una base de datos nacional de ventas inmobiliarias. Sólo le interesan las ventas de condominios. ¿Cómo puede el analista acotar su ámbito?
+   - [x] Filtrar las ventas fuera de condominio 
+   - [ ] Filtrar las ventas de condominios
+   - [ ] Ordenación por ventas fuera de condominio
+   - [ ] Ordenación por ventas de condominios
+> El analista puede restringir su alcance filtrando las ventas que no sean de condominios. Esto les permitirá ver sólo los datos sobre las ventas de condominios. 
+
+3. Un analista de datos trabaja para una empresa de alquiler de coches. Tienen una hoja de cálculo que enumera los números de identificación de los coches y las fechas en que se devolvieron. ¿Cómo deberían ordenar la hoja de cálculo para encontrar los coches devueltos más recientemente?
+   - [ ] Por fecha de devolución, en orden ascendente
+   - [ ] Por ID numérico del coche, en orden descendente
+   - [ ] Por ID numérico del coche, en orden ascendente
+   - [x] Por fecha de devolución, en orden descendente 
+> Deben ordenar la hoja de cálculo por fecha de devolución, en orden descendente.
+
+4. Rellene el espacio en blanco: Para mantener una fila de encabezado en la parte superior de una hoja de cálculo, resalte la fila y seleccione _____ en el menú Ver.
+   - [ ] configure
+   - [x] congelar
+   - [ ] cierre
+   - [ ] pin
+> Para mantener una fila de encabezado en la parte superior de una hoja de cálculo, resalte la fila y seleccione congelar en el menú Ver.
