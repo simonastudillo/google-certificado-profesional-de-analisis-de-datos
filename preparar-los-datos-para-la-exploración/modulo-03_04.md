@@ -228,3 +228,62 @@ La ordenación permite agrupar y revisar rápidamente los valores para detectar 
 
 > ¡Enhorabuena por haber completado esta actividad práctica! En esta actividad, ha utilizado la ordenación y el filtrado para limpiar los datos "sucios" de una hoja de cálculo.
 > La limpieza de datos es una parte importante del proceso de análisis de datos. Si el análisis de datos se basa en datos malos o sucios, puede ser sesgado, erróneo y desinformado. La Ordenación y el Filtrado son habilidades esenciales para todo Analista de datos, y también son muy útiles para la limpieza de datos. En las próximas actividades, seguirá aprendiendo más sobre las formas más eficaces y eficientes de limpiar los datos. 
+
+---
+
+## Autorreflexión: Comparar bases de datos y hojas de cálculo
+- Resumen de la actividad
+   - Ahora que ya ha ordenado y filtrado datos en una hoja de cálculo y ha conocido las bases de datos, deténgase un momento a pensar en lo que está aprendiendo.
+   - En esta autorreflexión, considerará los conocimientos que ha adquirido sobre las hojas de cálculo y las bases de datos y reflexionará sobre sus similitudes y diferencias.
+   - A continuación, responderá a varias preguntas. 
+   - Esta autorreflexión le ayudará a desarrollar una visión de su propio aprendizaje y le preparará para aplicar sus conocimientos sobre la preparación de datos a situaciones con las que podría encontrarse como analista de datos.
+   - A medida que responda a las preguntas -y formule las suyas propias-, considere los conceptos, prácticas y principios que le ayudarán a refinar su comprensión y a reforzar su aprendizaje.
+   - Usted ha hecho el trabajo, ¡así que asegúrese de sacarle el máximo partido! 
+
+- Instrucciones paso a paso
+
+1. Identificar las preguntas para comparar las hojas de cálculo con las bases de datos
+   - Las hojas de cálculo y las bases de datos tienen muchas cosas en común.
+   - Por ejemplo, ambas pueden utilizarse para almacenar y organizar Datos.
+   - Sin embargo, las bases de datos pueden ser relacionales, mientras que las hojas de cálculo no.
+   - Esto significa que las hojas de cálculo son más adecuadas para datos autónomos, donde los datos existen en un solo lugar. 
+   - He aquí algunas cuestiones a tener en cuenta sobre las hojas de cálculo y las bases de datos:
+      - ¿Cómo se almacenan los Datos?
+      - ¿Cómo se utiliza cada una de ellas para interactuar con los Datos?
+      - ¿Qué potencia tienen una respecto a la otra? 
+      - ¿Cuáles son los pros y los contras de cada una a la hora de ordenar los datos?
+      - ¿Cuáles son los pros y los contras de cada una a la hora de filtrar datos?
+   - A medida que considere cada una de estas preguntas o se le ocurran las suyas propias, compílelas en una tabla sencilla para comparar y contrastar las hojas de cálculo y las bases de datos.
+   - Utilice una hoja de cálculo para crear su tabla.
+   - Comience con una columna titulada Pregunta.
+   - A continuación, añada cada pregunta a una fila de la tabla, modificándola según sea necesario para poder comparar y contrastar hojas de cálculo y bases de datos en una tabla.
+   - A continuación, añada dos columnas más tituladas Hojas de cálculo y Bases de datos. 
+
+2. Crear una tabla para comparar hojas de cálculo con bases de datos
+   1. Crea tu tabla.
+   2. Rellena tu tabla. 
+   3. Si lo deseas, puedes dedicar un poco más de tiempo a repasar las lecciones anteriores Bases de datos en analítica de datos para ayudarte a recordar puntos adicionales. 
+
+- [Archivo de comparación](./resources/modulo-03/Comparativa-Hojas-de-cálculos_bases-de-datos.xlsx)
+
+- Reflexión
+
+1. Considere lo que ha aprendido sobre las similitudes y diferencias entre las hojas de cálculo y las bases de datos en esta reflexión: 
+   - ¿Qué similitudes ha observado entre las hojas de cálculo y las bases de datos? 
+   - ¿Qué diferencias ha observado entre las hojas de cálculo y las bases de datos? 
+   - ¿En qué circunstancias sería mejor utilizar una hoja de cálculo que una base de datos y por qué? 
+   - ¿En qué circunstancias sería mejor utilizar una base de datos que una hoja de cálculo, y por qué?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas. Introduzca su respuesta en el cuadro de texto que aparece a continuación. 
+
+- Respuesta
+   - ¿Qué similitudes ha observado entre las hojas de cálculo y las bases de datos?
+      - Las hojas de cálculo y las bases de datos relacionales permiten almacenar y organizar información en filas y columnas. Ambas ofrecen herramientas para ordenar, filtrar y analizar datos, lo que facilita encontrar información relevante, identificar patrones y responder preguntas para apoyar la toma de decisiones.
+   - ¿Qué diferencias ha observado entre las hojas de cálculo y las bases de datos?
+      - Las hojas de cálculo permiten editar directamente las celdas y trabajar con fórmulas y funciones mediante una interfaz visual. Las bases de datos relacionales organizan la información en tablas relacionadas y utilizan consultas SQL para recuperarla y analizarla, ofreciendo mayor capacidad para gestionar grandes volúmenes de datos.
+   - ¿En qué circunstancias sería mejor utilizar una hoja de cálculo que una base de datos y por qué?
+      - Utilizaría una hoja de cálculo para trabajar con un conjunto pequeño de datos, realizar cálculos rápidos o revisar y corregir valores visualmente. Su facilidad de uso y la edición directa de las celdas permiten completar tareas sencillas sin necesitar conocimientos de SQL ni configurar una base de datos.
+   - ¿En qué circunstancias sería mejor utilizar una base de datos que una hoja de cálculo y por qué?
+      - Utilizaría una base de datos cuando necesitara gestionar grandes volúmenes de información, relacionar varias tablas o permitir que distintos usuarios trabajaran con los datos. Las consultas SQL y los controles de integridad facilitan recuperar información específica, reducir inconsistencias y mantener una gestión organizada y eficiente.
+
+> ¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una reflexión acertada sobre este tema incluiría en qué se parecen y en qué se diferencian las hojas de cálculo de las tablas de las bases de datos.
+> Los analistas de datos utilizan muchas formas de datos en su trabajo diario. Por ejemplo, un analista puede utilizar una hoja de cálculo para hacer un seguimiento de los datos de ingresos internos, pero una base de datos para almacenar información dinámica sobre los consumidores. Comprender qué tipo de almacenamiento de datos es apropiado utilizar en una situación específica es crucial para ser un analista de datos eficaz. En las próximas actividades, aprenderá más sobre las bases de datos y en qué se diferencian de las hojas de cálculo.
