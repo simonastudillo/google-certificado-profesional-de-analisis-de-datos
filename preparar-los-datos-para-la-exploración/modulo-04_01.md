@@ -1,0 +1,12 @@
+# Ordenar los datos
+
+## Siéntase seguro de sus datos
+- Hola, me alegro de tenerle de vuelta.
+- ​Hasta ahora, nos hemos centrado en preparar ​sus datos para su procesamiento y análisis.
+- ​En estos próximos vídeos, ​exploraremos otra gran parte de ese proceso, ​organizar y proteger sus datos.
+- ​Mantener los datos organizados es ​importante por varias razones; ​facilita su búsqueda y uso, ​le ayuda a evitar cometer errores durante ​sus análisis y contribuye a protegerlos.
+- ​A continuación, repasaremos ​los aspectos básicos de la organización de datos para ​uso personal y profesional ​y las convenciones de nomenclatura de archivos.
+- ​Luego veremos algunas ​características de seguridad para las hojas de cálculo.
+- ​Al final de estos próximos vídeos, ​usted será capaz de hacer todas estas cosas y ​podrá explicar estos pasos a las partes interesadas, ​para que se sientan seguras de que ​sus prácticas con los datos son seguras.
+- ​Cuando esté listo para empezar, ​pase al siguiente vídeo.
+- ​Allí empezaremos con ​la organización de datos para uso personal.
