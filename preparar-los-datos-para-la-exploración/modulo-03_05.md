@@ -711,3 +711,95 @@ Comprender la sintaxis básica de las consultas me proporciona una base sólida 
    - [Buscar y reemplazar en Sublime Text](https://sublime-text-unofficial-documentation.readthedocs.io/en/latest/search_and_replace/search_and_replace_overview.html)
    - [Tutorial de regex (si no sabes qué son las expresiones regulares)](https://www.regular-expressions.info/tutorialcnt.html)
    - [Hoja de trucos sobre regex](https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/)
+
+---
+
+## Actividad práctica: Crear una tabla personalizada en BigQuery
+- Resumen de actividades
+   - Recientemente, ha estado pensando en identificar buenas fuentes de datos que serían útiles para el análisis.
+   - También dedicó algún tiempo en una actividad anterior a explorar un conjunto de datos públicos en BigQuery y a escribir algunas consultas SQL básicas.
+   - Además de utilizar datos públicos en BigQuery, su futura carrera en el campo de los datos implicará importar datos de otras fuentes.
+   - En esta actividad, creará una tabla y un conjunto de datos personalizados que cargará en una tabla y una consulta nuevas. 
+   - Cuando complete esta actividad, será capaz de cargar sus propios datos en BigQuery para su análisis.
+   - Esto le permitirá importar sus propias fuentes de datos a BigQuery, una habilidad que le permitirá analizar con mayor eficacia los datos procedentes de distintas fuentes.
+
+- Instrucciones paso a paso
+
+1. Acceder a la fuente de datos
+   - Para empezar, descargue el archivo zip de datos sobre nombres de bebés.
+   - Este archivo contiene unos 7 MB de datos sobre nombres populares de bebés de la página web de la Administración de la Seguridad Social de EE.UU..
+   - Seleccione el enlace al archivo zip de datos de nombres de bebés para descargarlo.
+   - Enlace a los datos sobre nombres de bebés: [names.zip](./resources/modulo-03/names.zip)
+
+2. Descomprima el archivo
+   - Descomprima el archivo que ha descargado en su ordenador para acceder a él en BigQuery.
+   - Una vez descomprimido el archivo, busque un archivo .pdf titulado NationalReadMe que contiene más información sobre el conjunto de datos.
+   - Este conjunto de datos realiza un seguimiento de la popularidad de los nombres de bebé de cada año; puede encontrar archivos de texto etiquetados por el año que contienen.
+   - Abra yob2014.txt para obtener una vista previa de los datos.
+   - Observará que se trata de un archivo .csv con tres columnas.
+   - Recuerde dónde guardó esta carpeta para poder consultarla más adelante. 
+
+3. Crear un conjunto de datos
+   - Antes de cargar su archivo .txt y crear una tabla para consultar, deberá crear un conjunto de datos en el que cargar sus datos y almacenar sus tablas.
+      1. En la consola BigQuery, vaya al panel Explorador de su área de trabajo y seleccione los tres puntos situados junto a su proyecto para abrir un menú.
+         - Desde aquí, selecciona Crear conjunto de datos.
+         - Tenga en cuenta que, a menos que ya haya especificado su propio nombre de proyecto, BigQuery asignará un nombre único a su proyecto, normalmente con el formato de dos palabras y un número, separados por guiones (por ejemplo, loyal-glass-371423 en la imagen siguiente).
+      2. Se abrirá el menú Crear conjunto de datos.
+         - Aquí es donde rellenará la información sobre el conjunto de datos.
+         - Introduzca el ID del conjunto de datos como babynames y establezca la ubicación de los datos como Multi-región (EE.UU.).
+         - Una vez que haya terminado de rellenar esta información, seleccione el botón azul CREAR CONJUNTO DE DATOS en la parte inferior del menú.
+      
+4. Crear una tabla
+   - Ahora que tiene un conjunto de datos personalizado almacenado en su espacio de proyecto, aquí es donde añadirá su tabla.
+      1. Seleccione el conjunto de datos babynames recién creado. Comprueba las pestañas de la ventana de información del conjunto de datos y selecciona el primer botón azul + CREAR TABLA. Esto abrirá otro menú en su consola.
+      2. En la sección Source , selecciona la opción Upload en Create table from. A continuación, seleccione Examinar para abrir sus archivos. Busque y abra el archivo yob2014.txt. Establezca el formato del archivo en .csv. En la sección Destino , en el cuadro Datos de tabla, asigne a su tabla el nombre names_2014. Para Esquema, seleccione Editar como texto e introduzca el siguiente código:
+      ```sql
+      name:string,
+      gender:string,
+      count:integer
+      ```
+      3. Esto establecerá los tipos de datos de las tres columnas de la tabla. Deja los demás parámetros como están y selecciona Crear tabla. 
+         - Una vez creada la tabla names_2014, aparecerá en el panel del explorador bajo el conjunto de datos babynames que creó anteriormente. 
+      4. Seleccione la tabla para abrirla en su área de trabajo. Aquí podrá comprobar el esquema de la tabla. A continuación, vaya a la pestaña Vista previa para explorar los datos. La tabla debe tener tres columnas: name, gender, y count.
+
+5. Consulte su tabla personalizada
+   - Ahora que su tabla está configurada, está listo para empezar a escribir consultas y responder preguntas sobre estos datos. Por ejemplo, supongamos que está interesado en los cinco nombres de niño más comunes en Estados Unidos en 2014. 
+   - Seleccione COMPOSE NEW QUERY para iniciar una nueva consulta para esta tabla. A continuación, introduzca este código:
+   ```sql
+   SELECT
+      name,
+      count
+   FROM your-project.babynames.names_2014
+   WHERE gender = 'M'
+   ORDER BY count DESC
+   LIMIT 5
+   ```
+   - NOTA: Asegúrese de que la sentencia FROM es correcta para que la consulta se ejecute El conjunto de datos necesita que la consulta le indique la ubicación de la tabla que acaba de cargar para poder obtener los datos. Es como darle a la consulta un mapa de tu tabla. Ese mapa incluirá el nombre exclusivo de su proyecto BigQuery (sustituya your-project en el código anterior por el nombre exclusivo de su proyecto), el nombre del conjunto de datos (babynames) y el nombre de la tabla (names_2014). Los nombres de ubicación de cada uno de estos elementos están separados por puntos. El resultado final será algo parecido a esto: `loyal-glass-371423.babynames.names_2014 `
+   - Tenga en cuenta que loyal-glass-371423 es sólo un ejemplo de nombre de proyecto. Debe utilizar el nombre de su proyecto en la sentencia FROM.
+   - Esta consulta selecciona las columnas name y count de la tabla names_2014. Usando la cláusula WHERE, estás filtrando por un género específico para tus resultados. A continuación, está ordenando cómo desea que aparezcan los resultados con ORDER BY. Como está ordenando por count en orden descendente, obtendrá los nombres y el recuento correspondiente de mayor a menor. Por último, LIMIT indica a SQL que sólo devuelva los cinco nombres más populares y su recuento. 
+   - Una vez que haya introducido estos datos en la consola, seleccione EJECUTAR para obtener los resultados de la consulta.
+
+6. ¿Le apetece un reto?
+   - Si se siente cómodo creando sus propias tablas personalizadas, pruebe a cargar más archivos del conjunto de datos de nombres de bebés en tablas que pueda consultar.
+   - Por ejemplo, podría cargar cada uno de los archivos de 2015 a 2019 para encontrar los principales nombres de bebés de esos años.
+
+- Reflexión
+
+1. Tras ejecutar la consulta en su nueva tabla, ¿cuál fue el tercer nombre de bebé varón más popular en 2014?
+   - [ ] Noah
+   - [ ] William
+   - [ ] Jacob
+   - [x] Mason
+> Para averiguar que Mason fue el tercer nombre de bebé más popular para niños en 2014, usted consultó su tabla personalizada y comprobó los resultados. En el futuro, podrá cargar sus propias fuentes de datos en BigQuery para futuros proyectos de análisis. Esto le permitirá practicar la escritura de consultas SQL para más fuentes de datos, lo que será una habilidad clave como Analista de datos.
+
+2. En esta actividad, ha explorado los datos públicos en BigQuery y los ha utilizado para crear una tabla personalizada. En el cuadro de texto que aparece a continuación, escriba de 2 a 3 frases (de 40 a 60 palabras) en respuesta a cada una de las siguientes preguntas:
+   - ¿Por qué es útil como analista de datos poder utilizar datos de distintas fuentes?
+   - ¿Cómo puede utilizar las tablas y conjuntos de datos personalizados de BigQuery en sus futuros proyectos de análisis?
+
+- Respuestas
+- ¿Por qué es útil como analista de datos poder utilizar datos de distintas fuentes?
+Es útil como analista de datos poder utilizar datos de distintas fuentes porque permite obtener una visión más completa y precisa de los fenómenos que se están estudiando. Al combinar datos de diferentes orígenes, se pueden identificar patrones, correlaciones y tendencias que no serían evidentes al analizar una sola fuente de datos. Esto mejora la calidad del análisis y la toma de decisiones basada en datos.
+- ¿Cómo puede utilizar las tablas y conjuntos de datos personalizados de BigQuery en sus futuros proyectos de análisis?
+Las tablas y conjuntos de datos personalizados de BigQuery pueden ser utilizados en futuros proyectos de análisis para almacenar y organizar datos específicos que se necesiten para el análisis. Esto permite realizar consultas SQL eficientes, combinar datos de diferentes fuentes y generar informes personalizados. Además, facilita la colaboración con otros analistas al proporcionar un acceso centralizado a los datos relevantes para el proyecto.
+> ¡Enhorabuena! En esta actividad, ha creado un nuevo conjunto de datos dentro de su proyecto, ha cargado un archivo .csv para crear una nueva tabla y ha ejecutado una consulta SQL. Una buena respuesta incluiría que ser capaz de evaluar y utilizar diferentes fuentes de datos le permite acceder a más datos.
+> Como analista de datos, es importante poder evaluar las fuentes de datos y utilizar la herramienta adecuada para analizarlas. Por ejemplo, usted fue capaz de utilizar SQL para analizar un conjunto de datos que anteriormente estaba almacenado en su computadora como un Archivo CSV.
