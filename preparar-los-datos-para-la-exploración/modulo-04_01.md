@@ -140,3 +140,35 @@
    - Utilice convenciones de denominación de archivos coherentes y significativas en todo el proyecto para ahorrar tiempo a usted y a su equipo, facilitando la búsqueda y el uso de los datos.
    - Las convenciones de denominación de archivos deben ser acordadas por todos los Miembros del equipo antes de comenzar un proyecto y deben describir el proyecto incluyendo su nombre, la fecha y la versión de revisión.
    - Documente esta información en un lugar al que los Miembros del equipo puedan acceder.
+
+---
+
+## Métodos eficaces de denominación y organización de archivos
+- Review your knowledge of effective file naming and file organization practices.
+
+- Is this a good file name?
+   - Categorize each file name by dragging it to the appropriate area. Or use the plus sign to choose where it belongs.
+
+- Best practice
+   - `2021-SPRING-inventory-LP-v2`
+   - `Cafe_Restock_Data_2021_05_24`
+   - `Q4-21-Data-Report-v4`
+- Needs improvement
+   - `Q421data-final-FINAL-LP-JD-AP-AP2`
+   - `New text 4-dave`
+   - `Q21DataReport0106`
+
+- Is this a good file organization practice?
+   - Categorize each file organization practice by dragging it to the appropriate area. Or use the plus sign to choose where it belongs.
+
+- Best practice
+   - Most files can fit in your hierarchy if you’ve done a good job of mapping it out.
+   - Create folders and subfolders hierarchically so that related files are stored together.
+   - Keep ongoing work separate from completed work.
+   - Back up files often to avoid losing work.
+- Needs improvement
+   - Keep all current and completed work in one primary folder.
+   - Avoid resaving your files as this can be unnecessary. Saving your files once is enough.
+   - Save files locally on your desktop so you can find them easily.
+   - Keep your files in only one place.
+   - Create a new folder every time you add a file to the project.
