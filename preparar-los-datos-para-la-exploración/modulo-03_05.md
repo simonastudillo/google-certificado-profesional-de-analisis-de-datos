@@ -190,3 +190,68 @@
    - El espacio de trabajo SQL de BigQuery le permite buscar conjuntos de datos públicos, ejecutar consultas SQL e incluso cargar sus propios datos para analizarlos.
    - Tanto si trabaja con conjuntos de datos públicos, como si ejecuta consultas SQL o carga sus propios datos, el espacio de trabajo SQL de BigQuery ofrece una serie de funciones que le permitirán realizar todo tipo de tareas de análisis de datos.
    - A lo largo de este programa, utilizará BigQuery para practicar sus habilidades SQL, por lo que estar familiarizado con los principales componentes de su consola BigQuery le ayudará a navegar por ella con eficacia en el futuro
+
+---
+
+## Paso a paso: BigQuery en acción
+- Esta lectura le proporciona los pasos que el instructor realiza en el siguiente vídeo, BigQuery en acción.
+- El vídeo se centra en cómo crear una consulta para ver una pequeña sección de datos de un gran conjunto de datos.
+- Mantenga esta guía abierta mientras ve el vídeo.
+- Puede servir como referencia útil si necesita contexto adicional o aclaración mientras sigue los pasos del vídeo.
+- No se trata de una actividad calificada, pero puedes completar estos pasos para practicar las habilidades demostradas en el vídeo.
+
+- Lo que necesitas
+   - Para seguir los ejemplos de este vídeo, inicie sesión en su cuenta de BigQuery y siga las instrucciones para iniciar bigquery-public-data en la sección
+   - El panel del explorador de la lectura anterior, Introducción a BigQuery. 
+
+- Ejemplo 1: Vista previa de una sección desde un visor de tablas
+   - Una base de datos es una colección de datos almacenados en un sistema informático.
+   - Lenguajes de consulta como SQL permiten la comunicación entre las bases de datos y los analistas de datos.
+   - Antes ha descubierto que una base de datos relacional se compone de varias tablas que pueden unirse para crear relaciones.
+   - Las Claves primaria y foránea sirven como representaciones de estas relaciones.
+   - Para extraer datos de estas tablas, los analistas de datos utilizan consultas.
+   - Para saber más al respecto, explore BigQuery en acción:
+      1. Inicie sesión en [BigQuery](https://console.cloud.google.com/bigquery) y vaya a su consola.
+         - Debería encontrar abierta la Página de destino ¡Bienvenido a su espacio de trabajo SQL!
+         - Seleccione COMPONER UNA NUEVA CONSULTA en la consola de BigQuery.
+         - Asegúrese de que no hay pestañas abiertas para que se muestre todo el espacio de trabajo, incluido el panel Explorador.
+      2. Introduzca techo solar en la barra de búsqueda.
+         - En los resultados de la búsqueda, expanda sunroof_solar y seleccione el conjunto de datos solar_potential_by_postal_code.
+      3. Observe la pestaña Esquema del panel Explorador para explorar los campos de la tabla. 
+      4. Seleccione la pestaña Vista previa para ver las regiones, los estados, la luz solar anual, etc. 
+
+- Ejemplo 2: Escribir una consulta
+   - Para ver el conjunto de datos completo, tendrá que escribir una consulta.
+      1. El primer paso es encontrar la ruta completa y correcta a la tabla con la que desea trabajar.
+         - Seleccione las elipses (tres puntos verticales) junto al conjunto de datos solar_potential_by_postal_code y, a continuación, seleccione Consultar.
+         - Aparecerá una nueva pestaña en la pantalla.
+         - Seleccione la pestaña.
+         - La ruta a la tabla debe estar escrita dentro de dos puntos. 
+      2. Seleccione la ruta completa resaltando el texto que incluye los puntos y cópielo.
+         - (Nota: También puede obtener la ruta completa al proyecto, base de datos y tabla directamente haciendo clic en las elipses junto al nombre de la tabla en el panel Explorador de la izquierda y seleccionando Copiar ID)
+      3. Ahora, haga clic en el signo más para crear una nueva consulta.
+         - Observe que BigQuery no genera automáticamente una sentencia SELECT en esta ventana.
+         - Introduzca SELECT  y añada un espacio después.
+      4. Ponga un asterisco * después de SELECT para indicar que desea devolver todo el conjunto de datos.
+         - El asterisco indica a la base de datos que debe incluir todas las columnas.
+         - Sin este método abreviado, tendría que introducir manualmente todos los nombres de las columnas
+      5. A continuación, pulse la tecla Intro/Retorno e introduzca FROM  en la segunda línea. FROM indica de dónde proceden los datos. Después de FROM, añade otro espacio.
+      6. Pega la ruta a la tabla que has copiado antes. Se leerá `bigquery-public-data.sunroof_solar.solar_potential_by_postal_code`
+      7. Ejecuta la consulta seleccionando el botón EJECUTAR .
+   - Importante
+      - Muchas de las bases de datos públicas en BigQuery son registros vivos y, como tales, se actualizan periódicamente con nuevos datos.
+      - A lo largo de este curso (y de otros de este programa de certificación), si sus resultados difieren de los que encuentra en los vídeos o capturas de pantalla, es muy probable que se deba a una actualización de los datos.
+      - Puede comprobar cuándo se ha actualizado una tabla seleccionándola en el panel Explorador y haciendo clic en Detalles.
+      - Encontrará la fecha de creación de la tabla, cuándo se modificó por última vez, así como otra información útil. 
+
+- Ejemplo 3: Utilizar SQL para ver un dato
+   - Si el proyecto no requiere que se completen todos los campos, puede utilizar SQL para ver uno o varios datos concretos.
+   - Para ello, especifique un determinado nombre de columna en la consulta. 
+      1. Por ejemplo, puede que sólo necesite datos de Pensilvania. Empezarías la consulta de la misma forma que en los ejemplos anteriores: Haga clic en el signo más, introduzca SELECT, añada un espacio, un asterisco (*) y, a continuación, pulse Intro/Retorno.
+      2. Introduzca FROM  y, a continuación, pegue `bigquery-public-data.sunroof_solar.solar_potential_by_postal_code`. Pulsa Intro/Retorno.
+      3. Esta vez, añada WHERE. Estará en la misma línea que la sentencia FROM. Añada un espacio e introduzca state_name con un espacio antes del estado y un espacio después del nombre. state_name es un nombre de columna de la tabla.
+      4. Como sólo quieres datos de Pennsylvania, añade = y 'Pennsylvania' en la misma línea que state_name. En SQL, las comillas simples representan el principio y el final de una cadena.
+      5. Ejecute la consulta con el botón EJECUTAR .
+      6. Revise los datos sobre el potencial solar de Pensilvania. Desplácese por los resultados de la consulta.
+   - Tenga en cuenta que las consultas SQL pueden escribirse de muchas formas diferentes y seguir devolviendo los mismos resultados.
+   - Puede que descubras otras formas de escribir estas consultas
