@@ -904,3 +904,100 @@ SQL es la herramienta adecuada debido a la complejidad del análisis requerido. 
 Accederé a los datos a través de la base de datos relacional utilizando una interfaz de consulta SQL. Esto me permitirá escribir consultas para calcular las tasas de finalización de los cursos, unir las tablas relevantes y generar informes que faciliten la toma de decisiones estratégicas para mejorar la experiencia de aprendizaje en la plataforma.
 
 > La opción más adecuada es SQL. Utilizando SQL, puede unir estas tablas, calcular la tasa de finalización de cada curso y filtrar para encontrar los cursos con las tasas de finalización más bajas en la base de datos en la que ya están almacenados. SQL es una gran herramienta para trabajar directamente con bases de datos y consultar datos para encontrar las respuestas que necesita. 
+
+---
+
+## Actividad práctica: Más práctica con SQL
+- Resumen de la actividad
+   - En lecciones anteriores, aprendió a trabajar con datos en hojas de cálculo.
+   - Ahora, practicará el uso de SQL para trabajar con datos en bases de datos.
+   - Cuando complete esta actividad, será capaz de utilizar SQL para escribir consultas que recuperen datos de bases de datos.
+   - Además, practicará la navegación por grandes conjuntos de datos públicos en BigQuery para adquirir destreza en las consultas SQL, una habilidad esencial para su futura carrera como analista de datos.
+
+- Escenario
+   - Revise el siguiente escenario.
+   - A continuación, complete las instrucciones paso a paso.
+   - En esta actividad, consultará un conjunto de datos público que contiene información sobre los árboles de la ciudad de Nueva York en 2005.
+   - También utilizará la función AVG para determinar el diámetro medio de todos los árboles de la ciudad de Nueva York en 2005.
+   - A continuación, tendrá la oportunidad de escribir consultas utilizando los datos de 1995 y 2015 para comparar los diámetros medios de los árboles.
+
+- Instrucciones paso a paso
+
+1. Configure sus datos
+   1. Inicie sesión en [BigQuery Espacio aislado](https://cloud.google.com/bigquery/docs/sandbox).
+      - En la página de BigQuery, haga clic en el botón Ir a BigQuery.
+      - Si dispone de una versión de prueba gratuita de BigQuery, puede utilizarla en su lugar. 
+      - Nota: BigQuery Espacio aislado actualiza con frecuencia su interfaz de usuario.
+      - Es posible que los últimos cambios no se reflejen en las capturas de pantalla presentadas en esta actividad, pero los principios siguen siendo los mismos.
+      - Adaptarse a los cambios en las actualizaciones de software es una habilidad esencial para los analistas de datos, y le resultará útil practicar la resolución de problemas.
+      - También puede pedir ayuda a su comunidad de alumnos en el foro de debate.
+   2. Si aún no lo ha hecho, cree un proyecto BigQuery. (Si ya tiene un proyecto, selecciónelo en el panel Explorador )
+      - En la consola BigQuery, seleccione la lista desplegable situada a la derecha del logotipo de Google Cloud para abrir el cuadro de diálogo Seleccionar un proyecto
+      - En el cuadro de diálogo Seleccionar un proyecto, seleccione el botón CREAR PROYECTO
+      - Dé a su proyecto un nombre que le ayude a identificarlo más adelante.
+      - Puede ser un ID de proyecto único o utilizar uno generado automáticamente.
+      - No es necesario que seleccione una organización
+      - Seleccione el botón CREAR para crear el proyecto
+   3. Ahora aparecen en pantalla las tres secciones principales de BigQuery: el menú de navegación de BigQuery; el panel Explorador , que puede utilizar para buscar conjuntos de datos públicos y proyectos abiertos; y el panel Detalles , que muestra detalles de la base de datos o conjunto de datos que ha seleccionado en el panel Explorador y muestra ventanas para que introduzca consultas.
+      - Observe que puede utilizar el símbolo <| en la sección del menú de navegación de BigQuery para contraerla.
+      - Existe un símbolo similar para contraer el panel Explorador
+
+2. Elegir un conjunto de datos
+   - Siga estos pasos para encontrar y seleccionar el conjunto de datos Árboles de Nueva York para esta actividad
+      1. En el panel Explorador , seleccione el botón + AÑADIR
+      2. En el cuadro Añadir que aparece, desplácese hacia abajo por la lista Fuentes adicionales. Seleccione Conjuntos de datos públicos
+      3. Se abre un nuevo cuadro en el que puede buscar conjuntos de datos públicos disponibles a través de Google Cloud. En el cuadro de texto Buscar en el mercado , busque Árboles de la ciudad de Nueva York
+      4. Seleccione el resultado de la búsqueda Árboles de la ciudad de Nueva York y, a continuación, seleccione el botón Ver conjunto de datos
+      5. Google Cloud abre una nueva pestaña del navegador que muestra BigQuery con la colección bigquery-public-data abierta en el panel Explorador . Para asegurarse de que la base de datos bigquery-public-data permanece en el panel Explorador de su proyecto, seleccione la estrella situada junto al conjunto de datos
+      6. El panel Detalles de BigQuery contiene información sobre el conjunto de datos new_york_trees. Esta información incluye la fecha de creación del conjunto de datos, cuándo se modificó por última vez y el ID del conjunto de datos
+
+3. Elegir una mesa
+   1. En el panel Explorador, seleccione la flecha situada junto al conjunto de datos new_york_trees para visualizar las tablas que contiene
+      - Nota: Si el conjunto de datos new_york_trees no se encuentra en el panel Explorador, escriba new_york_trees en el cuadro de texto Buscar del panel Explorador .
+      - (Esto funcionará si ha anclado bigquery-public-data en el panel Explorador .)
+      - Si la búsqueda no devuelve los resultados necesarios, siga los pasos anteriores para buscar el conjunto de datos new_york_trees.
+   2. Observe que el conjunto de datos new_york_trees contiene tres tablas de censos de árboles de 1995, 2005 y 2015. También contiene una tabla que enumera las especies arbóreas
+      - Ahora, examine los datos de todos los árboles catalogados en la ciudad de Nueva York durante tres años concretos
+   3. Seleccione la tabla tree_census_2005. BigQuery muestra la estructura de la tabla en el panel Detalles
+   4. En el panel Detalles , seleccione Consulta > En nueva pestaña para abrir una nueva ventana de consulta
+   5. Observe que BigQuery rellena la ventana de consulta con una consulta SELECT . Esta consulta está incompleta porque no contiene nada entre SELECTy FROM. 
+
+4. Consulta de los datos
+   - Esta sentencia SELECT en el panel de detalles está incompleta porque no se han especificado las columnas a mostrar.
+   - Por lo tanto, enumere las columnas separadas por comas o utilice el asterisco para que BigQuery devuelva todas las columnas de la tabla.
+   1. Escriba un asterisco * después del comando SELECT en la línea uno del Editor de consultas. Su Consulta deberá ahora leerse SELECT * FROM seguido de la ubicación de su tabla. Este comando indica a BigQuery que devuelva todas las columnas de la tabla tree_census_2005
+   2. En el Editor de consultas, seleccione el botón Ejecutar para ejecutar la consulta. Los resultados se mostrarán en forma de tabla en el panel Resultados de la consulta, debajo del Editor de consultas
+      - Esta consulta devuelve todas las columnas de las primeras 1.000 filas de la tabla.
+      - BigQuery sólo devuelve las 1.000 primeras filas porque la consulta SELECT incluye una cláusula LIMIT 1000.
+      - Esto limita las filas devueltas para reducir el tiempo de procesamiento necesario. 
+   3. A continuación, escriba una consulta para averiguar el diámetro medio de todos los árboles de Nueva York en 2005. En la línea 1, sustituya el * después de la orden SELECT por AVG(tree_dbh). Seleccione el botón Ejecutar para ejecutar la consulta
+      - Esto devuelve su respuesta, 12,833 (lo que significa que el diámetro medio de los árboles de NYC en 2005 era de 12,833 pulgadas)
+
+5. Escriba sus propias consultas
+   - Ahora, invente algunas preguntas y respóndalas con sus propias consultas SQL.
+   - Por ejemplo, consulte las tablas de 1995 y 2015 para hallar el diámetro medio de los árboles.
+   - A continuación, puede comparar el diámetro medio de los árboles en los tres conjuntos de datos para determinar si los árboles de la ciudad de Nueva York han crecido por término medio.
+   - Tenga en cuenta que el nombre de campo para el diámetro de los árboles en la tabla tree_census_1995 es diámetro. 
+   - También puede elegir otro conjunto de datos disponible públicamente en BigQuery y escribir sus propias consultas para practicar más: ¡hay muchas opciones interesantes!
+
+- Reflexión
+
+1. Desea comparar el tamaño de los árboles en 2005 con el de los árboles en 2015. En la actividad anterior, ha calculado el diámetro medio de los árboles de la ciudad de Nueva York en 2005. Basándose en el conjunto de datos new_york_trees, ¿cuál es el diámetro medio de los árboles de la ciudad de Nueva York en 2015?
+   - [ ] 12.981
+   - [x] 11.279
+   - [ ] 11.439
+   - [ ] 12.334
+> El diámetro medio de los árboles de Nueva York en 2015 fue de 11,279 pulgadas. La consulta correcta para determinar esta Información es: 
+> SELECT avg(tree_dbh) FROM `bigquery-public-data.new_york_trees.tree_census_2015`
+
+2. Durante esta actividad, ha practicado la escritura de consultas SQL para obtener información de conjuntos de datos. En el cuadro de texto que aparece a continuación, escriba una respuesta de 2-3 frases (40-60 palabras) a cada una de las siguientes preguntas:
+   - ¿Qué cree que podría ocurrir si escribiera correctamente cada componente de una consulta, pero reordenara el orden?
+   - ¿Cómo puede utilizar las consultas SQL para crecer como analista de datos?
+
+- Respuestas
+- ¿Qué cree que podría ocurrir si escribiera correctamente cada componente de una consulta, pero reordenara el orden?
+Si reordena los componentes de una consulta SQL, es probable que la consulta no se ejecute correctamente o que devuelva resultados inesperados. El orden de las cláusulas en SQL es crucial para la sintaxis y la lógica de la consulta, por lo que alterar el orden puede causar errores o resultados incorrectos.
+- ¿Cómo puede utilizar las consultas SQL para crecer como analista de datos?
+Las consultas SQL pueden ayudarlo a crecer como analista de datos al permitirle extraer, filtrar y analizar grandes volúmenes de información de manera eficiente. Al dominar SQL, puede responder preguntas complejas sobre sus datos y proporcionar insights valiosos para la toma de decisiones.
+
+> ¡Enhorabuena por haber completado esta actividad práctica! Una respuesta sólida incluiría cómo la consulta de conjuntos de datos públicos es una forma estupenda de practicar SQL. Más allá de eso, considere lo siguiente: Los analistas de datos utilizan SQL para interactuar con las bases de datos y ver los datos que necesitan analizar. Se trata de conocimientos importantes que le prepararán para futuros cursos y para muchos aspectos de su carrera como analista de datos. En las próximas actividades, aprenderá y practicará la escritura de consultas más avanzadas, que le ayudarán a dominar SQL, una herramienta esencial en el conjunto de herramientas de todo analista de datos.
