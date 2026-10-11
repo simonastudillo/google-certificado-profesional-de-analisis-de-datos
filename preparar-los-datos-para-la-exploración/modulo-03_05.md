@@ -1001,3 +1001,41 @@ Si reordena los componentes de una consulta SQL, es probable que la consulta no 
 Las consultas SQL pueden ayudarlo a crecer como analista de datos al permitirle extraer, filtrar y analizar grandes volúmenes de información de manera eficiente. Al dominar SQL, puede responder preguntas complejas sobre sus datos y proporcionar insights valiosos para la toma de decisiones.
 
 > ¡Enhorabuena por haber completado esta actividad práctica! Una respuesta sólida incluiría cómo la consulta de conjuntos de datos públicos es una forma estupenda de practicar SQL. Más allá de eso, considere lo siguiente: Los analistas de datos utilizan SQL para interactuar con las bases de datos y ver los datos que necesitan analizar. Se trata de conocimientos importantes que le prepararán para futuros cursos y para muchos aspectos de su carrera como analista de datos. En las próximas actividades, aprenderá y practicará la escritura de consultas más avanzadas, que le ayudarán a dominar SQL, una herramienta esencial en el conjunto de herramientas de todo analista de datos.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre el uso de SQL con grandes conjuntos de datos
+
+1. Rellene el espacio en blanco: Cuando se utiliza SQL, la cláusula _____ puede emplearse para filtrar un conjunto de datos de clientes de modo que sólo incluya a las personas que hayan realizado una compra en el último mes.
+   - [x] WHERE
+   - [ ] FILTER
+   - [ ] FROM
+   - [ ] SELECT
+> Cuando se utiliza SQL, la cláusula WHERE puede emplearse para filtrar un conjunto de datos de clientes de modo que sólo incluya a las personas que hayan realizado una compra en el último mes. WHERE es la sección de una consulta que especifica los criterios que deben cumplir los datos solicitados.
+
+2. ¿Qué casos se utilizan con más frecuencia para los nombres de columnas en una tabla de base de datos y representan una práctica recomendada de SQL? Seleccione todas las que correspondan.
+   - [ ] Caso de sentencia 
+   - [x] Minúsculas 
+   - [x] El caso de la serpiente 
+   - [ ] Estuche de camell
+> Los nombres de las columnas deben escribirse en minúsculas. O, en el caso de nombres con varias palabras, se utilizan mayúsculas y minúsculas para separar cada palabra con un guión bajo y hacerla más legible. 
+
+3. Una tabla de base de datos se denomina WebTrafficAnalytics. ¿De qué tipo de CASO se trata?
+   - [x] Estuche de camello 
+   - [ ] Minúsculas
+   - [ ] Caso de sentencia
+   - [ ] El caso de la serpiente
+> WebTrafficAnalytics está en mayúsculas y minúsculas. Mayúsculas y minúsculas significa que la primera letra de cada palabra se escribe en mayúsculas; sin embargo, escribir la primera letra en mayúsculas es opcional.
+
+4. ¿Qué se puede eliminar de la siguiente consulta sin impedir que se ejecute ni cambiar los resultados?
+```sql
+SELECT *
+FROM `Uni_dataset.new_table`
+WHERE ID = 'Lawrence'
+```
+   - [x] Marcas (`)
+   - [ ] El asterisco (*)
+   - [ ] SELECT
+   - [ ] WHERE
+> Los puntos suspensivos pueden eliminarse del nombre del conjunto de datos sin impedir la ejecución de la consulta. Los backticks pueden hacer que las consultas sean más legibles, pero son opcionales.
+
