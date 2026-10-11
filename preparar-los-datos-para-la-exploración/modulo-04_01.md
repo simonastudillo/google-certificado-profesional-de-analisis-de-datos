@@ -172,3 +172,35 @@
    - Save files locally on your desktop so you can find them easily.
    - Keep your files in only one place.
    - Create a new folder every time you add a file to the project.
+
+---
+
+## Ponga a prueba sus conocimientos sobre la puesta en orden de los datos
+
+1. Rellene el espacio en blanco: Nomenclatura _____ son directrices coherentes utilizadas para describir el contenido, la fecha o la versión de un archivo.
+   - [ ] descriptores
+   - [ ] referencias
+   - [x] convenciones
+   - [ ] atributos
+> Las Convenciones de nomenclatura son directrices que describen el contenido, la fecha o la versión de un archivo.
+
+2. ¿Cuáles son los objetivos clave del plegado en el Análisis de datos? Seleccione todos los que corresponda.
+   - [x] Organizar archivos en subcarpetas
+   - [ ] Asignar metadatos sobre las carpetas
+   - [ ] Transferir archivos de un lugar a otro
+   - [x] Mantenga juntos los archivos relacionados con el Proyecto
+> Los objetivos clave del plegado incluyen mantener juntos los archivos relacionados con el proyecto y organizarlos en subcarpetas.
+
+3. ¿Cuál es el proceso para estructurar las carpetas de forma general en la parte superior y luego desglosarlas en temas más específicos?
+   - [ ] Realización de una copia de seguridad
+   - [ ] Desarrollo de metadatos
+   - [ ] Asignación de convenciones de nomenclatura
+   - [x] Crear una jerarquía
+> El proceso de estructurar las carpetas a grandes rasgos en la parte superior, y luego desglosar esas carpetas en temas más específicos, es crear una jerarquía.
+
+4. ¿Cuál de los siguientes ejemplos sería el nombre de archivo más eficaz?
+   - [x] AirportCampaign_2013_10_09_V01
+   - [ ] CampaignData_03
+   - [ ] May30-2019_AirportAdCampaignResults_Terminals3-5_InclCustSurveyResponses_Ideas
+   - [ ] Datos_519
+> AirportCampaign_2013_10_09_V01 es un nombre de archivo eficaz porque tiene una longitud adecuada y hace referencia al nombre del proyecto, la fecha de creación y la versión.
