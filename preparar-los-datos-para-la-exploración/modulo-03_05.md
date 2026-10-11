@@ -803,3 +803,104 @@ Es útil como analista de datos poder utilizar datos de distintas fuentes porque
 Las tablas y conjuntos de datos personalizados de BigQuery pueden ser utilizados en futuros proyectos de análisis para almacenar y organizar datos específicos que se necesiten para el análisis. Esto permite realizar consultas SQL eficientes, combinar datos de diferentes fuentes y generar informes personalizados. Además, facilita la colaboración con otros analistas al proporcionar un acceso centralizado a los datos relevantes para el proyecto.
 > ¡Enhorabuena! En esta actividad, ha creado un nuevo conjunto de datos dentro de su proyecto, ha cargado un archivo .csv para crear una nueva tabla y ha ejecutado una consulta SQL. Una buena respuesta incluiría que ser capaz de evaluar y utilizar diferentes fuentes de datos le permite acceder a más datos.
 > Como analista de datos, es importante poder evaluar las fuentes de datos y utilizar la herramienta adecuada para analizarlas. Por ejemplo, usted fue capaz de utilizar SQL para analizar un conjunto de datos que anteriormente estaba almacenado en su computadora como un Archivo CSV.
+
+---
+
+## Actividad práctica: Elija la herramienta adecuada para el trabajo
+- Visión general de la actividad
+   - Como profesional del análisis de datos, parte de su trabajo consistirá en comprender qué herramientas son las adecuadas para el trabajo.
+   - Llegados a este punto, ya se ha familiarizado con las hojas de cálculo y SQL como herramientas potenciales para el análisis de datos.
+   - Esta actividad es una oportunidad para aplicar sus nuevos conocimientos sobre las herramientas de análisis de datos a escenarios de trabajo.
+   - Después de leer cada escenario, se le pedirá que elija si utilizaría una hoja de cálculo o SQL para trabajar con los datos y que explique por qué ha seleccionado esa herramienta.
+
+- Reflexionar sobre los escenarios
+   - Revise cada escenario y proporcione su respuesta reflexiva antes de pasar al siguiente punto del curso.
+
+1. Identificar los 10 principales productos de suministros para mascotas
+Usted es un analista de datos junior en una importante empresa online de artículos para mascotas. El departamento de desarrollo de productos le ha pedido que identifique los 10 productos con mayores ventas en el último mes para que puedan decidir qué tipos de productos desarrollar a continuación. Estos productos proceden de varias tablas de la base de datos de la empresa: una que contiene los detalles del producto y otra con los datos de ventas. 
+
+- Reflexión
+   - Considere si utilizaría una hoja de cálculo o SQL en el escenario anterior. 
+   - ¿Qué herramienta proporcionaría el resultado deseado?
+   - ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos? 
+   - ¿Cómo accederá a los Datos?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a estas preguntas. Identifique qué herramienta utilizaría y justifique su razonamiento.
+   
+- Respuesta
+
+- ¿Qué herramienta proporcionaría el resultado deseado?
+La herramienta que proporcionaría el resultado deseado sería SQL. Dado que los datos provienen de varias tablas en una base de datos.
+
+- ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos? 
+SQL es más adecuado para realizar consultas complejas y unir los datos necesarios para identificar los 10 productos con mayores ventas. Además, SQL puede manejar grandes volúmenes de datos de manera eficiente, lo que es crucial para este análisis.
+
+- ¿Cómo accederá a los Datos?
+Accederé a los datos a través de la base de datos de la empresa utilizando una interfaz de consulta SQL. Esto me permitirá escribir consultas para extraer, filtrar y ordenar los datos necesarios para identificar los productos más vendidos en el último mes.
+
+> En este caso, SQL es la mejor herramienta para el trabajo. Para evaluar los 10 productos más vendidos en el último mes, necesita poder acceder a los datos almacenados en la base de datos de la empresa, unir tablas fácilmente, filtrar por fecha y ordenar por volumen de ventas. SQL es una gran herramienta en situaciones en las que necesita poder interactuar con una base de datos o se encuentra trabajando con conjuntos de datos más grandes y complicados que son difíciles de explorar y transformar en una hoja de cálculo.
+
+2. Determinar la nueva ubicación de la tienda
+En este escenario, usted trabaja para una pequeña empresa de tecnología de fitness. Su gerente le ha pedido que determine qué ciudades tienen una gran población de clientes; esto les ayudará a decidir dónde construir la próxima tienda. Usted tiene un archivo .csv con 300 nombres, números de teléfono y direcciones. El gerente también le ha pedido una visualización rápida y sencilla, como un gráfico de barras, para que el equipo pueda hacer algunas comparaciones rápidas.
+
+- Reflexión
+   - Considere si utilizaría una hoja de cálculo o SQL en el escenario anterior. 
+   - ¿Qué herramienta proporcionaría el resultado deseado?
+   - ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos? 
+   - ¿Cómo accederá a los Datos?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a estas preguntas. Identifique qué herramienta utilizaría y justifique su razonamiento
+
+- Respuesta
+- ¿Qué herramienta proporcionaría el resultado deseado?
+La herramienta que proporcionaría el resultado deseado sería una hoja de cálculo. Dado que los datos están en un archivo .csv y el tamaño del conjunto de datos es relativamente pequeño (300 registros), una hoja de cálculo es suficiente para realizar análisis y visualizaciones rápidas.
+
+- ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos?
+La hoja de cálculo es adecuada para este escenario debido a la simplicidad y el tamaño manejable del conjunto de datos. Permite realizar análisis básicos, filtrar información y crear gráficos de manera rápida y eficiente sin necesidad de conocimientos avanzados en SQL.
+
+- ¿Cómo accederá a los Datos?
+Accederé a los datos importando el archivo .csv directamente en la hoja de cálculo. Esto me permitirá organizar la información, realizar análisis y generar visualizaciones como gráficos de barras para presentar los resultados al equipo de manera clara y comprensible.
+
+> La opción más adecuada es una hoja de cálculo, como Google Sheets o Excel. Con una hoja de cálculo, puede importar fácilmente el archivo .csv, utilizar tablas dinámicas o funciones de COUNTIF para contabilizar los clientes por ciudad y mostrar visualmente los datos mediante un gráfico de barras. En este caso, el conjunto de datos que necesita ya está almacenado en una hoja de cálculo y es lo suficientemente pequeño como para que no tenga que preocuparse de trasladarlo a otra herramienta. Las hojas de cálculo son estupendas para trabajar con conjuntos de datos más pequeños directamente en un archivo y generar visualizaciones sencillas para comunicar rápidamente los resultados de los datos a las partes interesadas. 
+
+3. Resultados de la encuesta sobre la satisfacción de los clientes
+El Equipo de marketing de un minorista de moda realizó una encuesta sobre la satisfacción de los clientes. Los resultados están en un Archivo CSV. El Equipo quiere calcular la puntuación media de satisfacción y compararla con la puntuación media de su última encuesta. También quieren segmentar las respuestas en función de datos demográficos como la edad, el sexo y la ubicación. Esta segmentación permitirá al Equipo de marketing adaptar sus estrategias de marketing para satisfacer las necesidades y preferencias específicas de los distintos grupos de clientes. 
+
+- Reflexión
+   - Considere si utilizaría una hoja de cálculo o una base de datos en el escenario anterior. 
+   - ¿Qué herramienta proporcionaría el resultado deseado?
+   - ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos? 
+   - ¿Cómo accederá a los Datos?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a estas preguntas. Identifique qué herramienta utilizaría y justifique su razonamiento
+
+- Respuesta
+- ¿Qué herramienta proporcionaría el resultado deseado?
+La herramienta que proporcionaría el resultado deseado sería SQL. Dado que se requiere calcular la puntuación media de satisfacción y segmentar las respuestas en función de varios datos demográficos, SQL es más adecuado para realizar estas operaciones de manera eficiente y precisa.
+
+- ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos?
+SQL es la herramienta adecuada debido a la complejidad del análisis requerido. Permite realizar cálculos agregados, filtrar y segmentar datos de manera efectiva, lo que es esencial para obtener insights significativos de los resultados de la encuesta y compararlos con encuestas anteriores.
+
+- ¿Cómo accederá a los Datos?
+Accederé a los datos importando el archivo CSV en una base de datos SQL. Esto me permitirá escribir consultas para calcular la puntuación media de satisfacción, segmentar los datos según los criterios demográficos y generar informes que faciliten la toma de decisiones estratégicas para el equipo de marketing.
+
+> La opción más adecuada es una hoja de cálculo. Una hoja de cálculo es una herramienta eficaz para esta tarea porque permite segmentar fácilmente los datos, calcular promedios e incluso hacer gráficos circulares para visualizar la distribución. Los Datos ya están alojados en un archivo .csv, por lo que se puede trabajar con ellos directa y fácilmente allí donde se encuentren. 
+
+4. Calcular las tasas de finalización de los cursos
+El gestor de una plataforma de educación en línea quiere saber qué cursos tienen las tasas de finalización más bajas para poder invertir en mejoras de los cursos y en un apoyo a los estudiantes más específico para esos cursos. Los datos se almacenan en una base de datos relacional con tablas separadas para el registro de usuarios, la inscripción en cursos y la finalización de cursos.
+
+- Reflexión
+   - Considere si utilizaría una hoja de cálculo o una base de datos en el escenario anterior. 
+   - ¿Qué herramienta proporcionaría el resultado deseado?
+   - ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos? 
+   - ¿Cómo accederá a los Datos?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a estas preguntas. Identifique qué herramienta utilizaría y justifique su razonamiento
+
+- Respuesta
+- ¿Qué herramienta proporcionaría el resultado deseado?
+La herramienta que proporcionaría el resultado deseado sería SQL. Dado que los datos se almacenan en una base de datos relacional con múltiples tablas, SQL es la herramienta adecuada para realizar consultas complejas y unir los datos necesarios para calcular las tasas de finalización de los cursos.
+
+- ¿Qué herramienta es la adecuada teniendo en cuenta el tamaño y la complejidad del conjunto de datos?
+SQL es la herramienta adecuada debido a la complejidad del análisis requerido. Permite realizar cálculos agregados, filtrar y segmentar datos de manera efectiva, lo que es esencial para obtener insights significativos sobre las tasas de finalización de los cursos y tomar decisiones informadas sobre mejoras y apoyo a los estudiantes.
+
+- ¿Cómo accederá a los Datos?
+Accederé a los datos a través de la base de datos relacional utilizando una interfaz de consulta SQL. Esto me permitirá escribir consultas para calcular las tasas de finalización de los cursos, unir las tablas relevantes y generar informes que faciliten la toma de decisiones estratégicas para mejorar la experiencia de aprendizaje en la plataforma.
+
+> La opción más adecuada es SQL. Utilizando SQL, puede unir estas tablas, calcular la tasa de finalización de cada curso y filtrar para encontrar los cursos con las tasas de finalización más bajas en la base de datos en la que ya están almacenados. SQL es una gran herramienta para trabajar directamente con bases de datos y consultar datos para encontrar las respuestas que necesita. 
