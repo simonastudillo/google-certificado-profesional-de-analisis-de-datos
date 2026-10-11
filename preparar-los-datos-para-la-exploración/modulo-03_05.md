@@ -335,3 +335,146 @@
 - ​Esto te ayudará a confirmar que has entendido en qué ​hemos trabajado en estos vídeos y, como siempre, ​si alguna vez tienes dudas sobre alguna pregunta, ​te animo a que revises ​los vídeos y las lecturas para encontrar la respuesta.
 - ​Ahora eres el detective de datos, así que usa esas habilidades.
 - ​Sigan con este gran trabajo y nos ​vemos después del desafío semanal.
+
+---
+
+## Actividad práctica: Introducción a BigQuery
+- Resumen de la actividad
+   - Recientemente ha conocido BigQuery, un almacén de datos en Google Cloud que los analistas de datos utilizan para consultar, filtrar grandes conjuntos de datos, agregar resultados y realizar operaciones complejas.
+   - En esta actividad, explorará la Interfaz de BigQuery; cargará datos públicos en su consola; y escribirá algunas consultas SQL sencillas utilizando SELECT, FROM, y WHERE. 
+   - Cuando complete esta actividad, estará más familiarizado con la escritura de consultas en la interfaz de BigQuery.
+   - Esto le permitirá practicar SQL, que es importante para trabajar con bases de datos en su carrera como analista de datos.
+
+- Instrucciones paso a paso
+
+1. Obtenga una cuenta BigQuery
+   - Para esta actividad, necesitará una cuenta BigQuery.
+   - Si aún no la tienes, sigue las instrucciones de la lectura Uso de BigQuery.
+   - Una vez que tengas tu cuenta, ¡empieza a explorar!
+
+2. Abra su consola BigQuery
+   - Inicie sesión en [BigQuery](https://cloud.google.com/bigquery).
+   - Seleccione el botón Ir a la consola en la página principal de BigQuery. Esto abrirá una nueva pestaña con su consola. 
+   - Tómese un momento para explorar su consola.
+      - El menú Explorador incluye una barra de búsqueda que puede utilizar para encontrar recursos, proyectos anclados y el botón + AÑADIR para añadir datos.
+      - En la página de bienvenida del Editor podrá navegar hasta un editor de consultas, probar datos de muestra, añadir archivos de datos locales, añadir almacenamiento en la nube de Google o añadir otras conexiones externas.
+      - También puede encontrar aquí su historial de trabajos, historial de consultas y consultas guardadas.
+
+3. Acceso a los datos públicos en BigQuery
+   - Para empezar a escribir consultas, necesitará algunos datos con los que trabajar.
+   - Una vez que se haya familiarizado con la interfaz de BigQuery, podrá acceder a un conjunto de datos públicos directamente desde su consola. 
+      - Seleccione la barra de búsqueda en el panel Explorador.
+      - Introduzca "london bicycle" en el cuadro de búsqueda y pulse Intro; esto le devolverá la base de datos london_bicycles de la Autoridad del Gran Londres.
+      - Seleccione la Base de datos para obtener más detalles.
+      - Si no la encuentra, asegúrese de que está buscando en todos los proyectos.
+      - La base de datos london_bicycles se encuentra en el proyecto bigquery-public-data.
+      - Seleccione la flecha situada a la izquierda del nombre de la base de datos london_bicycles.
+      - Esto amplía el conjunto de datos para revelar dos nombres de tabla: cycle_hire y cycle_stations.
+      - Seleccione el nombre de la tabla cycle_hire en el panel del Explorador .
+      - Esto arrastrará el esquema cycle_hire a la consola.
+      - Tómese un momento para explorar los nombres de los campos y la información asociada.
+      - Ahora, seleccione la pestaña VISTA PREVIA para encontrar una muestra de los datos con los que va a trabajar.
+      - Una vez que haya terminado de previsualizar los datos, ¡escriba una consulta!
+
+4. Revisar las partes básicas de una consulta
+   - Hasta ahora, ha aprendido tres partes básicas de una consulta: SELECT, FROM, y WHERE. A modo de repaso: 
+      - SELECT es la sección de una consulta que indica qué datos desea que SQL le devuelva.
+      - FROM es la sección de una consulta que indica de qué tabla proceden los datos deseados. Debe proporcionar una ruta completa a la tabla. La ruta incluye el nombre del proyecto, el nombre de la base de datos y el nombre de la tabla, cada uno separado por un punto.
+      - WHERE es la sección de una consulta que indica cualquier filtro que desee aplicar a la tabla.
+
+5. Redactar una consulta básica
+   - Ahora, ¡construya un comando sencillo utilizando las partes básicas de una consulta que ya ha aprendido!
+   - Por ejemplo, puede seleccionar una columna específica de la tabla cycle_hire, como la columna end_station_name.  
+      1. Seleccione el botón azul + o CONSULTA - En nueva pestaña para comenzar una nueva consulta.
+      2. Comience su consulta con una cláusula SELECT, e indique qué columna desea seleccionar de la tabla; en este caso, introducirá end_station_name. 
+      3. Después de indicar qué columna está seleccionando, escriba su cláusula FROM. Especifique la tabla desde la que realiza la consulta introduciendo la siguiente ubicación: `bigquery-public-data.london_bicycles.cycle_hire`; 
+         - La consulta completada debería aparecer así:
+         ```sql
+         SELECT 
+            end_station_name 
+         FROM 
+            `bigquery-public-data.london_bicycles.cycle_hire`;
+         ```
+      4. Ejecute su consulta completada seleccionando el botón azul EJECUTAR . 
+         - Esta consulta puede tardar unos segundos en ejecutarse.
+         - Una vez finalizada, encontrará la Lista de nombres de estaciones que solicitó en el panel de la consola Resultados de la consulta. 
+
+6. Redactar una consulta para responder a una pregunta
+   - Después de ejecutar la primera consulta básica, intente responder a una pregunta específica sobre los datos.
+   - Por ejemplo, ¿cuántos viajes en bicicleta duraron 20 minutos o más?
+      1. Seleccione el botón azul + o CONSULTA - En nueva pestaña para iniciar una nueva consulta. Comience de nuevo con su consulta SELECT. Esta vez, incluya las dos columnas duration  y start_station_name en la consulta. Los datos de estas columnas indicarán dónde comenzó el viaje y la duración del mismo. Asegúrese de separar cada nombre de columna con una coma.
+      2. A continuación, añada la sentencia FROM  . Utilizará la misma tabla que en la consulta anterior: FROM `bigquery-public-data.london_bicycles.cycle_hire`;. Nota: Los puntos suspensivos alrededor de la tabla en esta línea de código son opcionales.
+      3. Por último, añada una sentencia WHERE  para especificar que sólo desea filtrar los trayectos en bicicleta de 20 minutos o más. Si compruebas la vista previa de estos datos, te darás cuenta de que duration  se registra en segundos, por lo que especificarás 1200 segundos en tu consulta. Escríbelo como WHERE duration >= 1200;
+         - Tu consulta completada debería escribirse así:
+         ```sql
+         SELECT 
+            duration,
+            start_station_name
+         FROM 
+            `bigquery-public-data.london_bicycles.cycle_hire` 
+         WHERE 
+            duration >= 1200;
+         ```
+      4. Ejecute su consulta completa haciendo clic en el botón EJECUTAR .
+   - Esta consulta puede tardar unos segundos en ejecutarse.
+   - Una vez finalizada, encontrará una Lista de trayectos de esta tabla que se ajustan a sus criterios.
+   - Hay millones de filas con trayectos en bicicleta de 20 minutos o más
+
+7. ¿Le apatece un reto?
+   - Si se siente cómodo utilizando consultas para responder a preguntas, pruebe a crear y ejecutar consultas para completar las tareas que se indican a continuación: 
+      - ¿Cuál es el nombre de la estación cuyo start_station_id es 111?
+      ```sql
+      SELECT
+         start_station_name
+      FROM `bigquery-public-data.london_bicycles.cycle_hire` 
+      WHERE start_station_id = 111;
+      ```
+         - Park Lane , Hyde Park
+      - Devuelva todos los rental_ids, ID de estación y nombres de estación de los que bike_id 1710 partió.
+      ```sql
+      SELECT
+         rental_id,
+         start_station_id,
+         start_station_name,
+         end_station_id,
+         end_station_name
+      FROM `bigquery-public-data.london_bicycles.cycle_hire` 
+      WHERE bike_id = 1710
+      ```
+      - ¿Cuál es el bike_model de bike_id 58782?
+      ```sql
+      SELECT
+         bike_model
+      FROM `bigquery-public-data.london_bicycles.cycle_hire` 
+      WHERE bike_id = 58782
+      ```
+         - CLASSIC
+
+1. Reflexión
+   - Realice otra consulta en su tabla:
+   ```sql
+   SELECT
+      end_station_name
+   FROM
+      `bigquery-public-data.london_bicycles.cycle_hire` 
+   WHERE
+      rental_id = 57635395;
+   ```
+   - ¿En qué estación terminó el viaje en bicicleta con rental_id 57635395?
+      - [ ] Villa Este, Parque Olímpico Reina Isabel
+      - [ ] Calle Southwark, Bankside
+      - [ ] Tower Gardens, Torre
+      - [ ] Estación Notting Hill Gate, Notting Hill
+   > La dirección que figuraba en la columna end_station_name de la fila 1 de su tabla de resultados era East Village, Queen Elizabeth Olympic Park. Para averiguarlo, ha ejecutado correctamente una consulta. En adelante, seguirá utilizando las sentencias SELECT, FROM y WHERE en sus consultas para interactuar con las bases de datos mediante SQL. Esto le ayudará a construir consultas SQL más complicadas cuando analice datos en el futuro.
+
+2. En esta actividad, ha tenido la oportunidad de familiarizarse con BigQuery y con la escritura de consultas SQL. En el cuadro de texto que aparece a continuación, escriba de 2 a 3 frases (de 40 a 60 palabras) en respuesta a cada una de las siguientes preguntas:
+   - ¿Cómo cree que puede utilizar los conjuntos de datos públicos en BigQuery para desarrollar sus habilidades de análisis de datos?
+   - ¿Cómo cree que la comprensión de la sintaxis básica de las consultas le ayudará a escribir consultas más complejas en el futuro?
+
+- Respuestas
+- ¿Cómo cree que puede utilizar los conjuntos de datos públicos en BigQuery para desarrollar sus habilidades de análisis de datos?
+Los conjuntos de datos públicos en BigQuery ofrecen una gran oportunidad para practicar y mejorar mis habilidades de análisis de datos. Puedo explorar diferentes tipos de datos, realizar consultas SQL y analizar resultados sin necesidad de crear mis propios conjuntos de datos. Esto me permite aprender a manejar grandes volúmenes de información y a aplicar técnicas de análisis en un entorno realista.
+- ¿Cómo cree que la comprensión de la sintaxis básica de las consultas le ayudará a escribir consultas más complejas en el futuro?
+Comprender la sintaxis básica de las consultas me proporciona una base sólida para escribir consultas más complejas en el futuro. Al dominar SELECT, FROM y WHERE, puedo construir consultas más avanzadas utilizando funciones agregadas, subconsultas y uniones. Esto me permitirá extraer información más específica y realizar análisis más profundos a medida que mis proyectos de datos se vuelvan más sofisticados.
+
+> ¡Enhorabuena por haber completado esta actividad práctica! Ha explorado BigQuery, ha cargado datos públicos en su consola y ha construido algunas consultas. Una respuesta eficaz sería señalar que los conjuntos de datos públicos de BigQuery le ayudan a practicar la escritura de SQL. En las próximas actividades, seguirá explorando el trabajo con bases de datos y la escritura de consultas con SQL, una herramienta esencial en la caja de herramientas de todo analista de datos. 
