@@ -146,3 +146,135 @@
 - Y ​su ruta de acceso al éxito continúa.
 - En el ​siguiente paso, obtendrá más información sobre cómo alinear los datos con los objetivos.
 - ¡Sigan así! 
+
+---
+
+## Objetivos y Datos bien alineados
+- Cuando los datos están bien alineados con los objetivos de la empresa, se puede obtener información muy valiosa y llegar a conclusiones precisas.
+- COMO ANALISTA DE DATOS, la alineación es algo que tendrá que juzgar.
+- Una buena alineación significa que los datos son relevantes y pueden ayudarle a resolver un problema empresarial o a determinar un curso de acción para alcanzar un objetivo empresarial determinado. 
+- En esta lectura, revisará los objetivos empresariales asociados a tres escenarios.
+- Explorará cómo unos datos limpios y unos objetivos empresariales bien alineados pueden ayudarle a llegar a conclusiones precisas.
+- Además, aprenderá cómo las nuevas variables descubiertas durante el análisis de datos pueden hacer que establezca limitaciones de datos para que pueda mantener los datos alineados con un objetivo empresarial.
+
+- Datos limpios + alineación con el objetivo empresarial = conclusiones precisas
+   - Objetivo empresarial
+      - Los gestores de cuentas de Impress Me, un servicio de suscripción a contenidos en línea, quieren saber cuánto tardan los usuarios en ver los contenidos una vez activadas sus suscripciones.
+      - Para empezar, el analista de datos comprueba que los datos exportados a hojas de cálculo están limpios y confirma que los datos necesarios (cuándo acceden los usuarios al contenido) están disponibles.
+      - Sabiendo esto, el analista decide que hay una buena alineación de los datos con el objetivo empresarial.
+      - Lo único que falta es averiguar exactamente cuánto tarda cada usuario en ver el contenido una vez activada su suscripción.
+      - Estos son los pasos de procesamiento de datos que sigue el analista para un usuario de una cuenta llamada V&L Consulting.
+      - (Estos pasos se repetirían para cada cuenta suscriptora, y para cada usuario asociado a esa cuenta)
+   - Paso 1
+   
+| Paso de procesamiento de datos | Fuente de datos |
+| ------------------------------ | --------------- |
+| Buscar la fecha de activación de V&L Consulting | Hoja de cálculo de la cuenta |
+
+   - Datos relevantes en la hoja de cálculo:
+      - Resultado: 21 de octubre de 2019
+
+| Account Name | Activation Date |
+| ------------ | --------------- |
+| V&L Consulting | 10/21/2019    |
+| Berg Associates | 11/29/2019   |
+| Up Advertising  | 03/30/2020   |
+
+   - Paso 2
+
+| Etapa de tratamiento de datos | Fuente de datos |
+| ----------------------------- | --------------- |
+| Buscar el nombre de usuario perteneciente a la cuenta V&L Consulting | Hoja de cálculo de la cuenta (pestaña usuarios) |
+
+   - Datos relevantes en la hoja de cálculo:
+      - Maria Ballantyne
+
+| Account Name   | Users            |
+| -------------- | ---------------- |
+| V&L Consulting | Maria Ballantyne |
+| V&L Consulting | Carol Sander     |
+| V&L Consulting | Sam Rubio        |
+
+   - Paso 3
+
+| Paso de procesamiento de datos | Fuente de datos |
+| ----------------------------- | --------------- |
+| Encontrar la primera fecha de acceso a los contenidos de Maria B. | Hoja de cálculo de uso de contenidos |
+
+   - Datos relevantes en la hoja de cálculo:
+      - 31 de octubre de 2019
+
+| Users | Access Dates |
+| ----- | ------------ |
+| Maria Bellantyne | 10/31/2019 |
+|                  | 11/1/2019  |
+|                  | 11/5/2019  |
+
+   - Paso 4
+   
+| Etapa de tratamiento de datos | Fuente de datos |
+| ----------------------------- | --------------- |
+| Calcular el tiempo transcurrido entre la activación y el primer uso de contenidos para María B. | Nuevo cálculo en hoja de cálculo |
+
+   - Datos relevantes en la hoja de cálculo:
+      - 10 días
+
+| Account | Users | Activation Date | First Access Date | Number of Days |
+| ------- | ----- | --------------- | ----------------- | -------------- |
+| V&L Consulting | Maria Ballantyne | 10/21/2019 | 10/31/2019 | 10 |
+
+   - Consejo profesional 1
+      - En el proceso anterior, el analista podría utilizar VLOOKUP para buscar los datos en los pasos 1, 2 y 3 para rellenar los valores de la hoja de cálculo en el paso 4.
+      - [VLOOKUP](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1) es una función de hoja de cálculo que busca un determinado valor en una columna para devolver una información relacionada.
+      - El uso de VLOOKUP puede ahorrar mucho tiempo; sin él, hay que buscar fechas y nombres manualmente.
+   
+   - Consejo profesional 2
+      - En el paso 4 del proceso anterior, el analista podría utilizar la función DATEDIF para calcular automáticamente la diferencia entre las fechas de la columna C y la columna D.
+      - La función puede calcular el número de días entre dos fechas.
+      - Consulte la página [DATEDIF](https://support.microsoft.com/en-us/office/datedif-function-25dba1a4-2812-480b-84dd-8b32a451b35c) de Microsoft Support para saber cómo utilizar la función en Excel.
+      - La función [DAYS360](https://support.microsoft.com/en-us/office/days360-function-b9a509fd-49ef-407e-94df-0cbda5718c2a) hace lo mismo en hojas de cálculo contables que utilizan un año de 360 días (doce meses de 30 días).
+      - Consulta la página [DATEDIF](https://support.google.com/docs/answer/6055612?hl=en) del Centro de asistencia de Google para saber cómo utilizar la función en Google Sheets.
+
+- Alineación con el objetivo empresarial + depuración adicional de datos = conclusiones precisas
+   - Objetivo empresarial
+      - Cloud Gate, una empresa de software, organizó recientemente una serie de seminarios web públicos como presentación gratuita de sus productos.
+      - El Analista de datos y el Gerente del programa de seminarios web quieren identificar a las empresas en las que cinco o más personas asistieron a estas sesiones.
+      - Quieren dar esta lista de empresas a los directores de ventas para que puedan hacer un seguimiento de las ventas potenciales.
+      - Los datos de asistencia al seminario web incluyen los campos y datos que se muestran a continuación.
+
+| Nombre       | <Nombre><Apellido>       | Esta información era obligatoria para los asistentes |
+| ------------ | ------------------------ | ---------------------------------------------------- |
+| Dirección de correo electrónico | xxxxx@company.com | Esta era la información obligatoria que los asistentes debían enviar |
+| Empresa                         | <Nombre de laempresa> | Esta era la información opcional que los asistentes podían proporcionar |
+
+   - Limpieza de datos
+      - Los datos de asistencia al seminario web parecen ajustarse al objetivo empresarial.
+      - Pero el Analista de datos y el Gerente del programa deciden que es necesario limpiar los datos antes del análisis.
+      - Creen que la limpieza de datos es necesaria porque:
+         - El nombre de la empresa no era un campo obligatorio.
+            - Si el nombre de la empresa está en blanco, podría encontrarse a partir de la dirección de correo electrónico.
+            - Por ejemplo, si la dirección de correo electrónico es username@google.com, el campo de la empresa podría rellenarse con Google para el análisis de datos.
+            - Este paso de limpieza de datos supone que las personas con direcciones de correo electrónico asignadas por la empresa asistieron a un seminario web por motivos profesionales.
+         - Los asistentes podían introducir cualquier nombre.
+            - Dado que se está analizando la asistencia a una serie de seminarios web, es necesario validar los nombres con direcciones de correo electrónico únicas.
+            - Por ejemplo, si Joe Cox asistiera a dos seminarios pero se registrara como Joe Cox en uno y como Joseph Cox en el otro, se contaría como dos personas diferentes.
+            - Para evitarlo, es necesario comprobar su dirección de correo electrónico única para determinar que se trata de la misma persona.
+            - Tras la validación, Joseph Cox podría cambiarse por Joe Cox para coincidir con la otra instancia.
+
+- Alineación con el objetivo empresarial + variables recién descubiertas + restricciones = conclusiones precisas
+   - Objetivo empresarial
+      - Una empresa de clases particulares extraescolares, A+ Education, quiere saber si hay un número mínimo de horas de clase necesarias para que los alumnos mejoren al menos un 10% sus calificaciones. 
+      - El analista de datos considera que existe una buena concordancia entre los datos disponibles y el objetivo empresarial porque:
+         - Los estudiantes entran y salen del sistema para cada sesión de tutoría y se registra el número de horas
+         - Los resultados de las evaluaciones se registran regularmente.
+      - Limitaciones de datos para nuevas variables
+            - Tras examinar los datos, el Analista de datos descubre que hay otras variables a tener en cuenta.
+            - Algunos alumnos tenían sesiones semanales constantes, mientras que otros tenían sesiones programadas de forma más aleatoria, aunque su número total de horas de tutoría fuera el mismo.
+            - Los datos no se alinean tan bien con el objetivo empresarial original como se pensó en un principio, por lo que el analista añade una restricción de datos para centrarse sólo en los alumnos con sesiones semanales constantes.
+            - Esta modificación ayuda a obtener una imagen más precisa sobre el tiempo de matriculación necesario para lograr una mejora del 10% en las puntuaciones de las evaluaciones.
+
+- Puntos clave
+   - Esperamos que estos ejemplos le den una idea de lo que debe buscar para saber si sus datos se alinean con su objetivo de negocio.
+   - Cuando hay datos limpios y una buena alineación, puede obtener información precisa y llegar a conclusiones que los datos respaldan.
+   - Si la alineación es buena, pero los datos necesitan ser depurados, depure los datos antes de realizar el análisis.
+   - Si los datos sólo se ajustan parcialmente a un objetivo, piense en cómo podría modificar el objetivo, o utilice limitaciones de datos para asegurarse de que el subconjunto de datos se ajusta mejor al objetivo empresarial.
