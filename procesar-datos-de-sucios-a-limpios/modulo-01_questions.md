@@ -11,3 +11,10 @@
    - [x] 0.8 (80%)
    - [ ] 0.5 (50%)
 > Una potencia estadística del 0,8 o del 80% suele considerarse el mínimo para la significación estadística.
+
+- Rellene el espacio en blanco: Al calcular el tamaño de la muestra con una calculadora en línea, es necesario introducir la dirección _____. Seleccione todo lo que corresponda.
+   - [x] tamaño de la Población 
+   - [ ] poder estadístico
+   - [x] nivel de confianza 
+   - [x] margen de error
+> Para calcular el tamaño de la muestra utilizando una calculadora en línea, es necesario introducir el Nivel de confianza, el Margen de error y el tamaño de la población. 
