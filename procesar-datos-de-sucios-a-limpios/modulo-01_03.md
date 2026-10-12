@@ -242,3 +242,35 @@ Si no se siguen los pasos previos a la limpieza de datos, podrían surgir proble
 > ¡Gran trabajo reforzando su aprendizaje con una autorreflexión reflexiva! Una buena reflexión sobre este tema incluiría cómo las actividades de limpieza previa son importantes porque aumentan la eficacia y el éxito de sus tareas de análisis de datos.
 > Si sabe que sus datos son precisos, coherentes y completos, puede confiar en que sus resultados serán válidos. Las partes Interesadas estarán satisfechas si usted conecta los Datos con los objetivos del negocio. Y, saber cuándo dejar de recopilar datos le permitirá terminar sus tareas a tiempo sin sacrificar la integridad de los datos.
 > Supongamos que no ha determinado la integridad de los datos. Puede encontrarse con que está trabajando con datos inexactos o que faltan, lo que puede provocar resultados engañosos en sus análisis. Si no relaciona los objetivos con los datos, es posible que su análisis no sea relevante para las partes interesadas. Por último, no saber cuándo dejar de recopilar datos puede provocar retrasos innecesarios en la finalización de las tareas. Si completa las actividades previas a la limpieza, evitará estos problemas.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre Datos Insuficientes
+
+1. ¿Cuáles son algunas de las estrategias que pueden utilizar los profesionales de los datos cuando no disponen de datos suficientes para cumplir un objetivo empresarial? Seleccione todas las que correspondan.
+   - [x] Localice otro Conjunto de datos relevante con el que trabajar. 
+   - [x] Utilizar datos a menor escala hasta que puedan encontrar datos más completos. 
+   - [ ] Utilizar datos hipotéticos que se alineen con sus propias predicciones.
+   - [x] Considere si es posible ajustar el objetivo. 
+> Cuando los profesionales de los datos no disponen de datos suficientes, podrían optar por utilizar datos a menor escala hasta que puedan encontrar datos más completos o localizar otro conjunto de datos relevante con el que trabajar. También podrían plantearse si es posible ajustar el objetivo. 
+
+2. ¿Cuáles de las siguientes son limitaciones que podrían dar lugar a datos insuficientes? Seleccione todas las que correspondan.
+   - [ ] Datos duplicados
+   - [x] Datos que se actualizan continuamente
+   - [x] Datos de una sola fuente 
+   - [x] Datos desactualizados
+> Entre las limitaciones que pueden dar lugar a datos insuficientes se encuentran los datos que se actualizan continuamente, los datos obsoletos y los datos procedentes de una única fuente.
+
+3. Un analista de datos quiere averiguar cuántos alumnos de secundaria de Helsinki tienen ordenadores portátiles. Es poco probable que puedan encuestar a todos los alumnos de secundaria de la ciudad. En su lugar, encuestan a un número suficiente de estudiantes para representar a todos los estudiantes de secundaria. ¿Esto describe qué concepto de Analítica de datos?
+   - [x] Utilización de una Muestra 
+   - [ ] Nivel de confianza
+   - [ ] Margen de error
+   - [ ] Significación estadística
+> Describe el uso de una muestra, que es un segmento de una población representativo de toda la población.
+
+4. Rellene el espacio en blanco: Muestreo _____ se produce cuando algunos miembros de una población están sobrerrepresentados o infrarrepresentados en los datos.
+   - [ ] integridad
+   - [ ] duplicación
+   - [ ] aleatorización
+   - [x] sesgo
+> El sesgo del muestreo se produce cuando algunos miembros de una población están sobrerrepresentados o infrarrepresentados en los datos.
