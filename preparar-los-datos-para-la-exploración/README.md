@@ -15,21 +15,103 @@
    - Aprenda las mejores prácticas para organizar los datos y mantenerlos seguros.
 
 ## Módulos
+
 - Módulo 1: Tipos y estructuras de los datos
+   - [Exploración de datos](./modulo-01_01.md)
+   - [Recopilar datos](./modulo-01_02.md)
+   - [Diferenciar formatos y estructuras de datos](./modulo-01_03.md)
+   - [Explorar tipos de datos, campos y valores](./modulo-01_04.md)
+   - [Desafío del módulo 1](./modulo-01_05.md)
+   - [Preguntas de repaso del módulo 1](./modulo-01_questions.md)
 - Módulo 2: Responsabilidad de los datos
+   - [Datos imparciales y objetivos](./modulo-02_01.md)
+   - [Lograr la credibilidad de los Datos](./modulo-02_02.md)
+   - [Ética de los datos y privacidad](./modulo-02_03.md)
+   - [Comprender los datos abiertos](./modulo-02_04.md)
+   - [Desafío del módulo 2](./modulo-02_05.md)
+   - [Preguntas de repaso del módulo 2](./modulo-02_questions.md)
 - Módulo 3: Fundamentos de las bases de datos
-- Módulo 4: Organice y proteja los Datos
+   - [Trabajar con bases de datos](./modulo-03_01.md)
+   - [Gestionar datos con metadatos](./modulo-03_02.md)
+   - [Acceso a diferentes fuentes de Datos](./modulo-03_03.md)
+   - [Ordenación y filtrado de datos](./modulo-03_04.md)
+   - [Grandes conjuntos de datos en SQL](./modulo-03_05.md)
+   - [Desafío del módulo 3](./modulo-03_06.md)
+   - [Preguntas de repaso del módulo 3](./modulo-03_questions.md)
+- Módulo 4: Organice y proteja los datos
+   - [Ordenar los datos](./modulo-04_01.md)
+   - [Datos seguros](./modulo-04_02.md)
+   - [Desafío del módulo 4](./modulo-04_03.md)
 - Módulo 5: Comprometerse con la comunidad de datos
+   - [Construir una red de Analítica de datos](./modulo-05_01.md)
+   - [Conclusión del curso](./modulo-05_02.md)
 
 ## Habilidades y conceptos a aprender
 
-Los temas reflejan el contenido de este curso y su nivel introductorio. Los equivalentes en inglés facilitan la búsqueda de habilidades en LinkedIn y de recursos para profundizar.
+Los temas reflejan el contenido de este curso y su nivel introductorio. Los equivalentes en inglés facilitan la búsqueda de habilidades en LinkedIn y de recursos para profundizar. Cada elemento indica los módulos donde se aborda; las listas describen aprendizajes y no acreditan dominio profesional.
 
 ### Habilidades técnicas (hard skills)
 
+- **Preparación de datos (Data Preparation):** seleccionar datos adecuados para la pregunta de negocio y revisar su estructura y disponibilidad. Módulos 1 y 3.
+- **Recopilación de datos (Data Collection):** reconocer métodos de obtención mediante encuestas, entrevistas y observación. Módulo 1.
+- **Evaluación de calidad de datos (Data Quality Assessment):** comprobar pertinencia, suficiencia, exactitud y credibilidad de las fuentes con criterios ROCCC. Módulos 2 y 3.
+- **Detección de sesgos en datos (Data Bias Assessment):** identificar problemas de representatividad y sesgos que afectan las conclusiones. Módulo 2.
+- **Modelado de datos (Data Modeling):** interpretar modelos conceptuales, lógicos y físicos y técnicas de representación de datos. Módulo 1.
+- **Transformación de datos (Data Transformation):** comprender la reorganización de conjuntos entre formatos ancho y largo. Módulo 1.
+- **Microsoft Excel:** explorar datos tabulares y utilizar funciones básicas de organización y protección. Módulos 1, 3 y 4.
+- **Google Sheets:** importar datos y trabajar con rangos, ordenación, filtros y permisos de colaboración. Módulos 1, 3 y 4.
+- **Importación de datos (Data Import):** cargar archivos CSV en hojas de cálculo y tablas de BigQuery. Módulo 3.
+- **Importación dinámica en Google Sheets:** utilizar `IMPORTRANGE`, `IMPORTHTML` e `IMPORTDATA` para traer rangos, tablas web y archivos delimitados. Módulo 3.
+- **Ordenación y filtrado de datos (Data Sorting and Filtering):** organizar registros y aislar información relevante en hojas de cálculo. Módulo 3.
+- **SQL:** escribir consultas básicas con `SELECT`, `FROM` y `WHERE`, aplicando criterios de selección y buenas prácticas de legibilidad. Módulo 3.
+- **Google BigQuery:** explorar conjuntos públicos, ejecutar consultas y crear tablas a partir de archivos propios. Módulo 3.
+- **Gestión de metadatos (Metadata Management):** interpretar y documentar el contexto, la estructura y la procedencia de los datos. Módulo 3.
+- **Organización de archivos (File Management):** aplicar jerarquías de carpetas, convenciones de nombres y archivo de versiones antiguas. Módulo 4.
+- **Control de acceso (Access Control):** gestionar permisos de lectura y edición y proteger hojas de cálculo. Módulo 4.
+- **Control de versiones (Version Control):** registrar cambios y recuperar o fijar versiones de notebooks en Kaggle. Módulo 4.
+- **Kaggle:** explorar datasets y notebooks, compartir proyectos y construir un portafolio de análisis de datos. Módulos 1, 2 y 5.
+
 ### Conceptos clave
 
+- **Datos estructurados y no estructurados (Structured and Unstructured Data):** diferencias de organización y sus implicaciones para el análisis. Módulo 1.
+- **Datos cualitativos y cuantitativos (Qualitative and Quantitative Data):** información descriptiva frente a mediciones o recuentos numéricos. Módulo 1.
+- **Datos discretos y continuos (Discrete and Continuous Data):** valores contables frente a magnitudes medibles. Módulo 1.
+- **Escalas nominales y ordinales (Nominal and Ordinal Scales):** categorías sin orden frente a categorías ordenadas. Módulo 1.
+- **Tipos de datos (Data Types):** valores numéricos, texto y booleanos y su interpretación en herramientas de análisis. Módulo 1.
+- **Lógica booleana (Boolean Logic):** condiciones y operadores `AND`, `OR` y `NOT`. Módulo 1.
+- **Formatos ancho y largo (Wide and Long Data):** distribución de observaciones y variables entre filas y columnas. Módulo 1.
+- **Procedencia de datos (Data Provenance):** fuentes internas y externas y datos de primera, segunda y tercera parte. Módulos 1 y 3.
+- **Población y muestra (Population and Sample):** alcance del estudio y representatividad del subconjunto observado. Módulos 1 y 2.
+- **Sesgos en datos (Data Bias):** sesgos de muestreo, observación, interpretación y confirmación. Módulo 2.
+- **Credibilidad de fuentes y criterios ROCCC:** datos fiables, originales, completos, actuales y citados. Módulo 2.
+- **Ética de datos (Data Ethics):** propiedad, transparencia de las transacciones, consentimiento, uso económico, privacidad y apertura. Módulo 2.
+- **Privacidad de datos (Data Privacy):** uso responsable de información personal y límites a su recopilación y difusión. Módulo 2.
+- **Anonimización de datos (Data Anonymization):** eliminación u ocultación de información que identifica a personas. Módulo 2.
+- **Datos abiertos e interoperabilidad (Open Data and Data Interoperability):** acceso, reutilización y combinación de datos bajo condiciones abiertas. Módulo 2.
+- **Bases de datos relacionales (Relational Databases):** tablas, registros, campos, esquemas y relaciones entre entidades. Módulo 3.
+- **Claves primarias y foráneas (Primary and Foreign Keys):** identificación única de registros y conexión entre tablas. Módulo 3.
+- **Normalización de bases de datos (Database Normalization):** organización de tablas para reducir redundancia y mejorar integridad. Módulo 3.
+- **Metadatos y gobernanza de datos (Metadata and Data Governance):** metadatos descriptivos, estructurales y administrativos y gestión formal de activos de datos. Módulo 3.
+- **Seguridad de datos (Data Security):** protección frente a acceso no autorizado mediante permisos, contraseñas y cifrado. Módulo 4.
+
 ### Habilidades transferibles (soft skills)
+
+- **Pensamiento analítico (Analytical Thinking):** relacionar necesidades de negocio con los datos disponibles. Módulos 1 y 3.
+- **Pensamiento crítico (Critical Thinking):** cuestionar fuentes, supuestos e interpretaciones antes de aceptar conclusiones. Módulos 2 y 3.
+- **Resolución de problemas (Problem Solving):** detectar información faltante y considerar fuentes o herramientas alternativas. Módulos 1 y 3.
+- **Toma de decisiones basada en datos (Data-Driven Decision Making):** fundamentar decisiones en información pertinente y fiable. Módulos 1 y 3.
+- **Atención al detalle (Attention to Detail):** revisar tipos, campos, consultas y nombres de archivos para evitar errores. Módulos 1, 3 y 4.
+- **Comunicación efectiva (Communication):** explicar necesidades de información, limitaciones y aprendizajes a otras personas. Módulos 3 y 5.
+- **Narrativa con datos (Data Storytelling):** conectar información y contexto para comunicar hallazgos de forma comprensible. Módulo 1.
+- **Colaboración (Collaboration):** coordinar estándares de organización, permisos y versiones con el equipo. Módulo 4.
+- **Organización (Organizational Skills):** estructurar recursos y documentación para facilitar su localización y reutilización. Módulo 4.
+- **Gestión del tiempo (Time Management):** planificar el estudio y mantener hábitos de práctica. Módulo 1.
+- **Juicio ético (Ethical Judgment):** evaluar el uso de datos considerando privacidad, consentimiento y equidad. Módulo 2.
+- **Creatividad (Creativity):** explorar perspectivas alternativas y construir narrativas a partir de datos. Módulo 1.
+- **Aprendizaje continuo (Continuous Learning):** profundizar mediante práctica, recursos y comunidades profesionales. Módulos 1 y 5.
+- **Networking profesional (Professional Networking):** establecer y mantener relaciones en comunidades y encuentros de analítica. Módulo 5.
+- **Marca personal (Personal Branding):** comunicar proyectos y logros mediante perfiles profesionales y un portafolio. Módulo 5.
+- **Autorreflexión (Self-Reflection):** evaluar el propio progreso y utilizar orientación de mentores para definir objetivos profesionales. Módulos 4 y 5.
 
 ## Glosario
 - `Access control`: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet
@@ -296,3 +378,23 @@ Los temas reflejan el contenido de este curso y su nivel introductorio. Los equi
 - [Women in Analytics. (s.f.). About us.](https://www.womeninanalytics.com/about)
 
 ## Resumen de módulos
+
+### Módulo 1: Tipos y estructuras de los datos
+
+La preparación comienza con la pregunta de negocio: esta define qué información recopilar, de qué fuentes y con qué cobertura temporal. Se distinguen fuentes internas y externas, datos de primera, segunda y tercera parte y el uso de muestras cuando no es viable estudiar toda la población. El módulo permite reconocer datos estructurados y no estructurados, cualitativos y cuantitativos, discretos y continuos y categorías nominales y ordinales. También introduce los modelos conceptuales, lógicos y físicos, los componentes de una tabla, los tipos numéricos, de texto y booleanos y la lógica booleana. Comprender los formatos ancho y largo ayuda a elegir una estructura adecuada para cada análisis; la exploración de notebooks y datasets en Kaggle aporta una primera práctica con datos reales.
+
+### Módulo 2: Responsabilidad de los datos
+
+La confianza en un análisis depende tanto de la credibilidad de sus fuentes como de la imparcialidad de su recopilación e interpretación. Los criterios ROCCC permiten evaluar fiabilidad, originalidad, cobertura, actualidad y referencias, mientras que el estudio de los sesgos de muestreo, observación, interpretación y confirmación ayuda a detectar conclusiones distorsionadas. La ética exige considerar propiedad, consentimiento, transparencia, uso económico, privacidad y apertura de los datos. La anonimización protege la identidad de las personas, y los datos abiertos favorecen la reutilización y la interoperabilidad cuando sus condiciones de acceso y uso lo permiten. La práctica con datasets de Kaggle refuerza la selección responsable de información.
+
+### Módulo 3: Fundamentos de las bases de datos
+
+Las bases de datos relacionales organizan información en tablas conectadas mediante claves primarias y foráneas; la normalización reduce redundancia y favorece la integridad. Los metadatos describen contenido, estructura, origen y condiciones de acceso y permiten interpretar y reutilizar los datos con contexto. Antes de consultar, es necesario inspeccionar si el conjunto contiene información suficiente y pertinente para el problema. Las actividades enseñan a importar CSV y datos externos, utilizar importaciones dinámicas en Google Sheets y ordenar y filtrar registros. En BigQuery se exploran conjuntos públicos, se cargan tablas propias y se escriben consultas básicas con SELECT, FROM y WHERE, siguiendo buenas prácticas de formato y documentación. La elección entre hojas de cálculo y SQL depende del volumen de datos y del trabajo requerido.
+
+### Módulo 4: Organice y proteja los datos
+
+Una organización compartida facilita encontrar archivos, evita confusiones y reduce errores al reutilizar el trabajo. Las carpetas y subcarpetas deben seguir una jerarquía coherente, y los nombres describir contenido, fecha y versión según convenciones acordadas y documentadas. Archivar archivos antiguos y conservar un historial de cambios ayuda a identificar versiones útiles y recuperar avances. La protección combina permisos de acceso y edición, contraseñas y cifrado según la herramienta y la necesidad de compartir información. El módulo también muestra cómo gestionar privacidad y versiones de notebooks en Kaggle para colaborar y experimentar conservando una versión estable del trabajo.
+
+### Módulo 5: Comprometerse con la comunidad de datos
+
+El desarrollo profesional se apoya en una presencia en línea que muestre proyectos, aprendizajes y logros de forma coherente. Kaggle permite compartir datasets y notebooks, participar en debates y aprender de otros profesionales; los perfiles y portafolios hacen visible ese trabajo a colegas y empleadores. Boletines, comunidades, encuentros, asociaciones, conferencias y seminarios ofrecen oportunidades para ampliar conocimientos y establecer relaciones. La mentoría aporta orientación para tomar decisiones de carrera y definir áreas de especialización. El cierre del curso invita a reflexionar sobre lo aprendido y sitúa la limpieza y el procesamiento de datos como la siguiente etapa del programa.
