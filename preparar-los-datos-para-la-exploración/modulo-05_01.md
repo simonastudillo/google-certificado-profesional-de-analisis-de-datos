@@ -56,3 +56,63 @@ En mi presencia ideal en las Redes sociales como Analista de datos, me gustaría
 
 > ¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una buena reflexión sobre este tema incluiría cómo va a crear su propia presencia en línea basándose en las características de Kaggle o en las de otra plataforma de redes sociales.
 > Hacerse cargo de su presencia en línea y establecer un registro de su duro trabajo es crucial para perfeccionar sus habilidades y conseguir un trabajo como Analista de datos. En el futuro, puede leer los debates que le interesen en Kaggle o en otro foro de Ciencia de datos. Comprométase con ellos añadiendo sus opiniones o haciendo preguntas de seguimiento para mejorar su presencia en línea y aprender nuevas habilidades en materia de datos.
+
+---
+
+## Desarrollar una red
+- En esta lectura, se le presentarán oportunidades en línea y en persona para conectar con otros analistas de datos.
+- Esto forma parte del desarrollo de las relaciones profesionales, que es muy importante cuando estás empezando tu carrera.
+
+- Conexiones en línea
+   - Si pasas unas cuantas horas al día en las Redes sociales, es posible que te sientas totalmente cómodo conectando con otros analistas de datos en línea.
+   - Pero, ¿dónde deberías buscar si no conoces a ningún analista de datos? 
+   - Incluso si no estás en las redes sociales y acabas de crear tu perfil de LinkedIn ayer, puedes utilizar tu presencia en Internet para encontrar y relacionarte con otros analistas de datos. 
+   - Saber dónde buscar es la clave.
+   - He aquí algunas sugerencias sobre dónde empezar en Internet:
+      - Suscripción a boletines como [Data Elixir](https://dataelixir.com/).
+         - Esto no sólo le proporcionará un tesoro de información útil de forma regular, sino que también aprenderá los nombres de expertos en Ciencia de datos a los que puede seguir, o incluso conectar si tiene una buena razón para hacerlo. 
+      - Hackathons (competiciones) como los patrocinados por [Kaggle](https://www.kaggle.com/), una de las mayores comunidades de ciencia de datos y aprendizaje automático del mundo.
+         - Participar en un hackathon puede no ser para todo el mundo.
+         - Pero después de unirse a una comunidad, normalmente se tiene acceso a foros en los que se puede charlar y conectar con otros analistas de datos. 
+      - Meetups, o reuniones en línea que suelen ser locales a tu geografía.
+         - Haz una búsqueda de "Meetups de Ciencia de datos cerca de mí" para ver qué resultados obtienes.
+         - Suele haber un calendario publicado de las próximas reuniones para que puedas asistir virtualmente y conocer a otros analistas de datos.
+         - Obtén más información sobre los [encuentros que se celebran en todo el mundo](https://www.meetup.com/topics/data-analytics/). 
+      - Plataformas como LinkedIn y Twitter.
+         - Busca en cualquiera de ellas hashtags sobre Ciencia de datos o Análisis de datos.
+         - También puedes publicar tus propias preguntas o artículos para generar respuestas y establecer contactos.
+         - En el momento de escribir este artículo, el hashtag #dataanalyst de LinkedIn tenía 11.842 seguidores, el hashtag #dataanalytics tenía 98.412 seguidores y el hashtag #datascience tenía 746.945 seguidores.
+         - Muchos de los mismos hashtags funcionan en Twitter e incluso en Instagram.
+      - Los seminarios web pueden contar con un panel de ponentes y suelen grabarse para facilitar el acceso y la reproducción.
+         - Puedes ver quién forma parte del panel de un webinar y seguirlo.
+         - Además, muchos webinars son gratuitos.
+         - Una opción interesante es la [serie de seminarios web Tableau on Tableau](https://www.tableau.com/learn/series/how-we-do-data).
+         - Descubra cómo Tableau ha utilizado Tableau en sus departamentos internos. 
+
+- Reuniones en persona (offline)
+   - Las reuniones en persona son muy valiosas en un mundo digitalizado.
+   - Son una forma estupenda de conocer gente.
+   - Muchas relaciones en línea comienzan en reuniones presenciales y continúan después de volver a casa.
+   - Muchas organizaciones que patrocinan encuentros anuales también ofrecen reuniones y recursos virtuales durante el resto del año.
+   - Aquí tienes algunas sugerencias para encontrar encuentros presenciales en tu zona:
+      - Las conferencias suelen presentar ideas y temas innovadores.
+         - El coste de las conferencias varía, y algunas son caras.
+         - Pero muchas ofrecen descuentos a estudiantes y otras, como [Women in Analytics](https://womeninanalytics.com/about/), pretenden aumentar el número de grupos infrarrepresentados en este campo.
+         - Las principales empresas de investigación y asesoramiento, como [Gartner](https://emtemp.gcom.cloud/ngw/eventassets/common/conference-calendar/gartner-conference-calendar.pdf), también patrocinan conferencias sobre datos y analítica.
+         - Resulta útil la [lista de KDNuggets de reuniones y eventos en línea sobre IA](https://www.kdnuggets.com/meetings/index.html), analítica, big data, ciencia de datos y aprendizaje automático.
+      - Las asociaciones o sociedades reúnen a sus miembros para promover un campo como la Ciencia de datos.
+         - Muchas son gratuitas.
+         - La [lista de KDNuggets de sociedades y gruposde analítica](https://www.kdnuggets.com/websites/societies.html), minería de datos, ciencia de datos y descubrimiento de conocimientos es útil.
+      - Las comunidades de usuarios y las cumbres ofrecen eventos para usuarios de herramientas de análisis de datos; es una oportunidad para aprender de los mejores.
+         - ¿Has visto la [comunidad Tableau?](https://community.tableau.com/s/)
+      - Organizaciones sin ánimo de lucro que promueven el uso ético de la ciencia de datos y podrían ofrecer eventos para la promoción profesional de sus miembros.
+         - [DataKind](https://data.org/organizations/datakind/) es un ejemplo. 
+
+- Puntos clave
+   - Tus conexiones te ayudarán a aumentar tus conocimientos y habilidades.
+   - Establecer y mantener contactos también es importante para quienes ya trabajan en el campo de la analítica de datos.
+   - Así que busque comunidades en línea que promuevan herramientas de análisis de datos o que hagan avanzar la Ciencia de datos.
+   - Y si están disponibles donde vives, busca encuentros para conectar con más gente cara a cara.
+   - Aprovecha ambas vías para obtener lo mejor de los dos mundos
+   - Es más fácil mantener una conversación e intercambiar información en persona, pero la principal ventaja de las conexiones en línea es que no se limitan al lugar donde vives.
+   - Las comunidades online pueden incluso ponerte en contacto con un público internacional.
