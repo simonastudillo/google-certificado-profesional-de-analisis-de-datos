@@ -47,3 +47,42 @@
 - ​Hablando de currículums, podrás empezar a pensar en cómo crear el ​tuyo propio desde la perspectiva de un analista de datos.
 - ​Una vez que haya terminado aquí, apreciará profundamente los datos limpios y su ​importancia en el proceso de análisis de datos.
 - ​¡Así que empecemos! 
+
+---
+
+## Resumen del curso 4
+- Bienvenido al cuarto curso del programa
+- A medida que avance en el certificado, este curso y los siguientes comenzarán a centrarse más en tareas y proyectos prácticos basados en habilidades.
+- En este curso, aprenderá a limpiar datos comprobando su integridad y corrección.
+- Revisarás una variedad de enfoques para limpiar datos en hojas de cálculo y bases de datos.
+- A continuación, adquirirás conocimientos esenciales para la resolución de problemas que te permitirán corregir cualquier error.
+- Un paso importante en la limpieza de datos es la creación de informes para comunicar a otros los cambios realizados.
+- Sabrá cómo hacerlo para garantizar la exactitud y fiabilidad de los datos.
+- En conjunto, estas habilidades le ayudarán a garantizar el éxito de su análisis de datos.
+
+- Contenido del curso
+   - Módulo 1: La importancia de la integridad
+      - La integridad de los datos es fundamental para el éxito del análisis.
+      - En esta parte del curso, explorará los métodos y pasos que siguen los analistas para comprobar la integridad de sus datos.
+      - Esto incluye saber qué hacer cuando no se dispone de datos suficientes.
+      - También aprenderá qué son las muestras aleatorias y cómo evitar el sesgo de muestreo.
+      - Todos estos métodos también le ayudarán a garantizar el éxito de su análisis.
+   - Módulo 2: Datos limpios para obtener información más precisa
+      - Todo analista de datos desea analizar datos limpios.
+      - En esta parte del curso, aprenderá la diferencia entre datos limpios y sucios.
+      - A continuación, practicará la limpieza de datos en hojas de cálculo y otras herramientas.
+   - Módulo 3: Limpieza de datos con SQL
+      - Conocer diversas formas de limpiar datos puede facilitar mucho el trabajo de un analista de datos.
+      - En esta parte del curso, utilizará SQL para limpiar datos de bases de datos.
+      - En concreto, explorará cómo se pueden utilizar las consultas y funciones SQL para limpiar y transformar los datos antes de un análisis.
+   - Módulo 4: Verificar e informar de los resultados de la limpieza
+      - Cuando se limpian datos, se realizan cambios en el conjunto de datos original.
+      - Es importante verificar que los cambios realizados son correctos y comunicárselos a sus compañeros de equipo.
+      - En esta parte del curso, aprenderá a verificar que los datos están limpios y a informar sobre los resultados de la limpieza de datos.
+      - Con los datos limpios verificados, ¡estás listo para empezar a analizar!
+   - Módulo 5: Añada datos a su currículum
+      - Crear un currículum eficaz te ayudará en tu carrera de analista de datos.
+      - En esta parte del curso, aprenderás todo sobre el proceso de solicitud de empleo.
+      - Te centrarás en crear un currículum que destaque tus puntos fuertes y tu experiencia relevante.
+   - Módulo 6: Resumen del curso
+      - Revisa el glosario del curso y prepárate para el siguiente curso del programa de certificación en análisis de datos de Google.
