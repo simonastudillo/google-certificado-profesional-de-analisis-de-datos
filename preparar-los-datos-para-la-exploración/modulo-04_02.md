@@ -77,3 +77,63 @@
 - Sin el control de versiones, sería muy difícil hacer un seguimiento de quién hizo qué cambios en los archivos y cuándo.
 - Esto daría lugar a confusiones y, lo que es peor, ¡a que la gente sobrescribiera accidentalmente el trabajo de los demás!
 - El Control de versión es esencial para los profesionales del Análisis de datos porque permite a los usuarios colaborar eficazmente con otros y experimentar con nuevas ideas sin miedo a perder su trabajo.
+
+---
+
+## Autorreflexión: Proteja sus Recursos
+
+- Resumen de la actividad
+   - Ahora que ya conoce la importancia de la seguridad de los datos, puede detenerse un momento y reflexionar sobre lo que está aprendiendo.
+   - En esta autorreflexión, reflexionará sobre sus ideas acerca de la privacidad de los datos, la colaboración y el control de versiones y, a continuación, responderá a unas breves preguntas. 
+   - Esta autorreflexión le ayudará a desarrollar perspectivas sobre su propio aprendizaje y le preparará para aplicar sus conocimientos sobre la privacidad de los datos a su experiencia con Kaggle.
+   - Los conocimientos sobre privacidad de los datos que está desarrollando se aplicarán a muchas de las herramientas que utilizará a lo largo de su carrera como profesional del análisis de datos.
+   - Este es un ejemplo de una habilidad transferible: su comprensión de la privacidad de los datos en Kaggle se puede aplicar a otras herramientas en el futuro. 
+   - A medida que responda a las preguntas -e invente sus propias preguntas- tendrá en cuenta conceptos, prácticas y principios que le ayudarán a refinar su comprensión y a reforzar su aprendizaje.
+   - Usted ha hecho el trabajo duro, así que asegúrese de sacarle el máximo partido: ¡Esta reflexión le ayudará a que sus conocimientos se queden grabados!
+
+- Instrucciones paso a paso
+
+1. Mantener la privacidad de los datos
+   - En Kaggle, puede cargar sus propios conjuntos de datos y mantenerlos privados.
+   - Esto significa que sólo son visibles y accesibles por usted.
+   - También tiene la opción de añadir colaboradores a su conjunto de datos, a los que puede añadir como espectadores o editores.
+   - Los espectadores pueden ver su conjunto de datos privado y los editores pueden realizar cambios en él.
+   - Puede compartir el enlace a su Conjunto de datos privado para que cualquiera que tenga el enlace pueda verlo.
+   - Si no desea esta característica,[ puede desactivarla en la pestaña Configuración de su conjunto de datos](https://www.kaggle.com/product-feedback/120243).
+   - Nota: Si tiene un Conjunto de datos privado en Kaggle y decide hacerlo público, no podrá volver a convertirlo en privado.
+   - La única opción que tendría es eliminar el conjunto de datos de Kaggle por completo.
+
+2. Conectar con los colaboradores
+   - Todos los Notebooks que cree en Kaggle son privados por defecto.
+   - Al igual que en los conjuntos de datos, puede añadir colaboradores como visualizadores o editores.
+   - También puede hacer que un notebook sea público, lo que lo compartirá con toda la comunidad Kaggle. 
+   - Si añade colaboradores a su cuaderno Kaggle, podrán realizar cambios en él.
+   - Asegúrese de comunicarse y coordinarse con sus colaboradores porque la última persona que guarde el cuaderno sobrescribirá todo el trabajo anterior.
+   - Si desea un control más preciso de los cambios en su código, un sistema como GitHub proporciona un mayor control de las versiones.
+
+3. Mantener el control de versiones
+   - En cuanto al control de versiones, Kaggle tiene su propio estilo para permitirle guardar registros de su progreso. Puede leer todos los detalles [en este post](https://www.kaggle.com/product-feedback/139884), pero recuerde cuando ha hecho algún trabajo en un cuaderno de Kaggle y ha hecho clic en el botón Guardar versión.
+   - Cuando hizo clic en este botón y luego en Guardar, lo hizo sin cambiar nada.
+   - Pero también tiene la opción de añadir una breve nota descriptiva sobre los cambios que ha realizado.
+   - Esto puede ser útil cuando haya realizado cambios en su cuaderno pero quiera volver a una versión anterior.
+   - Para ello, vaya al modo Edición y haga clic en el número que aparece junto al texto Guardar versión en la parte superior de su cuaderno. 
+   - Esto abrirá una barra de navegación en la parte derecha de la pantalla y listará todas las versiones de su cuaderno.
+   - Cuando haga clic en las diferentes versiones de su cuaderno, la parte izquierda de la pantalla se llenará con el código y el texto de esa versión. 
+   - Desde esta pantalla también puede abrir la versión en modo Visor , anclar una versión como predeterminada o incluso cambiar el nombre de la versión.
+   - Anclar una versión como predeterminada puede ser útil cuando tiene una versión de trabajo de su cuaderno a disposición de la comunidad Kaggle, pero desea realizar cambios y actualizaciones que podrían no funcionar la primera vez que los implemente.
+   - Esto le permite realizar cambios de forma segura entre bastidores mientras comparte con la comunidad de Kaggle la versión de trabajo más reciente de su cuaderno.
+
+- Reflexión
+
+1. Considere lo que ha aprendido sobre la Seguridad de los datos en Kaggle: 
+   - ¿Cuáles son algunos de los casos en los que debería utilizar las funciones de privacidad, colaboración y control de versiones en Kaggle?
+   - ¿Qué otros escenarios se le ocurren en los que podría querer fijar una versión diferente de su Notebook que no sea la versión más reciente?
+   - Ahora, escriba 2-3 frases (40-60 palabras) en respuesta a cada una de estas preguntas.
+
+- Respuestas
+- ¿Cuáles son algunos de los casos en los que debería utilizar las funciones de privacidad, colaboración y control de versiones en Kaggle?
+Debería utilizar las funciones de privacidad, colaboración y control de versiones en Kaggle cuando trabaje con datos sensibles o confidenciales, cuando colabore con otros en un proyecto y necesite coordinar cambios, y cuando quiera mantener un registro de las diferentes versiones de su trabajo para poder revertir a una versión anterior si es necesario.
+- ¿Qué otros escenarios se le ocurren en los que podría querer fijar una versión diferente de su Notebook que no sea la versión más reciente?
+Podría querer fijar una versión diferente de mi Notebook que no sea la versión más reciente si estoy probando nuevas ideas o cambios que podrían no funcionar, si quiero mantener una versión estable para compartir con otros, o si necesito comparar resultados entre diferentes enfoques o métodos utilizados en el análisis de datos.
+> ¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una buena reflexión sobre este tema incluiría cómo y cuándo debería aplicar sus conocimientos sobre la Privacidad de los datos y el Control de versiones cuando trabaje en Kaggle.
+> Comprender cómo mantener la privacidad y registrar su progreso con el control de versiones son habilidades esenciales para los trabajos de analista de datos, en los que a menudo se espera que colabore con otros analistas. Conocer los Estándares de privacidad y cómo garantizar una colaboración eficaz le evitará exponer datos importantes o perder un trabajo precioso. En el futuro, podrá aplicar sus conocimientos sobre Seguridad de los datos a otras plataformas o a sus futuros proyectos.
