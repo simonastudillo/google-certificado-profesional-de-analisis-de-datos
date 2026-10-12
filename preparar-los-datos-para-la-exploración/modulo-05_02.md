@@ -31,3 +31,10 @@
 - ​También aprenderemos a verificar e informar sobre los resultados de la limpieza de datos y, ​si le apetece, a añadir datos a su Currículum.
 - ​Antes de que se vaya, permítame decirle una vez más: ¡fantástico trabajo! Cuando esté listo, ​puede seguir adelante y empezar el siguiente curso.
 - ​Sally estará allí para guiarle a través de él.
+
+---
+
+## A continuación...
+- ¡Enhorabuena por haber completado el tercer curso del Certificado en Google Data Analytics!
+- Para facilitar la continuación del programa, vaya al siguiente curso haciendo clic en este enlace: Procesar datos de sucios a limpios.
+- ¡Sigue trabajando así de bien!
