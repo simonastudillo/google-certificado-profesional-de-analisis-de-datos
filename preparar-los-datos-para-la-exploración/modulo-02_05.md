@@ -35,6 +35,13 @@
    - [ ] Original
 > Buen trabajo
 
+2. Un analista de datos junior de una biblioteca investiga el origen de un conjunto de datos y confirma que fue creado por una universidad acreditada, que es una fuente reputada. Sin embargo, también descubre que se recopiló hace 15 años. ¿Qué aspecto de los buenos datos les falta?
+   - [ ] Citado
+   - [x] Actual
+   - [ ] Confiabilidad
+   - [ ] Original
+> Buen trabajo
+
 3. El gestor de un complejo de apartamentos quiere proteger la información de identificación personal de los inquilinos, como sus direcciones de correo electrónico y números de teléfono. Para ello, pide a su Equipo de Datos que anonimice los datos. ¿Qué técnicas podrían utilizarse para lograr este objetivo? Selecciona todas las que corresponda. 
    - [x] Enmascaramiento 
    - [x] Blanqueo 
@@ -105,6 +112,13 @@
    - [ ] estándares
 > Buen trabajo
 
+7. Rellene el espacio en blanco: El principio ético de los datos de _____ establece que una persona tiene derecho a comprender todas las actividades de procesamiento de datos y los algoritmos utilizados en sus datos.
+   - [x] transparencia de la transacción 
+   - [ ] responsabilidad 
+   - [ ] consentimiento 
+   - [ ] moneda
+> Buen trabajo
+
 8. Una institución financiera publica datos sobre los precios de las acciones y las tendencias del mercado, a los que cualquier empresa, organización sin ánimo de lucro o ciudadano puede acceder, reutilizar o redistribuir a través de sus bases de datos en línea. ¿Qué tipo de datos se describen en este escenario?
    - [x] Apertura 
    - [ ] Permitido 
@@ -138,4 +152,11 @@
    - [ ] Preparar los datos para su análisis por investigadores externos.
    - [ ] Garantizar que los Datos sean fácilmente accesibles para todos los empleados de la organización.
    - [ ] Para reducir el espacio de almacenamiento necesario para los Datos.
+> Buen trabajo
+
+10. La anonimización de datos es una práctica común utilizada para proteger la Información sensible. ¿Cuál de los siguientes tipos de Datos debe ser siempre anonimizado antes de su análisis?
+   - [x] Números de la Seguridad Social y Registros Médicos
+   - [ ] Datos del sitio web sin nombres de usuario.
+   - [ ] Color del pelo y edad de los participantes. 
+   - [ ] Historia de compras de Clientes con categorías.
 > Buen trabajo
