@@ -278,3 +278,45 @@
    - Cuando hay datos limpios y una buena alineación, puede obtener información precisa y llegar a conclusiones que los datos respaldan.
    - Si la alineación es buena, pero los datos necesitan ser depurados, depure los datos antes de realizar el análisis.
    - Si los datos sólo se ajustan parcialmente a un objetivo, piense en cómo podría modificar el objetivo, o utilice limitaciones de datos para asegurarse de que el subconjunto de datos se ajusta mejor al objetivo empresarial.
+
+---
+
+## Ponga a prueba sus conocimientos sobre la integridad de los datos y los objetivos analíticos
+
+1. Rellene el espacio en blanco: Datos _____ implica la exactitud, exhaustividad, coherencia y fiabilidad de los datos a lo largo de su ciclo de vida.
+   - [ ] replicación
+   - [x] integridad
+   - [ ] transferencia
+   - [ ] manipulación
+> La integridad de datos implica la exactitud, exhaustividad, coherencia y fiabilidad de los datos a lo largo de su ciclo de vida.
+
+2. ¿Qué proceso utilizan los analistas de datos para que los datos estén más organizados y sean más fáciles de leer?
+   - [ ] Uniformidad de los datos
+   - [x] Manipulación de datos
+   - [ ] Transferencia de datos
+   - [ ] Replicación de datos
+> Para que los Datos estén más organizados y sean más fáciles de leer, los Analistas de datos utilizan la Manipulación de datos. 
+
+3. Antes del análisis, una empresa recopila datos de países que utilizan formatos de fecha diferentes. ¿Cuál de las siguientes acciones mejoraría la integridad de los datos?
+   - [ ] Deje las fechas en sus formatos actuales 
+   - [ ] Organizar los Datos por países 
+   - [ ] Eliminar datos en un formato de fecha desconocido 
+   - [x] Cambiar todas las fechas al mismo formato
+> Cambiar todas las fechas al mismo formato mejoraría la integridad de los datos.
+
+4. En esta hoja de cálculo, ¿qué problema común de datos aparece en las filas 2 y 7 ?
+
+|   | Primera | Último | CustID |
+| 1 | Douglas | Pool   | 10794  |
+| 2 | Ronnie  | Mazlan | 10351  |
+| 3 | Tonya   | Butcher | 10990 |
+| 4 | Yanni   | Morningside | 10184 |
+| 5 | Eliza   | Fe     | 10212  |
+| 6 | Travis  | Tatien | 10746  |
+| 7 | Ronnie  | Mazlan | 10351  |
+
+   - [ ] Datos insuficientes
+   - [x] Datos duplicados
+   - [ ] Virus de datos
+   - [ ] Fallo del sistema
+> Las filas 2 y 7 contienen Datos duplicados. Esto ocurre cuando la misma información aparece en más de una fila de una tabla de datos.
