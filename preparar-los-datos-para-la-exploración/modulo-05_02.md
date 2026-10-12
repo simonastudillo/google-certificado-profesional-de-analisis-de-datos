@@ -6,3 +6,8 @@
 - Amplíe sus conocimientos uniéndose a la conversación.
 - El aprendizaje es más gratificante cuando se forma parte de una comunidad de apoyo.
 - Como recordatorio, puedes ponerte en contacto con otros estudiantes accediendo a la comunidad de Google Data Analytics para debatir sobre el contenido del curso y ampliar tu red de contactos.
+
+---
+
+## Glosario del curso 3
+- El glosario completo se encuentra [aquí](./README.md#glosario)
