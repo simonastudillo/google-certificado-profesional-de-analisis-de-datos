@@ -116,3 +116,22 @@ En mi presencia ideal en las Redes sociales como Analista de datos, me gustaría
    - Aprovecha ambas vías para obtener lo mejor de los dos mundos
    - Es más fácil mantener una conversación e intercambiar información en persona, pero la principal ventaja de las conexiones en línea es que no se limitan al lugar donde vives.
    - Las comunidades online pueden incluso ponerte en contacto con un público internacional.
+
+---
+
+## Rachel: Los mentores son la clave
+- Hola, mi nombre es Rachel y soy ​la directora de análisis y sistemas empresariales de Verily.
+- ​He tenido la suerte de contar con ​algunos mentores realmente geniales a lo ​largo de mi carrera, y no puedo ​enfatizar lo suficiente lo importante que es tener a alguien ​de tu lado mientras navegas por ​los diferentes entresijos de tu carrera.
+- ​Para mí, he tenido algunos mentores maravillosos que ​me han guiado a través de ​algunas decisiones profesionales ​muy difíciles, desde el principio.
+- ​Mi primer mentor fue un profesor en la escuela, ​y este profesor me dio consejos maravillosos sobre ​cómo perseguir mis sueños ​y cómo apoyarme en lo que me interesaba.
+- ​Creo que es muy importante ​contar también con grandes mentores en el trabajo.
+- ​Mi mentor me ayuda a ​entender todos los entresijos de mi organización, a ​veces todos los entresijos de la política, ​y también me ayuda a tomar decisiones sobre qué hacer a continuación.
+
+- ​Es bueno tener un mentor ​que esté fuera de lo que está sucediendo, ​pero también es muy bueno tener a veces ​un mentor que comprenda el entorno.
+- ​Me pongo al día con mi mentor con regularidad ​solo para ponerme en contacto, ​solo para ver cómo estamos ​, para mantener una relación, ​pero específicamente ​programaré tiempo con mi mentor cuando esté luchando con ​algún tipo de pregunta difícil o cuando ​se acerca un momento crucial.
+- ​Por ejemplo, he mantenido excelentes conversaciones con ​mi mentora sobre si realmente me baso ​en el aspecto financiero de mi carrera o ​si quiero apoyarme en el ​lado de la TI y el lado del sistema, ​y ayudarme a tomar algunas de esas decisiones sobre dónde ​concentrarme y en qué tomar algunas clases, en ​qué continuar ​con la educación y dónde apoyarme en los próximos proyectos.
+- ​Hablar de eso con alguien ​realmente me ha ayudado a dar ​sentido a algunos pensamientos confusos ​y a decidir hacia dónde ir a continuación.
+- ​Creo que lo más importante que debes ​buscar en un mentor es ​alguien ​con quien te lleves bien y en quien confíes.
+- ​Se trata de una persona a la que vas a acudir para tomar ​algunas de las decisiones potencialmente más difíciles de tu carrera, en ​busca de ​orientación, ayuda y apoyo.
+- ​Mis mentores más exitosos, ​las relaciones de mentoría más exitosas que he ​tenido, han sido con personas ​cercanas a mí personal o ​profesionalmente y en las que confío y ​con las que me siento cómodo compartiendo pensamientos potencialmente profundos ​y muchos ​detalles potencialmente delicados sobre lo que pienso, ​lo que estoy pasando y lo que quiero, ​para que puedan ayudarme a ​entender eso y a decidir qué hacer.
+- ​Ahora me encanta ​poder devolverlo y compartir parte de la sabiduría ​que he aprendido de mis mentores y de ​algunas de las experiencias que he tenido en ​mi carrera y ayudar a compartirla ​con otra persona para que pueda tomar algunas de ​sus mismas decisiones ​y algunas de esas mismas situaciones y, con ​suerte, aprender de algunas de ​mis experiencias y algunos de mis errores, ​y ayudar a pagar eso es lo ​realmente emocionante de ser mentora.
