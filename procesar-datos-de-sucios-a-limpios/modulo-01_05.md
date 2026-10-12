@@ -110,3 +110,35 @@
    - El margen de error le ayuda a comprender e interpretar los resultados de encuestas o pruebas en la vida real.
    - Calcular el margen de error es especialmente útil cuando le dan los datos para analizar.
    - Después de utilizar una calculadora para calcular el margen de error, sabrá cuánto pueden diferir los resultados de la muestra de los resultados de toda la población. 
+
+---
+
+## Ponga a prueba sus conocimientos sobre el Margen de error
+
+1. Rellene el espacio en blanco: Margen de error es la _____ cantidad que se espera que difieran los resultados de la muestra de los de la población real. 
+   - [ ] mediana
+   - [ ] promedio
+   - [ ] mínimo
+   - [x] máximo
+> Margen de error es la cantidad máxima que se espera que difieran los resultados de la muestra de los de la población real. 
+
+2. ¿Qué elementos son necesarios para calcular el Margen de error? Seleccione todos los que correspondan.
+   - [ ] Cálculo de la media 
+   - [x] Tamaño de la Muestra
+   - [x] Tamaño de la población
+   - [x] Nivel de confianza
+> Para calcular el Margen de error, necesita el tamaño de la Población, el tamaño de la Muestra y el Nivel de confianza.
+
+3. En una Encuesta sobre un nuevo producto de jardinería, el 80% de los encuestados responden que volverían a comprar el producto. El Margen de error de la Encuesta es del 5%. Basándose en ese margen de error, ¿qué Rango refleja la verdadera respuesta de la población? 
+   - [x] 75-85%
+   - [ ] 73-78%
+   - [ ] 70-80%
+   - [ ] 75-80%
+> Basándose en el margen de error, un Rango del 75-85% reflejaría con exactitud la verdadera respuesta de la población.
+
+4. En una encuesta sobre la satisfacción de los empleados, el 60% de los encuestados afirman que prefieren desplazarse al trabajo en tren. El Margen de error de la Encuesta es del 4%. Basándose en ese margen de error, ¿qué Rango refleja la verdadera respuesta de la población?
+   - [ ] 46-54%
+   - [ ] 64-68%
+   - [x] 56-64%
+   - [ ] 50-60%
+> Basándose en el margen de error, un Rango de 56-64% reflejaría fielmente la verdadera respuesta de la población.
