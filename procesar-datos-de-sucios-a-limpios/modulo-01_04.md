@@ -196,3 +196,35 @@
    - Si está trabajando con una Encuesta, también tendrá que pensar en la tasa de respuesta estimada para calcular cuántas encuestas tendrá que enviar.
    - Por ejemplo, si necesita un tamaño de muestra de 100 individuos y su tasa de respuesta estimada es del 10%, tendrá que enviar su encuesta a 1.000 individuos para obtener las 100 respuestas que necesita para su análisis.
    - Ahora que ya tiene las nociones básicas, pruebe a hacer algunos cálculos con las calculadoras del tamaño de la muestra y vuelva a consultar esta lectura si necesita refrescar las definiciones.
+
+---
+
+## Ponga a prueba sus Conocimientos sobre la comprobación de sus Datos
+
+1. Rellene el espacio en blanco: El Testeo de hipótesis es una forma de ver si una Encuesta o experimento tiene _____ resultados.
+   - [x] significativo
+   - [ ] insuficiente
+   - [ ] al azar
+   - [ ] probable
+> Testeo de hipótesis es una forma de ver si una Encuesta o experimento tiene resultados significativos.
+
+2. Un Equipo de investigación lleva a cabo un experimento para determinar si una nueva herramienta de ciberseguridad es más eficaz que la versión anterior. ¿Qué tipo de resultados se requieren para que el experimento sea estadísticamente significativo?
+   - [ ] Resultados que son inexactos y deben ignorarse
+   - [ ] Resultados que son hipotéticos y necesitan más pruebas
+   - [x] Resultados reales y no causados por el azar 
+   - [ ] Resultados que es poco probable que se repitan
+> Para que un experimento sea estadísticamente significativo, los resultados deben ser reales y no debidos al azar.
+
+3. Para tener un alto nivel de confianza en una Encuesta a clientes, ¿qué debe reflejar con exactitud el tamaño de la muestra?
+   - [ ] Los miembros más valiosos de la población
+   - [x] Toda la población
+   - [ ] Predicciones de las partes interesadas
+   - [ ] Las tendencias de anteriores encuestas a clientes
+> Para tener un alto nivel de confianza en una Encuesta de clientes, el tamaño de la muestra debe reflejar con exactitud toda la población.
+
+4. Rellene el espacio en blanco: Normalmente, un profesional de los Datos pretende alcanzar un Poder estadístico de al menos _____ para considerar sus resultados estadísticamente significativos.
+   - [x] 0.8, o el 80
+   - [ ] 0.1, o 10%
+   - [ ] 1, o 100%
+   - [ ] 0.6, o 60%
+> Normalmente, un profesional de los datos pretende alcanzar una potencia estadística de al menos 0,8, es decir, un 80% para considerar sus resultados estadísticamente significativos.
