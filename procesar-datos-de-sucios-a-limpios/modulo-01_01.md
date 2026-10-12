@@ -86,3 +86,17 @@
       - Te centrarás en crear un currículum que destaque tus puntos fuertes y tu experiencia relevante.
    - Módulo 6: Resumen del curso
       - Revisa el glosario del curso y prepárate para el siguiente curso del programa de certificación en análisis de datos de Google.
+
+---
+
+## Recursos y consejos útiles
+- Hábitos saludables para completar con éxito el certificado
+   - Planifique su tiempo
+   - Trabaje a su propio ritmo
+   - Sé curioso
+   - Sigue a los instructores
+   - Toma notas
+   - Revisar ejemplos
+   - Construye tu identidad profesional
+   - Conéctate con otros estudiantes
+   - Actualiza tu perfil
