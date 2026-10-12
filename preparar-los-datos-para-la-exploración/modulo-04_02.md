@@ -137,3 +137,35 @@ Debería utilizar las funciones de privacidad, colaboración y control de versio
 Podría querer fijar una versión diferente de mi Notebook que no sea la versión más reciente si estoy probando nuevas ideas o cambios que podrían no funcionar, si quiero mantener una versión estable para compartir con otros, o si necesito comparar resultados entre diferentes enfoques o métodos utilizados en el análisis de datos.
 > ¡Gran trabajo de refuerzo de su aprendizaje con una autorreflexión reflexiva! Una buena reflexión sobre este tema incluiría cómo y cuándo debería aplicar sus conocimientos sobre la Privacidad de los datos y el Control de versiones cuando trabaje en Kaggle.
 > Comprender cómo mantener la privacidad y registrar su progreso con el control de versiones son habilidades esenciales para los trabajos de analista de datos, en los que a menudo se espera que colabore con otros analistas. Conocer los Estándares de privacidad y cómo garantizar una colaboración eficaz le evitará exponer datos importantes o perder un trabajo precioso. En el futuro, podrá aplicar sus conocimientos sobre Seguridad de los datos a otras plataformas o a sus futuros proyectos.
+
+---
+
+## Ponga a prueba sus conocimientos sobre la seguridad de los Datos
+
+1. Rellene el espacio en blanco: La Seguridad de los datos implica la adopción de _____ para proteger los datos de accesos no autorizados o de la corrupción. 
+   - [ ] procedimientos de plegado
+   - [ ] validación de datos
+   - [ ] estrategia de metadatos
+   - [x] medidas de seguridad
+> La Seguridad de los datos implica la adopción de medidas de seguridad para proteger los datos de accesos no autorizados o de la corrupción. 
+
+2. ¿Qué medida de seguridad de los datos utiliza un algoritmo único para alterar los datos y hacerlos inaccesibles sin el algoritmo?
+   - [ ] Autenticación de IA
+   - [ ] Pestañas ocultas
+   - [x] Encriptación
+   - [ ] Protección por contraseña
+> El cifrado utiliza un algoritmo único para alterar los Datos y hacerlos inaccesibles sin el algoritmo. 
+
+3. Cuando se utiliza la Tokenización como medida de seguridad, ¿qué se sustituye como testigo generado aleatoriamente?
+   - [ ] La línea de código de una consulta
+   - [ ] Historia de búsqueda del usuario
+   - [ ] La ubicación del usuario
+   - [x] Elementos de datos que deben protegerse
+> Cuando se utiliza la tokenización como medida de seguridad, los elementos de datos que deben protegerse se sustituyen por un token generado aleatoriamente.
+
+4. ¿Qué práctica de seguridad de los datos permite a todos los colaboradores de un archivo hacer un seguimiento de los cambios, como quién hizo qué ediciones en el archivo, cuándo se hicieron y por qué?
+   - [ ] Plegado
+   - [ ] Protección por contraseña
+   - [x] Control de versión
+   - [ ] Autenticación
+> El Control de versión permite a todos los colaboradores de un archivo hacer un seguimiento de los cambios, como quién hizo qué ediciones en el archivo, cuándo se hicieron y por qué.
